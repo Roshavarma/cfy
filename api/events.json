@@ -3222,9 +3222,9 @@
       },
       "streamUrls": [
         {
-          "api": "20c2d7ead10beb5a3a10ef13e95459a3:e3141f63f4fe35b0ee97ebf882ab64fe",
+          "api": "2862e90987556d928c55bb1f40daeef9:bbd4a5907266d06050a9a9ad9a7260d8",
           "id": 1,
-          "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/dj1km6b6es/out/v1/19df13cc1d8847e984b2ead17006a44f/cenc.mpd",
+          "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/of7vhryawe/out/v1/92b65dcbe0744834a5a425e7222bf8d9/cenc.mpd",
           "title": "WILLOW - AQ",
           "type": "7",
           "webLink": null
@@ -3233,7 +3233,7 @@
           "api": "",
           "id": 1,
           "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=8Q-Mt7GTaRI2Eo9LNZ9mrg&e=2081082141|user-agent=Mozilla",
-          "title": "SKY CRICKET",
+          "title": "SKY CRICKET - AQ",
           "type": "0",
           "webLink": null
         },
@@ -3248,7 +3248,31 @@
         {
           "api": "",
           "id": 1,
-          "link": "http://193.47.62.59/hls/hyhyhyhy.m3u8|referer=http://www.fawanews.sc/",
+          "link": "https://cdn9859.shop/skymainevent.m3u8",
+          "title": "SKY MAIN EVENT",
+          "type": "0",
+          "webLink": null
+        },
+        {
+          "api": "",
+          "id": 1,
+          "link": "https://cdn9859.shop/skynz2.m3u8",
+          "title": "SKY SPORT NZ",
+          "type": "0",
+          "webLink": null
+        },
+        {
+          "api": "",
+          "id": 1,
+          "link": "https://cdn9859.shop/skycricket.m3u8",
+          "title": "SKY CRICKET HD",
+          "type": "0",
+          "webLink": null
+        },
+        {
+          "api": "",
+          "id": 1,
+          "link": "http://193.47.62.41/hls/BHHHAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
           "title": "LOW SERVER",
           "type": "0",
           "webLink": null
@@ -3277,9 +3301,9 @@
       },
       "streamUrls": [
         {
-          "api": "c4088f5f265f9de50cffd80bf89308b7:2c4d2239d96d532b4ec2050653611003",
+          "api": "e51aa21f2a0fef9aabc120dfb655b52f:a12a987fe725a40b6be95cd84b15f689",
           "id": 1,
-          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/h9urpo3cwb/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd",
+          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/7janu55dwc/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
           "title": "TSN SPORTS - AQ",
           "type": "7",
           "webLink": null
@@ -3293,22 +3317,6 @@
           "webLink": null
         },
         {
-          "api": "1223d5105392cabf1bb9c2c1fdf6539a:340b409f4b8f78a343e0363a7938df38",
-          "id": 1,
-          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/iayg0kyrof/out/v1/91dc04907f56415b897faccfa9d252da/cenc.mpd",
-          "title": "CAZE TV - AQ",
-          "type": "7",
-          "webLink": null
-        },
-        {
-          "api": "4bbcff3289d457b4dd5dbdd21221de9a:c4906b9a9f8dda3c0725bddb8c497733",
-          "id": 1,
-          "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd",
-          "title": "SporTV BR - AQ",
-          "type": "7",
-          "webLink": null
-        },
-        {
           "api": "ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1",
           "id": 1,
           "link": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd",
@@ -3317,9 +3325,17 @@
           "webLink": null
         },
         {
+          "api": "1223d5105392cabf1bb9c2c1fdf6539a:340b409f4b8f78a343e0363a7938df38",
+          "id": 1,
+          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/iayg0kyrof/out/v1/91dc04907f56415b897faccfa9d252da/cenc.mpd",
+          "title": "CAZE TV - AQ",
+          "type": "7",
+          "webLink": null
+        },
+        {
           "api": "",
           "id": 1,
-          "link": "https://chatgpt.hereisman.net/playlist/51863/load-playlist?|Referer=https://gooz.aapmains.net/",
+          "link": "https://chatgpt.hereisman.net/playlist/51893/load-playlist?|Referer=https://gooz.aapmains.net",
           "title": "Live 1",
           "type": "0",
           "webLink": null
@@ -3333,18 +3349,18 @@
           "webLink": null
         },
         {
-          "api": "1710ac2bbfcd3032d0f6533850968f47:d2548dacc8efcd1cd0af0373060c82dc",
+          "api": "4bbcff3289d457b4dd5dbdd21221de9a:c4906b9a9f8dda3c0725bddb8c497733",
           "id": 1,
-          "link": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/8u9cregwlt/out/v1/687f6b2a559943549be271504a948ffd/cenc.mpd",
-          "title": "TUDN ESPANOL",
+          "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd",
+          "title": "SporTV BR - AQ",
           "type": "7",
           "webLink": null
         },
         {
-          "api": "fd86dde0ae3e14ff51c8fc8f248a50db:d106ae78b0893da2e4393ece99420baa",
+          "api": "1710ac2bbfcd3032d0f6533850968f47:d2548dacc8efcd1cd0af0373060c82dc",
           "id": 1,
-          "link": "https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/62qdkefv9f/out/v1/f7d5b356e048494a8325563e8916d50b/cenc.mpd",
-          "title": "RTVE SPANISH",
+          "link": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/8u9cregwlt/out/v1/687f6b2a559943549be271504a948ffd/cenc.mpd",
+          "title": "TUDN ESPANOL",
           "type": "7",
           "webLink": null
         },
@@ -3365,19 +3381,43 @@
           "webLink": null
         },
         {
-          "api": "d185684e2330de5bea436daa094a5e86:014f0116154f5bf0050e03a6b0a23157",
-          "id": 1,
-          "link": "https://abkyrm4aaaaaaaamfyfksth3wr44v.ta.bia-cf.live.pv-cdn.net/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/8pold5zo8d/out/v1/3079be34d72a4985852d299a02406a0c/28324097-db6b-4d20-b965-8f775b050595-cenc.mpd",
-          "title": "CRAVE - AQ",
-          "type": "7",
-          "webLink": null
-        },
-        {
           "api": "",
           "id": 1,
           "link": "https://livecdn-tc-livestream.rumsport10.live/stream/2/chunks.m3u8?is_vip=false&token=1781285452-Kv4cPTAAP5YTi-37675787d18d134a218f85601f931d3bc44a036c-f6c527fdfcd7c42629a5dc53721c9103|referer=https://iframe.rumsport10.live/",
           "title": "HD SERVER",
           "type": "0",
+          "webLink": null
+        },
+        {
+          "api": "",
+          "id": 1,
+          "link": "https://raw.githubusercontent.com/ON2026/1smas/refs/heads/main/mx1app2.m3u8",
+          "title": "beiN MAX HD",
+          "type": "0",
+          "webLink": null
+        },
+        {
+          "api": "f5c2b30eac11be1e8cdfc9585f5fe6af:a8198d17bf9b0da77450fbb919a38b2d",
+          "id": 1,
+          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/lzhmuzmjsl/out/v1/c171eeb214c749f2b351c79df317b21e/cenc.mpd",
+          "title": "TSN 3 - AQ",
+          "type": "7",
+          "webLink": null
+        },
+        {
+          "api": "c4088f5f265f9de50cffd80bf89308b7:2c4d2239d96d532b4ec2050653611003",
+          "id": 1,
+          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/h9urpo3cwb/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd",
+          "title": "TSN 4 - AQ",
+          "type": "7",
+          "webLink": null
+        },
+        {
+          "api": "adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a",
+          "id": 1,
+          "link": "https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/dash/.mpd",
+          "title": "TIPIK FRENCH - AQ",
+          "type": "7",
           "webLink": null
         }
       ]
@@ -3897,6 +3937,99 @@
         "teamAFlag": "https://img.sofascore.com/api/v1/team/3634/image",
         "teamB": "Cubs",
         "teamBFlag": "https://img.sofascore.com/api/v1/team/3627/image"
+      },
+      "streamUrls": [
+        {
+          "api": "",
+          "id": 1,
+          "link": "ok",
+          "title": "Live 1",
+          "type": "0",
+          "webLink": null
+        }
+      ]
+    },
+    {
+      "id": "10192",
+      "title": "Scotland Women vs Ireland Women",
+      "slug": "scotland-women-vs-ireland-women",
+      "image": "null",
+      "category": "Cricket",
+      "publish": "1",
+      "eventInfo": {
+        "endTime": "2026/06/13 12:40:00 +0000",
+        "eventCat": "Cricket",
+        "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/11183/image",
+        "eventName": "Cricket",
+        "eventType": "ICC Women's T20 World Cup, Group 2",
+        "isHot": "0",
+        "startTime": "2026/06/13 09:30:00 +0000",
+        "teamA": "Scotland Women",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/453162/image",
+        "teamB": "Ireland Women",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/213116/image"
+      },
+      "streamUrls": [
+        {
+          "api": "",
+          "id": 1,
+          "link": "ok",
+          "title": "Live 1",
+          "type": "0",
+          "webLink": null
+        }
+      ]
+    },
+    {
+      "id": "10193",
+      "title": "Australia Women vs South Africa Women",
+      "slug": "australia-women-vs-south-africa-women",
+      "image": "null",
+      "category": "Cricket",
+      "publish": "1",
+      "eventInfo": {
+        "endTime": "2026/06/13 16:40:00 +0000",
+        "eventCat": "Cricket",
+        "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/11183/image",
+        "eventName": "Cricket",
+        "eventType": "ICC Women's T20 World Cup, Group 1",
+        "isHot": "0",
+        "startTime": "2026/06/13 13:30:00 +0000",
+        "teamA": "Australia Women",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/213117/image",
+        "teamB": "South Africa Women",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/213118/image"
+      },
+      "streamUrls": [
+        {
+          "api": "",
+          "id": 1,
+          "link": "ok",
+          "title": "Live 1",
+          "type": "0",
+          "webLink": null
+        }
+      ]
+    },
+    {
+      "id": "10194",
+      "title": "West Indies Women vs New Zealand Women",
+      "slug": "west-indies-women-vs-new-zealand-women",
+      "image": "null",
+      "category": "Cricket",
+      "publish": "1",
+      "eventInfo": {
+        "endTime": "2026/06/13 20:40:00 +0000",
+        "eventCat": "Cricket",
+        "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/11183/image",
+        "eventName": "Cricket",
+        "eventType": "ICC Women's T20 World Cup, Group 2",
+        "isHot": "0",
+        "startTime": "2026/06/13 17:30:00 +0000",
+        "teamA": "West Indies Women",
+        "teamAFlag": "https://img.sofascore.com/api/v1/team/213120/image",
+        "teamB": "New Zealand Women",
+        "teamBFlag": "https://img.sofascore.com/api/v1/team/213115/image"
       },
       "streamUrls": [
         {
