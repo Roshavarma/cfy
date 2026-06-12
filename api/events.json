@@ -1,0 +1,3424 @@
+{
+  "status": "ok",
+  "data": [
+    {
+      "id": "591",
+      "title": "Formula 1",
+      "slug": "formula-1",
+      "image": "nulln",
+      "category": "Live Events",
+      "publish": "1",
+      "eventInfo": {
+        "teamA": "Formula 1",
+        "teamB": "",
+        "teamAFlag": "https://www.sofascore.com/static/images/tournaments/world-cup-2026-logo.webp",
+        "teamBFlag": "https://www.sofascore.com/static/images/tournaments/world-cup-2026-logo.webp",
+        "eventCat": "Live Events",
+        "eventName": "Formula 1",
+        "eventType": "Live Events",
+        "eventLogo": "https://www.sofascore.com/static/images/tournaments/world-cup-2026-logo.webp",
+        "isHot": 0,
+        "startTime": "",
+        "endTime": ""
+      },
+      "streamUrls": [
+        {
+          "api": "e853333da2c9196ea11374634231bc45:de2e2dbe818d78dfad07d6cd9a4c63d4",
+          "id": 1,
+          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/jkcljgqbx8/out/v1/63bfa701559340f3a2a2cb1fccd24807/cenc.mpd",
+          "title": "TSN SPORTS - AQ",
+          "type": "7",
+          "webLink": null
+        },
+        {
+          "api": "7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe",
+          "id": 0,
+          "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
+          "title": "FANCODE - AQ",
+          "type": "7",
+          "webLink": null
+        },
+        {
+          "api": "6695688f79dc36f7a41f7db13bff5aca:22ef689af2162aefbf745cba2adb4fe9",
+          "id": 1,
+          "link": "https://simplitv-live.mdn.ors.at/live/eds/sky_sport_f1_hd/dash/sky_sport_f1_hd.mpd",
+          "title": "SKY SPORTS DE",
+          "type": "7",
+          "webLink": null
+        },
+        {
+          "api": "",
+          "id": 1,
+          "link": "https://chatgpt.hereisman.net/playlist/51586/load-playlist?|Referer=https://gooz.aapmains.net",
+          "title": "Live 1",
+          "type": "0",
+          "webLink": null
+        },
+        {
+          "api": "",
+          "id": 1,
+          "link": "https://mainstreams.pro/hls/hbfkazbkaznc49.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+          "title": "SKY SPORTS HD",
+          "type": "0",
+          "webLink": null
+        },
+        {
+          "api": "69021095220f3c0eae9bc24215fd692b:eb58cfe0458ed0b48f7351fa3393ad59",
+          "id": 1,
+          "link": "https://r.e.blueonline.tv/l/tvsmart/live/eds/Eleven_Sport_1/DHD/Manifest.mpd",
+          "title": "ELEVEN SPORTS",
+          "type": "7",
+          "webLink": null
+        },
+        {
+          "api": "",
+          "id": 1,
+          "link": "https://instreams.pro/bil2/skyf1de/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click",
+          "title": "Sky F1 DE",
+          "type": "0",
+          "webLink": null
+        },
+        {
+          "api": "",
+          "id": 1,
+          "link": "https://601.thelistener.pk/main.m3u8",
+          "title": "SKY MAIN EVENT",
+          "type": "0",
+          "webLink": null
+        },
+        {
+          "api": "",
+          "id": 1,
+          "link": "https://601.sandhost.qzz.io/italy.m3u8",
+          "title": "SKY SPORTS IT",
+          "type": "0",
+          "webLink": null
+        }
+      ]
+    },
+    {
+      "id": "866",
+      "title": "Motogp",
+      "slug": "motogp",
+      "image": "null",
+      "category": "Motorsport",
+      "publish": "1",
+      "eventInfo": {
+        "teamA": "Motogp",
+        "teamB": "",
+        "teamAFlag": "https://www.sofascore.com/static/images/tournaments/formula-1-logo.webp",
+        "teamBFlag": "https://www.sofascore.com/static/images/tournaments/world-cup-2026-logo.webp",
+        "eventCat": "Motorsport",
+        "eventName": "Motogp",
+        "eventType": "Motorsport",
+        "eventLogo": "https://www.sofascore.com/static/images/tournaments/formula-1-logo.webp",
+        "isHot": 1,
+        "startTime": "",
+        "endTime": ""
+      },
+      "streamUrls": [
+        {
+          "api": "0b59ce06de74ed84f2eda5e81dadba13:48e4ba4ad6c2a60d2bda5d71a0050844",
+          "id": 1,
+          "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/3j04z3pbit/out/v1/042ee0757ed348bf8c26f75895cae871/cenc.mpd",
+          "title": "TNT SPORTS - AQ",
+          "type": "7",
+          "webLink": null
+        },
+        {
+          "api": "e03f302ec4dabcccca82cc9f76731ec9:53ea1027d2bf2893a552cf15bc0366de",
+          "id": 1,
+          "link": "https://otte.cache.aiv-cdn.net/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/tsahgfupjt/out/v1/8197c8e055c94a868623653ac55c10bf/137cd3c3-d598-4662-b1f1-3de9f7cfb0e9-cenc.mpd",
+          "title": "MOTOGP - AQ",
+          "type": "7",
+          "webLink": null
+        },
+        {
+          "api": "",
+          "id": 1,
+          "link": "https://xstm.250909.cc/live/SPORTSFLUX-PRD-76753-1/4a7a4af09781/1034.m3u8",
+          "title": "TNT SPORTS HD",
+          "type": "0",
+          "webLink": null
+        },
+        {
+          "api": "",
+          "id": 1,
+          "link": "https://smarthard.click/hls/w93sLKtkQf0Y/index.m3u8",
+          "title": "SKY SPORTS DE",
+          "type": "0",
+          "webLink": null
+        },
+        {
+          "api": "4dbea4b5713a4aa1ae3a2544cd522fc7:a8323ea99b2d6200a48e1bc27322d548",
+          "id": 24,
+          "link": "https://mag02.tvx.prd.tv.odido.nl/wh7f454c46tw407556707_-381738111/PLTV/86/224/3221241511/3221241511.mpd?accountinfo=~~V2.0~yVi0dMX4icO5Ka9e92EQfg8812e1c1044f7d357066472e3ee99ef4~2dRB9E-vDtoAbYl169LbcJpxUgWVJtbeU_PlhGfNUflphvljOb5VaEhxruETYG9qcccaf5c5b655bf7504ed7ec5a1dd798f:UTC,",
+          "title": "ZIGGO SPORT ",
+          "type": "7",
+          "webLink": null
+        },
+        {
+          "api": "",
+          "id": 1,
+          "link": "https://instreams.pro/bil1/motogpfr/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click",
+          "title": "DAZN SPORTS HD",
+          "type": "0",
+          "webLink": null
+        },
+        {
+          "api": "",
+          "id": 1,
+          "link": "https://instreams.pro/bil1/motogpen/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click",
+          "title": "TNT SPORTS SD",
+          "type": "0",
+          "webLink": null
+        },
+        {
+          "api": "065051b99bf5cf8d9a3bde5cbde6aaf9:214bd176832872339ce184338320f9a2",
+          "id": -1,
+          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
+          "title": "FANCODE - AQ",
+          "type": "7",
+          "webLink": null
+        }
+      ]
+    },
+    {
+      "id": "1089",
+      "title": "SmackDown",
+      "slug": "smackdown",
+      "image": "null",
+      "category": "WWE & Combat",
+      "publish": "1",
+      "eventInfo": {
+        "teamA": "SmackDown",
+        "teamB": "",
+        "teamAFlag": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/WWE_Logo.svg/2243px-WWE_Logo.svg.png",
+        "teamBFlag": "https://www.sofascore.com/static/images/tournaments/world-cup-2026-logo.webp",
+        "eventCat": "WWE & Combat",
+        "eventName": "SmackDown",
+        "eventType": "WWE & Combat",
+        "eventLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/WWE_Logo.svg/2243px-WWE_Logo.svg.png",
+        "isHot": 0,
+        "startTime": "",
+        "endTime": ""
+      },
+      "streamUrls": [
+        {
+          "api": "",
+          "id": 1,
+          "link": "https://you.loreofeldenring.site/dailymotion/live/playlist/1.m3u8",
+          "title": "WWE LIVE HD",
+          "type": "0",
+          "webLink": null
+        },
+        {
+          "api": "",
+          "id": 1,
+          "link": "http://193.47.62.44/hls/RGREGREQZ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+          "title": "FAST SERVER",
+          "type": "0",
+          "webLink": null
+        },
+        {
+          "api": "",
+          "id": 17,
+          "link": "https://26hrwgorfcmh.windows-devs.top/AccessLog2/83_FHD/apache.m3u8|Referer=https://26hrwgorfcmh.windows-devs.top/",
+          "title": "Live 1",
+          "type": "0",
+          "webLink": null
+        },
+        {
+          "api": "",
+          "id": 1,
+          "link": "https://android-database1.firebase-api.com/AccessLog2/108085_HD/apache.m3u8|Referer=https://android-database1.firebase-api.com",
+          "title": "Live 2",
+          "type": "0",
+          "webLink": null
+        },
+        {
+          "api": "",
+          "id": 1,
+          "link": "https://26hrwgorfcmh.windows-devs.top/AccessLog2/108085_HD/apache.m3u8|referer=https://26hrwgorfcmh.windows-devs.top/",
+          "title": "HD SERVER",
+          "type": "0",
+          "webLink": null
+        }
+      ]
+    },
+    {
+      "id": "1090",
+      "title": "WWE Raw",
+      "slug": "wwe-raw",
+      "image": "null",
+      "category": "WWE & Combat",
+      "publish": "1",
+      "eventInfo": {
+        "teamA": "WWE Raw",
+        "teamB": "",
+        "teamAFlag": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/WWE_Logo.svg/2243px-WWE_Logo.svg.png",
+        "teamBFlag": "https://www.sofascore.com/static/images/tournaments/world-cup-2026-logo.webp",
+        "eventCat": "WWE & Combat",
+        "eventName": "WWE Raw",
+        "eventType": "WWE & Combat",
+        "eventLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/WWE_Logo.svg/2243px-WWE_Logo.svg.png",
+        "isHot": 1,
+        "startTime": "",
+        "endTime": ""
+      },
+      "streamUrls": [
+        {
+          "api": "",
+          "id": 1,
+          "link": "https://libgen.loreofeldenring.site/dailymotion/live/playlist/1.m3u8",
+          "title": "WWE RAW LIVE",
+          "type": "0",
+          "webLink": null
+        },
+        {
+          "api": "",
+          "id": 1,
+          "link": "https://chatgpt.hereisman.net/playlist/51178/load-playlist?|Referer=https://gooz.aapmains.net",
+          "title": "BACKUP RAW",
+          "type": "0",
+          "webLink": null
+        },
+        {
+          "api": "",
+          "id": 1,
+          "link": "https://26hrwgorfcmh.windows-devs.top/AccessLog2/83_FHD/apache.m3u8|Referer=https://26hrwgorfcmh.windows-devs.top/",
+          "title": "Live 1",
+          "type": "0",
+          "webLink": null
+        },
+        {
+          "api": "",
+          "id": 0,
+          "link": "https://android-database1.firebase-api.com/AccessLog2/108085_SD/apache.m3u8|Referer=https://android-database1.firebase-api.com",
+          "title": "SD SERVER",
+          "type": "0",
+          "webLink": null
+        },
+        {
+          "api": "",
+          "id": 1,
+          "link": "https://26hrwgorfcmh.windows-devs.top/AccessLog2/108085_HD/apache.m3u8|referer=https://26hrwgorfcmh.windows-devs.top/",
+          "title": "HD SERVER",
+          "type": "0",
+          "webLink": null
+        }
+      ]
+    },
+    {
+      "id": "1091",
+      "title": "WWE NXT",
+      "slug": "wwe-nxt",
+      "image": "null",
+      "category": "WWE & Combat",
+      "publish": "1",
+      "eventInfo": {
+        "teamA": "WWE NXT",
+        "teamB": "",
+        "teamAFlag": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/WWE_Logo.svg/2243px-WWE_Logo.svg.png",
+        "teamBFlag": "https://www.sofascore.com/static/images/tournaments/world-cup-2026-logo.webp",
+        "eventCat": "WWE & Combat",
+        "eventName": "WWE NXT",
+        "eventType": "WWE & Combat",
+        "eventLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/WWE_Logo.svg/2243px-WWE_Logo.svg.png",
+        "isHot": 1,
+        "startTime": "",
+        "endTime": ""
+      },
+      "streamUrls": [
+        {
+          "api": "",
+          "id": 0,
+          "link": "https://26hrwgorfcmh.windows-devs.top/AccessLog2/108085_HD/apache.m3u8|referer=https://26hrwgorfcmh.windows-devs.top/",
+          "title": "Server 1",
+          "type": "0",
+          "webLink": null
+        },
+        {
+          "api": "",
+          "id": 0,
+          "link": "https://26hrwgorfcmh.windows-devs.top/AccessLog2/83_FHD/apache.m3u8|Referer=https://26hrwgorfcmh.windows-devs.top/",
+          "title": "Server 2",
+          "type": "0",
+          "webLink": null
+        },
+        {
+          "api": "",
+          "id": 1,
+          "link": "https://android-database1.firebase-api.com/AccessLog2/108085_SD/apache.m3u8|Referer=https://android-database1.firebase-api.com",
+          "title": "Server 3",
+          "type": "0",
+          "webLink": null
+        }
+      ]
+    },
+    {
+      "id": "8963",
+      "title": "UFC LIVE",
+      "slug": "ufc-live",
+      "image": "null",
+      "category": "WWE & Combat",
+      "publish": "1",
+      "eventInfo": {
+        "teamA": "UFC LIVE",
+        "teamB": "",
+        "teamAFlag": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/WWE_Logo.svg/2243px-WWE_Logo.svg.png",
+        "teamBFlag": "https://www.sofascore.com/static/images/tournaments/world-cup-2026-logo.webp",
+        "eventCat": "WWE & Combat",
+        "eventName": "UFC LIVE",
+        "eventType": "WWE & Combat",
+        "eventLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/WWE_Logo.svg/2243px-WWE_Logo.svg.png",
+        "isHot": 0,
+        "startTime": "",
+        "endTime": ""
+      },
+      "streamUrls": [
+        {
+          "api": "1480f4c3150a56346b67c5e3d6a74f5e:93f2b718e99e3ed23fb6b2ebadb4aa53",
+          "id": 1,
+          "link": "https://abkyrm4aaaaaaaamfyfksth3wr44v.ta.bia-cf.live.pv-cdn.net/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/uqa93agat3/out/v1/3532f4ef2c6c4a52b2d65ac021c90dad/8443d64d-9080-4276-bce6-4a5c5fa0eb90-cenc.mpd",
+          "title": "PARAMOUNT+ - AQ",
+          "type": "7",
+          "webLink": null
+        },
+        {
+          "api": "a286f895b141f327cd96df51f2a7a9aa:f73ae0203248d4598b07b578c82cbce5",
+          "id": 1,
+          "link": "https://abkyrm4aaaaaaaamfyfksth3wr44v.ta.bia-cf.live.pv-cdn.net/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/kb1d8ietu9/out/v1/7cf9fb73f6d340339d497d2b0621c495/5e34da14-4bfe-4796-b90c-1b106315bab1-cenc.mpd",
+          "title": "PARAMOUNT+ BR",
+          "type": "7",
+          "webLink": null
+        },
+        {
+          "api": "",
+          "id": 1,
+          "link": "https://cdn9859.shop/tntsports1.m3u8",
+          "title": "TNT SPORTS HD",
+          "type": "0",
+          "webLink": null
+        },
+        {
+          "api": "",
+          "id": 1,
+          "link": "https://chatgpt.hereisman.net/playlist/51697/load-playlist?|Referer=https://gooz.aapmains.net",
+          "title": "PARAMOUNT+ HD",
+          "type": "0",
+          "webLink": null
+        },
+        {
+          "api": "",
+          "id": 1,
+          "link": "https://image-storage-31.imgcontent.xyz/live/ufc-fight-night-muhammad-vs-bonfim/index.m3u8",
+          "title": "CBS SPORTS HD",
+          "type": "0",
+          "webLink": null
+        },
+        {
+          "api": "",
+          "id": 1,
+          "link": "https://mainstreams.pro/hls/zeuryuegn48.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz&Origin=https://streamcenter.xyz",
+          "title": "HD SERVER",
+          "type": "0",
+          "webLink": null
+        },
+        {
+          "api": "",
+          "id": 1,
+          "link": "https://t7.ultrastream.vip/sporttv1/index.m3u8?|Referer=https://foottime.top/",
+          "title": "Sport TV HD",
+          "type": "0",
+          "webLink": null
+        },
+        {
+          "api": "a49085f8da5e65af1efff0edac830b1f:4659bc58a85c062e3fe0c039a446fe47",
+          "id": 1,
+          "link": "https://a122aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/8mxwjnh2te/out/v1/356704796c0c4bed81f67cd3518d0c8a/cenc.mpd",
+          "title": "UFC+ - AQ",
+          "type": "7",
+          "webLink": null
+        }
+      ]
+    },
+    {
+      "id": "9944",
+      "title": "West Indies vs Sri Lanka",
+      "slug": "west-indies-vs-sri-lanka",
+      "image": "",
+      "category": "Cricket",
+      "publish": "1",
+      "eventInfo": {
+        "teamA": "West Indies",
+        "teamB": "Sri Lanka",
+        "teamAFlag": "https://www.sofascore.com/static/images/flags/west-indies.png",
+        "teamBFlag": "https://www.sofascore.com/static/images/flags/sri-lanka.png",
+        "eventCat": "Cricket",
+        "eventName": "West Indies vs Sri Lanka",
+        "eventType": "Cricket Duel",
+        "eventLogo": "https://www.sofascore.com/static/images/flags/west-indies.png",
+        "isHot": 0,
+        "startTime": "",
+        "endTime": ""
+      },
+      "streamUrls": [
+        {
+          "api": "e6b07ce99d782b87ecb6d59271803cfa:484b67b5c7a9e216048d1f96d463d35b",
+          "id": 1,
+          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/jhqjttghwl/out/v1/75d406c64f6141e7bbcf379d6643af54/cenc.mpd",
+          "title": "WILLOW - AQ",
+          "type": "7",
+          "webLink": null
+        },
+        {
+          "api": "d14658a0ede94debcb4013b2056ba6d1:60838a3176127fed0eaf038a5575de11",
+          "id": 1,
+          "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vaplpo3app/out/v1/49b4d538ec854efa90d45084866cf7f9/cenc.mpd",
+          "title": "TNT SPORTS - AQ",
+          "type": "7",
+          "webLink": null
+        },
+        {
+          "api": "7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe",
+          "id": 1,
+          "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
+          "title": "FANCODE - AQ",
+          "type": "7",
+          "webLink": null
+        },
+        {
+          "api": "5f0ce56ebbdcaa6ab687b1746036e98f:85b2e9953e010505c630eb2444a743c0",
+          "id": 1,
+          "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/nhtl1yc0sl/out/v1/09c9713cd76d4d3682d2ce8543372c88/cenc-sd.mpd",
+          "title": "WILLOW - LQ",
+          "type": "7",
+          "webLink": null
+        },
+        {
+          "api": "",
+          "id": 1,
+          "link": "https://xstm.250909.cc/live/SPORTSFLUX-POOL-d337053a29/e45af0ddd607/1036.m3u8",
+          "title": "TNT SPORTS HD",
+          "type": "0",
+          "webLink": null
+        },
+        {
+          "api": "709c812e1b4174002605df1d17d34a4c:0bbee6c9c20a0f065bf8369d54cbf83e",
+          "id": 1,
+          "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/qddnwqthpp/out/v1/6c25cddab58043a6ace0ac64d97983f0/cenc-sd.mpd",
+          "title": "FANCODE - LQ",
+          "type": "7",
+          "webLink": null
+        },
+        {
+          "api": "",
+          "id": 1,
+          "link": "https://cdn9859.shop/willoweng.m3u8",
+          "title": "WILLOW HD",
+          "type": "0",
+          "webLink": null
+        }
+      ]
+    },
+    {
+      "id": "9954",
+      "title": "England vs New Zealand",
+      "slug": "england-vs-new-zealand",
+      "image": "",
+      "category": "Cricket",
+      "publish": "1",
+      "eventInfo": {
+        "teamA": "England",
+        "teamB": "New Zealand",
+        "teamAFlag": "https://www.sofascore.com/static/images/flags/england.png",
+        "teamBFlag": "https://www.sofascore.com/static/images/flags/new-zealand.png",
+        "eventCat": "Cricket",
+        "eventName": "England vs New Zealand",
+        "eventType": "Cricket Duel",
+        "eventLogo": "https://www.sofascore.com/static/images/flags/england.png",
+        "isHot": 0,
+        "startTime": "",
+        "endTime": ""
+      },
+      "streamUrls": [
+        {
+          "api": "81f0262e5a1b7c382ba1114e4ad061eb:824d4e6bf5bb20818f449d9628668ede",
+          "id": 1,
+          "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/7cafnduuey/out/v1/d4802616af6f42e091f768d43b451d20/cenc.mpd",
+          "title": "WILLOW - AQ",
+          "type": "7",
+          "webLink": null
+        },
+        {
+          "api": "81f0262e5a1b7c382ba1114e4ad061eb:824d4e6bf5bb20818f449d9628668ede",
+          "id": 1,
+          "link": "https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/7cafnduuey/out/v1/d4802616af6f42e091f768d43b451d20/cenc.mpd",
+          "title": "WILLOW - ALT",
+          "type": "7",
+          "webLink": null
+        },
+        {
+          "api": "",
+          "id": 1,
+          "link": "https://cdn9859.shop/skynz1.m3u8",
+          "title": "SKY SPORT NZ",
+          "type": "0",
+          "webLink": null
+        },
+        {
+          "api": "",
+          "id": 1,
+          "link": "https://cdn9859.shop/foxcricket.m3u8",
+          "title": "FOX CRICKET HD",
+          "type": "0",
+          "webLink": null
+        },
+        {
+          "api": "",
+          "id": 1,
+          "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla",
+          "title": "SKY CRICKET HD",
+          "type": "0",
+          "webLink": null
+        },
+        {
+          "api": "",
+          "id": 1,
+          "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/20000297/criclive0706/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=1d5e9ae5f9e4477a807614f878d94d3c-1780824600132",
+          "title": "SonyLiv",
+          "type": "0",
+          "webLink": null
+        },
+        {
+          "api": "",
+          "id": 1,
+          "link": "http://193.47.62.42/hls/nnnn.m3u8|Referer=http://www.fawanews.sc/",
+          "title": "SD SERVER",
+          "type": "0",
+          "webLink": null
+        }
+      ]
+    },
+    {
+      "id": "9964",
+      "title": "India vs Afghanistan",
+      "slug": "india-vs-afghanistan",
+      "image": "",
+      "category": "Cricket",
+      "publish": "1",
+      "eventInfo": {
+        "teamA": "India",
+        "teamB": "Afghanistan",
+        "teamAFlag": "https://www.sofascore.com/static/images/flags/india.png",
+        "teamBFlag": "https://www.sofascore.com/static/images/flags/afghanistan.png",
+        "eventCat": "Cricket",
+        "eventName": "India vs Afghanistan",
+        "eventType": "Cricket Duel",
+        "eventLogo": "https://www.sofascore.com/static/images/flags/india.png",
+        "isHot": 0,
+        "startTime": "",
+        "endTime": ""
+      },
+      "streamUrls": [
+        {
+          "api": "c1a959ddeedd4ffc6083f09d10445802:849993446d5264fc6990abfbd944b990",
+          "id": 1,
+          "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/iimfmxjgxd/out/v1/4f4b7ae3ba0c4c43b03f21a31c5e71f2/cenc.mpd",
+          "title": "WILLOW - AQ",
+          "type": "7",
+          "webLink": null
+        },
+        {
+          "api": "d14658a0ede94debcb4013b2056ba6d1:60838a3176127fed0eaf038a5575de11",
+          "id": 1,
+          "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vaplpo3app/out/v1/49b4d538ec854efa90d45084866cf7f9/cenc.mpd",
+          "title": "TNT SPORTS - AQ",
+          "type": "7",
+          "webLink": null
+        },
+        {
+          "api": "a9477e30b220d92a3bfa426bbf62b1fd:4f112b9c5ec1edbd6a93c5e7f1385a33",
+          "id": 1,
+          "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/fffpudtfxr/out/v1/49b90c7f9f7640829fbd664039980768/cenc-sd.mpd",
+          "title": "WILLOW - LQ",
+          "type": "7",
+          "webLink": null
+        },
+        {
+          "api": "",
+          "id": 1,
+          "link": "https://cdn9859.shop/tntsports1.m3u8",
+          "title": "TNT SPORTS HD",
+          "type": "0",
+          "webLink": null
+        },
+        {
+          "api": "",
+          "id": 1,
+          "link": "https://cdn9859.shop/foxcricket.m3u8",
+          "title": "FOX CRICKET HD",
+          "type": "0",
+          "webLink": null
+        },
+        {
+          "api": "",
+          "id": 1,
+          "link": "https://tvsen7.aynaott.com/ssport2hd/index.m3u8",
+          "title": "START SPORTS HD",
+          "type": "0",
+          "webLink": null
+        },
+        {
+          "api": "",
+          "id": 1,
+          "link": "http://193.47.62.59/hls/EEEE.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+          "title": "SD SERVER",
+          "type": "0",
+          "webLink": null
+        },
+        {
+          "api": "9dacc80134404c34ba184022c28d0000:982183fb4d9449c995859b7cff512092",
+          "id": 1,
+          "link": "https://livetv.hotstar.com/mp2/gec-india-1540065785/a00717b1324f45eb814eec9e48a12db8/index.mpd?",
+          "title": "HOTSTAR HD",
+          "type": "7",
+          "webLink": null
+        }
+      ]
+    },
+    {
+      "id": "10029",
+      "title": "Bangladesh vs Australia",
+      "slug": "bangladesh-vs-australia",
+      "image": "",
+      "category": "Cricket",
+      "publish": "1",
+      "eventInfo": {
+        "teamA": "Bangladesh",
+        "teamB": "Australia",
+        "teamAFlag": "https://www.sofascore.com/static/images/flags/bangladesh.png",
+        "teamBFlag": "https://www.sofascore.com/static/images/flags/australia.png",
+        "eventCat": "Cricket",
+        "eventName": "Bangladesh vs Australia",
+        "eventType": "Cricket Duel",
+        "eventLogo": "https://www.sofascore.com/static/images/flags/bangladesh.png",
+        "isHot": 0,
+        "startTime": "",
+        "endTime": ""
+      },
+      "streamUrls": [
+        {
+          "api": "6533caaa83becafb78d9d04589e03d3e:8545a6ba4560da78f2f34f7393913fb9",
+          "id": 1,
+          "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/gilgmkgjpm/out/v1/f3abf1b2f3fb497ba7207eb19d8b692b/cenc.mpd",
+          "title": "WILLOW - AQ",
+          "type": "7",
+          "webLink": null
+        },
+        {
+          "api": "0b59ce06de74ed84f2eda5e81dadba13:48e4ba4ad6c2a60d2bda5d71a0050844",
+          "id": 1,
+          "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/3j04z3pbit/out/v1/042ee0757ed348bf8c26f75895cae871/cenc.mpd",
+          "title": "TNT SPORTS - AQ",
+          "type": "7",
+          "webLink": null
+        },
+        {
+          "api": "a2b04e262f023cf59a2226dff375b3be:5455b5b5f804c34e2324a1bed24f9da0",
+          "id": 1,
+          "link": "https://a57live-pv-ta-amazon.akamaized.net/iad-nitro/live/clients/dash/enc/jpt6zpxrd8/out/v1/2a70f9d752d245849a8492ad81a8bf3c/cenc.mpd",
+          "title": "WILLOW ALT",
+          "type": "7",
+          "webLink": null
+        },
+        {
+          "api": "065051b99bf5cf8d9a3bde5cbde6aaf9:214bd176832872339ce184338320f9a2",
+          "id": 1,
+          "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
+          "title": "FANCODE - AQ",
+          "type": "7",
+          "webLink": null
+        },
+        {
+          "api": "",
+          "id": 1,
+          "link": "https://tvsen7.aynaott.com/tsportsfhd/index.m3u8",
+          "title": "T SPORTS HD",
+          "type": "0",
+          "webLink": null
+        },
+        {
+          "api": "",
+          "id": 1,
+          "link": "https://xstm.250909.cc/live/SPORTSFLUX-PRD-76753-1/4a7a4af09781/1034.m3u8",
+          "title": "TNT SPORTS HD",
+          "type": "0",
+          "webLink": null
+        },
+        {
+          "api": "",
+          "id": 1,
+          "link": "https://fncd.kuvuslov.cymru/mumbai/142966_english_hls_e0fd10311f63666_1ta-di_h264/index.m3u8|origin=https://famcodexwebs.pages.dev",
+          "title": "Live 1",
+          "type": "0",
+          "webLink": null
+        }
+      ]
+    },
+    {
+      "id": "10032",
+      "title": "Canada vs BiH",
+      "slug": "canada-vs-bih",
+      "image": "null",
+      "category": "Cricket",
+      "publish": "1",
+      "eventInfo": {
+        "teamA": "Canada",
+        "teamB": "BiH",
+        "teamAFlag": "https://www.sofascore.com/static/images/flags/canada.png",
+        "teamBFlag": "https://www.sofascore.com/static/images/flags/bih.png",
+        "eventCat": "Cricket",
+        "eventName": "Canada vs BiH",
+        "eventType": "Cricket Duel",
+        "eventLogo": "https://www.sofascore.com/static/images/flags/canada.png",
+        "isHot": 0,
+        "startTime": "",
+        "endTime": ""
+      },
+      "streamUrls": [
+        {
+          "api": "ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1",
+          "id": 1,
+          "link": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd",
+          "title": "TELEMUNDO - AQ",
+          "type": "7",
+          "webLink": null
+        },
+        {
+          "api": "a7d11d37a1f7611ee88d4db880171f32:68f96d618b0b956b008c445896a25a79",
+          "id": 1,
+          "link": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ubehitlwzo/out/v1/8e09c381a51f4366a19e979418112e8f/cenc.mpd",
+          "title": "D SPORTS - AQ",
+          "type": "7",
+          "webLink": null
+        },
+        {
+          "api": "2a8c2d5088377f51f825d871e568be19:eb5a8db64ca1992389672edb9447c711",
+          "id": 1,
+          "link": "https://nog-live-ott.izzigo.tv/out/u/dash/CDMX1/CANAL-5-RDF-HD/default.mpd",
+          "title": "CANAL SPORTS - AQ",
+          "type": "7",
+          "webLink": null
+        },
+        {
+          "api": "c1a0ac1044a433d0856ccdc08f245084:7f0e8800a6d63d7915ac181bb88ce813",
+          "id": 1,
+          "link": "https://simplitv-live.mdn.ors.at/live/eds/zdf_hd/dash4h/zdf_hd.mpd",
+          "title": "ZDF GERMAN HD",
+          "type": "7",
+          "webLink": null
+        },
+        {
+          "api": "429bcf031bbf3146a67f3f583e4c4355:d1b92aba5a38a518c8b8a1fd2bca4398",
+          "id": 1,
+          "link": "https://simplitv-live.mdn.ors.at/live/eds/orf_1_hd-1/dash4h/orf_1_hd-1.mpd",
+          "title": "ORF GERMAN HD",
+          "type": "7",
+          "webLink": null
+        },
+        {
+          "api": "893bc63340876605f52886a42e0ccce5:d6c46d2d691056fbd091bf1f01b21a91",
+          "id": 1,
+          "link": "https://live.vrtcdn.be/groupd/live/0761024f-37fe-4254-bc37-e95d7c62b2d1/live.isml/.mpd",
+          "title": "VRT DUTCH - AQ",
+          "type": "7",
+          "webLink": null
+        },
+        {
+          "api": "",
+          "id": 1,
+          "link": "https://ilglobotv-live.akamaized.net/channels/RAI1/Live.m3u8",
+          "title": "RAI ITALY - AQ",
+          "type": "0",
+          "webLink": null
+        },
+        {
+          "api": "43513b13f4b542e39c9265921dfc1726:b0b2678bcd274c37b888a6c987d502ed",
+          "id": 1,
+          "link": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinema/default/manifest.mpd",
+          "title": "ZEE5 HINDI - AQ",
+          "type": "7",
+          "webLink": null
+        },
+        {
+          "api": "fbbfd9ce4bbe4d818b16df7dfe89f05b:1e96d0f88ef740e982d6f6105721c8bc",
+          "id": 1,
+          "link": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglacinema/default/manifest.mpd",
+          "title": "ZEE5 BANGLA - AQ",
+          "type": "7",
+          "webLink": null
+        },
+        {
+          "api": "",
+          "id": 1,
+          "link": "https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8",
+          "title": "CAZE TV HD",
+          "type": "0",
+          "webLink": null
+        },
+        {
+          "api": "",
+          "id": 1,
+          "link": "https://t7.ultrastream.vip/sporttv1/index.m3u8?|Referer=https://foottime.top/",
+          "title": "Sport TV HD",
+          "type": "0",
+          "webLink": null
+        },
+        {
+          "api": "e51aa21f2a0fef9aabc120dfb655b52f:a12a987fe725a40b6be95cd84b15f689",
+          "id": 1,
+          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/7janu55dwc/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
+          "title": "TSN SPORTS - AQ",
+          "type": "7",
+          "webLink": null
+        },
+        {
+          "api": "f5c2b30eac11be1e8cdfc9585f5fe6af:a8198d17bf9b0da77450fbb919a38b2d",
+          "id": 1,
+          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/lzhmuzmjsl/out/v1/c171eeb214c749f2b351c79df317b21e/cenc.mpd",
+          "title": "TSN SPORTS 3 - AQ",
+          "type": "7",
+          "webLink": null
+        },
+        {
+          "api": "e853333da2c9196ea11374634231bc45:de2e2dbe818d78dfad07d6cd9a4c63d4",
+          "id": 1,
+          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/jkcljgqbx8/out/v1/63bfa701559340f3a2a2cb1fccd24807/cenc.mpd",
+          "title": "TSN SPORTS 5 - AQ",
+          "type": "7",
+          "webLink": null
+        }
+      ]
+    },
+    {
+      "id": "10033",
+      "title": "USA vs Paraguay",
+      "slug": "usa-vs-paraguay",
+      "image": "null",
+      "category": "Cricket",
+      "publish": "1",
+      "eventInfo": {
+        "teamA": "USA",
+        "teamB": "Paraguay",
+        "teamAFlag": "https://www.sofascore.com/static/images/flags/usa.png",
+        "teamBFlag": "https://www.sofascore.com/static/images/flags/paraguay.png",
+        "eventCat": "Cricket",
+        "eventName": "USA vs Paraguay",
+        "eventType": "Cricket Duel",
+        "eventLogo": "https://www.sofascore.com/static/images/flags/usa.png",
+        "isHot": 0,
+        "startTime": "",
+        "endTime": ""
+      },
+      "streamUrls": [
+        {
+          "api": "ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1",
+          "id": 1,
+          "link": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd",
+          "title": "TELEMUNDO - AQ",
+          "type": "7",
+          "webLink": null
+        },
+        {
+          "api": "2a8c2d5088377f51f825d871e568be19:eb5a8db64ca1992389672edb9447c711",
+          "id": 1,
+          "link": "https://nog-live-ott.izzigo.tv/out/u/dash/CDMX1/CANAL-5-RDF-HD/default.mpd",
+          "title": "CANAL SPORTS - AQ",
+          "type": "7",
+          "webLink": null
+        },
+        {
+          "api": "a7d11d37a1f7611ee88d4db880171f32:68f96d618b0b956b008c445896a25a79",
+          "id": 1,
+          "link": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ubehitlwzo/out/v1/8e09c381a51f4366a19e979418112e8f/cenc.mpd",
+          "title": "D SPORTS - AQ",
+          "type": "7",
+          "webLink": null
+        },
+        {
+          "api": "43513b13f4b542e39c9265921dfc1726:b0b2678bcd274c37b888a6c987d502ed",
+          "id": 1,
+          "link": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinema/default/manifest.mpd",
+          "title": "ZEE5 HINDI - AQ",
+          "type": "7",
+          "webLink": null
+        },
+        {
+          "api": "fbbfd9ce4bbe4d818b16df7dfe89f05b:1e96d0f88ef740e982d6f6105721c8bc",
+          "id": 1,
+          "link": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglacinema/default/manifest.mpd",
+          "title": "ZEE5 BANGLA - AQ",
+          "type": "7",
+          "webLink": null
+        },
+        {
+          "api": "c1a0ac1044a433d0856ccdc08f245084:7f0e8800a6d63d7915ac181bb88ce813",
+          "id": 1,
+          "link": "https://simplitv-live.mdn.ors.at/live/eds/zdf_hd/dash4h/zdf_hd.mpd",
+          "title": "ZDF GERMAN HD",
+          "type": "7",
+          "webLink": null
+        },
+        {
+          "api": "429bcf031bbf3146a67f3f583e4c4355:d1b92aba5a38a518c8b8a1fd2bca4398",
+          "id": 1,
+          "link": "https://simplitv-live.mdn.ors.at/live/eds/orf_1_hd-1/dash4h/orf_1_hd-1.mpd",
+          "title": "ORF GERMAN HD",
+          "type": "7",
+          "webLink": null
+        },
+        {
+          "api": "893bc63340876605f52886a42e0ccce5:d6c46d2d691056fbd091bf1f01b21a91",
+          "id": 1,
+          "link": "https://live.vrtcdn.be/groupd/live/0761024f-37fe-4254-bc37-e95d7c62b2d1/live.isml/.mpd",
+          "title": "VRT DUTCH - AQ",
+          "type": "7",
+          "webLink": null
+        },
+        {
+          "api": "",
+          "id": 1,
+          "link": "https://ilglobotv-live.akamaized.net/channels/RAI1/Live.m3u8",
+          "title": "RAI ITALY - AQ",
+          "type": "0",
+          "webLink": null
+        },
+        {
+          "api": "",
+          "id": 1,
+          "link": "https://t7.ultrastream.vip/sporttv5/index.m3u8?|Referer=https://foottime.top/",
+          "title": "Sport TV HD",
+          "type": "0",
+          "webLink": null
+        },
+        {
+          "api": "",
+          "id": 1,
+          "link": "https://t7.ultrastream.vip/sporttv1/index.m3u8?|Referer=https://foottime.top/",
+          "title": "Sport TV 1 HD",
+          "type": "0",
+          "webLink": null
+        }
+      ]
+    },
+    {
+      "id": "10034",
+      "title": "Qatar vs Switzerland",
+      "slug": "qatar-vs-switzerland",
+      "image": "null",
+      "category": "Cricket",
+      "publish": "1",
+      "eventInfo": {
+        "teamA": "Qatar",
+        "teamB": "Switzerland",
+        "teamAFlag": "https://www.sofascore.com/static/images/flags/qatar.png",
+        "teamBFlag": "https://www.sofascore.com/static/images/flags/switzerland.png",
+        "eventCat": "Cricket",
+        "eventName": "Qatar vs Switzerland",
+        "eventType": "Cricket Duel",
+        "eventLogo": "https://www.sofascore.com/static/images/flags/qatar.png",
+        "isHot": 0,
+        "startTime": "",
+        "endTime": ""
+      },
+      "streamUrls": [
+        {
+          "api": "",
+          "id": 1,
+          "link": "ok",
+          "title": "ok",
+          "type": "0",
+          "webLink": null
+        }
+      ]
+    },
+    {
+      "id": "10035",
+      "title": "Brazil vs Morocco",
+      "slug": "brazil-vs-morocco",
+      "image": "null",
+      "category": "Cricket",
+      "publish": "1",
+      "eventInfo": {
+        "teamA": "Brazil",
+        "teamB": "Morocco",
+        "teamAFlag": "https://www.sofascore.com/static/images/flags/brazil.png",
+        "teamBFlag": "https://www.sofascore.com/static/images/flags/morocco.png",
+        "eventCat": "Cricket",
+        "eventName": "Brazil vs Morocco",
+        "eventType": "Cricket Duel",
+        "eventLogo": "https://www.sofascore.com/static/images/flags/brazil.png",
+        "isHot": 0,
+        "startTime": "",
+        "endTime": ""
+      },
+      "streamUrls": [
+        {
+          "api": "",
+          "id": 1,
+          "link": "ok",
+          "title": "ok",
+          "type": "0",
+          "webLink": null
+        }
+      ]
+    },
+    {
+      "id": "10036",
+      "title": "Haiti vs Scotland",
+      "slug": "haiti-vs-scotland",
+      "image": "null",
+      "category": "Cricket",
+      "publish": "1",
+      "eventInfo": {
+        "teamA": "Haiti",
+        "teamB": "Scotland",
+        "teamAFlag": "https://www.sofascore.com/static/images/flags/haiti.png",
+        "teamBFlag": "https://www.sofascore.com/static/images/flags/scotland.png",
+        "eventCat": "Cricket",
+        "eventName": "Haiti vs Scotland",
+        "eventType": "Cricket Duel",
+        "eventLogo": "https://www.sofascore.com/static/images/flags/haiti.png",
+        "isHot": 0,
+        "startTime": "",
+        "endTime": ""
+      },
+      "streamUrls": [
+        {
+          "api": "",
+          "id": 1,
+          "link": "ok",
+          "title": "ok",
+          "type": "0",
+          "webLink": null
+        }
+      ]
+    },
+    {
+      "id": "10037",
+      "title": "Australia vs Turkiye",
+      "slug": "australia-vs-turkiye",
+      "image": "null",
+      "category": "Cricket",
+      "publish": "1",
+      "eventInfo": {
+        "teamA": "Australia",
+        "teamB": "Turkiye",
+        "teamAFlag": "https://www.sofascore.com/static/images/flags/australia.png",
+        "teamBFlag": "https://www.sofascore.com/static/images/flags/turkiye.png",
+        "eventCat": "Cricket",
+        "eventName": "Australia vs Turkiye",
+        "eventType": "Cricket Duel",
+        "eventLogo": "https://www.sofascore.com/static/images/flags/australia.png",
+        "isHot": 0,
+        "startTime": "",
+        "endTime": ""
+      },
+      "streamUrls": [
+        {
+          "api": "",
+          "id": 1,
+          "link": "ok",
+          "title": "ok",
+          "type": "0",
+          "webLink": null
+        }
+      ]
+    },
+    {
+      "id": "10038",
+      "title": "Germany vs Curacao",
+      "slug": "germany-vs-curacao",
+      "image": "null",
+      "category": "Cricket",
+      "publish": "1",
+      "eventInfo": {
+        "teamA": "Germany",
+        "teamB": "Curacao",
+        "teamAFlag": "https://www.sofascore.com/static/images/flags/germany.png",
+        "teamBFlag": "https://www.sofascore.com/static/images/flags/curacao.png",
+        "eventCat": "Cricket",
+        "eventName": "Germany vs Curacao",
+        "eventType": "Cricket Duel",
+        "eventLogo": "https://www.sofascore.com/static/images/flags/germany.png",
+        "isHot": 0,
+        "startTime": "",
+        "endTime": ""
+      },
+      "streamUrls": [
+        {
+          "api": "",
+          "id": 1,
+          "link": "ok",
+          "title": "ok",
+          "type": "0",
+          "webLink": null
+        }
+      ]
+    },
+    {
+      "id": "10039",
+      "title": "Netherlands vs Japan",
+      "slug": "netherlands-vs-japan",
+      "image": "null",
+      "category": "Cricket",
+      "publish": "1",
+      "eventInfo": {
+        "teamA": "Netherlands",
+        "teamB": "Japan",
+        "teamAFlag": "https://www.sofascore.com/static/images/flags/netherlands.png",
+        "teamBFlag": "https://www.sofascore.com/static/images/flags/japan.png",
+        "eventCat": "Cricket",
+        "eventName": "Netherlands vs Japan",
+        "eventType": "Cricket Duel",
+        "eventLogo": "https://www.sofascore.com/static/images/flags/netherlands.png",
+        "isHot": 0,
+        "startTime": "",
+        "endTime": ""
+      },
+      "streamUrls": [
+        {
+          "api": "",
+          "id": 1,
+          "link": "ok",
+          "title": "Live 1",
+          "type": "0",
+          "webLink": null
+        }
+      ]
+    },
+    {
+      "id": "10040",
+      "title": "Cote dIvoire vs Ecuador",
+      "slug": "cote-divoire-vs-ecuador",
+      "image": "null",
+      "category": "Cricket",
+      "publish": "1",
+      "eventInfo": {
+        "teamA": "Cote dIvoire",
+        "teamB": "Ecuador",
+        "teamAFlag": "https://www.sofascore.com/static/images/flags/cote-divoire.png",
+        "teamBFlag": "https://www.sofascore.com/static/images/flags/ecuador.png",
+        "eventCat": "Cricket",
+        "eventName": "Cote dIvoire vs Ecuador",
+        "eventType": "Cricket Duel",
+        "eventLogo": "https://www.sofascore.com/static/images/flags/cote-divoire.png",
+        "isHot": 0,
+        "startTime": "",
+        "endTime": ""
+      },
+      "streamUrls": [
+        {
+          "api": "",
+          "id": 1,
+          "link": "ok",
+          "title": "Live 1",
+          "type": "0",
+          "webLink": null
+        }
+      ]
+    },
+    {
+      "id": "10041",
+      "title": "Sweden vs Tunisia",
+      "slug": "sweden-vs-tunisia",
+      "image": "null",
+      "category": "Cricket",
+      "publish": "1",
+      "eventInfo": {
+        "teamA": "Sweden",
+        "teamB": "Tunisia",
+        "teamAFlag": "https://www.sofascore.com/static/images/flags/sweden.png",
+        "teamBFlag": "https://www.sofascore.com/static/images/flags/tunisia.png",
+        "eventCat": "Cricket",
+        "eventName": "Sweden vs Tunisia",
+        "eventType": "Cricket Duel",
+        "eventLogo": "https://www.sofascore.com/static/images/flags/sweden.png",
+        "isHot": 0,
+        "startTime": "",
+        "endTime": ""
+      },
+      "streamUrls": [
+        {
+          "api": "",
+          "id": 1,
+          "link": "ok",
+          "title": "Live 1",
+          "type": "0",
+          "webLink": null
+        }
+      ]
+    },
+    {
+      "id": "10042",
+      "title": "Spain vs Cape Verde",
+      "slug": "spain-vs-cape-verde",
+      "image": "null",
+      "category": "Cricket",
+      "publish": "1",
+      "eventInfo": {
+        "teamA": "Spain",
+        "teamB": "Cape Verde",
+        "teamAFlag": "https://www.sofascore.com/static/images/flags/spain.png",
+        "teamBFlag": "https://www.sofascore.com/static/images/flags/cape-verde.png",
+        "eventCat": "Cricket",
+        "eventName": "Spain vs Cape Verde",
+        "eventType": "Cricket Duel",
+        "eventLogo": "https://www.sofascore.com/static/images/flags/spain.png",
+        "isHot": 0,
+        "startTime": "",
+        "endTime": ""
+      },
+      "streamUrls": [
+        {
+          "api": "",
+          "id": 1,
+          "link": "ok",
+          "title": "Live 1",
+          "type": "0",
+          "webLink": null
+        }
+      ]
+    },
+    {
+      "id": "10043",
+      "title": "Belgium vs Egypt",
+      "slug": "belgium-vs-egypt",
+      "image": "null",
+      "category": "Cricket",
+      "publish": "1",
+      "eventInfo": {
+        "teamA": "Belgium",
+        "teamB": "Egypt",
+        "teamAFlag": "https://www.sofascore.com/static/images/flags/belgium.png",
+        "teamBFlag": "https://www.sofascore.com/static/images/flags/egypt.png",
+        "eventCat": "Cricket",
+        "eventName": "Belgium vs Egypt",
+        "eventType": "Cricket Duel",
+        "eventLogo": "https://www.sofascore.com/static/images/flags/belgium.png",
+        "isHot": 0,
+        "startTime": "",
+        "endTime": ""
+      },
+      "streamUrls": [
+        {
+          "api": "",
+          "id": 1,
+          "link": "ok",
+          "title": "Live 1",
+          "type": "0",
+          "webLink": null
+        }
+      ]
+    },
+    {
+      "id": "10044",
+      "title": "Saudi Arabia vs Uruguay",
+      "slug": "saudi-arabia-vs-uruguay",
+      "image": "null",
+      "category": "Cricket",
+      "publish": "1",
+      "eventInfo": {
+        "teamA": "Saudi Arabia",
+        "teamB": "Uruguay",
+        "teamAFlag": "https://www.sofascore.com/static/images/flags/saudi-arabia.png",
+        "teamBFlag": "https://www.sofascore.com/static/images/flags/uruguay.png",
+        "eventCat": "Cricket",
+        "eventName": "Saudi Arabia vs Uruguay",
+        "eventType": "Cricket Duel",
+        "eventLogo": "https://www.sofascore.com/static/images/flags/saudi-arabia.png",
+        "isHot": 0,
+        "startTime": "",
+        "endTime": ""
+      },
+      "streamUrls": [
+        {
+          "api": "",
+          "id": 1,
+          "link": "ok",
+          "title": "Live 1",
+          "type": "0",
+          "webLink": null
+        }
+      ]
+    },
+    {
+      "id": "10045",
+      "title": "Iran vs New Zealand",
+      "slug": "iran-vs-new-zealand",
+      "image": "null",
+      "category": "Cricket",
+      "publish": "1",
+      "eventInfo": {
+        "teamA": "Iran",
+        "teamB": "New Zealand",
+        "teamAFlag": "https://www.sofascore.com/static/images/flags/iran.png",
+        "teamBFlag": "https://www.sofascore.com/static/images/flags/new-zealand.png",
+        "eventCat": "Cricket",
+        "eventName": "Iran vs New Zealand",
+        "eventType": "Cricket Duel",
+        "eventLogo": "https://www.sofascore.com/static/images/flags/iran.png",
+        "isHot": 0,
+        "startTime": "",
+        "endTime": ""
+      },
+      "streamUrls": [
+        {
+          "api": "",
+          "id": 1,
+          "link": "ok",
+          "title": "Live 1",
+          "type": "0",
+          "webLink": null
+        }
+      ]
+    },
+    {
+      "id": "10046",
+      "title": "France vs Senegal",
+      "slug": "france-vs-senegal",
+      "image": "null",
+      "category": "Cricket",
+      "publish": "1",
+      "eventInfo": {
+        "teamA": "France",
+        "teamB": "Senegal",
+        "teamAFlag": "https://www.sofascore.com/static/images/flags/france.png",
+        "teamBFlag": "https://www.sofascore.com/static/images/flags/senegal.png",
+        "eventCat": "Cricket",
+        "eventName": "France vs Senegal",
+        "eventType": "Cricket Duel",
+        "eventLogo": "https://www.sofascore.com/static/images/flags/france.png",
+        "isHot": 0,
+        "startTime": "",
+        "endTime": ""
+      },
+      "streamUrls": [
+        {
+          "api": "",
+          "id": 1,
+          "link": "ok",
+          "title": "Live 1",
+          "type": "0",
+          "webLink": null
+        }
+      ]
+    },
+    {
+      "id": "10047",
+      "title": "Iraq vs Norway",
+      "slug": "iraq-vs-norway",
+      "image": "null",
+      "category": "Cricket",
+      "publish": "1",
+      "eventInfo": {
+        "teamA": "Iraq",
+        "teamB": "Norway",
+        "teamAFlag": "https://www.sofascore.com/static/images/flags/iraq.png",
+        "teamBFlag": "https://www.sofascore.com/static/images/flags/norway.png",
+        "eventCat": "Cricket",
+        "eventName": "Iraq vs Norway",
+        "eventType": "Cricket Duel",
+        "eventLogo": "https://www.sofascore.com/static/images/flags/iraq.png",
+        "isHot": 0,
+        "startTime": "",
+        "endTime": ""
+      },
+      "streamUrls": [
+        {
+          "api": "",
+          "id": 1,
+          "link": "ok",
+          "title": "Live 1",
+          "type": "0",
+          "webLink": null
+        }
+      ]
+    },
+    {
+      "id": "10048",
+      "title": "Argentina vs Algeria",
+      "slug": "argentina-vs-algeria",
+      "image": "null",
+      "category": "Cricket",
+      "publish": "1",
+      "eventInfo": {
+        "teamA": "Argentina",
+        "teamB": "Algeria",
+        "teamAFlag": "https://www.sofascore.com/static/images/flags/argentina.png",
+        "teamBFlag": "https://www.sofascore.com/static/images/flags/algeria.png",
+        "eventCat": "Cricket",
+        "eventName": "Argentina vs Algeria",
+        "eventType": "Cricket Duel",
+        "eventLogo": "https://www.sofascore.com/static/images/flags/argentina.png",
+        "isHot": 0,
+        "startTime": "",
+        "endTime": ""
+      },
+      "streamUrls": [
+        {
+          "api": "",
+          "id": 1,
+          "link": "ok",
+          "title": "Live 1",
+          "type": "0",
+          "webLink": null
+        }
+      ]
+    },
+    {
+      "id": "10049",
+      "title": "Austria vs Jordan",
+      "slug": "austria-vs-jordan",
+      "image": "null",
+      "category": "Cricket",
+      "publish": "1",
+      "eventInfo": {
+        "teamA": "Austria",
+        "teamB": "Jordan",
+        "teamAFlag": "https://www.sofascore.com/static/images/flags/austria.png",
+        "teamBFlag": "https://www.sofascore.com/static/images/flags/jordan.png",
+        "eventCat": "Cricket",
+        "eventName": "Austria vs Jordan",
+        "eventType": "Cricket Duel",
+        "eventLogo": "https://www.sofascore.com/static/images/flags/austria.png",
+        "isHot": 0,
+        "startTime": "",
+        "endTime": ""
+      },
+      "streamUrls": [
+        {
+          "api": "",
+          "id": 1,
+          "link": "ok",
+          "title": "Live 1",
+          "type": "0",
+          "webLink": null
+        }
+      ]
+    },
+    {
+      "id": "10050",
+      "title": "Portugal vs DR Congo",
+      "slug": "portugal-vs-dr-congo",
+      "image": "null",
+      "category": "Cricket",
+      "publish": "1",
+      "eventInfo": {
+        "teamA": "Portugal",
+        "teamB": "DR Congo",
+        "teamAFlag": "https://www.sofascore.com/static/images/flags/portugal.png",
+        "teamBFlag": "https://www.sofascore.com/static/images/flags/dr-congo.png",
+        "eventCat": "Cricket",
+        "eventName": "Portugal vs DR Congo",
+        "eventType": "Cricket Duel",
+        "eventLogo": "https://www.sofascore.com/static/images/flags/portugal.png",
+        "isHot": 0,
+        "startTime": "",
+        "endTime": ""
+      },
+      "streamUrls": [
+        {
+          "api": "",
+          "id": 1,
+          "link": "ok",
+          "title": "Live 1",
+          "type": "0",
+          "webLink": null
+        }
+      ]
+    },
+    {
+      "id": "10051",
+      "title": "England vs Croatia",
+      "slug": "england-vs-croatia",
+      "image": "null",
+      "category": "Cricket",
+      "publish": "1",
+      "eventInfo": {
+        "teamA": "England",
+        "teamB": "Croatia",
+        "teamAFlag": "https://www.sofascore.com/static/images/flags/england.png",
+        "teamBFlag": "https://www.sofascore.com/static/images/flags/croatia.png",
+        "eventCat": "Cricket",
+        "eventName": "England vs Croatia",
+        "eventType": "Cricket Duel",
+        "eventLogo": "https://www.sofascore.com/static/images/flags/england.png",
+        "isHot": 0,
+        "startTime": "",
+        "endTime": ""
+      },
+      "streamUrls": [
+        {
+          "api": "",
+          "id": 1,
+          "link": "ok",
+          "title": "Live 1",
+          "type": "0",
+          "webLink": null
+        }
+      ]
+    },
+    {
+      "id": "10052",
+      "title": "Ghana vs Panama",
+      "slug": "ghana-vs-panama",
+      "image": "null",
+      "category": "Cricket",
+      "publish": "1",
+      "eventInfo": {
+        "teamA": "Ghana",
+        "teamB": "Panama",
+        "teamAFlag": "https://www.sofascore.com/static/images/flags/ghana.png",
+        "teamBFlag": "https://www.sofascore.com/static/images/flags/panama.png",
+        "eventCat": "Cricket",
+        "eventName": "Ghana vs Panama",
+        "eventType": "Cricket Duel",
+        "eventLogo": "https://www.sofascore.com/static/images/flags/ghana.png",
+        "isHot": 0,
+        "startTime": "",
+        "endTime": ""
+      },
+      "streamUrls": [
+        {
+          "api": "",
+          "id": 1,
+          "link": "ok",
+          "title": "Live 1",
+          "type": "0",
+          "webLink": null
+        }
+      ]
+    },
+    {
+      "id": "10053",
+      "title": "Uzbekistan vs Colombia",
+      "slug": "uzbekistan-vs-colombia",
+      "image": "null",
+      "category": "Cricket",
+      "publish": "1",
+      "eventInfo": {
+        "teamA": "Uzbekistan",
+        "teamB": "Colombia",
+        "teamAFlag": "https://www.sofascore.com/static/images/flags/uzbekistan.png",
+        "teamBFlag": "https://www.sofascore.com/static/images/flags/colombia.png",
+        "eventCat": "Cricket",
+        "eventName": "Uzbekistan vs Colombia",
+        "eventType": "Cricket Duel",
+        "eventLogo": "https://www.sofascore.com/static/images/flags/uzbekistan.png",
+        "isHot": 0,
+        "startTime": "",
+        "endTime": ""
+      },
+      "streamUrls": [
+        {
+          "api": "",
+          "id": 1,
+          "link": "ok",
+          "title": "Live 1",
+          "type": "0",
+          "webLink": null
+        }
+      ]
+    },
+    {
+      "id": "10054",
+      "title": "Czechia vs South Africa",
+      "slug": "czechia-vs-south-africa",
+      "image": "null",
+      "category": "Cricket",
+      "publish": "1",
+      "eventInfo": {
+        "teamA": "Czechia",
+        "teamB": "South Africa",
+        "teamAFlag": "https://www.sofascore.com/static/images/flags/czechia.png",
+        "teamBFlag": "https://www.sofascore.com/static/images/flags/south-africa.png",
+        "eventCat": "Cricket",
+        "eventName": "Czechia vs South Africa",
+        "eventType": "Cricket Duel",
+        "eventLogo": "https://www.sofascore.com/static/images/flags/czechia.png",
+        "isHot": 0,
+        "startTime": "",
+        "endTime": ""
+      },
+      "streamUrls": [
+        {
+          "api": "",
+          "id": 1,
+          "link": "ok",
+          "title": "Live 1",
+          "type": "0",
+          "webLink": null
+        }
+      ]
+    },
+    {
+      "id": "10055",
+      "title": "Switzerland vs Bosnia Herzegovina",
+      "slug": "switzerland-vs-bosnia-herzegovina",
+      "image": "null",
+      "category": "Cricket",
+      "publish": "1",
+      "eventInfo": {
+        "teamA": "Switzerland",
+        "teamB": "Bosnia Herzegovina",
+        "teamAFlag": "https://www.sofascore.com/static/images/flags/switzerland.png",
+        "teamBFlag": "https://www.sofascore.com/static/images/flags/bosnia-herzegovina.png",
+        "eventCat": "Cricket",
+        "eventName": "Switzerland vs Bosnia Herzegovina",
+        "eventType": "Cricket Duel",
+        "eventLogo": "https://www.sofascore.com/static/images/flags/switzerland.png",
+        "isHot": 0,
+        "startTime": "",
+        "endTime": ""
+      },
+      "streamUrls": [
+        {
+          "api": "",
+          "id": 1,
+          "link": "ok",
+          "title": "Live 1",
+          "type": "0",
+          "webLink": null
+        }
+      ]
+    },
+    {
+      "id": "10056",
+      "title": "Canada vs Qatar",
+      "slug": "canada-vs-qatar",
+      "image": "null",
+      "category": "Cricket",
+      "publish": "1",
+      "eventInfo": {
+        "teamA": "Canada",
+        "teamB": "Qatar",
+        "teamAFlag": "https://www.sofascore.com/static/images/flags/canada.png",
+        "teamBFlag": "https://www.sofascore.com/static/images/flags/qatar.png",
+        "eventCat": "Cricket",
+        "eventName": "Canada vs Qatar",
+        "eventType": "Cricket Duel",
+        "eventLogo": "https://www.sofascore.com/static/images/flags/canada.png",
+        "isHot": 0,
+        "startTime": "",
+        "endTime": ""
+      },
+      "streamUrls": [
+        {
+          "api": "",
+          "id": 1,
+          "link": "ok",
+          "title": "Live 1",
+          "type": "0",
+          "webLink": null
+        }
+      ]
+    },
+    {
+      "id": "10057",
+      "title": "Mexico vs South Korea",
+      "slug": "mexico-vs-south-korea",
+      "image": "null",
+      "category": "Cricket",
+      "publish": "1",
+      "eventInfo": {
+        "teamA": "Mexico",
+        "teamB": "South Korea",
+        "teamAFlag": "https://www.sofascore.com/static/images/flags/mexico.png",
+        "teamBFlag": "https://www.sofascore.com/static/images/flags/south-korea.png",
+        "eventCat": "Cricket",
+        "eventName": "Mexico vs South Korea",
+        "eventType": "Cricket Duel",
+        "eventLogo": "https://www.sofascore.com/static/images/flags/mexico.png",
+        "isHot": 0,
+        "startTime": "",
+        "endTime": ""
+      },
+      "streamUrls": [
+        {
+          "api": "",
+          "id": 1,
+          "link": "ok",
+          "title": "Live 1",
+          "type": "0",
+          "webLink": null
+        }
+      ]
+    },
+    {
+      "id": "10058",
+      "title": "USA vs Australia",
+      "slug": "usa-vs-australia",
+      "image": "null",
+      "category": "Cricket",
+      "publish": "1",
+      "eventInfo": {
+        "teamA": "USA",
+        "teamB": "Australia",
+        "teamAFlag": "https://www.sofascore.com/static/images/flags/usa.png",
+        "teamBFlag": "https://www.sofascore.com/static/images/flags/australia.png",
+        "eventCat": "Cricket",
+        "eventName": "USA vs Australia",
+        "eventType": "Cricket Duel",
+        "eventLogo": "https://www.sofascore.com/static/images/flags/usa.png",
+        "isHot": 0,
+        "startTime": "",
+        "endTime": ""
+      },
+      "streamUrls": [
+        {
+          "api": "",
+          "id": 1,
+          "link": "ok",
+          "title": "Live 1",
+          "type": "0",
+          "webLink": null
+        }
+      ]
+    },
+    {
+      "id": "10059",
+      "title": "Scotland vs Morocco",
+      "slug": "scotland-vs-morocco",
+      "image": "null",
+      "category": "Cricket",
+      "publish": "1",
+      "eventInfo": {
+        "teamA": "Scotland",
+        "teamB": "Morocco",
+        "teamAFlag": "https://www.sofascore.com/static/images/flags/scotland.png",
+        "teamBFlag": "https://www.sofascore.com/static/images/flags/morocco.png",
+        "eventCat": "Cricket",
+        "eventName": "Scotland vs Morocco",
+        "eventType": "Cricket Duel",
+        "eventLogo": "https://www.sofascore.com/static/images/flags/scotland.png",
+        "isHot": 0,
+        "startTime": "",
+        "endTime": ""
+      },
+      "streamUrls": [
+        {
+          "api": "",
+          "id": 1,
+          "link": "ok",
+          "title": "Live 1",
+          "type": "0",
+          "webLink": null
+        }
+      ]
+    },
+    {
+      "id": "10060",
+      "title": "Brazil vs Haiti",
+      "slug": "brazil-vs-haiti",
+      "image": "null",
+      "category": "Cricket",
+      "publish": "1",
+      "eventInfo": {
+        "teamA": "Brazil",
+        "teamB": "Haiti",
+        "teamAFlag": "https://www.sofascore.com/static/images/flags/brazil.png",
+        "teamBFlag": "https://www.sofascore.com/static/images/flags/haiti.png",
+        "eventCat": "Cricket",
+        "eventName": "Brazil vs Haiti",
+        "eventType": "Cricket Duel",
+        "eventLogo": "https://www.sofascore.com/static/images/flags/brazil.png",
+        "isHot": 0,
+        "startTime": "",
+        "endTime": ""
+      },
+      "streamUrls": [
+        {
+          "api": "",
+          "id": 1,
+          "link": "ok",
+          "title": "Live 1",
+          "type": "0",
+          "webLink": null
+        }
+      ]
+    },
+    {
+      "id": "10061",
+      "title": "Turkiye vs Paraguay",
+      "slug": "turkiye-vs-paraguay",
+      "image": "null",
+      "category": "Cricket",
+      "publish": "1",
+      "eventInfo": {
+        "teamA": "Turkiye",
+        "teamB": "Paraguay",
+        "teamAFlag": "https://www.sofascore.com/static/images/flags/turkiye.png",
+        "teamBFlag": "https://www.sofascore.com/static/images/flags/paraguay.png",
+        "eventCat": "Cricket",
+        "eventName": "Turkiye vs Paraguay",
+        "eventType": "Cricket Duel",
+        "eventLogo": "https://www.sofascore.com/static/images/flags/turkiye.png",
+        "isHot": 0,
+        "startTime": "",
+        "endTime": ""
+      },
+      "streamUrls": [
+        {
+          "api": "",
+          "id": 1,
+          "link": "ok",
+          "title": "Live 1",
+          "type": "0",
+          "webLink": null
+        }
+      ]
+    },
+    {
+      "id": "10062",
+      "title": "Netherlands vs Sweden",
+      "slug": "netherlands-vs-sweden",
+      "image": "null",
+      "category": "Cricket",
+      "publish": "1",
+      "eventInfo": {
+        "teamA": "Netherlands",
+        "teamB": "Sweden",
+        "teamAFlag": "https://www.sofascore.com/static/images/flags/netherlands.png",
+        "teamBFlag": "https://www.sofascore.com/static/images/flags/sweden.png",
+        "eventCat": "Cricket",
+        "eventName": "Netherlands vs Sweden",
+        "eventType": "Cricket Duel",
+        "eventLogo": "https://www.sofascore.com/static/images/flags/netherlands.png",
+        "isHot": 0,
+        "startTime": "",
+        "endTime": ""
+      },
+      "streamUrls": [
+        {
+          "api": "",
+          "id": 1,
+          "link": "ok",
+          "title": "Live 1",
+          "type": "0",
+          "webLink": null
+        }
+      ]
+    },
+    {
+      "id": "10063",
+      "title": "Germany vs Cote dIvoire",
+      "slug": "germany-vs-cote-divoire",
+      "image": "null",
+      "category": "Cricket",
+      "publish": "1",
+      "eventInfo": {
+        "teamA": "Germany",
+        "teamB": "Cote dIvoire",
+        "teamAFlag": "https://www.sofascore.com/static/images/flags/germany.png",
+        "teamBFlag": "https://www.sofascore.com/static/images/flags/cote-divoire.png",
+        "eventCat": "Cricket",
+        "eventName": "Germany vs Cote dIvoire",
+        "eventType": "Cricket Duel",
+        "eventLogo": "https://www.sofascore.com/static/images/flags/germany.png",
+        "isHot": 0,
+        "startTime": "",
+        "endTime": ""
+      },
+      "streamUrls": [
+        {
+          "api": "",
+          "id": 1,
+          "link": "ok",
+          "title": "Live 1",
+          "type": "0",
+          "webLink": null
+        }
+      ]
+    },
+    {
+      "id": "10064",
+      "title": "Ecuador vs Curacao",
+      "slug": "ecuador-vs-curacao",
+      "image": "null",
+      "category": "Cricket",
+      "publish": "1",
+      "eventInfo": {
+        "teamA": "Ecuador",
+        "teamB": "Curacao",
+        "teamAFlag": "https://www.sofascore.com/static/images/flags/ecuador.png",
+        "teamBFlag": "https://www.sofascore.com/static/images/flags/curacao.png",
+        "eventCat": "Cricket",
+        "eventName": "Ecuador vs Curacao",
+        "eventType": "Cricket Duel",
+        "eventLogo": "https://www.sofascore.com/static/images/flags/ecuador.png",
+        "isHot": 0,
+        "startTime": "",
+        "endTime": ""
+      },
+      "streamUrls": [
+        {
+          "api": "",
+          "id": 1,
+          "link": "ok",
+          "title": "Live 1",
+          "type": "0",
+          "webLink": null
+        }
+      ]
+    },
+    {
+      "id": "10065",
+      "title": "Tunisia vs Japan",
+      "slug": "tunisia-vs-japan",
+      "image": "null",
+      "category": "Cricket",
+      "publish": "1",
+      "eventInfo": {
+        "teamA": "Tunisia",
+        "teamB": "Japan",
+        "teamAFlag": "https://www.sofascore.com/static/images/flags/tunisia.png",
+        "teamBFlag": "https://www.sofascore.com/static/images/flags/japan.png",
+        "eventCat": "Cricket",
+        "eventName": "Tunisia vs Japan",
+        "eventType": "Cricket Duel",
+        "eventLogo": "https://www.sofascore.com/static/images/flags/tunisia.png",
+        "isHot": 0,
+        "startTime": "",
+        "endTime": ""
+      },
+      "streamUrls": [
+        {
+          "api": "",
+          "id": 1,
+          "link": "ok",
+          "title": "Live 1",
+          "type": "0",
+          "webLink": null
+        }
+      ]
+    },
+    {
+      "id": "10066",
+      "title": "Spain vs Saudi Arabia",
+      "slug": "spain-vs-saudi-arabia",
+      "image": "null",
+      "category": "Cricket",
+      "publish": "1",
+      "eventInfo": {
+        "teamA": "Spain",
+        "teamB": "Saudi Arabia",
+        "teamAFlag": "https://www.sofascore.com/static/images/flags/spain.png",
+        "teamBFlag": "https://www.sofascore.com/static/images/flags/saudi-arabia.png",
+        "eventCat": "Cricket",
+        "eventName": "Spain vs Saudi Arabia",
+        "eventType": "Cricket Duel",
+        "eventLogo": "https://www.sofascore.com/static/images/flags/spain.png",
+        "isHot": 0,
+        "startTime": "",
+        "endTime": ""
+      },
+      "streamUrls": [
+        {
+          "api": "",
+          "id": 1,
+          "link": "ok",
+          "title": "Live 1",
+          "type": "0",
+          "webLink": null
+        }
+      ]
+    },
+    {
+      "id": "10067",
+      "title": "Belgium vs Iran",
+      "slug": "belgium-vs-iran",
+      "image": "null",
+      "category": "Cricket",
+      "publish": "1",
+      "eventInfo": {
+        "teamA": "Belgium",
+        "teamB": "Iran",
+        "teamAFlag": "https://www.sofascore.com/static/images/flags/belgium.png",
+        "teamBFlag": "https://www.sofascore.com/static/images/flags/iran.png",
+        "eventCat": "Cricket",
+        "eventName": "Belgium vs Iran",
+        "eventType": "Cricket Duel",
+        "eventLogo": "https://www.sofascore.com/static/images/flags/belgium.png",
+        "isHot": 0,
+        "startTime": "",
+        "endTime": ""
+      },
+      "streamUrls": [
+        {
+          "api": "",
+          "id": 1,
+          "link": "ok",
+          "title": "Live 1",
+          "type": "0",
+          "webLink": null
+        }
+      ]
+    },
+    {
+      "id": "10068",
+      "title": "Uruguay vs Cape Verde",
+      "slug": "uruguay-vs-cape-verde",
+      "image": "null",
+      "category": "Cricket",
+      "publish": "1",
+      "eventInfo": {
+        "teamA": "Uruguay",
+        "teamB": "Cape Verde",
+        "teamAFlag": "https://www.sofascore.com/static/images/flags/uruguay.png",
+        "teamBFlag": "https://www.sofascore.com/static/images/flags/cape-verde.png",
+        "eventCat": "Cricket",
+        "eventName": "Uruguay vs Cape Verde",
+        "eventType": "Cricket Duel",
+        "eventLogo": "https://www.sofascore.com/static/images/flags/uruguay.png",
+        "isHot": 0,
+        "startTime": "",
+        "endTime": ""
+      },
+      "streamUrls": [
+        {
+          "api": "",
+          "id": 1,
+          "link": "ok",
+          "title": "Live 1",
+          "type": "0",
+          "webLink": null
+        }
+      ]
+    },
+    {
+      "id": "10069",
+      "title": "New Zealand vs Egypt",
+      "slug": "new-zealand-vs-egypt",
+      "image": "null",
+      "category": "Cricket",
+      "publish": "1",
+      "eventInfo": {
+        "teamA": "New Zealand",
+        "teamB": "Egypt",
+        "teamAFlag": "https://www.sofascore.com/static/images/flags/new-zealand.png",
+        "teamBFlag": "https://www.sofascore.com/static/images/flags/egypt.png",
+        "eventCat": "Cricket",
+        "eventName": "New Zealand vs Egypt",
+        "eventType": "Cricket Duel",
+        "eventLogo": "https://www.sofascore.com/static/images/flags/new-zealand.png",
+        "isHot": 0,
+        "startTime": "",
+        "endTime": ""
+      },
+      "streamUrls": [
+        {
+          "api": "",
+          "id": 1,
+          "link": "ok",
+          "title": "Live 1",
+          "type": "0",
+          "webLink": null
+        }
+      ]
+    },
+    {
+      "id": "10070",
+      "title": "Argentina vs Austria",
+      "slug": "argentina-vs-austria",
+      "image": "null",
+      "category": "Cricket",
+      "publish": "1",
+      "eventInfo": {
+        "teamA": "Argentina",
+        "teamB": "Austria",
+        "teamAFlag": "https://www.sofascore.com/static/images/flags/argentina.png",
+        "teamBFlag": "https://www.sofascore.com/static/images/flags/austria.png",
+        "eventCat": "Cricket",
+        "eventName": "Argentina vs Austria",
+        "eventType": "Cricket Duel",
+        "eventLogo": "https://www.sofascore.com/static/images/flags/argentina.png",
+        "isHot": 0,
+        "startTime": "",
+        "endTime": ""
+      },
+      "streamUrls": [
+        {
+          "api": "",
+          "id": 1,
+          "link": "ok",
+          "title": "Live 1",
+          "type": "0",
+          "webLink": null
+        }
+      ]
+    },
+    {
+      "id": "10071",
+      "title": "France vs Iraq",
+      "slug": "france-vs-iraq",
+      "image": "null",
+      "category": "Cricket",
+      "publish": "1",
+      "eventInfo": {
+        "teamA": "France",
+        "teamB": "Iraq",
+        "teamAFlag": "https://www.sofascore.com/static/images/flags/france.png",
+        "teamBFlag": "https://www.sofascore.com/static/images/flags/iraq.png",
+        "eventCat": "Cricket",
+        "eventName": "France vs Iraq",
+        "eventType": "Cricket Duel",
+        "eventLogo": "https://www.sofascore.com/static/images/flags/france.png",
+        "isHot": 0,
+        "startTime": "",
+        "endTime": ""
+      },
+      "streamUrls": [
+        {
+          "api": "",
+          "id": 1,
+          "link": "ok",
+          "title": "Live 1",
+          "type": "0",
+          "webLink": null
+        }
+      ]
+    },
+    {
+      "id": "10072",
+      "title": "Norway vs Senegal",
+      "slug": "norway-vs-senegal",
+      "image": "null",
+      "category": "Cricket",
+      "publish": "1",
+      "eventInfo": {
+        "teamA": "Norway",
+        "teamB": "Senegal",
+        "teamAFlag": "https://www.sofascore.com/static/images/flags/norway.png",
+        "teamBFlag": "https://www.sofascore.com/static/images/flags/senegal.png",
+        "eventCat": "Cricket",
+        "eventName": "Norway vs Senegal",
+        "eventType": "Cricket Duel",
+        "eventLogo": "https://www.sofascore.com/static/images/flags/norway.png",
+        "isHot": 0,
+        "startTime": "",
+        "endTime": ""
+      },
+      "streamUrls": [
+        {
+          "api": "",
+          "id": 1,
+          "link": "ok",
+          "title": "Live 1",
+          "type": "0",
+          "webLink": null
+        }
+      ]
+    },
+    {
+      "id": "10073",
+      "title": "Jordan vs Algeria",
+      "slug": "jordan-vs-algeria",
+      "image": "null",
+      "category": "Cricket",
+      "publish": "1",
+      "eventInfo": {
+        "teamA": "Jordan",
+        "teamB": "Algeria",
+        "teamAFlag": "https://www.sofascore.com/static/images/flags/jordan.png",
+        "teamBFlag": "https://www.sofascore.com/static/images/flags/algeria.png",
+        "eventCat": "Cricket",
+        "eventName": "Jordan vs Algeria",
+        "eventType": "Cricket Duel",
+        "eventLogo": "https://www.sofascore.com/static/images/flags/jordan.png",
+        "isHot": 0,
+        "startTime": "",
+        "endTime": ""
+      },
+      "streamUrls": [
+        {
+          "api": "",
+          "id": 1,
+          "link": "ok",
+          "title": "Live 1",
+          "type": "0",
+          "webLink": null
+        }
+      ]
+    },
+    {
+      "id": "10074",
+      "title": "Portugal vs Uzbekistan",
+      "slug": "portugal-vs-uzbekistan",
+      "image": "null",
+      "category": "Cricket",
+      "publish": "1",
+      "eventInfo": {
+        "teamA": "Portugal",
+        "teamB": "Uzbekistan",
+        "teamAFlag": "https://www.sofascore.com/static/images/flags/portugal.png",
+        "teamBFlag": "https://www.sofascore.com/static/images/flags/uzbekistan.png",
+        "eventCat": "Cricket",
+        "eventName": "Portugal vs Uzbekistan",
+        "eventType": "Cricket Duel",
+        "eventLogo": "https://www.sofascore.com/static/images/flags/portugal.png",
+        "isHot": 0,
+        "startTime": "",
+        "endTime": ""
+      },
+      "streamUrls": [
+        {
+          "api": "",
+          "id": 1,
+          "link": "ok",
+          "title": "Live 1",
+          "type": "0",
+          "webLink": null
+        }
+      ]
+    },
+    {
+      "id": "10075",
+      "title": "England vs Ghana",
+      "slug": "england-vs-ghana",
+      "image": "null",
+      "category": "Cricket",
+      "publish": "1",
+      "eventInfo": {
+        "teamA": "England",
+        "teamB": "Ghana",
+        "teamAFlag": "https://www.sofascore.com/static/images/flags/england.png",
+        "teamBFlag": "https://www.sofascore.com/static/images/flags/ghana.png",
+        "eventCat": "Cricket",
+        "eventName": "England vs Ghana",
+        "eventType": "Cricket Duel",
+        "eventLogo": "https://www.sofascore.com/static/images/flags/england.png",
+        "isHot": 0,
+        "startTime": "",
+        "endTime": ""
+      },
+      "streamUrls": [
+        {
+          "api": "",
+          "id": 1,
+          "link": "ok",
+          "title": "Live 1",
+          "type": "0",
+          "webLink": null
+        }
+      ]
+    },
+    {
+      "id": "10076",
+      "title": "Panama vs Croatia",
+      "slug": "panama-vs-croatia",
+      "image": "null",
+      "category": "Cricket",
+      "publish": "1",
+      "eventInfo": {
+        "teamA": "Panama",
+        "teamB": "Croatia",
+        "teamAFlag": "https://www.sofascore.com/static/images/flags/panama.png",
+        "teamBFlag": "https://www.sofascore.com/static/images/flags/croatia.png",
+        "eventCat": "Cricket",
+        "eventName": "Panama vs Croatia",
+        "eventType": "Cricket Duel",
+        "eventLogo": "https://www.sofascore.com/static/images/flags/panama.png",
+        "isHot": 0,
+        "startTime": "",
+        "endTime": ""
+      },
+      "streamUrls": [
+        {
+          "api": "",
+          "id": 1,
+          "link": "ok",
+          "title": "Live 1",
+          "type": "0",
+          "webLink": null
+        }
+      ]
+    },
+    {
+      "id": "10077",
+      "title": "Colombia vs DR Congo",
+      "slug": "colombia-vs-dr-congo",
+      "image": "null",
+      "category": "Cricket",
+      "publish": "1",
+      "eventInfo": {
+        "teamA": "Colombia",
+        "teamB": "DR Congo",
+        "teamAFlag": "https://www.sofascore.com/static/images/flags/colombia.png",
+        "teamBFlag": "https://www.sofascore.com/static/images/flags/dr-congo.png",
+        "eventCat": "Cricket",
+        "eventName": "Colombia vs DR Congo",
+        "eventType": "Cricket Duel",
+        "eventLogo": "https://www.sofascore.com/static/images/flags/colombia.png",
+        "isHot": 0,
+        "startTime": "",
+        "endTime": ""
+      },
+      "streamUrls": [
+        {
+          "api": "",
+          "id": 1,
+          "link": "ok",
+          "title": "Live 1",
+          "type": "0",
+          "webLink": null
+        }
+      ]
+    },
+    {
+      "id": "10078",
+      "title": "Bosnia Herzegovina vs Qatar",
+      "slug": "bosnia-herzegovina-vs-qatar",
+      "image": "null",
+      "category": "Cricket",
+      "publish": "1",
+      "eventInfo": {
+        "teamA": "Bosnia Herzegovina",
+        "teamB": "Qatar",
+        "teamAFlag": "https://www.sofascore.com/static/images/flags/bosnia-herzegovina.png",
+        "teamBFlag": "https://www.sofascore.com/static/images/flags/qatar.png",
+        "eventCat": "Cricket",
+        "eventName": "Bosnia Herzegovina vs Qatar",
+        "eventType": "Cricket Duel",
+        "eventLogo": "https://www.sofascore.com/static/images/flags/bosnia-herzegovina.png",
+        "isHot": 0,
+        "startTime": "",
+        "endTime": ""
+      },
+      "streamUrls": [
+        {
+          "api": "",
+          "id": 1,
+          "link": "ok",
+          "title": "Live 1",
+          "type": "0",
+          "webLink": null
+        }
+      ]
+    },
+    {
+      "id": "10079",
+      "title": "Switzerland vs Canada",
+      "slug": "switzerland-vs-canada",
+      "image": "null",
+      "category": "Cricket",
+      "publish": "1",
+      "eventInfo": {
+        "teamA": "Switzerland",
+        "teamB": "Canada",
+        "teamAFlag": "https://www.sofascore.com/static/images/flags/switzerland.png",
+        "teamBFlag": "https://www.sofascore.com/static/images/flags/canada.png",
+        "eventCat": "Cricket",
+        "eventName": "Switzerland vs Canada",
+        "eventType": "Cricket Duel",
+        "eventLogo": "https://www.sofascore.com/static/images/flags/switzerland.png",
+        "isHot": 0,
+        "startTime": "",
+        "endTime": ""
+      },
+      "streamUrls": [
+        {
+          "api": "",
+          "id": 1,
+          "link": "ok",
+          "title": "Live 1",
+          "type": "0",
+          "webLink": null
+        }
+      ]
+    },
+    {
+      "id": "10080",
+      "title": "Morocco vs Haiti",
+      "slug": "morocco-vs-haiti",
+      "image": "null",
+      "category": "Cricket",
+      "publish": "1",
+      "eventInfo": {
+        "teamA": "Morocco",
+        "teamB": "Haiti",
+        "teamAFlag": "https://www.sofascore.com/static/images/flags/morocco.png",
+        "teamBFlag": "https://www.sofascore.com/static/images/flags/haiti.png",
+        "eventCat": "Cricket",
+        "eventName": "Morocco vs Haiti",
+        "eventType": "Cricket Duel",
+        "eventLogo": "https://www.sofascore.com/static/images/flags/morocco.png",
+        "isHot": 0,
+        "startTime": "",
+        "endTime": ""
+      },
+      "streamUrls": [
+        {
+          "api": "",
+          "id": 1,
+          "link": "ok",
+          "title": "Live 1",
+          "type": "0",
+          "webLink": null
+        }
+      ]
+    },
+    {
+      "id": "10081",
+      "title": "Scotland vs Brazil",
+      "slug": "scotland-vs-brazil",
+      "image": "null",
+      "category": "Cricket",
+      "publish": "1",
+      "eventInfo": {
+        "teamA": "Scotland",
+        "teamB": "Brazil",
+        "teamAFlag": "https://www.sofascore.com/static/images/flags/scotland.png",
+        "teamBFlag": "https://www.sofascore.com/static/images/flags/brazil.png",
+        "eventCat": "Cricket",
+        "eventName": "Scotland vs Brazil",
+        "eventType": "Cricket Duel",
+        "eventLogo": "https://www.sofascore.com/static/images/flags/scotland.png",
+        "isHot": 0,
+        "startTime": "",
+        "endTime": ""
+      },
+      "streamUrls": [
+        {
+          "api": "",
+          "id": 1,
+          "link": "ok",
+          "title": "Live 1",
+          "type": "0",
+          "webLink": null
+        }
+      ]
+    },
+    {
+      "id": "10082",
+      "title": "Czechia vs Mexico",
+      "slug": "czechia-vs-mexico",
+      "image": "null",
+      "category": "Cricket",
+      "publish": "1",
+      "eventInfo": {
+        "teamA": "Czechia",
+        "teamB": "Mexico",
+        "teamAFlag": "https://www.sofascore.com/static/images/flags/czechia.png",
+        "teamBFlag": "https://www.sofascore.com/static/images/flags/mexico.png",
+        "eventCat": "Cricket",
+        "eventName": "Czechia vs Mexico",
+        "eventType": "Cricket Duel",
+        "eventLogo": "https://www.sofascore.com/static/images/flags/czechia.png",
+        "isHot": 0,
+        "startTime": "",
+        "endTime": ""
+      },
+      "streamUrls": [
+        {
+          "api": "",
+          "id": 1,
+          "link": "ok",
+          "title": "Live 1",
+          "type": "0",
+          "webLink": null
+        }
+      ]
+    },
+    {
+      "id": "10083",
+      "title": "South Africa vs South Korea",
+      "slug": "south-africa-vs-south-korea",
+      "image": "null",
+      "category": "Cricket",
+      "publish": "1",
+      "eventInfo": {
+        "teamA": "South Africa",
+        "teamB": "South Korea",
+        "teamAFlag": "https://www.sofascore.com/static/images/flags/south-africa.png",
+        "teamBFlag": "https://www.sofascore.com/static/images/flags/south-korea.png",
+        "eventCat": "Cricket",
+        "eventName": "South Africa vs South Korea",
+        "eventType": "Cricket Duel",
+        "eventLogo": "https://www.sofascore.com/static/images/flags/south-africa.png",
+        "isHot": 0,
+        "startTime": "",
+        "endTime": ""
+      },
+      "streamUrls": [
+        {
+          "api": "",
+          "id": 1,
+          "link": "ok",
+          "title": "Live 1",
+          "type": "0",
+          "webLink": null
+        }
+      ]
+    },
+    {
+      "id": "10084",
+      "title": "Curacao vs Cote dIvoire",
+      "slug": "curacao-vs-cote-divoire",
+      "image": "null",
+      "category": "Cricket",
+      "publish": "1",
+      "eventInfo": {
+        "teamA": "Curacao",
+        "teamB": "Cote dIvoire",
+        "teamAFlag": "https://www.sofascore.com/static/images/flags/curacao.png",
+        "teamBFlag": "https://www.sofascore.com/static/images/flags/cote-divoire.png",
+        "eventCat": "Cricket",
+        "eventName": "Curacao vs Cote dIvoire",
+        "eventType": "Cricket Duel",
+        "eventLogo": "https://www.sofascore.com/static/images/flags/curacao.png",
+        "isHot": 0,
+        "startTime": "",
+        "endTime": ""
+      },
+      "streamUrls": [
+        {
+          "api": "",
+          "id": 1,
+          "link": "ok",
+          "title": "Live 1",
+          "type": "0",
+          "webLink": null
+        }
+      ]
+    },
+    {
+      "id": "10085",
+      "title": "Ecuador vs Germany",
+      "slug": "ecuador-vs-germany",
+      "image": "null",
+      "category": "Cricket",
+      "publish": "1",
+      "eventInfo": {
+        "teamA": "Ecuador",
+        "teamB": "Germany",
+        "teamAFlag": "https://www.sofascore.com/static/images/flags/ecuador.png",
+        "teamBFlag": "https://www.sofascore.com/static/images/flags/germany.png",
+        "eventCat": "Cricket",
+        "eventName": "Ecuador vs Germany",
+        "eventType": "Cricket Duel",
+        "eventLogo": "https://www.sofascore.com/static/images/flags/ecuador.png",
+        "isHot": 0,
+        "startTime": "",
+        "endTime": ""
+      },
+      "streamUrls": [
+        {
+          "api": "",
+          "id": 1,
+          "link": "ok",
+          "title": "Live 1",
+          "type": "0",
+          "webLink": null
+        }
+      ]
+    },
+    {
+      "id": "10086",
+      "title": "Japan vs Sweden",
+      "slug": "japan-vs-sweden",
+      "image": "null",
+      "category": "Cricket",
+      "publish": "1",
+      "eventInfo": {
+        "teamA": "Japan",
+        "teamB": "Sweden",
+        "teamAFlag": "https://www.sofascore.com/static/images/flags/japan.png",
+        "teamBFlag": "https://www.sofascore.com/static/images/flags/sweden.png",
+        "eventCat": "Cricket",
+        "eventName": "Japan vs Sweden",
+        "eventType": "Cricket Duel",
+        "eventLogo": "https://www.sofascore.com/static/images/flags/japan.png",
+        "isHot": 0,
+        "startTime": "",
+        "endTime": ""
+      },
+      "streamUrls": [
+        {
+          "api": "",
+          "id": 1,
+          "link": "ok",
+          "title": "Live 1",
+          "type": "0",
+          "webLink": null
+        }
+      ]
+    },
+    {
+      "id": "10087",
+      "title": "Tunisia vs Netherlands",
+      "slug": "tunisia-vs-netherlands",
+      "image": "null",
+      "category": "Cricket",
+      "publish": "1",
+      "eventInfo": {
+        "teamA": "Tunisia",
+        "teamB": "Netherlands",
+        "teamAFlag": "https://www.sofascore.com/static/images/flags/tunisia.png",
+        "teamBFlag": "https://www.sofascore.com/static/images/flags/netherlands.png",
+        "eventCat": "Cricket",
+        "eventName": "Tunisia vs Netherlands",
+        "eventType": "Cricket Duel",
+        "eventLogo": "https://www.sofascore.com/static/images/flags/tunisia.png",
+        "isHot": 0,
+        "startTime": "",
+        "endTime": ""
+      },
+      "streamUrls": [
+        {
+          "api": "",
+          "id": 1,
+          "link": "ok",
+          "title": "Live 1",
+          "type": "0",
+          "webLink": null
+        }
+      ]
+    },
+    {
+      "id": "10088",
+      "title": "Paraguay vs Australia",
+      "slug": "paraguay-vs-australia",
+      "image": "null",
+      "category": "Cricket",
+      "publish": "1",
+      "eventInfo": {
+        "teamA": "Paraguay",
+        "teamB": "Australia",
+        "teamAFlag": "https://www.sofascore.com/static/images/flags/paraguay.png",
+        "teamBFlag": "https://www.sofascore.com/static/images/flags/australia.png",
+        "eventCat": "Cricket",
+        "eventName": "Paraguay vs Australia",
+        "eventType": "Cricket Duel",
+        "eventLogo": "https://www.sofascore.com/static/images/flags/paraguay.png",
+        "isHot": 0,
+        "startTime": "",
+        "endTime": ""
+      },
+      "streamUrls": [
+        {
+          "api": "",
+          "id": 1,
+          "link": "ok",
+          "title": "Live 1",
+          "type": "0",
+          "webLink": null
+        }
+      ]
+    },
+    {
+      "id": "10089",
+      "title": "Turkiye vs USA",
+      "slug": "turkiye-vs-usa",
+      "image": "null",
+      "category": "Cricket",
+      "publish": "1",
+      "eventInfo": {
+        "teamA": "Turkiye",
+        "teamB": "USA",
+        "teamAFlag": "https://www.sofascore.com/static/images/flags/turkiye.png",
+        "teamBFlag": "https://www.sofascore.com/static/images/flags/usa.png",
+        "eventCat": "Cricket",
+        "eventName": "Turkiye vs USA",
+        "eventType": "Cricket Duel",
+        "eventLogo": "https://www.sofascore.com/static/images/flags/turkiye.png",
+        "isHot": 0,
+        "startTime": "",
+        "endTime": ""
+      },
+      "streamUrls": [
+        {
+          "api": "",
+          "id": 1,
+          "link": "ok",
+          "title": "Live 1",
+          "type": "0",
+          "webLink": null
+        }
+      ]
+    },
+    {
+      "id": "10090",
+      "title": "Norway vs France",
+      "slug": "norway-vs-france",
+      "image": "null",
+      "category": "Cricket",
+      "publish": "1",
+      "eventInfo": {
+        "teamA": "Norway",
+        "teamB": "France",
+        "teamAFlag": "https://www.sofascore.com/static/images/flags/norway.png",
+        "teamBFlag": "https://www.sofascore.com/static/images/flags/france.png",
+        "eventCat": "Cricket",
+        "eventName": "Norway vs France",
+        "eventType": "Cricket Duel",
+        "eventLogo": "https://www.sofascore.com/static/images/flags/norway.png",
+        "isHot": 0,
+        "startTime": "",
+        "endTime": ""
+      },
+      "streamUrls": [
+        {
+          "api": "",
+          "id": 1,
+          "link": "ok",
+          "title": "Live 1",
+          "type": "0",
+          "webLink": null
+        }
+      ]
+    },
+    {
+      "id": "10091",
+      "title": "Senegal vs Iraq",
+      "slug": "senegal-vs-iraq",
+      "image": "null",
+      "category": "Cricket",
+      "publish": "1",
+      "eventInfo": {
+        "teamA": "Senegal",
+        "teamB": "Iraq",
+        "teamAFlag": "https://www.sofascore.com/static/images/flags/senegal.png",
+        "teamBFlag": "https://www.sofascore.com/static/images/flags/iraq.png",
+        "eventCat": "Cricket",
+        "eventName": "Senegal vs Iraq",
+        "eventType": "Cricket Duel",
+        "eventLogo": "https://www.sofascore.com/static/images/flags/senegal.png",
+        "isHot": 0,
+        "startTime": "",
+        "endTime": ""
+      },
+      "streamUrls": [
+        {
+          "api": "",
+          "id": 1,
+          "link": "ok",
+          "title": "Live 1",
+          "type": "0",
+          "webLink": null
+        }
+      ]
+    },
+    {
+      "id": "10092",
+      "title": "Cape Verde vs Saudi Arabia",
+      "slug": "cape-verde-vs-saudi-arabia",
+      "image": "null",
+      "category": "Cricket",
+      "publish": "1",
+      "eventInfo": {
+        "teamA": "Cape Verde",
+        "teamB": "Saudi Arabia",
+        "teamAFlag": "https://www.sofascore.com/static/images/flags/cape-verde.png",
+        "teamBFlag": "https://www.sofascore.com/static/images/flags/saudi-arabia.png",
+        "eventCat": "Cricket",
+        "eventName": "Cape Verde vs Saudi Arabia",
+        "eventType": "Cricket Duel",
+        "eventLogo": "https://www.sofascore.com/static/images/flags/cape-verde.png",
+        "isHot": 0,
+        "startTime": "",
+        "endTime": ""
+      },
+      "streamUrls": [
+        {
+          "api": "",
+          "id": 1,
+          "link": "ok",
+          "title": "Live 1",
+          "type": "0",
+          "webLink": null
+        }
+      ]
+    },
+    {
+      "id": "10093",
+      "title": "Uruguay vs Spain",
+      "slug": "uruguay-vs-spain",
+      "image": "null",
+      "category": "Cricket",
+      "publish": "1",
+      "eventInfo": {
+        "teamA": "Uruguay",
+        "teamB": "Spain",
+        "teamAFlag": "https://www.sofascore.com/static/images/flags/uruguay.png",
+        "teamBFlag": "https://www.sofascore.com/static/images/flags/spain.png",
+        "eventCat": "Cricket",
+        "eventName": "Uruguay vs Spain",
+        "eventType": "Cricket Duel",
+        "eventLogo": "https://www.sofascore.com/static/images/flags/uruguay.png",
+        "isHot": 0,
+        "startTime": "",
+        "endTime": ""
+      },
+      "streamUrls": [
+        {
+          "api": "",
+          "id": 1,
+          "link": "ok",
+          "title": "Live 1",
+          "type": "0",
+          "webLink": null
+        }
+      ]
+    },
+    {
+      "id": "10094",
+      "title": "Egypt vs Iran",
+      "slug": "egypt-vs-iran",
+      "image": "null",
+      "category": "Cricket",
+      "publish": "1",
+      "eventInfo": {
+        "teamA": "Egypt",
+        "teamB": "Iran",
+        "teamAFlag": "https://www.sofascore.com/static/images/flags/egypt.png",
+        "teamBFlag": "https://www.sofascore.com/static/images/flags/iran.png",
+        "eventCat": "Cricket",
+        "eventName": "Egypt vs Iran",
+        "eventType": "Cricket Duel",
+        "eventLogo": "https://www.sofascore.com/static/images/flags/egypt.png",
+        "isHot": 0,
+        "startTime": "",
+        "endTime": ""
+      },
+      "streamUrls": [
+        {
+          "api": "",
+          "id": 1,
+          "link": "ok",
+          "title": "Live 1",
+          "type": "0",
+          "webLink": null
+        }
+      ]
+    },
+    {
+      "id": "10095",
+      "title": "New Zealand vs Belgium",
+      "slug": "new-zealand-vs-belgium",
+      "image": "null",
+      "category": "Cricket",
+      "publish": "1",
+      "eventInfo": {
+        "teamA": "New Zealand",
+        "teamB": "Belgium",
+        "teamAFlag": "https://www.sofascore.com/static/images/flags/new-zealand.png",
+        "teamBFlag": "https://www.sofascore.com/static/images/flags/belgium.png",
+        "eventCat": "Cricket",
+        "eventName": "New Zealand vs Belgium",
+        "eventType": "Cricket Duel",
+        "eventLogo": "https://www.sofascore.com/static/images/flags/new-zealand.png",
+        "isHot": 0,
+        "startTime": "",
+        "endTime": ""
+      },
+      "streamUrls": [
+        {
+          "api": "",
+          "id": 1,
+          "link": "ok",
+          "title": "Live 1",
+          "type": "0",
+          "webLink": null
+        }
+      ]
+    },
+    {
+      "id": "10096",
+      "title": "Croatia vs Ghana",
+      "slug": "croatia-vs-ghana",
+      "image": "null",
+      "category": "Cricket",
+      "publish": "1",
+      "eventInfo": {
+        "teamA": "Croatia",
+        "teamB": "Ghana",
+        "teamAFlag": "https://www.sofascore.com/static/images/flags/croatia.png",
+        "teamBFlag": "https://www.sofascore.com/static/images/flags/ghana.png",
+        "eventCat": "Cricket",
+        "eventName": "Croatia vs Ghana",
+        "eventType": "Cricket Duel",
+        "eventLogo": "https://www.sofascore.com/static/images/flags/croatia.png",
+        "isHot": 0,
+        "startTime": "",
+        "endTime": ""
+      },
+      "streamUrls": [
+        {
+          "api": "",
+          "id": 1,
+          "link": "ok",
+          "title": "Live 1",
+          "type": "0",
+          "webLink": null
+        }
+      ]
+    },
+    {
+      "id": "10097",
+      "title": "Panama vs England",
+      "slug": "panama-vs-england",
+      "image": "null",
+      "category": "Cricket",
+      "publish": "1",
+      "eventInfo": {
+        "teamA": "Panama",
+        "teamB": "England",
+        "teamAFlag": "https://www.sofascore.com/static/images/flags/panama.png",
+        "teamBFlag": "https://www.sofascore.com/static/images/flags/england.png",
+        "eventCat": "Cricket",
+        "eventName": "Panama vs England",
+        "eventType": "Cricket Duel",
+        "eventLogo": "https://www.sofascore.com/static/images/flags/panama.png",
+        "isHot": 0,
+        "startTime": "",
+        "endTime": ""
+      },
+      "streamUrls": [
+        {
+          "api": "",
+          "id": 1,
+          "link": "ok",
+          "title": "Live 1",
+          "type": "0",
+          "webLink": null
+        }
+      ]
+    },
+    {
+      "id": "10098",
+      "title": "Colombia vs Portugal",
+      "slug": "colombia-vs-portugal",
+      "image": "null",
+      "category": "Cricket",
+      "publish": "1",
+      "eventInfo": {
+        "teamA": "Colombia",
+        "teamB": "Portugal",
+        "teamAFlag": "https://www.sofascore.com/static/images/flags/colombia.png",
+        "teamBFlag": "https://www.sofascore.com/static/images/flags/portugal.png",
+        "eventCat": "Cricket",
+        "eventName": "Colombia vs Portugal",
+        "eventType": "Cricket Duel",
+        "eventLogo": "https://www.sofascore.com/static/images/flags/colombia.png",
+        "isHot": 0,
+        "startTime": "",
+        "endTime": ""
+      },
+      "streamUrls": [
+        {
+          "api": "",
+          "id": 1,
+          "link": "ok",
+          "title": "Live 1",
+          "type": "0",
+          "webLink": null
+        }
+      ]
+    },
+    {
+      "id": "10099",
+      "title": "DR Congo vs Uzbekistan",
+      "slug": "dr-congo-vs-uzbekistan",
+      "image": "null",
+      "category": "Cricket",
+      "publish": "1",
+      "eventInfo": {
+        "teamA": "DR Congo",
+        "teamB": "Uzbekistan",
+        "teamAFlag": "https://www.sofascore.com/static/images/flags/dr-congo.png",
+        "teamBFlag": "https://www.sofascore.com/static/images/flags/uzbekistan.png",
+        "eventCat": "Cricket",
+        "eventName": "DR Congo vs Uzbekistan",
+        "eventType": "Cricket Duel",
+        "eventLogo": "https://www.sofascore.com/static/images/flags/dr-congo.png",
+        "isHot": 0,
+        "startTime": "",
+        "endTime": ""
+      },
+      "streamUrls": [
+        {
+          "api": "",
+          "id": 1,
+          "link": "ok",
+          "title": "Live 1",
+          "type": "0",
+          "webLink": null
+        }
+      ]
+    },
+    {
+      "id": "10100",
+      "title": "Algeria vs Austria",
+      "slug": "algeria-vs-austria",
+      "image": "null",
+      "category": "Cricket",
+      "publish": "1",
+      "eventInfo": {
+        "teamA": "Algeria",
+        "teamB": "Austria",
+        "teamAFlag": "https://www.sofascore.com/static/images/flags/algeria.png",
+        "teamBFlag": "https://www.sofascore.com/static/images/flags/austria.png",
+        "eventCat": "Cricket",
+        "eventName": "Algeria vs Austria",
+        "eventType": "Cricket Duel",
+        "eventLogo": "https://www.sofascore.com/static/images/flags/algeria.png",
+        "isHot": 0,
+        "startTime": "",
+        "endTime": ""
+      },
+      "streamUrls": [
+        {
+          "api": "",
+          "id": 1,
+          "link": "ok",
+          "title": "Live 1",
+          "type": "0",
+          "webLink": null
+        }
+      ]
+    },
+    {
+      "id": "10101",
+      "title": "Jordan vs Argentina",
+      "slug": "jordan-vs-argentina",
+      "image": "null",
+      "category": "Cricket",
+      "publish": "1",
+      "eventInfo": {
+        "teamA": "Jordan",
+        "teamB": "Argentina",
+        "teamAFlag": "https://www.sofascore.com/static/images/flags/jordan.png",
+        "teamBFlag": "https://www.sofascore.com/static/images/flags/argentina.png",
+        "eventCat": "Cricket",
+        "eventName": "Jordan vs Argentina",
+        "eventType": "Cricket Duel",
+        "eventLogo": "https://www.sofascore.com/static/images/flags/jordan.png",
+        "isHot": 0,
+        "startTime": "",
+        "endTime": ""
+      },
+      "streamUrls": [
+        {
+          "api": "",
+          "id": 1,
+          "link": "ok",
+          "title": "Live 1",
+          "type": "0",
+          "webLink": null
+        }
+      ]
+    },
+    {
+      "id": "10116",
+      "title": "Sri Lanka A vs Afghanistan A",
+      "slug": "sri-lanka-a-vs-afghanistan-a",
+      "image": "null",
+      "category": "Cricket",
+      "publish": "1",
+      "eventInfo": {
+        "teamA": "Sri Lanka A",
+        "teamB": "Afghanistan A",
+        "teamAFlag": "https://www.sofascore.com/static/images/flags/sri-lanka-a.png",
+        "teamBFlag": "https://www.sofascore.com/static/images/flags/afghanistan-a.png",
+        "eventCat": "Cricket",
+        "eventName": "Sri Lanka A vs Afghanistan A",
+        "eventType": "Cricket Duel",
+        "eventLogo": "https://www.sofascore.com/static/images/flags/sri-lanka-a.png",
+        "isHot": 0,
+        "startTime": "",
+        "endTime": ""
+      },
+      "streamUrls": [
+        {
+          "api": "27bc1b1df5cb11f0200df6ceea231181:c35331540ccf717099cb8f840135154e",
+          "id": 1,
+          "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/dxxsherzzi/out/v1/96c8a12527d64e90aa7defbb5a4678eb/cenc.mpd",
+          "title": "WILLOW - AQ",
+          "type": "7",
+          "webLink": null
+        },
+        {
+          "api": "5be21df3f18ef64aaaaa30cbdaf128ed:7fac12f58b756a1a52d3150c7d3b0304",
+          "id": 1,
+          "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ehfibbt64r/out/v1/242699d5a0484c3b8868d40d763d75cd/cenc.mpd",
+          "title": "WILLOW ALT",
+          "type": "7",
+          "webLink": null
+        },
+        {
+          "api": "",
+          "id": 1,
+          "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2037142/cricodi1106/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=0708fd9516817e92e837f8f4013175f9-1781149800119",
+          "title": "SonyLiv ENG",
+          "type": "0",
+          "webLink": null
+        },
+        {
+          "api": "",
+          "id": 1,
+          "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2018457/cricodi1106/HIN/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=0708fd9516817e92e837f8f4013175f9-1781149800119",
+          "title": "SonyLiv HIN",
+          "type": "0",
+          "webLink": null
+        },
+        {
+          "api": "",
+          "id": 1,
+          "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2105079/cricodi1106/TAM/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=0708fd9516817e92e837f8f4013175f9-1781149800119",
+          "title": "SonyLiv TAM",
+          "type": "0",
+          "webLink": null
+        },
+        {
+          "api": "",
+          "id": 1,
+          "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2037143/cricodi1106/TEL/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=0708fd9516817e92e837f8f4013175f9-1781149800119",
+          "title": "SonyLiv TEL",
+          "type": "0",
+          "webLink": null
+        },
+        {
+          "api": "",
+          "id": 1,
+          "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2105080/cricodi1106/KAN/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=0708fd9516817e92e837f8f4013175f9-1781149800119",
+          "title": "SonyLiv KAN",
+          "type": "0",
+          "webLink": null
+        }
+      ]
+    },
+    {
+      "id": "10145",
+      "title": "England Women vs Sri Lanka Women",
+      "slug": "england-women-vs-sri-lanka-women",
+      "image": "null",
+      "category": "Cricket",
+      "publish": "1",
+      "eventInfo": {
+        "teamA": "England Women",
+        "teamB": "Sri Lanka Women",
+        "teamAFlag": "https://www.sofascore.com/static/images/flags/england.png",
+        "teamBFlag": "https://www.sofascore.com/static/images/flags/sri-lanka.png",
+        "eventCat": "Cricket",
+        "eventName": "England Women vs Sri Lanka Women",
+        "eventType": "Cricket Duel",
+        "eventLogo": "https://www.sofascore.com/static/images/flags/england.png",
+        "isHot": 0,
+        "startTime": "",
+        "endTime": ""
+      },
+      "streamUrls": [
+        {
+          "api": "",
+          "id": 1,
+          "link": "ok",
+          "title": "Live 1",
+          "type": "0",
+          "webLink": null
+        }
+      ]
+    },
+    {
+      "id": "10173",
+      "title": "FIFA World CUP Opening Ceremony",
+      "slug": "fifa-world-cup-opening-ceremony",
+      "image": "null",
+      "category": "Live Events",
+      "publish": "1",
+      "eventInfo": {
+        "teamA": "FIFA World CUP Opening Ceremony",
+        "teamB": "",
+        "teamAFlag": "https://www.sofascore.com/static/images/tournaments/world-cup-2026-logo.webp",
+        "teamBFlag": "https://www.sofascore.com/static/images/tournaments/world-cup-2026-logo.webp",
+        "eventCat": "Live Events",
+        "eventName": "FIFA World CUP Opening Ceremony",
+        "eventType": "Live Events",
+        "eventLogo": "https://www.sofascore.com/static/images/tournaments/world-cup-2026-logo.webp",
+        "isHot": 0,
+        "startTime": "",
+        "endTime": ""
+      },
+      "streamUrls": [
+        {
+          "api": "c4088f5f265f9de50cffd80bf89308b7:2c4d2239d96d532b4ec2050653611003",
+          "id": 1,
+          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/h9urpo3cwb/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd",
+          "title": "TSN SPORTS - AQ",
+          "type": "7",
+          "webLink": null
+        },
+        {
+          "api": "549ab7cd35a64bb6bb479ecead04d69d:829799ed534d11fcadeb4b192467e050",
+          "id": 1,
+          "link": "https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/ch299/default/index.mpd",
+          "title": "CIGNAL ENGLISH",
+          "type": "7",
+          "webLink": null
+        },
+        {
+          "api": "1223d5105392cabf1bb9c2c1fdf6539a:340b409f4b8f78a343e0363a7938df38",
+          "id": 1,
+          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/iayg0kyrof/out/v1/91dc04907f56415b897faccfa9d252da/cenc.mpd",
+          "title": "CAZE TV - AQ",
+          "type": "7",
+          "webLink": null
+        },
+        {
+          "api": "4bbcff3289d457b4dd5dbdd21221de9a:c4906b9a9f8dda3c0725bddb8c497733",
+          "id": 1,
+          "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd",
+          "title": "SporTV BR - AQ",
+          "type": "7",
+          "webLink": null
+        },
+        {
+          "api": "ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1",
+          "id": 1,
+          "link": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd",
+          "title": "TELEMUNDO - AQ",
+          "type": "7",
+          "webLink": null
+        },
+        {
+          "api": "",
+          "id": 1,
+          "link": "https://chatgpt.hereisman.net/playlist/51863/load-playlist?|Referer=https://gooz.aapmains.net/",
+          "title": "Live 1",
+          "type": "0",
+          "webLink": null
+        },
+        {
+          "api": "7d6bb9f86e133e4cb33440b493b6b672:584ad285dcb9e7d42cf3e93f1cc3fe11",
+          "id": 1,
+          "link": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(WSNS)/master.mpd",
+          "title": "TELEMUNDO ES",
+          "type": "7",
+          "webLink": null
+        },
+        {
+          "api": "1710ac2bbfcd3032d0f6533850968f47:d2548dacc8efcd1cd0af0373060c82dc",
+          "id": 1,
+          "link": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/8u9cregwlt/out/v1/687f6b2a559943549be271504a948ffd/cenc.mpd",
+          "title": "TUDN ESPANOL",
+          "type": "7",
+          "webLink": null
+        },
+        {
+          "api": "fd86dde0ae3e14ff51c8fc8f248a50db:d106ae78b0893da2e4393ece99420baa",
+          "id": 1,
+          "link": "https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/62qdkefv9f/out/v1/f7d5b356e048494a8325563e8916d50b/cenc.mpd",
+          "title": "RTVE SPANISH",
+          "type": "7",
+          "webLink": null
+        },
+        {
+          "api": "433ffba670963e70857859a9dff4be04:51ede3a821229fe81e71282c8eff80e3",
+          "id": 1,
+          "link": "https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_cenc00/dash-short-hd.mpd",
+          "title": "M6 FRANCE",
+          "type": "7",
+          "webLink": null
+        },
+        {
+          "api": "10e2114398744f3880cc96653568da55:d6d40441f9fbebea03ec64c4aea7211f",
+          "id": 1,
+          "link": "https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(fifa1)/master.mpd",
+          "title": "UNiFy TV [IND]",
+          "type": "7",
+          "webLink": null
+        },
+        {
+          "api": "d185684e2330de5bea436daa094a5e86:014f0116154f5bf0050e03a6b0a23157",
+          "id": 1,
+          "link": "https://abkyrm4aaaaaaaamfyfksth3wr44v.ta.bia-cf.live.pv-cdn.net/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/8pold5zo8d/out/v1/3079be34d72a4985852d299a02406a0c/28324097-db6b-4d20-b965-8f775b050595-cenc.mpd",
+          "title": "CRAVE - AQ",
+          "type": "7",
+          "webLink": null
+        },
+        {
+          "api": "",
+          "id": 1,
+          "link": "https://livecdn-tc-livestream.rumsport10.live/stream/2/chunks.m3u8?is_vip=false&token=1781285452-Kv4cPTAAP5YTi-37675787d18d134a218f85601f931d3bc44a036c-f6c527fdfcd7c42629a5dc53721c9103|referer=https://iframe.rumsport10.live/",
+          "title": "HD SERVER",
+          "type": "0",
+          "webLink": null
+        }
+      ]
+    },
+    {
+      "id": "10174",
+      "title": "New York Knicks vs San Antonio Spurs",
+      "slug": "new-york-knicks-vs-san-antonio-spurs",
+      "image": "null",
+      "category": "Cricket",
+      "publish": "1",
+      "eventInfo": {
+        "teamA": "New York Knicks",
+        "teamB": "San Antonio Spurs",
+        "teamAFlag": "https://www.sofascore.com/static/images/flags/new-york-knicks.png",
+        "teamBFlag": "https://www.sofascore.com/static/images/flags/san-antonio-spurs.png",
+        "eventCat": "Cricket",
+        "eventName": "New York Knicks vs San Antonio Spurs",
+        "eventType": "Cricket Duel",
+        "eventLogo": "https://www.sofascore.com/static/images/flags/new-york-knicks.png",
+        "isHot": 0,
+        "startTime": "",
+        "endTime": ""
+      },
+      "streamUrls": [
+        {
+          "api": "",
+          "id": 1,
+          "link": "ok",
+          "title": "Live 1",
+          "type": "0",
+          "webLink": null
+        }
+      ]
+    },
+    {
+      "id": "10175",
+      "title": "Montreal Alouettes vs Toronto Argonauts",
+      "slug": "montreal-alouettes-vs-toronto-argonauts",
+      "image": "null",
+      "category": "Football",
+      "publish": "1",
+      "eventInfo": {
+        "teamA": "Montreal Alouettes",
+        "teamB": "Toronto Argonauts",
+        "teamAFlag": "https://www.sofascore.com/static/images/flags/montreal-alouettes.png",
+        "teamBFlag": "https://www.sofascore.com/static/images/flags/toronto-argonauts.png",
+        "eventCat": "Football",
+        "eventName": "Montreal Alouettes vs Toronto Argonauts",
+        "eventType": "Football Duel",
+        "eventLogo": "https://www.sofascore.com/static/images/flags/montreal-alouettes.png",
+        "isHot": 0,
+        "startTime": "",
+        "endTime": ""
+      },
+      "streamUrls": [
+        {
+          "api": "",
+          "id": 1,
+          "link": "ok",
+          "title": "Live 1",
+          "type": "0",
+          "webLink": null
+        }
+      ]
+    }
+  ]
+}
