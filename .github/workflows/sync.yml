@@ -1,0 +1,34 @@
+name: Sync Sports Streams
+
+on:
+  schedule:
+    # Runs automatically every 10 minutes to pull new matches and update streaming URLs
+    - cron: '*/10 * * * *'
+  workflow_dispatch: # Allows manual syncing anytime from the GitHub Actions dashboard
+
+permissions:
+  contents: write
+
+jobs:
+  sync-data:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Fetch and Compile Secure Database
+        run: python scraper.py
+
+      - name: Commit and Push Updates
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add api/
+          # Commit only if files have changed, otherwise skip safely
+          git commit -m "Automated Consolidated Sports Update [skip ci]" || exit 0
+          git push
