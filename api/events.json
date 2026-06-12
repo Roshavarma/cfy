@@ -9,13 +9,13 @@
       "category": "Motorsport",
       "publish": "1",
       "eventInfo": {
-        "endTime": "2026/06/12 20:00:07 +0000",
+        "endTime": "2026/06/13 19:00:53 +0000",
         "eventCat": "Motorsport",
         "eventLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/F1.svg/2560px-F1.svg.png",
         "eventName": "Motorsports",
         "eventType": "Formula 1",
         "isHot": "0",
-        "startTime": "2026/06/12 11:30:04 +0000",
+        "startTime": "2026/06/13 10:30:50 +0000",
         "teamA": "Formula 1",
         "teamAFlag": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisf1lphGAPsJzz9s89f8AVGiITtEZIrt3Xwg1u-SlmqQtIH13DRgSeOLExqvR4u0jaEtlAtfFyqqBXgBEnw9hP9BWoKQpErNFyEDJkKU4zXuIeqaFoQORWs3fnGWd2o6_TazAZn5ihmLgmNdbGmnWCnUQKP_BfRj44Lpck_OtE49p7n2Kk6k6KWjHOTsA/s1600/1000009765.jpg",
         "teamB": "Formula 1",
@@ -789,6 +789,22 @@
       },
       "streamUrls": [
         {
+          "api": "c620c93c60c04999eb9ddc28ecfb70a8:e76a709c251313190e76cb3c3d3a5824",
+          "id": 1,
+          "link": "https://abgfgo7aaaaaaaammo4qlji7ci5df.ta.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/ap5wz1ofsp/out/v1/7fa6feef143747beaa186ebb6dfb2532/cenc.mpd",
+          "title": "FOX SPORTS - AQ",
+          "type": "7",
+          "webLink": null
+        },
+        {
+          "api": "e51aa21f2a0fef9aabc120dfb655b52f:a12a987fe725a40b6be95cd84b15f689",
+          "id": 1,
+          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/7janu55dwc/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
+          "title": "TSN SPORTS - AQ",
+          "type": "7",
+          "webLink": null
+        },
+        {
           "api": "ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1",
           "id": 1,
           "link": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd",
@@ -805,18 +821,42 @@
           "webLink": null
         },
         {
-          "api": "2a8c2d5088377f51f825d871e568be19:eb5a8db64ca1992389672edb9447c711",
+          "api": "34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4",
           "id": 1,
-          "link": "https://nog-live-ott.izzigo.tv/out/u/dash/CDMX1/CANAL-5-RDF-HD/default.mpd",
-          "title": "CANAL SPORTS - AQ",
+          "link": "https://a121aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/jo3rmhhp2r/out/v1/50656942ce4e40a1be824c9d83578fe9/cenc.mpd",
+          "title": "Caz\u00e9TV - AQ",
           "type": "7",
           "webLink": null
         },
         {
-          "api": "c1a0ac1044a433d0856ccdc08f245084:7f0e8800a6d63d7915ac181bb88ce813",
+          "api": "549ab7cd35a64bb6bb479ecead04d69d:829799ed534d11fcadeb4b192467e050",
           "id": 1,
-          "link": "https://simplitv-live.mdn.ors.at/live/eds/zdf_hd/dash4h/zdf_hd.mpd",
-          "title": "ZDF GERMAN HD",
+          "link": "https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/ch299/default/index.mpd",
+          "title": "CIGNAL ENG - AQ",
+          "type": "7",
+          "webLink": null
+        },
+        {
+          "api": "433ffba670963e70857859a9dff4be04:51ede3a821229fe81e71282c8eff80e3",
+          "id": 1,
+          "link": "https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_cenc00/dash-short-hd.mpd",
+          "title": "M6 FRANCE - AQ",
+          "type": "7",
+          "webLink": null
+        },
+        {
+          "api": "b984175de3216c35d8daf678c61c0b9a:f7ca11d77347793f637dd5a0dc7323ad",
+          "id": 1,
+          "link": "https://a158live-pv-ta-amazon.akamaized.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/1hqyvglfwr/out/v1/2314a5adddfa4ab2a6afa4b3dd52cbb6/50d06895-ef26-49b3-91b2-0d82a798b5c6-cenc.mpd",
+          "title": "FOX SPORTS 4K",
+          "type": "7",
+          "webLink": null
+        },
+        {
+          "api": "adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a",
+          "id": 1,
+          "link": "https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/dash/.mpd",
+          "title": "TIPIK FR - AQ",
           "type": "7",
           "webLink": null
         },
@@ -837,14 +877,6 @@
           "webLink": null
         },
         {
-          "api": "",
-          "id": 1,
-          "link": "https://ilglobotv-live.akamaized.net/channels/RAI1/Live.m3u8",
-          "title": "RAI ITALY - AQ",
-          "type": "0",
-          "webLink": null
-        },
-        {
           "api": "43513b13f4b542e39c9265921dfc1726:b0b2678bcd274c37b888a6c987d502ed",
           "id": 1,
           "link": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinema/default/manifest.mpd",
@@ -857,30 +889,6 @@
           "id": 1,
           "link": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglacinema/default/manifest.mpd",
           "title": "ZEE5 BANGLA - AQ",
-          "type": "7",
-          "webLink": null
-        },
-        {
-          "api": "",
-          "id": 1,
-          "link": "https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8",
-          "title": "CAZE TV HD",
-          "type": "0",
-          "webLink": null
-        },
-        {
-          "api": "",
-          "id": 1,
-          "link": "https://t7.ultrastream.vip/sporttv1/index.m3u8?|Referer=https://foottime.top/",
-          "title": "Sport TV HD",
-          "type": "0",
-          "webLink": null
-        },
-        {
-          "api": "e51aa21f2a0fef9aabc120dfb655b52f:a12a987fe725a40b6be95cd84b15f689",
-          "id": 1,
-          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/7janu55dwc/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
-          "title": "TSN SPORTS - AQ",
           "type": "7",
           "webLink": null
         },
@@ -898,6 +906,94 @@
           "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/jkcljgqbx8/out/v1/63bfa701559340f3a2a2cb1fccd24807/cenc.mpd",
           "title": "TSN SPORTS 5 - AQ",
           "type": "7",
+          "webLink": null
+        },
+        {
+          "api": "",
+          "id": 1,
+          "link": "https://falcon-en-conn.zee5.com/hls/live/2125511/CAN-vs-BIH-13-con_ENG/index-connected.m3u8?hdntl=exp=1781373516~acl=%2f*~id=0-1-6z5974802_808A61AB-D883-4B4A-BC95-3C2C1511D0CF~data=hdntl,2125511,CAN-vs-BIH-13-con,ENG,ffe2323923604da4834df2405189abcb1cb5c75e3d3cf28fc7c4467548a15304~hmac=c5669ee9d87ae2fe89b67c7a5dd323da43a3a06219565f53676034f7bc9cdb3c|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0",
+          "title": "ZEE5 ENGLISH - IN",
+          "type": "0",
+          "webLink": null
+        },
+        {
+          "api": "",
+          "id": 1,
+          "link": "https://falcon-rol-all.zee5.com/hls/live/2125512/CAN-vs-BIH-13-con_HIN/index-connected.m3u8?hdntl=exp=1781373779~acl=%2f*~id=0-1-6z5974802_808A61AB-D883-4B4A-BC95-3C2C1511D0CF~data=hdntl,2125512,CAN-vs-BIH-13-con,HIN,18cae3aa4fa55731605e7e10bf757ac7add4cdde16f6e4d22a6454e04f800a0e~hmac=18dbe2cfe1954be420146953a83a7d86dfa5ece438b3e77209a9fd090a25484f|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0",
+          "title": "ZEE5 HINDI - IN",
+          "type": "0",
+          "webLink": null
+        },
+        {
+          "api": "",
+          "id": 1,
+          "link": "https://falcon-rol-all.zee5.com/hls/live/2125513/CAN-vs-BIH-13-con_BEN/index-connected.m3u8?hdntl=exp=1781373862~acl=%2f*~id=0-1-6z5974802_808A61AB-D883-4B4A-BC95-3C2C1511D0CF~data=hdntl,2125513,CAN-vs-BIH-13-con,BEN,9f408479b0b6fafa358f3b5a77f2f691c66f09d7f94012c2c04eb5902f734292~hmac=8f534237f328e61301d85629d1d2ee47b00c1e691fb7018d9ee6a78443335aef|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0",
+          "title": "ZEE5 BANGLA - IN",
+          "type": "0",
+          "webLink": null
+        },
+        {
+          "api": "",
+          "id": 1,
+          "link": "https://falcon-rol-all.zee5.com/hls/live/2125516/CAN-vs-BIH-13-con_MAL/index-connected.m3u8?hdntl=exp=1781374017~acl=%2f*~id=0-1-6z5974802_808A61AB-D883-4B4A-BC95-3C2C1511D0CF~data=hdntl,2125516,CAN-vs-BIH-13-con,MAL,2f31d4d5b2f10574d48d8553fff9942f3ec5e39787b33915513150aa476f977d~hmac=8f9088be2ae4340cee5bce935f381fba13403ca0eb34eada1f8285326d683966|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0",
+          "title": "ZEE5 MAL - IN",
+          "type": "0",
+          "webLink": null
+        },
+        {
+          "api": "",
+          "id": 1,
+          "link": "https://chatgpt.hereisman.net/playlist/51898/load-playlist?|Referer=https://gooz.aapmains.net",
+          "title": "FOX SPORTS HD",
+          "type": "0",
+          "webLink": null
+        },
+        {
+          "api": "",
+          "id": 1,
+          "link": "https://chatgpt.hereisman.net/playlist/51899/load-playlist?|Referer=https://gooz.aapmains.net",
+          "title": "ITV SPORTS HD",
+          "type": "0",
+          "webLink": null
+        },
+        {
+          "api": "",
+          "id": 1,
+          "link": "https://chatgpt.hereisman.net/playlist/51898/load-playlist?|Referer=https://gooz.aapmains.net",
+          "title": "TSN SPORTS HD",
+          "type": "0",
+          "webLink": null
+        },
+        {
+          "api": "",
+          "id": 1,
+          "link": "https://raw.githubusercontent.com/ON2026/1smas/refs/heads/main/mx1app2.m3u8",
+          "title": "beiN MAX HD",
+          "type": "0",
+          "webLink": null
+        },
+        {
+          "api": "",
+          "id": 1,
+          "link": "https://pul-tenm.nbs3g.com/live/hd-en-1-4459824.m3u8?txSecret=2ff7459f70cf23a5fbef9372e7db0754&txTime=6A2D8BA1",
+          "title": "FAST SERVER 1",
+          "type": "0",
+          "webLink": null
+        },
+        {
+          "api": "",
+          "id": 1,
+          "link": "https://cdn9859.shop/bbc1.m3u8",
+          "title": "BBC SPORTS HD",
+          "type": "0",
+          "webLink": null
+        },
+        {
+          "api": "",
+          "id": 1,
+          "link": "https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/0CIOQNy1KLjxRkUB81otvaJ9-4h-F6bGoxE9Il0ofW4YVFddBh0OxdlKnCRBdEPiPj_Y8nNWxlfo2q5S7Lz9Cw/non_transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/master_dynamic_highlatency.m3u8?type=live",
+          "title": "beiN ARABIC - AQ",
+          "type": "0",
           "webLink": null
         }
       ]
@@ -3208,7 +3304,7 @@
       "category": "Cricket",
       "publish": "1",
       "eventInfo": {
-        "endTime": "2026/06/12 20:40:00 +0000",
+        "endTime": "2026/06/12 21:30:24 +0000",
         "eventCat": "Cricket",
         "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/11183/image",
         "eventName": "Cricket",
@@ -3287,13 +3383,13 @@
       "category": "Football",
       "publish": "1",
       "eventInfo": {
-        "endTime": "2026/06/12 19:00:41 +0000",
+        "endTime": "2026/06/13 01:00:10 +0000",
         "eventCat": "Football",
         "eventLogo": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/77.png",
         "eventName": "Football",
         "eventType": "FIFA World Cup Opening Ceremony",
         "isHot": "0",
-        "startTime": "2026/06/12 17:30:36 +0000",
+        "startTime": "2026/06/12 23:30:07 +0000",
         "teamA": "Opening Ceremony",
         "teamAFlag": "https://images.fotmob.com/image_resources/logo/leaguelogo/dark/77.png",
         "teamB": "Opening Ceremony",
@@ -3508,8 +3604,16 @@
         {
           "api": "",
           "id": 1,
-          "link": "ok",
+          "link": "https://mainstreams.pro/hls/dazhfiach15.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz&Origin=https://streamcenter.xyz",
           "title": "Live 1",
+          "type": "0",
+          "webLink": null
+        },
+        {
+          "api": "",
+          "id": 1,
+          "link": "http://193.47.62.41/hls/HIIIZZZZZ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+          "title": "LOW SERVER",
           "type": "0",
           "webLink": null
         }
@@ -3539,8 +3643,16 @@
         {
           "api": "",
           "id": 1,
-          "link": "ok",
+          "link": "https://mainstreams.pro/hls/16yuitzaerghbhc16.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz&Origin=https://streamcenter.xyz",
           "title": "Live 1",
+          "type": "0",
+          "webLink": null
+        },
+        {
+          "api": "",
+          "id": 1,
+          "link": "http://193.47.62.41/hls/HIIIZZZZZZ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+          "title": "LOW SERVER",
           "type": "0",
           "webLink": null
         }
@@ -3570,7 +3682,7 @@
         {
           "api": "",
           "id": 1,
-          "link": "ok",
+          "link": "https://mainstreams.pro/hls/ihfazugfyjcazich17.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz&Origin=https://streamcenter.xyz",
           "title": "Live 1",
           "type": "0",
           "webLink": null
@@ -3601,8 +3713,16 @@
         {
           "api": "",
           "id": 1,
-          "link": "ok",
+          "link": "https://mainstreams.pro/hls/jkzahzadach20.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz&Origin=https://streamcenter.xyz",
           "title": "Live 1",
+          "type": "0",
+          "webLink": null
+        },
+        {
+          "api": "",
+          "id": 1,
+          "link": "https://edge2caster.pro/hls/jkzahzadach20.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+          "title": "HD SERVER",
           "type": "0",
           "webLink": null
         }
@@ -3632,8 +3752,16 @@
         {
           "api": "",
           "id": 1,
-          "link": "ok",
+          "link": "https://mainstreams.pro/hls/ojzkajnach21.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz&Origin=https://streamcenter.xyz",
           "title": "Live 1",
+          "type": "0",
+          "webLink": null
+        },
+        {
+          "api": "",
+          "id": 1,
+          "link": "https://edge2caster.pro/hls/ojzkajnach21.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+          "title": "HD SERVER",
           "type": "0",
           "webLink": null
         }
@@ -3663,7 +3791,15 @@
         {
           "api": "",
           "id": 1,
-          "link": "ok",
+          "link": "https://mainstreams.pro/hls/bzagLHzach19.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz&Origin=https://streamcenter.xyz",
+          "title": "HD SERVER",
+          "type": "0",
+          "webLink": null
+        },
+        {
+          "api": "",
+          "id": 1,
+          "link": "https://edge2caster.pro/hls/bzagLHzach19.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
           "title": "Live 1",
           "type": "0",
           "webLink": null
@@ -3694,7 +3830,7 @@
         {
           "api": "",
           "id": 1,
-          "link": "ok",
+          "link": "https://mainstreams.pro/hls/Czajafjihafch18.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz&Origin=https://streamcenter.xyz",
           "title": "Live 1",
           "type": "0",
           "webLink": null
@@ -3725,8 +3861,16 @@
         {
           "api": "",
           "id": 1,
-          "link": "ok",
+          "link": "https://mainstreams.pro/hls/ijfnakfidch22.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz&Origin=https://streamcenter.xyz",
           "title": "Live 1",
+          "type": "0",
+          "webLink": null
+        },
+        {
+          "api": "",
+          "id": 1,
+          "link": "https://edgestreams.pro/hls/ijfnakfidch22.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+          "title": "Live 2",
           "type": "0",
           "webLink": null
         }
@@ -3756,8 +3900,16 @@
         {
           "api": "",
           "id": 1,
-          "link": "ok",
+          "link": "https://mainstreams.pro/hls/jnzkdzjfanch23.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz&Origin=https://streamcenter.xyz",
           "title": "Live 1",
+          "type": "0",
+          "webLink": null
+        },
+        {
+          "api": "",
+          "id": 1,
+          "link": "https://edgestreams.pro/hls/jnzkdzjfanch23.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+          "title": "Live 2",
           "type": "0",
           "webLink": null
         }
@@ -3787,8 +3939,16 @@
         {
           "api": "",
           "id": 1,
-          "link": "ok",
+          "link": "https://mainstreams.pro/hls/fskjanach24.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz&Origin=https://streamcenter.xyz",
           "title": "Live 1",
+          "type": "0",
+          "webLink": null
+        },
+        {
+          "api": "",
+          "id": 1,
+          "link": "https://edgestreams.pro/hls/fskjanach24.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+          "title": "Live 2",
           "type": "0",
           "webLink": null
         }
@@ -3818,8 +3978,16 @@
         {
           "api": "",
           "id": 1,
-          "link": "ok",
+          "link": "https://mainstreams.pro/hls/kjhfzua25.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz&Origin=https://streamcenter.xyz",
           "title": "Live 1",
+          "type": "0",
+          "webLink": null
+        },
+        {
+          "api": "",
+          "id": 1,
+          "link": "https://edge2caster.pro/hls/kjhfzua25.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+          "title": "Live 2",
           "type": "0",
           "webLink": null
         }
@@ -3849,7 +4017,7 @@
         {
           "api": "",
           "id": 1,
-          "link": "ok",
+          "link": "https://mainstreams.pro/hls/dzjhkfazbka26.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz&Origin=https://streamcenter.xyz",
           "title": "Live 1",
           "type": "0",
           "webLink": null
@@ -3880,8 +4048,16 @@
         {
           "api": "",
           "id": 1,
-          "link": "ok",
+          "link": "https://mainstreams.pro/hls/jzabfazkbf27.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz&Origin=https://streamcenter.xyz",
           "title": "Live 1",
+          "type": "0",
+          "webLink": null
+        },
+        {
+          "api": "",
+          "id": 1,
+          "link": "https://edge2caster.pro/hls/jzabfazkbf27.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+          "title": "Live 2",
           "type": "0",
           "webLink": null
         }
@@ -3911,7 +4087,7 @@
         {
           "api": "",
           "id": 1,
-          "link": "ok",
+          "link": "https://mainstreams.pro/hls/hefbafbakx28.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz&Origin=https://streamcenter.xyz",
           "title": "Live 1",
           "type": "0",
           "webLink": null
