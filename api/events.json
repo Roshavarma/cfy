@@ -1122,7 +1122,7 @@
         "eventLogo": "https://www.sofascore.com/static/images/tournaments/world-cup-2026-logo.webp",
         "eventName": "Football",
         "eventType": "FIFA World Cup, Group B",
-        "isHot": "0",
+        "isHot": "1",
         "startTime": "2026/06/13 19:00:00 +0000",
         "teamA": "Qatar",
         "teamAFlag": "https://img.sofascore.com/api/v1/team/4792/image",
@@ -1153,7 +1153,7 @@
         "eventLogo": "https://www.sofascore.com/static/images/tournaments/world-cup-2026-logo.webp",
         "eventName": "Football",
         "eventType": "FIFA World Cup, Group C",
-        "isHot": "0",
+        "isHot": "1",
         "startTime": "2026/06/13 22:00:00 +0000",
         "teamA": "Brazil",
         "teamAFlag": "https://img.sofascore.com/api/v1/team/4748/image",
@@ -1184,7 +1184,7 @@
         "eventLogo": "https://www.sofascore.com/static/images/tournaments/world-cup-2026-logo.webp",
         "eventName": "Football",
         "eventType": "FIFA World Cup, Group C",
-        "isHot": "0",
+        "isHot": "1",
         "startTime": "2026/06/14 01:00:00 +0000",
         "teamA": "Haiti",
         "teamAFlag": "https://img.sofascore.com/api/v1/team/7229/image",
@@ -1215,7 +1215,7 @@
         "eventLogo": "https://www.sofascore.com/static/images/tournaments/world-cup-2026-logo.webp",
         "eventName": "Football",
         "eventType": "FIFA World Cup, Group D",
-        "isHot": "0",
+        "isHot": "1",
         "startTime": "2026/06/14 04:00:00 +0000",
         "teamA": "Australia",
         "teamAFlag": "https://img.sofascore.com/api/v1/team/4741/image",
@@ -3297,85 +3297,6 @@
       ]
     },
     {
-      "id": "10145",
-      "title": "England Women vs Sri Lanka Women",
-      "slug": "england-women-vs-sri-lanka-women",
-      "image": "null",
-      "category": "Cricket",
-      "publish": "1",
-      "eventInfo": {
-        "endTime": "2026/06/12 21:30:24 +0000",
-        "eventCat": "Cricket",
-        "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/11183/image",
-        "eventName": "Cricket",
-        "eventType": "ICC Women's T20 World Cup, Group 2",
-        "isHot": "0",
-        "startTime": "2026/06/12 17:30:00 +0000",
-        "teamA": "England Women",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/213121/image",
-        "teamB": "Sri Lanka Women",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/187806/image"
-      },
-      "streamUrls": [
-        {
-          "api": "2862e90987556d928c55bb1f40daeef9:bbd4a5907266d06050a9a9ad9a7260d8",
-          "id": 1,
-          "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/of7vhryawe/out/v1/92b65dcbe0744834a5a425e7222bf8d9/cenc.mpd",
-          "title": "WILLOW - AQ",
-          "type": "7",
-          "webLink": null
-        },
-        {
-          "api": "",
-          "id": 1,
-          "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=8Q-Mt7GTaRI2Eo9LNZ9mrg&e=2081082141|user-agent=Mozilla",
-          "title": "SKY CRICKET - AQ",
-          "type": "0",
-          "webLink": null
-        },
-        {
-          "api": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
-          "id": 1,
-          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
-          "title": "WILLOW HD",
-          "type": "7",
-          "webLink": null
-        },
-        {
-          "api": "",
-          "id": 1,
-          "link": "https://cdn9859.shop/skymainevent.m3u8",
-          "title": "SKY MAIN EVENT",
-          "type": "0",
-          "webLink": null
-        },
-        {
-          "api": "",
-          "id": 1,
-          "link": "https://cdn9859.shop/skynz2.m3u8",
-          "title": "SKY SPORT NZ",
-          "type": "0",
-          "webLink": null
-        },
-        {
-          "api": "",
-          "id": 1,
-          "link": "https://cdn9859.shop/skycricket.m3u8",
-          "title": "SKY CRICKET HD",
-          "type": "0",
-          "webLink": null
-        },
-        {
-          "api": "",
-          "id": 1,
-          "link": "http://193.47.62.41/hls/BHHHAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-          "title": "LOW SERVER",
-          "type": "0",
-          "webLink": null
-        }
-      ]
-    },
-    {
       "id": "10173",
       "title": "FIFA World CUP Opening Ceremony",
       "slug": "fifa-world-cup-opening-ceremony",
@@ -3401,6 +3322,14 @@
           "id": 1,
           "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/7janu55dwc/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
           "title": "TSN SPORTS - AQ",
+          "type": "7",
+          "webLink": null
+        },
+        {
+          "api": "c620c93c60c04999eb9ddc28ecfb70a8:e76a709c251313190e76cb3c3d3a5824",
+          "id": 1,
+          "link": "https://abgfgo7aaaaaaaammo4qlji7ci5df.ta.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/ap5wz1ofsp/out/v1/7fa6feef143747beaa186ebb6dfb2532/cenc.mpd",
+          "title": "FOX SPORTS - AQ",
           "type": "7",
           "webLink": null
         },
@@ -3431,7 +3360,7 @@
         {
           "api": "",
           "id": 1,
-          "link": "https://chatgpt.hereisman.net/playlist/51893/load-playlist?|Referer=https://gooz.aapmains.net",
+          "link": "https://chatgpt.hereisman.net/playlist/51905/load-playlist?|Referer=https://gooz.aapmains.net",
           "title": "Live 1",
           "type": "0",
           "webLink": null
@@ -3474,14 +3403,6 @@
           "link": "https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(fifa1)/master.mpd",
           "title": "UNiFy TV [IND]",
           "type": "7",
-          "webLink": null
-        },
-        {
-          "api": "",
-          "id": 1,
-          "link": "https://livecdn-tc-livestream.rumsport10.live/stream/2/chunks.m3u8?is_vip=false&token=1781285452-Kv4cPTAAP5YTi-37675787d18d134a218f85601f931d3bc44a036c-f6c527fdfcd7c42629a5dc53721c9103|referer=https://iframe.rumsport10.live/",
-          "title": "HD SERVER",
-          "type": "0",
           "webLink": null
         },
         {
@@ -3557,7 +3478,7 @@
       "category": "American Football",
       "publish": "1",
       "eventInfo": {
-        "endTime": "2026/06/13 01:00:00 +0000",
+        "endTime": "2026/06/13 02:15:42 +0000",
         "eventCat": "American Football",
         "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/11208/image",
         "eventName": "American Football",
@@ -3571,11 +3492,19 @@
       },
       "streamUrls": [
         {
-          "api": "",
+          "api": "e853333da2c9196ea11374634231bc45:de2e2dbe818d78dfad07d6cd9a4c63d4",
           "id": 1,
-          "link": "ok",
-          "title": "Live 1",
-          "type": "0",
+          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/jkcljgqbx8/out/v1/63bfa701559340f3a2a2cb1fccd24807/cenc.mpd",
+          "title": "TSN SPORTS - AQ",
+          "type": "7",
+          "webLink": null
+        },
+        {
+          "api": "f5c2b30eac11be1e8cdfc9585f5fe6af:a8198d17bf9b0da77450fbb919a38b2d",
+          "id": 1,
+          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/lzhmuzmjsl/out/v1/c171eeb214c749f2b351c79df317b21e/cenc.mpd",
+          "title": "TSN SPORTS HD",
+          "type": "7",
           "webLink": null
         }
       ]
@@ -3588,7 +3517,7 @@
       "category": "Baseball",
       "publish": "1",
       "eventInfo": {
-        "endTime": "2026/06/13 00:40:00 +0000",
+        "endTime": "2026/06/13 02:00:40 +0000",
         "eventCat": "Baseball",
         "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/11205/image",
         "eventName": "Baseball",
@@ -3627,7 +3556,7 @@
       "category": "Baseball",
       "publish": "1",
       "eventInfo": {
-        "endTime": "2026/06/13 00:45:00 +0000",
+        "endTime": "2026/06/13 02:45:47 +0000",
         "eventCat": "Baseball",
         "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/11205/image",
         "eventName": "Baseball",
@@ -3666,7 +3595,7 @@
       "category": "Baseball",
       "publish": "1",
       "eventInfo": {
-        "endTime": "2026/06/13 01:05:00 +0000",
+        "endTime": "2026/06/13 02:15:33 +0000",
         "eventCat": "Baseball",
         "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/11205/image",
         "eventName": "Baseball",
@@ -3682,8 +3611,16 @@
         {
           "api": "",
           "id": 1,
-          "link": "https://mainstreams.pro/hls/ihfazugfyjcazich17.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz&Origin=https://streamcenter.xyz",
+          "link": "https://chatgpt.hereisman.net/playlist/51909/load-playlist?|Referer=https://gooz.aapmains.net ",
           "title": "Live 1",
+          "type": "0",
+          "webLink": null
+        },
+        {
+          "api": "",
+          "id": 1,
+          "link": "https://mainstreams.pro/hls/ihfazugfyjcazich17.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz&Origin=https://streamcenter.xyz",
+          "title": "HD SERVER",
           "type": "0",
           "webLink": null
         }
@@ -3697,7 +3634,7 @@
       "category": "Baseball",
       "publish": "1",
       "eventInfo": {
-        "endTime": "2026/06/13 01:10:00 +0000",
+        "endTime": "2026/06/13 02:15:41 +0000",
         "eventCat": "Baseball",
         "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/11205/image",
         "eventName": "Baseball",
@@ -3713,8 +3650,16 @@
         {
           "api": "",
           "id": 1,
-          "link": "https://mainstreams.pro/hls/jkzahzadach20.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz&Origin=https://streamcenter.xyz",
+          "link": "https://chatgpt.hereisman.net/playlist/51912/load-playlist?|Referer=https://gooz.aapmains.net ",
           "title": "Live 1",
+          "type": "0",
+          "webLink": null
+        },
+        {
+          "api": "",
+          "id": 1,
+          "link": "https://mainstreams.pro/hls/jkzahzadach20.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz&Origin=https://streamcenter.xyz",
+          "title": "Live 2",
           "type": "0",
           "webLink": null
         },
@@ -3736,7 +3681,7 @@
       "category": "Baseball",
       "publish": "1",
       "eventInfo": {
-        "endTime": "2026/06/13 01:10:00 +0000",
+        "endTime": "2026/06/13 02:15:05 +0000",
         "eventCat": "Baseball",
         "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/11205/image",
         "eventName": "Baseball",
@@ -3752,8 +3697,16 @@
         {
           "api": "",
           "id": 1,
-          "link": "https://mainstreams.pro/hls/ojzkajnach21.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz&Origin=https://streamcenter.xyz",
+          "link": "https://chatgpt.hereisman.net/playlist/51913/load-playlist?|Referer=https://gooz.aapmains.net ",
           "title": "Live 1",
+          "type": "0",
+          "webLink": null
+        },
+        {
+          "api": "",
+          "id": 1,
+          "link": "https://mainstreams.pro/hls/ojzkajnach21.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz&Origin=https://streamcenter.xyz",
+          "title": "Live 2",
           "type": "0",
           "webLink": null
         },
@@ -3775,7 +3728,7 @@
       "category": "Baseball",
       "publish": "1",
       "eventInfo": {
-        "endTime": "2026/06/13 01:15:00 +0000",
+        "endTime": "2026/06/13 02:30:28 +0000",
         "eventCat": "Baseball",
         "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/11205/image",
         "eventName": "Baseball",
@@ -3791,6 +3744,14 @@
         {
           "api": "",
           "id": 1,
+          "link": "https://chatgpt.hereisman.net/playlist/51915/load-playlist?|Referer=https://gooz.aapmains.net ",
+          "title": "Live 1",
+          "type": "0",
+          "webLink": null
+        },
+        {
+          "api": "",
+          "id": 1,
           "link": "https://mainstreams.pro/hls/bzagLHzach19.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz&Origin=https://streamcenter.xyz",
           "title": "HD SERVER",
           "type": "0",
@@ -3800,7 +3761,7 @@
           "api": "",
           "id": 1,
           "link": "https://edge2caster.pro/hls/bzagLHzach19.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-          "title": "Live 1",
+          "title": "Live 2",
           "type": "0",
           "webLink": null
         }
@@ -3814,7 +3775,7 @@
       "category": "Baseball",
       "publish": "1",
       "eventInfo": {
-        "endTime": "2026/06/13 01:15:00 +0000",
+        "endTime": "2026/06/13 02:30:04 +0000",
         "eventCat": "Baseball",
         "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/11205/image",
         "eventName": "Baseball",
@@ -3830,8 +3791,16 @@
         {
           "api": "",
           "id": 1,
-          "link": "https://mainstreams.pro/hls/Czajafjihafch18.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz&Origin=https://streamcenter.xyz",
+          "link": "https://chatgpt.hereisman.net/playlist/51925/load-playlist?|Referer=https://gooz.aapmains.net ",
           "title": "Live 1",
+          "type": "0",
+          "webLink": null
+        },
+        {
+          "api": "",
+          "id": 1,
+          "link": "https://mainstreams.pro/hls/Czajafjihafch18.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz&Origin=https://streamcenter.xyz",
+          "title": "HD SERVER",
           "type": "0",
           "webLink": null
         }
@@ -3845,7 +3814,7 @@
       "category": "Baseball",
       "publish": "1",
       "eventInfo": {
-        "endTime": "2026/06/13 01:37:00 +0000",
+        "endTime": "2026/06/13 03:45:25 +0000",
         "eventCat": "Baseball",
         "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/11205/image",
         "eventName": "Baseball",
@@ -3861,8 +3830,16 @@
         {
           "api": "",
           "id": 1,
-          "link": "https://mainstreams.pro/hls/ijfnakfidch22.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz&Origin=https://streamcenter.xyz",
+          "link": "https://chatgpt.hereisman.net/playlist/51919/load-playlist?|Referer=https://gooz.aapmains.net ",
           "title": "Live 1",
+          "type": "0",
+          "webLink": null
+        },
+        {
+          "api": "",
+          "id": 1,
+          "link": "https://mainstreams.pro/hls/ijfnakfidch22.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz&Origin=https://streamcenter.xyz",
+          "title": "HD SERVER",
           "type": "0",
           "webLink": null
         },
@@ -3884,7 +3861,7 @@
       "category": "Baseball",
       "publish": "1",
       "eventInfo": {
-        "endTime": "2026/06/13 01:40:00 +0000",
+        "endTime": "2026/06/13 04:45:26 +0000",
         "eventCat": "Baseball",
         "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/11205/image",
         "eventName": "Baseball",
@@ -3900,8 +3877,16 @@
         {
           "api": "",
           "id": 1,
-          "link": "https://mainstreams.pro/hls/jnzkdzjfanch23.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz&Origin=https://streamcenter.xyz",
+          "link": "https://chatgpt.hereisman.net/playlist/51923/load-playlist?|Referer=https://gooz.aapmains.net ",
           "title": "Live 1",
+          "type": "0",
+          "webLink": null
+        },
+        {
+          "api": "",
+          "id": 1,
+          "link": "https://mainstreams.pro/hls/jnzkdzjfanch23.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz&Origin=https://streamcenter.xyz",
+          "title": "HD SERVER",
           "type": "0",
           "webLink": null
         },
@@ -3962,7 +3947,7 @@
       "category": "Baseball",
       "publish": "1",
       "eventInfo": {
-        "endTime": "2026/06/13 02:10:00 +0000",
+        "endTime": "2026/06/13 03:45:25 +0000",
         "eventCat": "Baseball",
         "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/11205/image",
         "eventName": "Baseball",
@@ -3978,8 +3963,16 @@
         {
           "api": "",
           "id": 1,
-          "link": "https://mainstreams.pro/hls/kjhfzua25.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz&Origin=https://streamcenter.xyz",
+          "link": "https://chatgpt.hereisman.net/playlist/51929/load-playlist?|Referer=https://gooz.aapmains.net ",
           "title": "Live 1",
+          "type": "0",
+          "webLink": null
+        },
+        {
+          "api": "",
+          "id": 1,
+          "link": "https://mainstreams.pro/hls/kjhfzua25.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz&Origin=https://streamcenter.xyz",
+          "title": "HD SERVER",
           "type": "0",
           "webLink": null
         },
@@ -4001,7 +3994,7 @@
       "category": "Baseball",
       "publish": "1",
       "eventInfo": {
-        "endTime": "2026/06/13 02:10:00 +0000",
+        "endTime": "2026/06/13 03:30:21 +0000",
         "eventCat": "Baseball",
         "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/11205/image",
         "eventName": "Baseball",
@@ -4017,8 +4010,16 @@
         {
           "api": "",
           "id": 1,
-          "link": "https://mainstreams.pro/hls/dzjhkfazbka26.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz&Origin=https://streamcenter.xyz",
+          "link": "https://chatgpt.hereisman.net/playlist/51931/load-playlist?|Referer=https://gooz.aapmains.net ",
           "title": "Live 1",
+          "type": "0",
+          "webLink": null
+        },
+        {
+          "api": "",
+          "id": 1,
+          "link": "https://mainstreams.pro/hls/dzjhkfazbka26.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz&Origin=https://streamcenter.xyz",
+          "title": "HD SERVER",
           "type": "0",
           "webLink": null
         }
