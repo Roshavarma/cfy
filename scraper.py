@@ -1,18 +1,19 @@
+
 import urllib.request
 import json
 import os
 import ssl
 
-# Bypass SSL verification checks (prevents environment certificate blocks)
+# Bypass SSL verification checks
 ctx = ssl.create_default_context()
 ctx.check_hostname = False
 ctx.verify_mode = ssl.CERT_NONE
 
-# Create our local api cache folder structure
+# Create local api directory
 base_dir = 'api'
 os.makedirs(base_dir, exist_ok=True)
 
-# Custom request headers to pass through VortexTV Cloudflare protections
+# Custom premium headers to bypass security filters on the modsdone domain
 HEADERS = {
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
     'Accept': 'application/json',
@@ -24,19 +25,19 @@ API_EVENTS = 'https://vortextv.modsdone.com/cricfy.php/events'
 API_STREAMS_BASE = 'https://vortextv.modsdone.com/cricfy.php/streams/'
 
 def fetch_json(url):
-    """Helper to fetch raw data and parse it safely into JSON."""
+    """Secure JSON fetcher helper."""
     try:
         req = urllib.request.Request(url, headers=HEADERS)
         response = urllib.request.urlopen(req, context=ctx)
         return json.loads(response.read().decode('utf-8'))
     except Exception as e:
-        print(f"  ⚠️ Error fetching: {url} -> {str(e)}")
+        print(f"  ⚠️ Error requesting {url}: {str(e)}")
         return None
 
 def anonymize_stream_titles(stream_urls):
     """
-    TRADEMARK ANONYMIZER: Replaces any streaming feed titles containing
-    trademarked names like 'CRICFy' with clean, generic labels.
+    TRADEMARK ANONYMIZER: Detects and replaces any title containing
+    trademarked names like 'CRICFy' with clean, generic 'Live 1', 'Live 2' labels.
     """
     anonymized_counter = 1
     for stream in stream_urls:
@@ -45,67 +46,6 @@ def anonymize_stream_titles(stream_urls):
             stream['title'] = f"Live {anonymized_counter}"
             anonymized_counter += 1
     return stream_urls
-
-def auto_detect_event_info(title, category):
-    """
-    HEURISTICS ENGINE: Rebuilds detailed event maps (teams, flags, timers)
-    by parsing match title strings dynamically.
-    """
-    title_lower = title.lower()
-    detected_cat = "Live Events"
-    
-    # Detect Category
-    if any(k in title_lower for k in ["wwe", "raw", "smackdown", "nxt", "ufc", "fight", "boxing", "aew"]):
-        detected_cat = "WWE & Combat"
-    elif any(k in title_lower for k in ["f1", "motogp", "formula-1", "grand prix", "racing"]):
-        detected_cat = "Motorsport"
-    elif any(k in title_lower for k in ["cricket", "vs", "t20", "odi", "test"]):
-        if any(k in title_lower for k in ["fc", "united", "real", "athletic", "city", "club", "cup", "league"]):
-            detected_cat = "Football"
-        else:
-            detected_cat = "Cricket"
-            
-    if category and category != "Live Events":
-        detected_cat = category
-
-    # Extract Team Names
-    team_a = title
-    team_b = ""
-    for separator in [" vs ", " Vs ", " VS "]:
-        if separator in title:
-            parts = title.split(separator)
-            team_a = parts[0].strip()
-            team_b = parts[1].strip()
-            break
-
-    # Generate Country Flags & Logos using Sofascore static asset servers
-    logo_a = "https://www.sofascore.com/static/images/tournaments/world-cup-2026-logo.webp"
-    logo_b = "https://www.sofascore.com/static/images/tournaments/world-cup-2026-logo.webp"
-
-    if team_b:
-        slug_a = team_a.lower().replace(" women", "").replace(" ", "-")
-        slug_b = team_b.lower().replace(" women", "").replace(" ", "-")
-        logo_a = f"https://www.sofascore.com/static/images/flags/{slug_a}.png"
-        logo_b = f"https://www.sofascore.com/static/images/flags/{slug_b}.png"
-
-    if detected_cat == "WWE & Combat":
-        logo_a = "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/WWE_Logo.svg/2243px-WWE_Logo.svg.png"
-    elif detected_cat == "Motorsport":
-        logo_a = "https://www.sofascore.com/static/images/tournaments/formula-1-logo.webp"
-
-    return {
-        "teamA": team_a,
-        "teamB": team_b,
-        "teamAFlag": logo_a,
-        "teamBFlag": logo_b,
-        "eventCat": detected_cat,
-        "eventName": title,
-        "eventType": detected_cat if team_b == "" else f"{detected_cat} Duel",
-        "eventLogo": logo_a,
-        "isHot": 1 if "wwe" in title_lower or "f1" in title_lower or "motogp" in title_lower else 0,
-        "startTime": "",
-        "endTime": ""
-    }
 
 def run_sync():
     print("📡 Requesting schedule from VortexTV API...")
@@ -118,44 +58,64 @@ def run_sync():
     match_list = payload.get('data', [])
     
     # SMART CACHE GUARD:
-    # If API returns 0 items during hours with no active schedules,
-    # we exit immediately to keep our previous static database active on Blogger!
+    # If the API returns 0 items during downtime hours, do not overwrite our files
+    # with empty templates. This preserves the static backup files on Blogger.
     if not match_list or len(match_list) == 0:
-        print("⚠️ API returned 0 active matches. Freezing offline cache so site never goes blank!")
+        print("⚠️ API returned 0 active matches. Freezing previous database cache!")
         return
 
-    print(f"🎉 API Online! Found {len(match_list)} matches. Compiling streaming links...")
+    print(f"🎉 Connection Successful! Found {len(match_list)} live events. Fetching live feeds...")
 
     consolidated_data = []
     
     for event in match_list:
         title = event.get('title', '')
-        category = event.get('category', 'Live Events')
         slug = event.get('slug', '')
+        category = event.get('category', 'Live Events')
         
-        print(f"  👉 Processing: {slug}...")
+        # EXTRACT THE DIRECT EVENTINFO
+        # We read the rich eventInfo block directly from the /events payload!
+        event_info = event.get('eventInfo', {})
         
-        # 1. Resolve match categorizations and design structures
-        enriched_info = auto_detect_event_info(title, category)
+        # Fallback dictionary builder only in case eventInfo is completely missing for a match
+        if not event_info:
+            print(f"  ⚠️ Missing eventInfo for: {slug}. Applying local fallback mapper.")
+            team_a = title.split(' vs ')[0] if ' vs ' in title else title
+            team_b = title.split(' vs ')[1] if ' vs ' in title else ""
+            event_info = {
+                "teamA": team_a,
+                "teamB": team_b,
+                "teamAFlag": "https://www.sofascore.com/static/images/tournaments/world-cup-2026-logo.webp",
+                "teamBFlag": "https://www.sofascore.com/static/images/tournaments/world-cup-2026-logo.webp",
+                "eventCat": category,
+                "eventName": title,
+                "eventType": category,
+                "eventLogo": "https://www.sofascore.com/static/images/tournaments/world-cup-2026-logo.webp",
+                "isHot": 0,
+                "startTime": "",
+                "endTime": ""
+            }
+
+        print(f"  👉 Crawling and sanitizing stream: {slug}")
         
-        # 2. Extract play streams
+        # Query individual stream endpoints to extract active play feeds
         stream_payload = fetch_json(f"{API_STREAMS_BASE}{slug}")
         stream_urls = []
         if stream_payload and stream_payload.get('status') == 'ok':
             stream_urls = stream_payload.get('data', {}).get('streamUrls', [])
             
-        # 3. Clean and anonymize branded streaming titles (CRICFy -> Live 1)
+        # Clean and anonymize branded streaming titles (CRICFy -> Live 1)
         cleaned_streams = anonymize_stream_titles(stream_urls)
 
-        # 4. Construct unified card data
+        # Build our perfect unified stream database element
         consolidated_match = {
             "id": event.get('id'),
             "title": title,
             "slug": slug,
             "image": event.get('image', ''),
-            "category": enriched_info["eventCat"],
+            "category": event_info.get("eventCat", category),
             "publish": event.get('publish', '1'),
-            "eventInfo": enriched_info,     
+            "eventInfo": event_info,     # Perfectly saved raw API eventInfo!
             "streamUrls": cleaned_streams       
         }
         consolidated_data.append(consolidated_match)
@@ -170,7 +130,7 @@ def run_sync():
     with open(events_file, 'w', encoding='utf-8') as f:
         json.dump(final_output, f, indent=2)
         
-    print(f"\n✅ Synchronization successful! Unified DB saved at: {events_file}")
+    print(f"\n✅ Sync completed successfully! Unified database saved: {events_file}")
 
 if __name__ == '__main__':
     run_sync()
