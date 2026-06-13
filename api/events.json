@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-13T18:51:57.667741",
+  "last_updated": "2026-06-13T19:02:26.862658",
   "event_count": 102,
   "events": {
     "events": [
@@ -1187,7 +1187,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/4699/image",
           "eventName": "Football",
           "isHot": "1",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/06/13 19:00:00 +0000",
           "endTime": "2026/06/13 21:00:00 +0000"
         },
@@ -1273,14 +1273,6 @@
             "tokenApi": ""
           },
           {
-            "title": "HIMALIYA SPORTS",
-            "link": "https://ottlive.dishhome.com.np/protected/GgTOzZkB0RDJ74Ryniuo/dash/manifest.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "220d8978f3fd45b696137c5b94f7a264:7bfe13500edee4f837ec03a907896306",
-            "tokenApi": ""
-          },
-          {
             "title": "TIPIK FR - AQ",
             "link": "https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/dash/.mpd",
             "logo": "",
@@ -1318,6 +1310,38 @@
             "logo": "",
             "type": 7,
             "api": "1f09d5788fbbb03a053d03cc731f31a9:d493d5a70c793362324638f61d1726ac",
+            "tokenApi": ""
+          },
+          {
+            "title": "TSN SPORTS HD",
+            "link": "https://chatgpt.hereisman.net/playlist/51950/load-playlist?|Referer=https://gooz.aapmains.net",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "beIN MAX - AQ",
+            "link": "https://3cup-live.s3.eu-west-3.amazonaws.com/max1/master.m3u8|Referer=https://z1.depoooo.com/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "beIN MAX HD",
+            "link": "https://karim-medialive-906655021013-apse2.s3.ap-southeast-2.amazonaws.com/live/ch1/ch1.m3u8|Referer=https://www.egybst.one/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "FAST SERVER",
+            "link": "https://pulltx.jdnzrgm.com/live/hd-en-6MvZ6BDgJ68ghcnowU.m3u8?txSecret=3237612cc1b2b6e89da2303d548389fa&txTime=6A2DC981",
+            "logo": "",
+            "type": 0,
+            "api": "",
             "tokenApi": ""
           }
         ]
