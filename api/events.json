@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-13T21:52:05.522097",
+  "last_updated": "2026-06-13T22:02:16.224461",
   "event_count": 100,
   "events": {
     "events": [
@@ -1374,7 +1374,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/4778/image",
           "eventName": "Football",
           "isHot": "1",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/06/13 22:00:00 +0000",
           "endTime": "2026/06/14 00:00:00 +0000"
         },
@@ -1417,14 +1417,6 @@
             "logo": "",
             "type": 7,
             "api": "4bbcff3289d457b4dd5dbdd21221de9a:c4906b9a9f8dda3c0725bddb8c497733",
-            "tokenApi": ""
-          },
-          {
-            "title": "CAZE TV - AQ",
-            "link": "https://a121aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/a6bxtdgxts/out/v1/691e8c4b528d4e45b893a9e2e516211b/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "9752ef72590ef441ffa3731e0486fbc0:db63ec7b9f11348b7cc6808a54c99457",
             "tokenApi": ""
           },
           {
@@ -1561,6 +1553,22 @@
             "logo": "",
             "type": 0,
             "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "FAST SERVER 2",
+            "link": "https://pulltx.jdnzrgm.com/live/hd-en-6MvZ6BDgoEMCzZ6Ytv.m3u8?txSecret=a070f2669cf64273a60442ffd9b45138&txTime=6A2DF249",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "CAZE TV - AQ",
+            "link": "https://a121aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/a6bxtdgxts/out/v1/691e8c4b528d4e45b893a9e2e516211b/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "9752ef72590ef441ffa3731e0486fbc0:db63ec7b9f11348b7cc6808a54c99457",
             "tokenApi": ""
           }
         ]
