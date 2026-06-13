@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-13T21:21:52.677502",
-  "event_count": 102,
+  "last_updated": "2026-06-13T21:32:15.033932",
+  "event_count": 100,
   "events": {
     "events": [
       {
@@ -1187,7 +1187,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/4699/image",
           "eventName": "Football",
           "isHot": "1",
-          "Status": "Live",
+          "Status": "Finish",
           "startTime": "2026/06/13 19:00:00 +0000",
           "endTime": "2026/06/13 21:30:33 +0000"
         },
@@ -1452,27 +1452,11 @@
             "tokenApi": ""
           },
           {
-            "title": "TSN SPORTS 1 - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/7janu55dwc/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "e51aa21f2a0fef9aabc120dfb655b52f:a12a987fe725a40b6be95cd84b15f689",
-            "tokenApi": ""
-          },
-          {
             "title": "ZEE5 BANGLA - AQ",
             "link": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglacinema/default/manifest.mpd",
             "logo": "",
             "type": 7,
             "api": "fbbfd9ce4bbe4d818b16df7dfe89f05b:1e96d0f88ef740e982d6f6105721c8bc",
-            "tokenApi": ""
-          },
-          {
-            "title": "ZEE5 HINDI - AQ",
-            "link": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinema/default/manifest.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "43513b13f4b542e39c9265921dfc1726:b0b2678bcd274c37b888a6c987d502ed",
             "tokenApi": ""
           },
           {
@@ -1513,6 +1497,46 @@
             "logo": "",
             "type": 7,
             "api": "893bc63340876605f52886a42e0ccce5:d6c46d2d691056fbd091bf1f01b21a91",
+            "tokenApi": ""
+          },
+          {
+            "title": "FUSSBALL TV - AQ",
+            "link": "https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_hd/DASH/index.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "1cb20afcd9d979c833cfd208c7d3eeb2:fef0c15b4a523370892edd5e4133c269",
+            "tokenApi": ""
+          },
+          {
+            "title": "FUSSBALL TV 4K",
+            "link": "https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_uhd/DASH/index.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "1f09d5788fbbb03a053d03cc731f31a9:d493d5a70c793362324638f61d1726ac",
+            "tokenApi": ""
+          },
+          {
+            "title": "TSN SPORTS HD",
+            "link": "https://chatgpt.hereisman.net/playlist/51980/load-playlist?|Referer=https://gooz.aapmains.net",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "FOX SPORTS HD",
+            "link": "https://chatgpt.hereisman.net/playlist/51981/load-playlist?|Referer=https://gooz.aapmains.net",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "beIN MAX HD",
+            "link": "https://karamino234.s3.eu-north-1.amazonaws.com/live/ch1/ch1.m3u8|Referer=https://www.egybst.one/",
+            "logo": "",
+            "type": 0,
+            "api": "",
             "tokenApi": ""
           }
         ]
@@ -3520,73 +3544,6 @@
         ]
       },
       {
-        "id": 10194,
-        "title": "West Indies Women vs New Zealand Women",
-        "image": "null",
-        "cat": "Cricket",
-        "eventInfo": {
-          "teamA": "West Indies Women",
-          "teamB": "New Zealand Women",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/213120/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/213115/image",
-          "eventName": "Cricket",
-          "isHot": "0",
-          "Status": "Finish",
-          "startTime": "2026/06/13 17:30:00 +0000",
-          "endTime": "2026/06/13 21:00:06 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "WILLOW - AQ",
-            "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/6v7dday4fk/out/v1/fac26d0c719f47a0bf92d70b79b0a021/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "5da3dbc277638d081cb09bac459cfbd7:05fb4107ba6a16546299c0f377350826",
-            "tokenApi": ""
-          },
-          {
-            "title": "SKY CRICKET - AQ",
-            "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "WILLOW HD",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
-            "tokenApi": ""
-          },
-          {
-            "title": "SKY SPORT NZ",
-            "link": "https://cdn9859.shop/skynz1.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "SKY MAIN EVENT",
-            "link": "https://cdn9859.shop/skymainevent.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "SKY CRICKET HD",
-            "link": "https://cdn9859.shop/skycricket.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
         "id": 10195,
         "title": "EUT20 Belgium 2026",
         "image": "null",
@@ -3660,41 +3617,6 @@
             "logo": "",
             "type": 7,
             "api": "f5c2b30eac11be1e8cdfc9585f5fe6af:a8198d17bf9b0da77450fbb919a38b2d",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 10197,
-        "title": "Minnesota Twins vs St. Louis Cardinals",
-        "image": "null",
-        "cat": "Baseball",
-        "eventInfo": {
-          "teamA": "Twins",
-          "teamB": "Cardinals",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/3649/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/3632/image",
-          "eventName": "Baseball",
-          "isHot": "0",
-          "Status": "Finish",
-          "startTime": "2026/06/13 18:10:00 +0000",
-          "endTime": "2026/06/13 21:15:02 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "Live 1",
-            "link": "https://chatgpt.hereisman.net/playlist/51951/load-playlist?|Referer=https://gooz.aapmains.net ",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "HD SERVER",
-            "link": "https://mainstreams.pro/hls/dazhfiach15.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz&Origin=https://streamcenter.xyz",
-            "logo": "",
-            "type": 0,
-            "api": "",
             "tokenApi": ""
           }
         ]
