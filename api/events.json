@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-13T19:22:17.025841",
+  "last_updated": "2026-06-13T19:32:18.336824",
   "event_count": 102,
   "events": {
     "events": [
@@ -3631,11 +3631,19 @@
         },
         "channels_data": [
           {
-            "title": "Live 1",
-            "link": "ok",
+            "title": "TSN SPORTS - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/jkcljgqbx8/out/v1/63bfa701559340f3a2a2cb1fccd24807/cenc.mpd",
             "logo": "",
-            "type": 0,
-            "api": "",
+            "type": 7,
+            "api": "e853333da2c9196ea11374634231bc45:de2e2dbe818d78dfad07d6cd9a4c63d4",
+            "tokenApi": ""
+          },
+          {
+            "title": "TSN SPORTS HD",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/lzhmuzmjsl/out/v1/c171eeb214c749f2b351c79df317b21e/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "f5c2b30eac11be1e8cdfc9585f5fe6af:a8198d17bf9b0da77450fbb919a38b2d",
             "tokenApi": ""
           }
         ]
