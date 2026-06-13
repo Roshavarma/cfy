@@ -1,10 +1,8 @@
 name: Sync Sports Streams
 
 on:
-  schedule:
-    # Runs automatically every 10 minutes to pull new matches and update streaming URLs
-    - cron: '*/10 * * * *'
-  workflow_dispatch: # Allows manual syncing anytime from the GitHub Actions dashboard
+  # This acts as the "door" that allows to trigger
+  workflow_dispatch: 
 
 permissions:
   contents: write
@@ -29,6 +27,7 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add api/
-          # Commit only if files have changed, otherwise skip safely
+          # Commit only if changes were detected, otherwise exit cleanly
           git commit -m "Automated Consolidated Sports Update [skip ci]" || exit 0
           git push
+
