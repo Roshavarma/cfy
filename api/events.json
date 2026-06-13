@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-13T16:43:01.150896",
+  "last_updated": "2026-06-13T16:52:25.897993",
   "event_count": 102,
   "events": {
     "events": [
@@ -575,9 +575,9 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/187575/image",
           "eventName": "Cricket",
           "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/06/13 08:00:00 +0000",
-          "endTime": "2026/06/13 17:30:18 +0000"
+          "Status": "Upcoming",
+          "startTime": "2026/06/17 08:00:26 +0000",
+          "endTime": "2026/06/17 16:30:31 +0000"
         },
         "channels_data": [
           {
@@ -3140,7 +3140,16 @@
           "startTime": "2026/06/27 21:00:00 +0000",
           "endTime": "2026/06/27 23:00:00 +0000"
         },
-        "channels_data": []
+        "channels_data": [
+          {
+            "title": "Live 1",
+            "link": "ok",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
       },
       {
         "id": 10098,
