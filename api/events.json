@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-13T19:02:26.862658",
+  "last_updated": "2026-06-13T19:12:01.920419",
   "event_count": 102,
   "events": {
     "events": [
@@ -3687,7 +3687,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/3654/image",
           "eventName": "Baseball",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/06/13 19:07:00 +0000",
           "endTime": "2026/06/13 21:15:00 +0000"
         },
@@ -3737,7 +3737,15 @@
         "channels_data": [
           {
             "title": "Live 1",
-            "link": "ok",
+            "link": "https://chatgpt.hereisman.net/playlist/51965/load-playlist?|Referer=https://gooz.aapmains.net ",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "HD SERVER",
+            "link": "https://mainstreams.pro/hls/bzagLHzach19.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz&Origin=https://streamcenter.xyz",
             "logo": "",
             "type": 0,
             "api": "",
