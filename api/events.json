@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-13T17:12:49.096517",
+  "last_updated": "2026-06-13T17:22:13.646220",
   "event_count": 102,
   "events": {
     "events": [
@@ -3605,7 +3605,16 @@
           "startTime": "2026/06/13 23:00:00 +0000",
           "endTime": "2026/06/14 02:15:28 +0000"
         },
-        "channels_data": []
+        "channels_data": [
+          {
+            "title": "Live 1",
+            "link": "ok",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
       },
       {
         "id": 10197,
