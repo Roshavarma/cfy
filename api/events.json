@@ -1267,11 +1267,131 @@
       },
       "streamUrls": [
         {
-          "api": "",
+          "api": "c620c93c60c04999eb9ddc28ecfb70a8:e76a709c251313190e76cb3c3d3a5824",
           "id": 1,
-          "link": "ok",
-          "title": "ok",
-          "type": "0",
+          "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/dash/enc/ap5wz1ofsp/out/v1/7fa6feef143747beaa186ebb6dfb2532/cenc.mpd",
+          "title": "FOX SPORTS - AQ",
+          "type": "7",
+          "webLink": null
+        },
+        {
+          "api": "c4088f5f265f9de50cffd80bf89308b7:2c4d2239d96d532b4ec2050653611003",
+          "id": 1,
+          "link": "https://otte-qw.live.pv-cdn.net/lhr-nitro/live/clients/dash/enc/h9urpo3cwb/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd",
+          "title": "TSN SPORTS - AQ",
+          "type": "7",
+          "webLink": null
+        },
+        {
+          "api": "549ab7cd35a64bb6bb479ecead04d69d:829799ed534d11fcadeb4b192467e050",
+          "id": 1,
+          "link": "https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/ch299/default/index.mpd",
+          "title": "CIGNAL ENG - AQ",
+          "type": "7",
+          "webLink": null
+        },
+        {
+          "api": "ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1",
+          "id": 1,
+          "link": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd",
+          "title": "TELEMUNDO - AQ",
+          "type": "7",
+          "webLink": null
+        },
+        {
+          "api": "9752ef72590ef441ffa3731e0486fbc0:db63ec7b9f11348b7cc6808a54c99457",
+          "id": 1,
+          "link": "https://a121aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/a6bxtdgxts/out/v1/691e8c4b528d4e45b893a9e2e516211b/cenc.mpd",
+          "title": "CAZE TV - AQ",
+          "type": "7",
+          "webLink": null
+        },
+        {
+          "api": "a7d11d37a1f7611ee88d4db880171f32:68f96d618b0b956b008c445896a25a79",
+          "id": 1,
+          "link": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ubehitlwzo/out/v1/8e09c381a51f4366a19e979418112e8f/cenc.mpd",
+          "title": "D SPORTS - AQ",
+          "type": "7",
+          "webLink": null
+        },
+        {
+          "api": "7d6bb9f86e133e4cb33440b493b6b672:584ad285dcb9e7d42cf3e93f1cc3fe11",
+          "id": 1,
+          "link": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(WSNS)/master.mpd",
+          "title": "Telemundo Spanish",
+          "type": "7",
+          "webLink": null
+        },
+        {
+          "api": "e51aa21f2a0fef9aabc120dfb655b52f:a12a987fe725a40b6be95cd84b15f689",
+          "id": 1,
+          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/7janu55dwc/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
+          "title": "TSN SPORTS 1 - AQ",
+          "type": "7",
+          "webLink": null
+        },
+        {
+          "api": "c1a0ac1044a433d0856ccdc08f245084:7f0e8800a6d63d7915ac181bb88ce813",
+          "id": 1,
+          "link": "https://simplitv-live.mdn.ors.at/live/eds/zdf_hd/dash4h/zdf_hd.mpd",
+          "title": "ZDF GERMAN HD",
+          "type": "7",
+          "webLink": null
+        },
+        {
+          "api": "fbbfd9ce4bbe4d818b16df7dfe89f05b:1e96d0f88ef740e982d6f6105721c8bc",
+          "id": 1,
+          "link": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglacinema/default/manifest.mpd",
+          "title": "ZEE5 BANGLA - AQ",
+          "type": "7",
+          "webLink": null
+        },
+        {
+          "api": "43513b13f4b542e39c9265921dfc1726:b0b2678bcd274c37b888a6c987d502ed",
+          "id": 1,
+          "link": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinema/default/manifest.mpd",
+          "title": "ZEE5 HINDI - AQ",
+          "type": "7",
+          "webLink": null
+        },
+        {
+          "api": "220d8978f3fd45b696137c5b94f7a264:7bfe13500edee4f837ec03a907896306",
+          "id": 1,
+          "link": "https://ottlive.dishhome.com.np/protected/GgTOzZkB0RDJ74Ryniuo/dash/manifest.mpd",
+          "title": "HIMALIYA SPORTS",
+          "type": "7",
+          "webLink": null
+        },
+        {
+          "api": "adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a",
+          "id": 1,
+          "link": "https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/dash/.mpd",
+          "title": "TIPIK FR - AQ",
+          "type": "7",
+          "webLink": null
+        },
+        {
+          "api": "433ffba670963e70857859a9dff4be04:51ede3a821229fe81e71282c8eff80e3",
+          "id": 1,
+          "link": "https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_cenc00/dash-short-hd.mpd",
+          "title": "M6 FRANCE - AQ",
+          "type": "7",
+          "webLink": null
+        },
+        {
+          "api": "893bc63340876605f52886a42e0ccce5:d6c46d2d691056fbd091bf1f01b21a91",
+          "id": 1,
+          "link": "https://live.vrtcdn.be/groupd/live/0761024f-37fe-4254-bc37-e95d7c62b2d1/live.isml/.mpd",
+          "title": "Sporza DUTCH - AQ",
+          "type": "7",
+          "webLink": null
+        },
+        {
+          "api": "893bc63340876605f52886a42e0ccce5:d6c46d2d691056fbd091bf1f01b21a91",
+          "id": 1,
+          "link": "https://live.vrtcdn.be/groupd/live/0761024f-37fe-4254-bc37-e95d7c62b2d1/live.isml/.mpd",
+          "title": "VRT DUTCH - AQ",
+          "type": "7",
           "webLink": null
         }
       ]
@@ -1298,11 +1418,139 @@
       },
       "streamUrls": [
         {
+          "api": "c4088f5f265f9de50cffd80bf89308b7:2c4d2239d96d532b4ec2050653611003",
+          "id": 1,
+          "link": "https://otte-qw.live.pv-cdn.net/lhr-nitro/live/clients/dash/enc/h9urpo3cwb/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd",
+          "title": "TSN SPORTS - AQ",
+          "type": "7",
+          "webLink": null
+        },
+        {
+          "api": "c620c93c60c04999eb9ddc28ecfb70a8:e76a709c251313190e76cb3c3d3a5824",
+          "id": 1,
+          "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/dash/enc/ap5wz1ofsp/out/v1/7fa6feef143747beaa186ebb6dfb2532/cenc.mpd",
+          "title": "FOX SPORTS - AQ",
+          "type": "7",
+          "webLink": null
+        },
+        {
+          "api": "549ab7cd35a64bb6bb479ecead04d69d:829799ed534d11fcadeb4b192467e050",
+          "id": 1,
+          "link": "https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/ch299/default/index.mpd",
+          "title": "CIGNAL ENG - AQ",
+          "type": "7",
+          "webLink": null
+        },
+        {
+          "api": "ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1",
+          "id": 1,
+          "link": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd",
+          "title": "TELEMUNDO - AQ",
+          "type": "7",
+          "webLink": null
+        },
+        {
+          "api": "4bbcff3289d457b4dd5dbdd21221de9a:c4906b9a9f8dda3c0725bddb8c497733",
+          "id": 1,
+          "link": "https://a121aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd",
+          "title": "SporTV BR - AQ",
+          "type": "7",
+          "webLink": null
+        },
+        {
+          "api": "9752ef72590ef441ffa3731e0486fbc0:db63ec7b9f11348b7cc6808a54c99457",
+          "id": 1,
+          "link": "https://a121aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/a6bxtdgxts/out/v1/691e8c4b528d4e45b893a9e2e516211b/cenc.mpd",
+          "title": "CAZE TV - AQ",
+          "type": "7",
+          "webLink": null
+        },
+        {
+          "api": "a7d11d37a1f7611ee88d4db880171f32:68f96d618b0b956b008c445896a25a79",
+          "id": 1,
+          "link": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ubehitlwzo/out/v1/8e09c381a51f4366a19e979418112e8f/cenc.mpd",
+          "title": "D SPORTS - AQ",
+          "type": "7",
+          "webLink": null
+        },
+        {
+          "api": "7d6bb9f86e133e4cb33440b493b6b672:584ad285dcb9e7d42cf3e93f1cc3fe11",
+          "id": 1,
+          "link": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(WSNS)/master.mpd",
+          "title": "Telemundo Spanish",
+          "type": "7",
+          "webLink": null
+        },
+        {
+          "api": "c1a0ac1044a433d0856ccdc08f245084:7f0e8800a6d63d7915ac181bb88ce813",
+          "id": 1,
+          "link": "https://simplitv-live.mdn.ors.at/live/eds/zdf_hd/dash4h/zdf_hd.mpd",
+          "title": "ZDF GERMAN HD",
+          "type": "7",
+          "webLink": null
+        },
+        {
+          "api": "e51aa21f2a0fef9aabc120dfb655b52f:a12a987fe725a40b6be95cd84b15f689",
+          "id": 1,
+          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/7janu55dwc/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
+          "title": "TSN SPORTS 1 - AQ",
+          "type": "7",
+          "webLink": null
+        },
+        {
+          "api": "fbbfd9ce4bbe4d818b16df7dfe89f05b:1e96d0f88ef740e982d6f6105721c8bc",
+          "id": 1,
+          "link": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglacinema/default/manifest.mpd",
+          "title": "ZEE5 BANGLA - AQ",
+          "type": "7",
+          "webLink": null
+        },
+        {
+          "api": "43513b13f4b542e39c9265921dfc1726:b0b2678bcd274c37b888a6c987d502ed",
+          "id": 1,
+          "link": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinema/default/manifest.mpd",
+          "title": "ZEE5 HINDI - AQ",
+          "type": "7",
+          "webLink": null
+        },
+        {
           "api": "",
           "id": 1,
-          "link": "ok",
-          "title": "ok",
+          "link": "https://github.com/ON2026/1smas/raw/refs/heads/main/mx2app2.m3u8",
+          "title": "beIN MAX - AQ",
           "type": "0",
+          "webLink": null
+        },
+        {
+          "api": "adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a",
+          "id": 1,
+          "link": "https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/dash/.mpd",
+          "title": "TIPIK FR - AQ",
+          "type": "7",
+          "webLink": null
+        },
+        {
+          "api": "893bc63340876605f52886a42e0ccce5:d6c46d2d691056fbd091bf1f01b21a91",
+          "id": 1,
+          "link": "https://live.vrtcdn.be/groupd/live/0761024f-37fe-4254-bc37-e95d7c62b2d1/live.isml/.mpd",
+          "title": "Sporza DUTCH - AQ",
+          "type": "7",
+          "webLink": null
+        },
+        {
+          "api": "433ffba670963e70857859a9dff4be04:51ede3a821229fe81e71282c8eff80e3",
+          "id": 1,
+          "link": "https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_cenc00/dash-short-hd.mpd",
+          "title": "M6 FRANCE - AQ",
+          "type": "7",
+          "webLink": null
+        },
+        {
+          "api": "893bc63340876605f52886a42e0ccce5:d6c46d2d691056fbd091bf1f01b21a91",
+          "id": 1,
+          "link": "https://live.vrtcdn.be/groupd/live/0761024f-37fe-4254-bc37-e95d7c62b2d1/live.isml/.mpd",
+          "title": "VRT DUTCH - AQ",
+          "type": "7",
           "webLink": null
         }
       ]
@@ -1951,7 +2199,7 @@
         {
           "api": "",
           "id": 1,
-          "link": "ok",
+          "link": "okay",
           "title": "Live 1",
           "type": "0",
           "webLink": null
@@ -3375,25 +3623,17 @@
       },
       "streamUrls": [
         {
-          "api": "27bc1b1df5cb11f0200df6ceea231181:c35331540ccf717099cb8f840135154e",
+          "api": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
           "id": 1,
-          "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/dxxsherzzi/out/v1/96c8a12527d64e90aa7defbb5a4678eb/cenc.mpd",
+          "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
           "title": "WILLOW - AQ",
-          "type": "7",
-          "webLink": null
-        },
-        {
-          "api": "5be21df3f18ef64aaaaa30cbdaf128ed:7fac12f58b756a1a52d3150c7d3b0304",
-          "id": 1,
-          "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ehfibbt64r/out/v1/242699d5a0484c3b8868d40d763d75cd/cenc.mpd",
-          "title": "WILLOW ALT",
           "type": "7",
           "webLink": null
         },
         {
           "api": "",
           "id": 1,
-          "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2037142/cricodi1106/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=0708fd9516817e92e837f8f4013175f9-1781149800119",
+          "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/20000379/cricodi1306/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=d67e2577fe610f7fdaa319f3118ebe0a-1781322600105",
           "title": "SonyLiv ENG",
           "type": "0",
           "webLink": null
@@ -3401,7 +3641,7 @@
         {
           "api": "",
           "id": 1,
-          "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2018457/cricodi1106/HIN/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=0708fd9516817e92e837f8f4013175f9-1781149800119",
+          "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/20000379/cricodi1306/HIN/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=d67e2577fe610f7fdaa319f3118ebe0a-1781322600105",
           "title": "SonyLiv HIN",
           "type": "0",
           "webLink": null
@@ -3409,7 +3649,7 @@
         {
           "api": "",
           "id": 1,
-          "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2105079/cricodi1106/TAM/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=0708fd9516817e92e837f8f4013175f9-1781149800119",
+          "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/20000379/cricodi1306/TAM/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=d67e2577fe610f7fdaa319f3118ebe0a-1781322600105",
           "title": "SonyLiv TAM",
           "type": "0",
           "webLink": null
@@ -3417,7 +3657,7 @@
         {
           "api": "",
           "id": 1,
-          "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2037143/cricodi1106/TEL/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=0708fd9516817e92e837f8f4013175f9-1781149800119",
+          "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/20000379/cricodi1306/TEL/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=d67e2577fe610f7fdaa319f3118ebe0a-1781322600105",
           "title": "SonyLiv TEL",
           "type": "0",
           "webLink": null
@@ -3425,7 +3665,7 @@
         {
           "api": "",
           "id": 1,
-          "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2105080/cricodi1106/KAN/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=0708fd9516817e92e837f8f4013175f9-1781149800119",
+          "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/20000379/cricodi1306/KAN/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=d67e2577fe610f7fdaa319f3118ebe0a-1781322600105",
           "title": "SonyLiv KAN",
           "type": "0",
           "webLink": null
@@ -3458,686 +3698,6 @@
           "id": 1,
           "link": "ok",
           "title": "Live 1",
-          "type": "0",
-          "webLink": null
-        }
-      ]
-    },
-    {
-      "id": "10175",
-      "title": "Montreal Alouettes vs Toronto Argonauts",
-      "slug": "montreal-alouettes-vs-toronto-argonauts",
-      "image": "null",
-      "category": "American Football",
-      "publish": "1",
-      "eventInfo": {
-        "endTime": "2026/06/13 02:15:42 +0000",
-        "eventCat": "American Football",
-        "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/11208/image",
-        "eventName": "American Football",
-        "eventType": "CFL",
-        "isHot": "0",
-        "startTime": "2026/06/12 23:00:00 +0000",
-        "teamA": "Montreal Alouettes",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/4439/image",
-        "teamB": "Toronto Argonauts",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/4436/image"
-      },
-      "streamUrls": [
-        {
-          "api": "e853333da2c9196ea11374634231bc45:de2e2dbe818d78dfad07d6cd9a4c63d4",
-          "id": 1,
-          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/jkcljgqbx8/out/v1/63bfa701559340f3a2a2cb1fccd24807/cenc.mpd",
-          "title": "TSN SPORTS - AQ",
-          "type": "7",
-          "webLink": null
-        },
-        {
-          "api": "f5c2b30eac11be1e8cdfc9585f5fe6af:a8198d17bf9b0da77450fbb919a38b2d",
-          "id": 1,
-          "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/lzhmuzmjsl/out/v1/c171eeb214c749f2b351c79df317b21e/cenc.mpd",
-          "title": "TSN SPORTS HD",
-          "type": "7",
-          "webLink": null
-        }
-      ]
-    },
-    {
-      "id": "10176",
-      "title": "Pittsburgh Pirates vs Miami Marlins",
-      "slug": "pittsburgh-pirates-vs-miami-marlins",
-      "image": "null",
-      "category": "Baseball",
-      "publish": "1",
-      "eventInfo": {
-        "endTime": "2026/06/13 02:00:40 +0000",
-        "eventCat": "Baseball",
-        "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/11205/image",
-        "eventName": "Baseball",
-        "eventType": "MLB",
-        "isHot": "0",
-        "startTime": "2026/06/12 22:40:00 +0000",
-        "teamA": "Pirates",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3637/image",
-        "teamB": "Marlins",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3639/image"
-      },
-      "streamUrls": [
-        {
-          "api": "",
-          "id": 1,
-          "link": "https://mainstreams.pro/hls/dazhfiach15.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz&Origin=https://streamcenter.xyz",
-          "title": "Live 1",
-          "type": "0",
-          "webLink": null
-        },
-        {
-          "api": "",
-          "id": 1,
-          "link": "http://193.47.62.41/hls/HIIIZZZZZ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-          "title": "LOW SERVER",
-          "type": "0",
-          "webLink": null
-        }
-      ]
-    },
-    {
-      "id": "10177",
-      "title": "Washington Nationals vs Seattle Mariners",
-      "slug": "washington-nationals-vs-seattle-mariners",
-      "image": "null",
-      "category": "Baseball",
-      "publish": "1",
-      "eventInfo": {
-        "endTime": "2026/06/13 02:45:47 +0000",
-        "eventCat": "Baseball",
-        "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/11205/image",
-        "eventName": "Baseball",
-        "eventType": "MLB",
-        "isHot": "0",
-        "startTime": "2026/06/12 22:45:00 +0000",
-        "teamA": "Nationals",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/5930/image",
-        "teamB": "Mariners",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3641/image"
-      },
-      "streamUrls": [
-        {
-          "api": "",
-          "id": 1,
-          "link": "https://mainstreams.pro/hls/16yuitzaerghbhc16.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz&Origin=https://streamcenter.xyz",
-          "title": "Live 1",
-          "type": "0",
-          "webLink": null
-        },
-        {
-          "api": "",
-          "id": 1,
-          "link": "http://193.47.62.41/hls/HIIIZZZZZZ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-          "title": "LOW SERVER",
-          "type": "0",
-          "webLink": null
-        }
-      ]
-    },
-    {
-      "id": "10178",
-      "title": "Baltimore Orioles vs San Diego Padres",
-      "slug": "baltimore-orioles-vs-san-diego-padres",
-      "image": "null",
-      "category": "Baseball",
-      "publish": "1",
-      "eventInfo": {
-        "endTime": "2026/06/13 02:15:33 +0000",
-        "eventCat": "Baseball",
-        "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/11205/image",
-        "eventName": "Baseball",
-        "eventType": "MLB",
-        "isHot": "0",
-        "startTime": "2026/06/12 23:05:00 +0000",
-        "teamA": "Orioles",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3652/image",
-        "teamB": "Padres",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3636/image"
-      },
-      "streamUrls": [
-        {
-          "api": "",
-          "id": 1,
-          "link": "https://chatgpt.hereisman.net/playlist/51909/load-playlist?|Referer=https://gooz.aapmains.net ",
-          "title": "Live 1",
-          "type": "0",
-          "webLink": null
-        },
-        {
-          "api": "",
-          "id": 1,
-          "link": "https://mainstreams.pro/hls/ihfazugfyjcazich17.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz&Origin=https://streamcenter.xyz",
-          "title": "HD SERVER",
-          "type": "0",
-          "webLink": null
-        }
-      ]
-    },
-    {
-      "id": "10179",
-      "title": "Cleveland Guardians vs Detroit Tigers",
-      "slug": "cleveland-guardians-vs-detroit-tigers",
-      "image": "null",
-      "category": "Baseball",
-      "publish": "1",
-      "eventInfo": {
-        "endTime": "2026/06/13 02:15:41 +0000",
-        "eventCat": "Baseball",
-        "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/11205/image",
-        "eventName": "Baseball",
-        "eventType": "MLB",
-        "isHot": "0",
-        "startTime": "2026/06/12 23:10:00 +0000",
-        "teamA": "Guardians",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3650/image",
-        "teamB": "Tigers",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3648/image"
-      },
-      "streamUrls": [
-        {
-          "api": "",
-          "id": 1,
-          "link": "https://chatgpt.hereisman.net/playlist/51912/load-playlist?|Referer=https://gooz.aapmains.net ",
-          "title": "Live 1",
-          "type": "0",
-          "webLink": null
-        },
-        {
-          "api": "",
-          "id": 1,
-          "link": "https://mainstreams.pro/hls/jkzahzadach20.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz&Origin=https://streamcenter.xyz",
-          "title": "Live 2",
-          "type": "0",
-          "webLink": null
-        },
-        {
-          "api": "",
-          "id": 1,
-          "link": "https://edge2caster.pro/hls/jkzahzadach20.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-          "title": "HD SERVER",
-          "type": "0",
-          "webLink": null
-        }
-      ]
-    },
-    {
-      "id": "10180",
-      "title": "Boston Red Sox vs Texas Rangers",
-      "slug": "boston-red-sox-vs-texas-rangers",
-      "image": "null",
-      "category": "Baseball",
-      "publish": "1",
-      "eventInfo": {
-        "endTime": "2026/06/13 02:15:05 +0000",
-        "eventCat": "Baseball",
-        "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/11205/image",
-        "eventName": "Baseball",
-        "eventType": "MLB",
-        "isHot": "0",
-        "startTime": "2026/06/12 23:10:00 +0000",
-        "teamA": "Red Sox",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3646/image",
-        "teamB": "Rangers",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3647/image"
-      },
-      "streamUrls": [
-        {
-          "api": "",
-          "id": 1,
-          "link": "https://chatgpt.hereisman.net/playlist/51913/load-playlist?|Referer=https://gooz.aapmains.net ",
-          "title": "Live 1",
-          "type": "0",
-          "webLink": null
-        },
-        {
-          "api": "",
-          "id": 1,
-          "link": "https://mainstreams.pro/hls/ojzkajnach21.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz&Origin=https://streamcenter.xyz",
-          "title": "Live 2",
-          "type": "0",
-          "webLink": null
-        },
-        {
-          "api": "",
-          "id": 1,
-          "link": "https://edge2caster.pro/hls/ojzkajnach21.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-          "title": "HD SERVER",
-          "type": "0",
-          "webLink": null
-        }
-      ]
-    },
-    {
-      "id": "10181",
-      "title": "New York Mets vs Atlanta Braves",
-      "slug": "new-york-mets-vs-atlanta-braves",
-      "image": "null",
-      "category": "Baseball",
-      "publish": "1",
-      "eventInfo": {
-        "endTime": "2026/06/13 02:30:28 +0000",
-        "eventCat": "Baseball",
-        "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/11205/image",
-        "eventName": "Baseball",
-        "eventType": "MLB",
-        "isHot": "0",
-        "startTime": "2026/06/12 23:15:00 +0000",
-        "teamA": "Mets",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3629/image",
-        "teamB": "Braves",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3656/image"
-      },
-      "streamUrls": [
-        {
-          "api": "",
-          "id": 1,
-          "link": "https://chatgpt.hereisman.net/playlist/51915/load-playlist?|Referer=https://gooz.aapmains.net ",
-          "title": "Live 1",
-          "type": "0",
-          "webLink": null
-        },
-        {
-          "api": "",
-          "id": 1,
-          "link": "https://mainstreams.pro/hls/bzagLHzach19.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz&Origin=https://streamcenter.xyz",
-          "title": "HD SERVER",
-          "type": "0",
-          "webLink": null
-        },
-        {
-          "api": "",
-          "id": 1,
-          "link": "https://edge2caster.pro/hls/bzagLHzach19.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-          "title": "Live 2",
-          "type": "0",
-          "webLink": null
-        }
-      ]
-    },
-    {
-      "id": "10182",
-      "title": "Cincinnati Reds vs Arizona Diamondbacks",
-      "slug": "cincinnati-reds-vs-arizona-diamondbacks",
-      "image": "null",
-      "category": "Baseball",
-      "publish": "1",
-      "eventInfo": {
-        "endTime": "2026/06/13 02:30:04 +0000",
-        "eventCat": "Baseball",
-        "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/11205/image",
-        "eventName": "Baseball",
-        "eventType": "MLB",
-        "isHot": "0",
-        "startTime": "2026/06/12 23:15:00 +0000",
-        "teamA": "Reds",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3633/image",
-        "teamB": "Diamondbacks",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3640/image"
-      },
-      "streamUrls": [
-        {
-          "api": "",
-          "id": 1,
-          "link": "https://chatgpt.hereisman.net/playlist/51925/load-playlist?|Referer=https://gooz.aapmains.net ",
-          "title": "Live 1",
-          "type": "0",
-          "webLink": null
-        },
-        {
-          "api": "",
-          "id": 1,
-          "link": "https://mainstreams.pro/hls/Czajafjihafch18.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz&Origin=https://streamcenter.xyz",
-          "title": "HD SERVER",
-          "type": "0",
-          "webLink": null
-        }
-      ]
-    },
-    {
-      "id": "10184",
-      "title": "Toronto Blue Jays vs New York Yankees",
-      "slug": "toronto-blue-jays-vs-new-york-yankees",
-      "image": "null",
-      "category": "Baseball",
-      "publish": "1",
-      "eventInfo": {
-        "endTime": "2026/06/13 03:45:25 +0000",
-        "eventCat": "Baseball",
-        "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/11205/image",
-        "eventName": "Baseball",
-        "eventType": "MLB",
-        "isHot": "0",
-        "startTime": "2026/06/12 23:37:00 +0000",
-        "teamA": "Blue Jays",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3642/image",
-        "teamB": "Yankees",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3654/image"
-      },
-      "streamUrls": [
-        {
-          "api": "",
-          "id": 1,
-          "link": "https://chatgpt.hereisman.net/playlist/51919/load-playlist?|Referer=https://gooz.aapmains.net ",
-          "title": "Live 1",
-          "type": "0",
-          "webLink": null
-        },
-        {
-          "api": "",
-          "id": 1,
-          "link": "https://mainstreams.pro/hls/ijfnakfidch22.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz&Origin=https://streamcenter.xyz",
-          "title": "HD SERVER",
-          "type": "0",
-          "webLink": null
-        },
-        {
-          "api": "",
-          "id": 1,
-          "link": "https://edgestreams.pro/hls/ijfnakfidch22.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-          "title": "Live 2",
-          "type": "0",
-          "webLink": null
-        }
-      ]
-    },
-    {
-      "id": "10185",
-      "title": "Chicago White Sox vs Los Angeles Dodgers",
-      "slug": "chicago-white-sox-vs-los-angeles-dodgers",
-      "image": "null",
-      "category": "Baseball",
-      "publish": "1",
-      "eventInfo": {
-        "endTime": "2026/06/13 04:45:26 +0000",
-        "eventCat": "Baseball",
-        "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/11205/image",
-        "eventName": "Baseball",
-        "eventType": "MLB",
-        "isHot": "0",
-        "startTime": "2026/06/12 23:40:00 +0000",
-        "teamA": "White Sox",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3644/image",
-        "teamB": "Dodgers",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3638/image"
-      },
-      "streamUrls": [
-        {
-          "api": "",
-          "id": 1,
-          "link": "https://chatgpt.hereisman.net/playlist/51923/load-playlist?|Referer=https://gooz.aapmains.net ",
-          "title": "Live 1",
-          "type": "0",
-          "webLink": null
-        },
-        {
-          "api": "",
-          "id": 1,
-          "link": "https://mainstreams.pro/hls/jnzkdzjfanch23.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz&Origin=https://streamcenter.xyz",
-          "title": "HD SERVER",
-          "type": "0",
-          "webLink": null
-        },
-        {
-          "api": "",
-          "id": 1,
-          "link": "https://edgestreams.pro/hls/jnzkdzjfanch23.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-          "title": "Live 2",
-          "type": "0",
-          "webLink": null
-        }
-      ]
-    },
-    {
-      "id": "10186",
-      "title": "Milwaukee Brewers vs Philadelphia Phillies",
-      "slug": "milwaukee-brewers-vs-philadelphia-phillies",
-      "image": "null",
-      "category": "Baseball",
-      "publish": "1",
-      "eventInfo": {
-        "endTime": "2026/06/13 01:40:00 +0000",
-        "eventCat": "Baseball",
-        "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/11205/image",
-        "eventName": "Baseball",
-        "eventType": "MLB",
-        "isHot": "0",
-        "startTime": "2026/06/12 23:40:00 +0000",
-        "teamA": "Brewers",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3630/image",
-        "teamB": "Phillies",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3635/image"
-      },
-      "streamUrls": [
-        {
-          "api": "",
-          "id": 1,
-          "link": "https://mainstreams.pro/hls/fskjanach24.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz&Origin=https://streamcenter.xyz",
-          "title": "Live 1",
-          "type": "0",
-          "webLink": null
-        },
-        {
-          "api": "",
-          "id": 1,
-          "link": "https://edgestreams.pro/hls/fskjanach24.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-          "title": "Live 2",
-          "type": "0",
-          "webLink": null
-        }
-      ]
-    },
-    {
-      "id": "10187",
-      "title": "Kansas City Royals vs Houston Astros",
-      "slug": "kansas-city-royals-vs-houston-astros",
-      "image": "null",
-      "category": "Baseball",
-      "publish": "1",
-      "eventInfo": {
-        "endTime": "2026/06/13 03:45:25 +0000",
-        "eventCat": "Baseball",
-        "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/11205/image",
-        "eventName": "Baseball",
-        "eventType": "MLB",
-        "isHot": "0",
-        "startTime": "2026/06/13 00:10:00 +0000",
-        "teamA": "Royals",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3651/image",
-        "teamB": "Astros",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3655/image"
-      },
-      "streamUrls": [
-        {
-          "api": "",
-          "id": 1,
-          "link": "https://chatgpt.hereisman.net/playlist/51929/load-playlist?|Referer=https://gooz.aapmains.net ",
-          "title": "Live 1",
-          "type": "0",
-          "webLink": null
-        },
-        {
-          "api": "",
-          "id": 1,
-          "link": "https://mainstreams.pro/hls/kjhfzua25.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz&Origin=https://streamcenter.xyz",
-          "title": "HD SERVER",
-          "type": "0",
-          "webLink": null
-        },
-        {
-          "api": "",
-          "id": 1,
-          "link": "https://edge2caster.pro/hls/kjhfzua25.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-          "title": "Live 2",
-          "type": "0",
-          "webLink": null
-        }
-      ]
-    },
-    {
-      "id": "10188",
-      "title": "Minnesota Twins vs St. Louis Cardinals",
-      "slug": "minnesota-twins-vs-st-louis-cardinals",
-      "image": "null",
-      "category": "Baseball",
-      "publish": "1",
-      "eventInfo": {
-        "endTime": "2026/06/13 03:30:21 +0000",
-        "eventCat": "Baseball",
-        "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/11205/image",
-        "eventName": "Baseball",
-        "eventType": "MLB",
-        "isHot": "0",
-        "startTime": "2026/06/13 00:10:00 +0000",
-        "teamA": "Twins",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3649/image",
-        "teamB": "Cardinals",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3632/image"
-      },
-      "streamUrls": [
-        {
-          "api": "",
-          "id": 1,
-          "link": "https://chatgpt.hereisman.net/playlist/51931/load-playlist?|Referer=https://gooz.aapmains.net ",
-          "title": "Live 1",
-          "type": "0",
-          "webLink": null
-        },
-        {
-          "api": "",
-          "id": 1,
-          "link": "https://mainstreams.pro/hls/dzjhkfazbka26.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz&Origin=https://streamcenter.xyz",
-          "title": "HD SERVER",
-          "type": "0",
-          "webLink": null
-        }
-      ]
-    },
-    {
-      "id": "10189",
-      "title": "Los Angeles Angels vs Tampa Bay Rays",
-      "slug": "los-angeles-angels-vs-tampa-bay-rays",
-      "image": "null",
-      "category": "Baseball",
-      "publish": "1",
-      "eventInfo": {
-        "endTime": "2026/06/13 03:38:00 +0000",
-        "eventCat": "Baseball",
-        "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/11205/image",
-        "eventName": "Baseball",
-        "eventType": "MLB",
-        "isHot": "0",
-        "startTime": "2026/06/13 01:38:00 +0000",
-        "teamA": "Angels",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/5929/image",
-        "teamB": "Rays",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3653/image"
-      },
-      "streamUrls": [
-        {
-          "api": "",
-          "id": 1,
-          "link": "https://mainstreams.pro/hls/jzabfazkbf27.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz&Origin=https://streamcenter.xyz",
-          "title": "Live 1",
-          "type": "0",
-          "webLink": null
-        },
-        {
-          "api": "",
-          "id": 1,
-          "link": "https://edge2caster.pro/hls/jzabfazkbf27.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-          "title": "Live 2",
-          "type": "0",
-          "webLink": null
-        }
-      ]
-    },
-    {
-      "id": "10190",
-      "title": "Athletics vs Colorado Rockies",
-      "slug": "athletics-vs-colorado-rockies",
-      "image": "null",
-      "category": "Baseball",
-      "publish": "1",
-      "eventInfo": {
-        "endTime": "2026/06/13 04:05:00 +0000",
-        "eventCat": "Baseball",
-        "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/11205/image",
-        "eventName": "Baseball",
-        "eventType": "MLB",
-        "isHot": "0",
-        "startTime": "2026/06/13 02:05:00 +0000",
-        "teamA": "Athletics",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3645/image",
-        "teamB": "Rockies",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3628/image"
-      },
-      "streamUrls": [
-        {
-          "api": "",
-          "id": 1,
-          "link": "https://chatgpt.hereisman.net/playlist/51937/load-playlist?|Referer=https://gooz.aapmains.net ",
-          "title": "Live 1",
-          "type": "0",
-          "webLink": null
-        },
-        {
-          "api": "",
-          "id": 1,
-          "link": "https://mainstreams.pro/hls/hefbafbakx28.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz&Origin=https://streamcenter.xyz",
-          "title": "HD SERVER",
-          "type": "0",
-          "webLink": null
-        }
-      ]
-    },
-    {
-      "id": "10191",
-      "title": "San Francisco Giants vs Chicago Cubs",
-      "slug": "san-francisco-giants-vs-chicago-cubs",
-      "image": "null",
-      "category": "Baseball",
-      "publish": "1",
-      "eventInfo": {
-        "endTime": "2026/06/13 04:15:00 +0000",
-        "eventCat": "Baseball",
-        "eventLogo": "https://img.sofascore.com/api/v1/unique-tournament/11205/image",
-        "eventName": "Baseball",
-        "eventType": "MLB",
-        "isHot": "0",
-        "startTime": "2026/06/13 02:15:00 +0000",
-        "teamA": "Giants",
-        "teamAFlag": "https://img.sofascore.com/api/v1/team/3634/image",
-        "teamB": "Cubs",
-        "teamBFlag": "https://img.sofascore.com/api/v1/team/3627/image"
-      },
-      "streamUrls": [
-        {
-          "api": "",
-          "id": 1,
-          "link": "https://chatgpt.hereisman.net/playlist/51939/load-playlist?|Referer=https://gooz.aapmains.net ",
-          "title": "Live 1",
-          "type": "0",
-          "webLink": null
-        },
-        {
-          "api": "",
-          "id": 1,
-          "link": "https://mainstreams.pro/hls/hfzljfahzcax29.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz&Origin=https://streamcenter.xyz",
-          "title": "HD SERVER",
-          "type": "0",
-          "webLink": null
-        },
-        {
-          "api": "",
-          "id": 1,
-          "link": "https://edge2caster.pro/hls/hfzljfahzcax29.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-          "title": "Live 2",
           "type": "0",
           "webLink": null
         }
