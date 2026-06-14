@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-14T00:31:43.879998",
+  "last_updated": "2026-06-14T00:41:42.730379",
   "event_count": 91,
   "events": {
     "events": [
@@ -447,6 +447,14 @@
             "tokenApi": ""
           },
           {
+            "title": "WILLOW ALT",
+            "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rwlkwsuzy2/out/v1/e8065dc98ade40eb8efceaf93102c265/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "a9dae75b6cb99349a1556075b84a47cf:4e352802192626f915e9c69e635ce2ae",
+            "tokenApi": ""
+          },
+          {
             "title": "FANCODE - AQ",
             "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
             "logo": "",
@@ -455,8 +463,8 @@
             "tokenApi": ""
           },
           {
-            "title": "TNT SPORTS HD",
-            "link": "https://xstm.250909.cc/live/SPORTSFLUX-POOL-d337053a29/e45af0ddd607/1036.m3u8",
+            "title": "WILLOW HD",
+            "link": "https://cdn9859.shop/willoweng.m3u8",
             "logo": "",
             "type": 0,
             "api": "",
@@ -468,14 +476,6 @@
             "logo": "",
             "type": 7,
             "api": "709c812e1b4174002605df1d17d34a4c:0bbee6c9c20a0f065bf8369d54cbf83e",
-            "tokenApi": ""
-          },
-          {
-            "title": "WILLOW HD",
-            "link": "https://cdn9859.shop/willoweng.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
             "tokenApi": ""
           }
         ]
@@ -1687,27 +1687,27 @@
             "tokenApi": ""
           },
           {
-            "title": "ZEE5 HINDI - AQ",
-            "link": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinema/default/manifest.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "43513b13f4b542e39c9265921dfc1726:b0b2678bcd274c37b888a6c987d502ed",
-            "tokenApi": ""
-          },
-          {
-            "title": "Sporza DUTCH - AQ",
-            "link": "https://live.vrtcdn.be/groupd/live/0761024f-37fe-4254-bc37-e95d7c62b2d1/live.isml/.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "893bc63340876605f52886a42e0ccce5:d6c46d2d691056fbd091bf1f01b21a91",
-            "tokenApi": ""
-          },
-          {
             "title": "VRT DUTCH - AQ",
             "link": "https://live.vrtcdn.be/groupd/live/0761024f-37fe-4254-bc37-e95d7c62b2d1/live.isml/.mpd",
             "logo": "",
             "type": 7,
             "api": "893bc63340876605f52886a42e0ccce5:d6c46d2d691056fbd091bf1f01b21a91",
+            "tokenApi": ""
+          },
+          {
+            "title": "FUSSBALL TV 4k",
+            "link": "https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_uhd/DASH/index.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "1f09d5788fbbb03a053d03cc731f31a9:d493d5a70c793362324638f61d1726ac",
+            "tokenApi": ""
+          },
+          {
+            "title": "FUSSBALL TV - AQ",
+            "link": "https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_hd/DASH/index.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "1cb20afcd9d979c833cfd208c7d3eeb2:fef0c15b4a523370892edd5e4133c269",
             "tokenApi": ""
           }
         ]
