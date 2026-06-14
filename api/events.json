@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-14T06:21:26.877616",
-  "event_count": 81,
+  "last_updated": "2026-06-14T06:32:08.263118",
+  "event_count": 82,
   "events": {
     "events": [
       {
@@ -3082,6 +3082,33 @@
           "Status": "Upcoming",
           "startTime": "2026/06/15 00:00:00 +0000",
           "endTime": "2026/06/15 03:30:53 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Live 1",
+            "link": "ok",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 10197,
+        "title": "Pittsburgh Pirates vs Miami Marlins",
+        "image": "null",
+        "cat": "Baseball",
+        "eventInfo": {
+          "teamA": "Pirates",
+          "teamB": "Marlins",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3637/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3639/image",
+          "eventName": "Baseball",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/06/14 16:15:00 +0000",
+          "endTime": "2026/06/14 19:15:37 +0000"
         },
         "channels_data": [
           {
