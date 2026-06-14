@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-14T01:01:55.096669",
+  "last_updated": "2026-06-14T01:11:50.737672",
   "event_count": 91,
   "events": {
     "events": [
@@ -1639,6 +1639,14 @@
             "tokenApi": ""
           },
           {
+            "title": "FUSSBALL TV - AQ",
+            "link": "https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_hd/DASH/index.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "1cb20afcd9d979c833cfd208c7d3eeb2:fef0c15b4a523370892edd5e4133c269",
+            "tokenApi": ""
+          },
+          {
             "title": "CTV ENGLISH - AQ",
             "link": "https://otte-tim.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/72sjo8hygl/out/v1/3079be34d72a4985852d299a02406a0c/cenc.mpd",
             "logo": "",
@@ -1703,22 +1711,6 @@
             "tokenApi": ""
           },
           {
-            "title": "FUSSBALL TV - AQ",
-            "link": "https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_hd/DASH/index.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "1cb20afcd9d979c833cfd208c7d3eeb2:fef0c15b4a523370892edd5e4133c269",
-            "tokenApi": ""
-          },
-          {
-            "title": "SOMOY TV HD",
-            "link": "https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
             "title": "beIN MAX HD",
             "link": "https://karamino234.s3.eu-north-1.amazonaws.com/live/ch1/ch1.m3u8|Referer=https://www.egybst.one/",
             "logo": "",
@@ -1745,6 +1737,14 @@
           {
             "title": "SD SERVER",
             "link": "http://193.47.62.41/hls/PPPPQQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "SOMOY TV HD",
+            "link": "https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8",
             "logo": "",
             "type": 0,
             "api": "",
