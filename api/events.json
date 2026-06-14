@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-14T17:32:13.898045",
+  "last_updated": "2026-06-14T17:41:41.674167",
   "event_count": 96,
   "events": {
     "events": [
@@ -3309,7 +3309,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/3641/image",
           "eventName": "Baseball",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/06/14 17:35:00 +0000",
           "endTime": "2026/06/14 21:00:33 +0000"
         },
@@ -3344,7 +3344,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/3636/image",
           "eventName": "Baseball",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/06/14 17:35:00 +0000",
           "endTime": "2026/06/14 21:00:18 +0000"
         },
@@ -3379,7 +3379,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/3654/image",
           "eventName": "Baseball",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/06/14 17:37:00 +0000",
           "endTime": "2026/06/14 21:00:28 +0000"
         },
@@ -3414,7 +3414,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/3656/image",
           "eventName": "Baseball",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/06/14 17:40:00 +0000",
           "endTime": "2026/06/14 21:00:13 +0000"
         },
@@ -3449,7 +3449,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/3648/image",
           "eventName": "Baseball",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/06/14 17:40:00 +0000",
           "endTime": "2026/06/14 21:00:53 +0000"
         },
@@ -3484,7 +3484,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/3640/image",
           "eventName": "Baseball",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/06/14 17:40:00 +0000",
           "endTime": "2026/06/14 21:00:47 +0000"
         },
@@ -3666,7 +3666,15 @@
         "channels_data": [
           {
             "title": "Live 1",
-            "link": "ok",
+            "link": "https://mainstreams.pro/hls/dzjhkfazbka26.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz&Origin=https://streamcenter.xyz",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "HD SERVER",
+            "link": "https://mainstreams.pro/hls/dzjhkfazbka26.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
             "logo": "",
             "type": 0,
             "api": "",
