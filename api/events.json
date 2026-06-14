@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-14T17:51:50.841514",
+  "last_updated": "2026-06-14T18:02:16.999635",
   "event_count": 96,
   "events": {
     "events": [
@@ -3119,78 +3119,21 @@
       },
       {
         "id": 10193,
-        "title": "India Women vs Pakistan Women",
+        "title": "England Women vs Ireland Women",
         "image": "null",
         "cat": "Cricket",
         "eventInfo": {
-          "teamA": "India Women",
-          "teamB": "Pakistan Women",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/213119/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/187808/image",
+          "teamA": "England Women",
+          "teamB": "Ireland Women",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/213121/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/213116/image",
           "eventName": "Cricket",
           "isHot": "0",
-          "Status": "Finish",
-          "startTime": "2026/06/14 13:30:00 +0000",
-          "endTime": "2026/06/14 17:45:36 +0000"
+          "Status": "Upcoming",
+          "startTime": "2026/06/16 17:30:00 +0000",
+          "endTime": "2026/06/16 21:30:42 +0000"
         },
-        "channels_data": [
-          {
-            "title": "WILLOW - AQ",
-            "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bv9fvzbb0x/out/v1/2d48cdbaca0f4cc3a996c9dc7905c336/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "fcbc6104335e2d7392733fb19c6496f0:2a24fe5795cb9ac1016c8e6cb187f3a1",
-            "tokenApi": ""
-          },
-          {
-            "title": "PRIME VIDEO - AQ",
-            "link": "https://otte.live.fly.ww.aiv-cdn.net/sin-nitro/live/clients/dash/enc/87d0tehlad/out/v1/403835568f5b4e3ca2d201cc88b594ee/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "ee0c99be51120d109657df5229b48b01:6f0cc18e09de8ec73414bb2209d6c63b",
-            "tokenApi": ""
-          },
-          {
-            "title": "SKY CRICKET - AQ",
-            "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "WILLOW ALT",
-            "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/oqs1e78oje/out/v1/5fee0665212c492088570362037805bc/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "171c4539a8653c515e927b82ecabc2a0:4436fc9a03a14035bb6abccdb3020c94",
-            "tokenApi": ""
-          },
-          {
-            "title": "SKY SPORT NZ",
-            "link": "https://tmaxapp.site/skynz2.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "WILLOW HD",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
-            "tokenApi": ""
-          },
-          {
-            "title": "SD SERVER",
-            "link": "http://193.47.62.55/hls/ggggQ.m3u8|referer=http://www.fawanews.sc/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
+        "channels_data": []
       },
       {
         "id": 10195,
@@ -3419,6 +3362,14 @@
           {
             "title": "Live 1",
             "link": "https://mainstreams.pro/hls/Czajafjihafch18.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz&Origin=https://streamcenter.xyz",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "Live 2",
+            "link": "https://chatgpt.hereisman.net/playlist/52015/load-playlist?|Referer=https://gooz.aapmains.net",
             "logo": "",
             "type": 0,
             "api": "",
