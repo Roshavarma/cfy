@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-14T16:51:59.033188",
+  "last_updated": "2026-06-14T17:02:36.774782",
   "event_count": 96,
   "events": {
     "events": [
@@ -1131,7 +1131,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/55827/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/06/14 17:00:00 +0000",
           "endTime": "2026/06/14 19:00:00 +0000"
         },
@@ -3327,7 +3327,15 @@
         "channels_data": [
           {
             "title": "Live 1",
-            "link": "ok",
+            "link": "https://mainstreams.pro/hls/16yuitzaerghbhc16.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz&Origin=https://streamcenter.xyz",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "HD SERVER",
+            "link": "https://mainstreams.pro/hls/16yuitzaerghbhc16.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
             "logo": "",
             "type": 0,
             "api": "",
