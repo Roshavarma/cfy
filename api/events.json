@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-14T14:32:32.479559",
+  "last_updated": "2026-06-14T14:41:59.161116",
   "event_count": 96,
   "events": {
     "events": [
@@ -3167,24 +3167,8 @@
             "tokenApi": ""
           },
           {
-            "title": "SKY SPORT NZ",
-            "link": "https://cdn9859.shop/skynz4.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "SKY CRICKET HD",
-            "link": "https://cdn9859.shop/skycricket.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "SKY MAIN EVENT",
-            "link": "https://cdn9859.shop/skymainevent.m3u8",
+            "title": "SD SERVER",
+            "link": "http://193.47.62.55/hls/ggggQ.m3u8|referer=http://www.fawanews.sc/",
             "logo": "",
             "type": 0,
             "api": "",
@@ -3210,27 +3194,11 @@
         },
         "channels_data": [
           {
-            "title": "WILLOW - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/isqa0ds2j0/out/v1/f01fad218d5e47948ce9fae532309a3b/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "62f41273ee668492a6decdfc6b397235:e2549a375f742cd81d54226f28912405",
-            "tokenApi": ""
-          },
-          {
             "title": "PREMIER SPORTS - AQ",
             "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
             "logo": "",
             "type": 7,
             "api": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19",
-            "tokenApi": ""
-          },
-          {
-            "title": "WILLOW - LQ",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/q3pnqvfmbc/out/v1/193e9e282c594ad5934160dd19380677/cenc-sd.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "76b8253340c80879220f3aa01efae459:64a7048ed198268af54abf9e6cf1af33",
             "tokenApi": ""
           }
         ]
