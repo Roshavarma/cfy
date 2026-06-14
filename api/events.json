@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-14T17:12:08.215849",
+  "last_updated": "2026-06-14T17:21:59.364110",
   "event_count": 96,
   "events": {
     "events": [
@@ -1130,7 +1130,7 @@
           "teamAFlag": "https://img.sofascore.com/api/v1/team/4711/image",
           "teamBFlag": "https://img.sofascore.com/api/v1/team/55827/image",
           "eventName": "Football",
-          "isHot": "0",
+          "isHot": "1",
           "Status": "Live",
           "startTime": "2026/06/14 17:00:00 +0000",
           "endTime": "2026/06/14 19:00:00 +0000"
@@ -1238,14 +1238,6 @@
             "logo": "",
             "type": 7,
             "api": "433ffba670963e70857859a9dff4be04:51ede3a821229fe81e71282c8eff80e3",
-            "tokenApi": ""
-          },
-          {
-            "title": "VRT DUTCH - AQ",
-            "link": "https://live.vrtcdn.be/groupd/live/0761024f-37fe-4254-bc37-e95d7c62b2d1/live.isml/.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "893bc63340876605f52886a42e0ccce5:d6c46d2d691056fbd091bf1f01b21a91",
             "tokenApi": ""
           },
           {
@@ -3324,7 +3316,15 @@
         "channels_data": [
           {
             "title": "Live 1",
-            "link": "ok",
+            "link": "https://mainstreams.pro/hls/ihfazugfyjcazich17.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz&Origin=https://streamcenter.xyz",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "HD SERVER",
+            "link": "https://edgestreams.pro/hls/ihfazugfyjcazich17.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
             "logo": "",
             "type": 0,
             "api": "",
@@ -3386,7 +3386,15 @@
         "channels_data": [
           {
             "title": "Live 1",
-            "link": "ok",
+            "link": "https://mainstreams.pro/hls/Czajafjihafch18.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz&Origin=https://streamcenter.xyz",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "HD SERVER",
+            "link": "https://edge2caster.pro/hls/Czajafjihafch18.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
             "logo": "",
             "type": 0,
             "api": "",
@@ -3413,7 +3421,15 @@
         "channels_data": [
           {
             "title": "Live 1",
-            "link": "ok",
+            "link": "https://mainstreams.pro/hls/jkzahzadach20.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz&Origin=https://streamcenter.xyz",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "HD SERVER",
+            "link": "https://edgestreams.pro/hls/jkzahzadach20.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
             "logo": "",
             "type": 0,
             "api": "",
@@ -3467,7 +3483,15 @@
         "channels_data": [
           {
             "title": "Live 1",
-            "link": "ok",
+            "link": "https://mainstreams.pro/hls/bzagLHzach19.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz&Origin=https://streamcenter.xyz",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "HD SERVER",
+            "link": "https://edgestreams.pro/hls/bzagLHzach19.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
             "logo": "",
             "type": 0,
             "api": "",
@@ -3521,7 +3545,15 @@
         "channels_data": [
           {
             "title": "Live 1",
-            "link": "ok",
+            "link": "https://mainstreams.pro/hls/fskjanach24.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz&Origin=https://streamcenter.xyz",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "HD SERVER",
+            "link": "https://edgestreams.pro/hls/fskjanach24.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
             "logo": "",
             "type": 0,
             "api": "",
