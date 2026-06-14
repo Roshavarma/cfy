@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-14T01:22:16.145378",
+  "last_updated": "2026-06-14T01:31:59.963862",
   "event_count": 91,
   "events": {
     "events": [
@@ -496,7 +496,64 @@
           "startTime": "2026/06/17 10:00:45 +0000",
           "endTime": "2026/06/17 18:30:51 +0000"
         },
-        "channels_data": []
+        "channels_data": [
+          {
+            "title": "WILLOW - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/7cafnduuey/out/v1/d4802616af6f42e091f768d43b451d20/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "81f0262e5a1b7c382ba1114e4ad061eb:824d4e6bf5bb20818f449d9628668ede",
+            "tokenApi": ""
+          },
+          {
+            "title": "WILLOW - ALT",
+            "link": "https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/7cafnduuey/out/v1/d4802616af6f42e091f768d43b451d20/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "81f0262e5a1b7c382ba1114e4ad061eb:824d4e6bf5bb20818f449d9628668ede",
+            "tokenApi": ""
+          },
+          {
+            "title": "SKY SPORT NZ",
+            "link": "https://cdn9859.shop/skynz1.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "FOX CRICKET HD",
+            "link": "https://cdn9859.shop/foxcricket.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "SKY CRICKET HD",
+            "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "SonyLiv",
+            "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/20000297/criclive0706/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=1d5e9ae5f9e4477a807614f878d94d3c-1780824600132",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "SD SERVER",
+            "link": "http://193.47.62.42/hls/nnnn.m3u8|Referer=http://www.fawanews.sc/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
       },
       {
         "id": 9964,
