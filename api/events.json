@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-14T06:51:45.848662",
-  "event_count": 94,
+  "last_updated": "2026-06-14T07:02:13.706490",
+  "event_count": 96,
   "events": {
     "events": [
       {
@@ -3433,6 +3433,60 @@
           "Status": "Upcoming",
           "startTime": "2026/06/14 19:10:00 +0000",
           "endTime": "2026/06/14 22:15:54 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Live 1",
+            "link": "ok",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 10210,
+        "title": "Los Angeles Angels vs Tampa Bay Rays",
+        "image": "null",
+        "cat": "Baseball",
+        "eventInfo": {
+          "teamA": "Angels",
+          "teamB": "Rays",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/5929/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3653/image",
+          "eventName": "Baseball",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/06/14 20:07:00 +0000",
+          "endTime": "2026/06/14 23:30:20 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Live 1",
+            "link": "ok",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 10211,
+        "title": "Boston Red Sox vs Texas Rangers",
+        "image": "null",
+        "cat": "Baseball",
+        "eventInfo": {
+          "teamA": "Red Sox",
+          "teamB": "Rangers",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3646/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3647/image",
+          "eventName": "Baseball",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/06/14 23:20:00 +0000",
+          "endTime": "2026/06/15 02:30:57 +0000"
         },
         "channels_data": [
           {
