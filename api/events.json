@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-15T08:11:39.121328",
-  "event_count": 81,
+  "last_updated": "2026-06-15T08:21:35.379463",
+  "event_count": 88,
   "events": {
     "events": [
       {
@@ -3969,6 +3969,195 @@
           "Status": "Upcoming",
           "startTime": "2026/06/15 23:10:00 +0000",
           "endTime": "2026/06/16 02:30:50 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Live 1",
+            "link": "ok",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 10200,
+        "title": "St. Louis Cardinals vs San Diego Padres",
+        "image": "null",
+        "cat": "Baseball",
+        "eventInfo": {
+          "teamA": "Cardinals",
+          "teamB": "Padres",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3632/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3636/image",
+          "eventName": "Baseball",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/06/15 23:45:00 +0000",
+          "endTime": "2026/06/16 03:00:54 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Live 1",
+            "link": "ok",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 10201,
+        "title": "Chicago Cubs vs Colorado Rockies",
+        "image": "null",
+        "cat": "Baseball",
+        "eventInfo": {
+          "teamA": "Cubs",
+          "teamB": "Rockies",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3627/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3628/image",
+          "eventName": "Baseball",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/06/16 00:05:00 +0000",
+          "endTime": "2026/06/16 03:30:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Live 1",
+            "link": "ok",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 10202,
+        "title": "Texas Rangers vs Minnesota Twins",
+        "image": "null",
+        "cat": "Baseball",
+        "eventInfo": {
+          "teamA": "Rangers",
+          "teamB": "Twins",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3647/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3649/image",
+          "eventName": "Baseball",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/06/16 00:05:00 +0000",
+          "endTime": "2026/06/16 03:30:56 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Live 1",
+            "link": "ok",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 10203,
+        "title": "Houston Astros vs Detroit Tigers",
+        "image": "null",
+        "cat": "Baseball",
+        "eventInfo": {
+          "teamA": "Astros",
+          "teamB": "Tigers",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3655/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3648/image",
+          "eventName": "Baseball",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/06/16 00:10:00 +0000",
+          "endTime": "2026/06/16 03:30:57 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Live 1",
+            "link": "ok",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 10204,
+        "title": "Athletics vs Pittsburgh Pirates",
+        "image": "null",
+        "cat": "Baseball",
+        "eventInfo": {
+          "teamA": "Athletics",
+          "teamB": "Pirates",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3645/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3637/image",
+          "eventName": "Baseball",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/06/16 01:40:00 +0000",
+          "endTime": "2026/06/16 05:00:03 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Live 1",
+            "link": "ok",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 10205,
+        "title": "Arizona Diamondbacks vs Los Angeles Angels",
+        "image": "null",
+        "cat": "Baseball",
+        "eventInfo": {
+          "teamA": "Diamondbacks",
+          "teamB": "Angels",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3640/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/5929/image",
+          "eventName": "Baseball",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/06/16 01:40:00 +0000",
+          "endTime": "2026/06/16 05:00:05 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Live 1",
+            "link": "ok",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 10206,
+        "title": "Los Angeles Dodgers vs Tampa Bay Rays",
+        "image": "null",
+        "cat": "Baseball",
+        "eventInfo": {
+          "teamA": "Dodgers",
+          "teamB": "Rays",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3638/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3653/image",
+          "eventName": "Baseball",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/06/16 02:10:00 +0000",
+          "endTime": "2026/06/16 05:00:04 +0000"
         },
         "channels_data": [
           {
