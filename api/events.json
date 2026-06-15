@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-15T00:02:01.348142",
+  "last_updated": "2026-06-15T00:11:43.263449",
   "event_count": 95,
   "events": {
     "events": [
@@ -372,19 +372,19 @@
             "tokenApi": ""
           },
           {
-            "title": "UFC FIGHT PASS",
-            "link": "https://dice-live-us.akamaized.net/hdntl=exp=1781566593~acl=*dash%2Flive%2F2026483%2F301980-323017%2F*!*dash%2Flive%2F2026483-b%2F301980-323017-b%2F*~id=f040cc47-3b6f-464c-8b85-9fc9c0b4f852~data=hdntl,dWlkPWhlSHN2dHxiZjhlMjdlMS02MTJhLTQwYzctOGMwMy1mMmUyM2RhOWJmMzQmaXA9MTgwLjE5MS4xMjcuMiZleHA9MTc4MTU2NjYyMiZlaWQ9MzAxOTgwJmNpZD1kY2UudWZjJm9pZD0xNDgmdHlwZT1MSVZF~hmac=a683ea6844320428872cfc07fb37ce71228121bcca892e8f10438029019c16a3/dash/live/2026483/301980-323017/manifest-d.mpd|user-agent=Mozila",
-            "logo": "",
-            "type": 7,
-            "api": "b9dd271a7c7c4590af0fca8437f7e604:60a0eb540f4f42c482d16cae63e54073",
-            "tokenApi": ""
-          },
-          {
             "title": "HUB PREMIER - AQ",
             "link": "https://sh-bks400-11.starhubgo.com/bpk-token/1aa@bnwtguorzo0q00jiqby4dmhni3it3ubvbtcizbca/bpk-tv/HubSports2HD/output/manifest.mpd",
             "logo": "",
             "type": 7,
             "api": "fd72f19fac0c441b808996ea993d06d2:8f0be65b978ef60062b4c7dabb226a1d",
+            "tokenApi": ""
+          },
+          {
+            "title": "UFC FIGHT PASS",
+            "link": "https://dice-live-us.akamaized.net/hdntl=exp=1781566593~acl=*dash%2Flive%2F2026483%2F301980-323017%2F*!*dash%2Flive%2F2026483-b%2F301980-323017-b%2F*~id=f040cc47-3b6f-464c-8b85-9fc9c0b4f852~data=hdntl,dWlkPWhlSHN2dHxiZjhlMjdlMS02MTJhLTQwYzctOGMwMy1mMmUyM2RhOWJmMzQmaXA9MTgwLjE5MS4xMjcuMiZleHA9MTc4MTU2NjYyMiZlaWQ9MzAxOTgwJmNpZD1kY2UudWZjJm9pZD0xNDgmdHlwZT1MSVZF~hmac=a683ea6844320428872cfc07fb37ce71228121bcca892e8f10438029019c16a3/dash/live/2026483/301980-323017/manifest-d.mpd|user-agent=Mozila",
+            "logo": "",
+            "type": 7,
+            "api": "b9dd271a7c7c4590af0fca8437f7e604:60a0eb540f4f42c482d16cae63e54073",
             "tokenApi": ""
           },
           {
@@ -430,6 +430,22 @@
           {
             "title": "SPORT TV HD",
             "link": "https://t7.ultrastream.vip/sporttv1/index.m3u8?|Referer=https://foottime.top/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "SonyLiv English",
+            "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/20000292/UFC_Free1406/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "SonyLiv Hindi",
+            "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/20000292/UFC_Free1406/HIN/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com",
             "logo": "",
             "type": 0,
             "api": "",
