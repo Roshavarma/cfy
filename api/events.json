@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-15T05:41:42.833355",
+  "last_updated": "2026-06-15T05:51:34.302002",
   "event_count": 78,
   "events": {
     "events": [
@@ -358,7 +358,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/466918/image",
           "eventName": "Boxing",
           "isHot": "0",
-          "Status": "Live",
+          "Status": "Finish",
           "startTime": "2026/06/15 00:00:15 +0000",
           "endTime": "2026/06/15 05:45:20 +0000"
         },
@@ -3724,6 +3724,14 @@
         "channels_data": [
           {
             "title": "WILLOW - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/etstumm4et/out/v1/d87bdeb28ab4455284dab1e6f5ec22f9/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "fe6bf8b837ec95625844583c9933c63d:9dd28f6a34a092ba2ea958125a51daac",
+            "tokenApi": ""
+          },
+          {
+            "title": "WILLOW - LQ",
             "link": "https://tmaxapp.site/willoweng.m3u8",
             "logo": "",
             "type": 0,
