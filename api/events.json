@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-14T23:51:55.506571",
+  "last_updated": "2026-06-15T00:02:01.348142",
   "event_count": 95,
   "events": {
     "events": [
@@ -358,7 +358,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/466918/image",
           "eventName": "Boxing",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/06/15 00:00:15 +0000",
           "endTime": "2026/06/15 05:45:20 +0000"
         },
@@ -369,6 +369,14 @@
             "logo": "",
             "type": 7,
             "api": "d14658a0ede94debcb4013b2056ba6d1:60838a3176127fed0eaf038a5575de11",
+            "tokenApi": ""
+          },
+          {
+            "title": "UFC FIGHT PASS",
+            "link": "https://dice-live-us.akamaized.net/hdntl=exp=1781566593~acl=*dash%2Flive%2F2026483%2F301980-323017%2F*!*dash%2Flive%2F2026483-b%2F301980-323017-b%2F*~id=f040cc47-3b6f-464c-8b85-9fc9c0b4f852~data=hdntl,dWlkPWhlSHN2dHxiZjhlMjdlMS02MTJhLTQwYzctOGMwMy1mMmUyM2RhOWJmMzQmaXA9MTgwLjE5MS4xMjcuMiZleHA9MTc4MTU2NjYyMiZlaWQ9MzAxOTgwJmNpZD1kY2UudWZjJm9pZD0xNDgmdHlwZT1MSVZF~hmac=a683ea6844320428872cfc07fb37ce71228121bcca892e8f10438029019c16a3/dash/live/2026483/301980-323017/manifest-d.mpd|user-agent=Mozila",
+            "logo": "",
+            "type": 7,
+            "api": "b9dd271a7c7c4590af0fca8437f7e604:60a0eb540f4f42c482d16cae63e54073",
             "tokenApi": ""
           },
           {
@@ -406,6 +414,14 @@
           {
             "title": "HD SERVER",
             "link": "https://mainstreams.pro/hls/zeuryuegn48.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz&Origin=https://streamcenter.xyz",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "TNT SPORTS HD",
+            "link": "https://xstm.250909.cc/live/SPORTSFLUX-PRD-76753-1/4a7a4af09781/1033.m3u8",
             "logo": "",
             "type": 0,
             "api": "",
@@ -3571,7 +3587,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/3680/image",
           "eventName": "Ice Hockey",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/06/15 00:00:00 +0000",
           "endTime": "2026/06/15 03:30:53 +0000"
         },
