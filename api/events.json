@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-16T19:02:22.710714",
+  "last_updated": "2026-06-16T19:11:55.341799",
   "event_count": 89,
   "events": {
     "events": [
@@ -1911,6 +1911,14 @@
             "tokenApi": ""
           },
           {
+            "title": "IRIB 4K",
+            "link": "https://ncdn.telewebion.ir/faratar/live/playlist.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
             "title": "M6 FRANCE - AQ",
             "link": "https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_cenc00/dash-short-hd.mpd",
             "logo": "",
@@ -1964,14 +1972,6 @@
             "logo": "",
             "type": 0,
             "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "SporTV BR - AQ",
-            "link": "https://a121aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "4bbcff3289d457b4dd5dbdd21221de9a:c4906b9a9f8dda3c0725bddb8c497733",
             "tokenApi": ""
           },
           {
@@ -2031,22 +2031,6 @@
             "tokenApi": ""
           },
           {
-            "title": "FUSSBALL (GER)",
-            "link": "https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_hd/DASH/index.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "1cb20afcd9d979c833cfd208c7d3eeb2:fef0c15b4a523370892edd5e4133c269",
-            "tokenApi": ""
-          },
-          {
-            "title": "FUSSBALL 4k (GER)",
-            "link": "https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_uhd/DASH/index.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "1f09d5788fbbb03a053d03cc731f31a9:d493d5a70c793362324638f61d1726ac",
-            "tokenApi": ""
-          },
-          {
             "title": "FOX SPORTS SD",
             "link": "http://193.47.62.41/hls/hkkkFFFFX.m3u8?|Referer=http://www.fawanews.sc/",
             "logo": "",
@@ -2095,14 +2079,6 @@
             "tokenApi": ""
           },
           {
-            "title": "UNiFy TV (IND)",
-            "link": "https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(fifa1)/master.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "10e2114398744f3880cc96653568da55:d6d40441f9fbebea03ec64c4aea7211f",
-            "tokenApi": ""
-          },
-          {
             "title": "beiN MAX HD",
             "link": "https://www.mdrstore.shop/s2_bn_max_1_fhd/tracks-v1a1/mono.m3u8",
             "logo": "",
@@ -2124,6 +2100,14 @@
             "logo": "",
             "type": 0,
             "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "UNiFy TV (IND)",
+            "link": "https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(fifa1)/master.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "10e2114398744f3880cc96653568da55:d6d40441f9fbebea03ec64c4aea7211f",
             "tokenApi": ""
           }
         ]
