@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-16T21:51:35.326753",
+  "last_updated": "2026-06-16T22:02:11.750178",
   "event_count": 89,
   "events": {
     "events": [
@@ -2132,7 +2132,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/4475/image",
           "eventName": "Football",
           "isHot": "1",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/06/16 22:00:00 +0000",
           "endTime": "2026/06/17 00:00:00 +0000"
         },
@@ -2186,14 +2186,6 @@
             "tokenApi": ""
           },
           {
-            "title": "FUSSBALL (GER)",
-            "link": "https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_hd/DASH/index.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "1cb20afcd9d979c833cfd208c7d3eeb2:fef0c15b4a523370892edd5e4133c269",
-            "tokenApi": ""
-          },
-          {
             "title": "TELEMUNDO - AQ",
             "link": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd",
             "logo": "",
@@ -2202,19 +2194,11 @@
             "tokenApi": ""
           },
           {
-            "title": "CTV SPORTS - AQ",
-            "link": "https://otte-tim.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/72sjo8hygl/out/v1/3079be34d72a4985852d299a02406a0c/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "d185684e2330de5bea436daa094a5e86:014f0116154f5bf0050e03a6b0a23157",
-            "tokenApi": ""
-          },
-          {
             "title": "Caz\u00e9TV BR - AQ",
-            "link": "https://otte-tim.live.pv-cdn.net/gru-nitro/live/clients/dash/enc/iayg0kyrof/out/v1/91dc04907f56415b897faccfa9d252da/cenc.mpd",
+            "link": "https://a121aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/vzeco5ty0v/out/v1/44c6b8f31a2544e3b2a9bb41ed5e241e/cenc.mpd",
             "logo": "",
             "type": 7,
-            "api": "1223d5105392cabf1bb9c2c1fdf6539a:340b409f4b8f78a343e0363a7938df38",
+            "api": "ac7abaa9c9481aacfbdac64fc3ec3312:c0c504a2ed2e70b879a650b8770a38c6",
             "tokenApi": ""
           },
           {
@@ -2404,6 +2388,62 @@
           {
             "title": "FAST SERVER",
             "link": "https://pulltx.jdnzrgm.com/live/hd-en-6MvZ6BDgdifbY8jXPt.m3u8?txSecret=e21259a66d51a0982eb7fe949d46d8c5&txTime=6A31EDD0",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "BBC SPORTS SD",
+            "link": "http://193.47.62.56/hls/hkkkFFFFX.m3u8?|Referer=http://www.fawanews.sc/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "SD SERVER ENG",
+            "link": "http://193.47.62.42/hls/FRFRFR.m3u8?|Referer=http://www.fawanews.sc/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "FUSSBALL (GER)",
+            "link": "https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_hd/DASH/index.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "1cb20afcd9d979c833cfd208c7d3eeb2:fef0c15b4a523370892edd5e4133c269",
+            "tokenApi": ""
+          },
+          {
+            "title": "AZAM SPORTS SD",
+            "link": "http://193.47.62.44/hls/hkkkFFFF.m3u8?|Referer=http://www.fawanews.sc/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "D SPORTS ES SD",
+            "link": "http://193.47.62.52/hls/hkkk.m3u8?|Referer=http://www.fawanews.sc/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "beiN SPORTS FR",
+            "link": "http://193.47.62.44/hls/hkkkFF.m3u8?|Referer=http://www.fawanews.sc/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "SD SERVER NOR",
+            "link": "http://193.47.62.44/hls/hkkkFFFR.m3u8?|Referer=http://www.fawanews.sc/",
             "logo": "",
             "type": 0,
             "api": "",
