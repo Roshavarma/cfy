@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-17T00:51:46.820319",
+  "last_updated": "2026-06-17T01:02:12.096126",
   "event_count": 89,
   "events": {
     "events": [
@@ -2407,7 +2407,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/4691/image",
           "eventName": "Football",
           "isHot": "1",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/06/17 01:00:00 +0000",
           "endTime": "2026/06/17 03:00:00 +0000"
         },
@@ -2438,7 +2438,7 @@
           },
           {
             "title": "FOX SPORTS 4K",
-            "link": "https://otte-tim.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/ifz2pnwgbv/out/v1/31d30c91fc65458789b84209d3fa22e4/cenc.mpd",
+            "link": "https://otte-qw.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/0zyzcgeq2w/out/v1/fc40f22f10374517a2784e1d97cb23f4/cenc.mpd",
             "logo": "",
             "type": 7,
             "api": "1f68713028d439ec03be07f56c1d6213:20093db6455160fffed4c394def3193d",
@@ -2453,19 +2453,19 @@
             "tokenApi": ""
           },
           {
+            "title": "VIX SPANISH - AQ",
+            "link": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/8u9cregwlt/out/v1/687f6b2a559943549be271504a948ffd/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "1710ac2bbfcd3032d0f6533850968f47:d2548dacc8efcd1cd0af0373060c82dc",
+            "tokenApi": ""
+          },
+          {
             "title": "D SPORTS - AQ",
             "link": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ubehitlwzo/out/v1/8e09c381a51f4366a19e979418112e8f/cenc.mpd",
             "logo": "",
             "type": 7,
             "api": "a7d11d37a1f7611ee88d4db880171f32:68f96d618b0b956b008c445896a25a79",
-            "tokenApi": ""
-          },
-          {
-            "title": "FUSSBALL TV (GER)",
-            "link": "https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_hd/DASH/index.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "1cb20afcd9d979c833cfd208c7d3eeb2:fef0c15b4a523370892edd5e4133c269",
             "tokenApi": ""
           },
           {
@@ -2509,27 +2509,11 @@
             "tokenApi": ""
           },
           {
-            "title": "M6 FRANCE - AQ",
-            "link": "https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_cenc00/dash-short-hd.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "433ffba670963e70857859a9dff4be04:51ede3a821229fe81e71282c8eff80e3",
-            "tokenApi": ""
-          },
-          {
             "title": "VRT DUTCH - AQ",
             "link": "https://live.vrtcdn.be/groupd/live/0761024f-37fe-4254-bc37-e95d7c62b2d1/live.isml/.mpd",
             "logo": "",
             "type": 7,
             "api": "893bc63340876605f52886a42e0ccce5:d6c46d2d691056fbd091bf1f01b21a91",
-            "tokenApi": ""
-          },
-          {
-            "title": "MATCH! FUTBOL - AQ",
-            "link": "https://video.beeline.tv/live/d/channel319.isml/manifest-stb.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "9145a6e0f778e61866f573d4944dd533:d02173d40515fea5c83944f21d0f3114",
             "tokenApi": ""
           },
           {
@@ -2557,27 +2541,11 @@
             "tokenApi": ""
           },
           {
-            "title": "MATCH! FUTBOL HD",
-            "link": "https://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_hd/17_89756005/1080/e6bef86de8a133cd7b27deb040758a00/4796141934.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
             "title": "SOMOY TV HD",
             "link": "https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8",
             "logo": "",
             "type": 0,
             "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "VIX SPANISH - AQ",
-            "link": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/8u9cregwlt/out/v1/687f6b2a559943549be271504a948ffd/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "1710ac2bbfcd3032d0f6533850968f47:d2548dacc8efcd1cd0af0373060c82dc",
             "tokenApi": ""
           },
           {
@@ -2661,6 +2629,14 @@
             "tokenApi": ""
           },
           {
+            "title": "FUSSBALL TV (GER)",
+            "link": "https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_hd/DASH/index.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "1cb20afcd9d979c833cfd208c7d3eeb2:fef0c15b4a523370892edd5e4133c269",
+            "tokenApi": ""
+          },
+          {
             "title": "Fussball 4K 1",
             "link": "http://starhub.pro/live/farhat-3379/67897-913379/742610.ts",
             "logo": "",
@@ -2711,6 +2687,46 @@
           {
             "title": "T SPORTS HD",
             "link": "https://tv.beyondtaxconsultants.com/api/tsports/proxy?url=http://198.195.239.50:8095/tsports/tracks-v1a1/mono.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "ZEE5 HINDI - AQ",
+            "link": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinema/default/manifest.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "43513b13f4b542e39c9265921dfc1726:b0b2678bcd274c37b888a6c987d502ed",
+            "tokenApi": ""
+          },
+          {
+            "title": "ITV SPORTS SD",
+            "link": "http://193.47.62.48/hls/XhkkkFFFFX.m3u8?|Referer=http://www.fawanews.sc/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "SD SERVER ENG",
+            "link": "http://193.47.62.49/hls/XFRFRFR.m3u8?|Referer=http://www.fawanews.sc/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "beIN SPORTS FR",
+            "link": "http://193.47.62.52/hls/XhkkkFF.m3u8?|Referer=http://www.fawanews.sc/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "D SPORTS SD",
+            "link": "http://193.47.62.52/hls/Xhkkk.m3u8?|Referer=http://www.fawanews.sc/",
             "logo": "",
             "type": 0,
             "api": "",
