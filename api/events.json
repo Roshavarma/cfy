@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-17T16:31:54.351531",
+  "last_updated": "2026-06-17T16:41:57.348731",
   "event_count": 81,
   "events": {
     "events": [
@@ -835,14 +835,6 @@
             "tokenApi": ""
           },
           {
-            "title": "FUSSBALL (GER)",
-            "link": "https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_hd/DASH/index.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "1cb20afcd9d979c833cfd208c7d3eeb2:fef0c15b4a523370892edd5e4133c269",
-            "tokenApi": ""
-          },
-          {
             "title": "TELEMUNDO - AQ",
             "link": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd",
             "logo": "",
@@ -852,10 +844,10 @@
           },
           {
             "title": "Caz\u00e9TV BR - AQ",
-            "link": "https://otte-tim.live.pv-cdn.net/gru-nitro/live/clients/dash/enc/iayg0kyrof/out/v1/91dc04907f56415b897faccfa9d252da/cenc.mpd",
+            "link": "https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd",
             "logo": "",
             "type": 7,
-            "api": "1223d5105392cabf1bb9c2c1fdf6539a:340b409f4b8f78a343e0363a7938df38",
+            "api": "34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4",
             "tokenApi": ""
           },
           {
@@ -915,14 +907,6 @@
             "tokenApi": ""
           },
           {
-            "title": "FUSSBALL 4k (GER)",
-            "link": "https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_uhd/DASH/index.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "1f09d5788fbbb03a053d03cc731f31a9:d493d5a70c793362324638f61d1726ac",
-            "tokenApi": ""
-          },
-          {
             "title": "MATCH! FUTBOL HD",
             "link": "https://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_hd/17_89756005/1080/e6bef86de8a133cd7b27deb040758a00/4796141934.m3u8",
             "logo": "",
@@ -944,14 +928,6 @@
             "logo": "",
             "type": 7,
             "api": "1710ac2bbfcd3032d0f6533850968f47:d2548dacc8efcd1cd0af0373060c82dc",
-            "tokenApi": ""
-          },
-          {
-            "title": "UNiFy TV (IND)",
-            "link": "https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(fifa1)/master.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "10e2114398744f3880cc96653568da55:d6d40441f9fbebea03ec64c4aea7211f",
             "tokenApi": ""
           },
           {
@@ -997,6 +973,54 @@
           {
             "title": "TRT SPORTS - AQ",
             "link": "https://tv-trt1-esdai.medya.trt.com.tr/master.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "UNiFy TV (IND)",
+            "link": "https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(fifa1)/master.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "10e2114398744f3880cc96653568da55:d6d40441f9fbebea03ec64c4aea7211f",
+            "tokenApi": ""
+          },
+          {
+            "title": "FUSSBALL 4k (GER)",
+            "link": "https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_uhd/DASH/index.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "1f09d5788fbbb03a053d03cc731f31a9:d493d5a70c793362324638f61d1726ac",
+            "tokenApi": ""
+          },
+          {
+            "title": "FUSSBALL (GER)",
+            "link": "https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_hd/DASH/index.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "1cb20afcd9d979c833cfd208c7d3eeb2:fef0c15b4a523370892edd5e4133c269",
+            "tokenApi": ""
+          },
+          {
+            "title": "CTV SPORTS - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/72sjo8hygl/out/v1/3079be34d72a4985852d299a02406a0c/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "d185684e2330de5bea436daa094a5e86:014f0116154f5bf0050e03a6b0a23157",
+            "tokenApi": ""
+          },
+          {
+            "title": "RTE SPORTS FHD",
+            "link": "https://dai.google.com/linear/dash/pa/event/antwa0EiQm2PoHtx4rBtVw/stream/0c8b0b72-7a38-4852-ab2e-3fd88cbe71cc:GRQ/manifest.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "d816287e21496989eae1312925a423c5:00da00f13180e7e6cd5ce87d1c974e8d",
+            "tokenApi": ""
+          },
+          {
+            "title": "DAZN SPANISH",
+            "link": "https://1nyaler.streamhostingcdn.top/stream/94/index.m3u8",
             "logo": "",
             "type": 0,
             "api": "",
@@ -2839,7 +2863,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/3629/image",
           "eventName": "Baseball",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/06/17 16:40:00 +0000",
           "endTime": "2026/06/17 20:00:37 +0000"
         },
@@ -2889,7 +2913,23 @@
         "channels_data": [
           {
             "title": "Live 1",
-            "link": "ok",
+            "link": "https://chatgpt.hereisman.net/playlist/52150/load-playlist?|Referer=https://gooz.aapmains.net",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "HD SERVER",
+            "link": "https://edgestreams.pro/hls/ihfazugfyjcazich17.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streams.center&Origin=https://streams.center",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "LOW SERVER",
+            "link": "http://193.47.62.41/hls/gkkk.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
             "logo": "",
             "type": 0,
             "api": "",
@@ -2916,7 +2956,23 @@
         "channels_data": [
           {
             "title": "Live 1",
-            "link": "ok",
+            "link": "https://chatgpt.hereisman.net/playlist/52149/load-playlist?|Referer=https://gooz.aapmains.net",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "HD SERVER",
+            "link": "https://edgestreams.pro/hls/16yuitzaerghbhc16.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streams.center&Origin=https://streams.center",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "LOW SERVER",
+            "link": "http://193.47.62.41/hls/gkkkDD.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
             "logo": "",
             "type": 0,
             "api": "",
