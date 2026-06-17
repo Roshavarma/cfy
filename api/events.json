@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-17T01:02:12.096126",
+  "last_updated": "2026-06-17T01:11:56.804266",
   "event_count": 89,
   "events": {
     "events": [
@@ -2414,7 +2414,7 @@
         "channels_data": [
           {
             "title": "FOX SPORTS - AQ",
-            "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/dash/enc/ap5wz1ofsp/out/v1/7fa6feef143747beaa186ebb6dfb2532/cenc.mpd",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/dash/enc/ap5wz1ofsp/out/v1/7fa6feef143747beaa186ebb6dfb2532/cenc.mpd",
             "logo": "",
             "type": 7,
             "api": "c620c93c60c04999eb9ddc28ecfb70a8:e76a709c251313190e76cb3c3d3a5824",
@@ -2430,7 +2430,7 @@
           },
           {
             "title": "FOX ENGLISH - AQ",
-            "link": "https://otte-tim.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd",
+            "link": "https://otte-qw.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd",
             "logo": "",
             "type": 7,
             "api": "f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7",
@@ -2466,6 +2466,38 @@
             "logo": "",
             "type": 7,
             "api": "a7d11d37a1f7611ee88d4db880171f32:68f96d618b0b956b008c445896a25a79",
+            "tokenApi": ""
+          },
+          {
+            "title": "IRIB 4K",
+            "link": "https://ncdn.telewebion.ir/faratar/live/playlist.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "NOW TV 4K",
+            "link": "http://starhub.pro/live/farhat-3379/67897-913379/745270.ts",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "Fussball 4K 1",
+            "link": "http://starhub.pro/live/farhat-3379/67897-913379/742610.ts",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "Fussball 4K 2",
+            "link": "http://starhub.pro/live/farhat-3379/67897-913379/742611.ts",
+            "logo": "",
+            "type": 0,
+            "api": "",
             "tokenApi": ""
           },
           {
@@ -2533,27 +2565,11 @@
             "tokenApi": ""
           },
           {
-            "title": "FUSSBALL 4k (GER)",
-            "link": "https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_uhd/DASH/index.mpd",
+            "title": "ZEE5 HINDI - AQ",
+            "link": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinema/default/manifest.mpd",
             "logo": "",
             "type": 7,
-            "api": "1f09d5788fbbb03a053d03cc731f31a9:d493d5a70c793362324638f61d1726ac",
-            "tokenApi": ""
-          },
-          {
-            "title": "SOMOY TV HD",
-            "link": "https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "SporTV BR - AQ",
-            "link": "https://a121aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "4bbcff3289d457b4dd5dbdd21221de9a:c4906b9a9f8dda3c0725bddb8c497733",
+            "api": "43513b13f4b542e39c9265921dfc1726:b0b2678bcd274c37b888a6c987d502ed",
             "tokenApi": ""
           },
           {
@@ -2573,14 +2589,6 @@
             "tokenApi": ""
           },
           {
-            "title": "ZDF GERMAN - AQ",
-            "link": "https://simplitv-live.mdn.ors.at/live/eds/zdf_hd/dash4h/zdf_hd.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "c1a0ac1044a433d0856ccdc08f245084:7f0e8800a6d63d7915ac181bb88ce813",
-            "tokenApi": ""
-          },
-          {
             "title": "JOJ SPORTS - AQ",
             "link": "https://dash2.antik.sk/stream/nvidia_joj_sport/playlist_cenc.mpd",
             "logo": "",
@@ -2597,14 +2605,6 @@
             "tokenApi": ""
           },
           {
-            "title": "UNiFy TV (IND)",
-            "link": "https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(fifa1)/master.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "10e2114398744f3880cc96653568da55:d6d40441f9fbebea03ec64c4aea7211f",
-            "tokenApi": ""
-          },
-          {
             "title": "TSN SPORTS HD",
             "link": "https://chatgpt.hereisman.net/playlist/52122/load-playlist?|Referer=https://gooz.aapmains.net",
             "logo": "",
@@ -2615,38 +2615,6 @@
           {
             "title": "ITV SPORTS HD",
             "link": "https://chatgpt.hereisman.net/playlist/52133/load-playlist?|Referer=https://gooz.aapmains.net",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "NOW TV 4K",
-            "link": "http://starhub.pro/live/farhat-3379/67897-913379/745270.ts",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "FUSSBALL TV (GER)",
-            "link": "https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_hd/DASH/index.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "1cb20afcd9d979c833cfd208c7d3eeb2:fef0c15b4a523370892edd5e4133c269",
-            "tokenApi": ""
-          },
-          {
-            "title": "Fussball 4K 1",
-            "link": "http://starhub.pro/live/farhat-3379/67897-913379/742610.ts",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "Fussball 4K 2",
-            "link": "http://starhub.pro/live/farhat-3379/67897-913379/742611.ts",
             "logo": "",
             "type": 0,
             "api": "",
@@ -2685,22 +2653,6 @@
             "tokenApi": ""
           },
           {
-            "title": "T SPORTS HD",
-            "link": "https://tv.beyondtaxconsultants.com/api/tsports/proxy?url=http://198.195.239.50:8095/tsports/tracks-v1a1/mono.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "ZEE5 HINDI - AQ",
-            "link": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinema/default/manifest.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "43513b13f4b542e39c9265921dfc1726:b0b2678bcd274c37b888a6c987d502ed",
-            "tokenApi": ""
-          },
-          {
             "title": "ITV SPORTS SD",
             "link": "http://193.47.62.48/hls/XhkkkFFFFX.m3u8?|Referer=http://www.fawanews.sc/",
             "logo": "",
@@ -2717,6 +2669,14 @@
             "tokenApi": ""
           },
           {
+            "title": "D SPORTS SD",
+            "link": "http://193.47.62.52/hls/Xhkkk.m3u8?|Referer=http://www.fawanews.sc/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
             "title": "beIN SPORTS FR",
             "link": "http://193.47.62.52/hls/XhkkkFF.m3u8?|Referer=http://www.fawanews.sc/",
             "logo": "",
@@ -2725,11 +2685,27 @@
             "tokenApi": ""
           },
           {
-            "title": "D SPORTS SD",
-            "link": "http://193.47.62.52/hls/Xhkkk.m3u8?|Referer=http://www.fawanews.sc/",
+            "title": "UNiFy TV (IND)",
+            "link": "https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(fifa1)/master.mpd",
             "logo": "",
-            "type": 0,
-            "api": "",
+            "type": 7,
+            "api": "10e2114398744f3880cc96653568da55:d6d40441f9fbebea03ec64c4aea7211f",
+            "tokenApi": ""
+          },
+          {
+            "title": "FUSSBALL 4k (GER)",
+            "link": "https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_uhd/DASH/index.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "1f09d5788fbbb03a053d03cc731f31a9:d493d5a70c793362324638f61d1726ac",
+            "tokenApi": ""
+          },
+          {
+            "title": "FUSSBALL TV (GER)",
+            "link": "https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_hd/DASH/index.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "1cb20afcd9d979c833cfd208c7d3eeb2:fef0c15b4a523370892edd5e4133c269",
             "tokenApi": ""
           }
         ]
