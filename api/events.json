@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-17T19:51:34.265154",
+  "last_updated": "2026-06-17T20:02:15.960196",
   "event_count": 81,
   "events": {
     "events": [
@@ -1136,7 +1136,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/4715/image",
           "eventName": "Football",
           "isHot": "1",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/06/17 20:00:00 +0000",
           "endTime": "2026/06/17 22:00:00 +0000"
         },
@@ -1190,7 +1190,7 @@
             "tokenApi": ""
           },
           {
-            "title": "TELEMUNDO - AQ",
+            "title": "TELEMUNDO - USA",
             "link": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd",
             "logo": "",
             "type": 7,
@@ -1199,18 +1199,18 @@
           },
           {
             "title": "CTV SPORTS - AQ",
-            "link": "https://otte-tim.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/72sjo8hygl/out/v1/3079be34d72a4985852d299a02406a0c/cenc.mpd",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/rcgdlutvzh/out/v1/d08fb8f93d8142be9ae3305e3c953694/cenc.mpd",
             "logo": "",
             "type": 7,
-            "api": "d185684e2330de5bea436daa094a5e86:014f0116154f5bf0050e03a6b0a23157",
+            "api": "1fb1ab890f1b9392db40321042ad194b:7c9d16a71ccdb3ced4ff1344c8c75d67",
             "tokenApi": ""
           },
           {
             "title": "Caz\u00e9TV BR - AQ",
-            "link": "https://otte-tim.live.pv-cdn.net/gru-nitro/live/clients/dash/enc/iayg0kyrof/out/v1/91dc04907f56415b897faccfa9d252da/cenc.mpd",
+            "link": "https://a121aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/epg9sw6owc/out/v1/e50aecefcb294fae85d6b343e0a6f1cc/cenc.mpd",
             "logo": "",
             "type": 7,
-            "api": "1223d5105392cabf1bb9c2c1fdf6539a:340b409f4b8f78a343e0363a7938df38",
+            "api": "9752ef72590ef441ffa3731e0486fbc0:db63ec7b9f11348b7cc6808a54c99457",
             "tokenApi": ""
           },
           {
@@ -1262,7 +1262,7 @@
             "tokenApi": ""
           },
           {
-            "title": "beIN ARABIC FHD",
+            "title": "beIN ARABIC - AQ",
             "link": "https://raw.githubusercontent.com/ON2026/1smas/refs/heads/main/mx1app2.m3u8",
             "logo": "",
             "type": 0,
@@ -1299,14 +1299,6 @@
             "logo": "",
             "type": 7,
             "api": "1710ac2bbfcd3032d0f6533850968f47:d2548dacc8efcd1cd0af0373060c82dc",
-            "tokenApi": ""
-          },
-          {
-            "title": "SporTV BR FHD",
-            "link": "https://a121aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "4bbcff3289d457b4dd5dbdd21221de9a:c4906b9a9f8dda3c0725bddb8c497733",
             "tokenApi": ""
           },
           {
@@ -1371,6 +1363,14 @@
             "logo": "",
             "type": 7,
             "api": "10e2114398744f3880cc96653568da55:d6d40441f9fbebea03ec64c4aea7211f",
+            "tokenApi": ""
+          },
+          {
+            "title": "ITV SPORTS HD",
+            "link": "https://chatgpt.hereisman.net/playlist/52162/load-playlist?|Referer=https://gooz.aapmains.net",
+            "logo": "",
+            "type": 0,
+            "api": "",
             "tokenApi": ""
           }
         ]
@@ -3183,7 +3183,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/3629/image",
           "eventName": "Baseball",
           "isHot": "0",
-          "Status": "Live",
+          "Status": "Finish",
           "startTime": "2026/06/17 16:40:00 +0000",
           "endTime": "2026/06/17 20:00:37 +0000"
         },
@@ -3226,7 +3226,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/3639/image",
           "eventName": "Baseball",
           "isHot": "0",
-          "Status": "Live",
+          "Status": "Finish",
           "startTime": "2026/06/17 17:05:00 +0000",
           "endTime": "2026/06/17 20:00:41 +0000"
         },
@@ -3269,7 +3269,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/3651/image",
           "eventName": "Baseball",
           "isHot": "0",
-          "Status": "Live",
+          "Status": "Finish",
           "startTime": "2026/06/17 17:05:00 +0000",
           "endTime": "2026/06/17 20:00:50 +0000"
         },
