@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-17T23:11:38.201632",
+  "last_updated": "2026-06-17T23:21:38.056420",
   "event_count": 81,
   "events": {
     "events": [
@@ -352,15 +352,15 @@
         "image": "null",
         "cat": "Boxing",
         "eventInfo": {
-          "teamA": "Ilia Topuria",
-          "teamB": "Justin Gaethje",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/461872/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/466918/image",
+          "teamA": "Manel Kape",
+          "teamB": "Kyoji Horiguchi",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/461847/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/469943/image",
           "eventName": "Boxing",
           "isHot": "0",
-          "Status": "Finish",
-          "startTime": "2026/06/15 00:00:15 +0000",
-          "endTime": "2026/06/15 05:45:20 +0000"
+          "Status": "Upcoming",
+          "startTime": "2026/06/20 23:00:27 +0000",
+          "endTime": "2026/06/21 05:00:30 +0000"
         },
         "channels_data": [
           {
@@ -3890,14 +3890,30 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/3634/image",
           "eventName": "Baseball",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/06/17 23:15:00 +0000",
           "endTime": "2026/06/18 02:00:43 +0000"
         },
         "channels_data": [
           {
             "title": "Live 1",
-            "link": "https://edgestreams.pro/hls/fskjanach24.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streams.center&Origin=https://streams.center",
+            "link": "https://chatgpt.hereisman.net/playlist/52169/load-playlist?|Referer=https://gooz.aapmains.net",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "HD SERVER",
+            "link": "https://mainstreams.pro/hls/fskjanach24.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streams.center&Origin=https://streams.center",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "SD SERVER",
+            "link": "http://193.47.62.41/hls/GPPPZ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
             "logo": "",
             "type": 0,
             "api": "",
@@ -3924,7 +3940,23 @@
         "channels_data": [
           {
             "title": "Live 1",
-            "link": "ok",
+            "link": "https://chatgpt.hereisman.net/playlist/52171/load-playlist?|Referer=https://gooz.aapmains.net",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "HD SERVER",
+            "link": "https://mainstreams.pro/hls/kjhfzua25.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streams.center&Origin=https://streams.center",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "SD SERVER",
+            "link": "http://193.47.62.41/hls/GPPPZZ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
             "logo": "",
             "type": 0,
             "api": "",
