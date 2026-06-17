@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-17T09:02:07.826804",
-  "event_count": 73,
+  "last_updated": "2026-06-17T09:11:43.147346",
+  "event_count": 79,
   "events": {
     "events": [
       {
@@ -752,27 +752,11 @@
             "tokenApi": ""
           },
           {
-            "title": "FANCODE - HD",
-            "link": "https://fncd.kuvuslov.cymru/mumbai/142968_english_hls_0f00f082a944838_1ta-di_h264/index.m3u8|origin=https://famcodexwebs.pages.dev",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
             "title": "FANCODE - SD",
             "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash-sd/enc/v8g0dlo4z8/out/v1/946019f85dc64ae99ff9ce64a9727a62/cenc-sd.mpd",
             "logo": "",
             "type": 7,
             "api": "5689304538fa9f3bb3da99c939a2ad4f:6907c88ed8ebdd35a2fa80b9684715e1",
-            "tokenApi": ""
-          },
-          {
-            "title": "TAPMAD - BD",
-            "link": "https://saseries.akamaized.net/hls/live/2110097/T@p305t@P!23@25!95/master.m3u8?hdnts=exp=1781683507~acl=/hls/*~hmac=d8a88c9a81eba0fe50eff0c1b247f9aa40213d46020f539cf6cc5ae07f98714e",
-            "logo": "",
-            "type": 0,
-            "api": "",
             "tokenApi": ""
           }
         ]
@@ -2874,6 +2858,168 @@
           "Status": "Upcoming",
           "startTime": "2026/06/17 19:10:00 +0000",
           "endTime": "2026/06/17 22:00:37 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Live 1",
+            "link": "ok",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 10219,
+        "title": "Arizona Diamondbacks vs Los Angeles Angels",
+        "image": "null",
+        "cat": "Baseball",
+        "eventInfo": {
+          "teamA": "Diamondbacks",
+          "teamB": "Angels",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3640/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/5929/image",
+          "eventName": "Baseball",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/06/17 19:40:00 +0000",
+          "endTime": "2026/06/17 23:00:51 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Live 1",
+            "link": "ok",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 10220,
+        "title": "Boston Red Sox vs Toronto Blue Jays",
+        "image": "null",
+        "cat": "Baseball",
+        "eventInfo": {
+          "teamA": "Red Sox",
+          "teamB": "Blue Jays",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3646/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3642/image",
+          "eventName": "Baseball",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/06/17 22:45:00 +0000",
+          "endTime": "2026/06/18 02:00:06 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Live 1",
+            "link": "ok",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 10221,
+        "title": "New York Yankees vs Chicago White Sox",
+        "image": "null",
+        "cat": "Baseball",
+        "eventInfo": {
+          "teamA": "Yankees",
+          "teamB": "White Sox",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3654/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3644/image",
+          "eventName": "Baseball",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/06/17 23:05:00 +0000",
+          "endTime": "2026/06/18 02:00:34 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Live 1",
+            "link": "ok",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 10222,
+        "title": "Atlanta Braves vs San Francisco Giants",
+        "image": "null",
+        "cat": "Baseball",
+        "eventInfo": {
+          "teamA": "Braves",
+          "teamB": "Giants",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3656/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3634/image",
+          "eventName": "Baseball",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/06/17 23:15:00 +0000",
+          "endTime": "2026/06/18 02:00:43 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Live 1",
+            "link": "ok",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 10223,
+        "title": "Milwaukee Brewers vs Cleveland Guardians",
+        "image": "null",
+        "cat": "Baseball",
+        "eventInfo": {
+          "teamA": "Brewers",
+          "teamB": "Guardians",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3630/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3650/image",
+          "eventName": "Baseball",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/06/17 23:40:00 +0000",
+          "endTime": "2026/06/18 02:30:35 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Live 1",
+            "link": "ok",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 10224,
+        "title": "Chicago Cubs vs Colorado Rockies",
+        "image": "null",
+        "cat": "Baseball",
+        "eventInfo": {
+          "teamA": "Cubs",
+          "teamB": "Rockies",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3627/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3628/image",
+          "eventName": "Baseball",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/06/18 00:05:00 +0000",
+          "endTime": "2026/06/18 03:00:40 +0000"
         },
         "channels_data": [
           {
