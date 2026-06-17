@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-17T14:41:49.984042",
+  "last_updated": "2026-06-17T14:51:55.644020",
   "event_count": 81,
   "events": {
     "events": [
@@ -2444,11 +2444,19 @@
         },
         "channels_data": [
           {
-            "title": "PRIME VIDEO - AQ",
+            "title": "PRIME ENG - AQ",
             "link": "https://live-pv-ta.amazon.fastly-edge.com/sin-nitro/live/clients/dash/enc/h2wngvadsp/out/v1/2f0a0df306dc417789487320edc53f99/cenc.mpd",
             "logo": "",
             "type": 7,
             "api": "ee0c99be51120d109657df5229b48b01:6f0cc18e09de8ec73414bb2209d6c63b",
+            "tokenApi": ""
+          },
+          {
+            "title": "PRIME HIN - AQ",
+            "link": "https://ABKGL2EAAAAAAAAMPKOHFK7GR5BD6.ta.bia-cf.live.pv-cdn.net/sin-nitro/live/clients/dash/enc/dbhxwvjlme/out/v1/8d64368150bc4bc998f66c15d3bd28bb/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "fd06c5f8a305d276a7a90e22ca55b884:8aeca08488bac7d802700e8954b53ba1",
             "tokenApi": ""
           },
           {
