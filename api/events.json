@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-17T04:02:14.231941",
+  "last_updated": "2026-06-17T04:11:33.194495",
   "event_count": 82,
   "events": {
     "events": [
@@ -2896,14 +2896,6 @@
             "tokenApi": ""
           },
           {
-            "title": "JOJ SPORTS - AQ",
-            "link": "https://dash2.antik.sk/stream/nvidia_joj_sport/playlist_cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
-            "tokenApi": ""
-          },
-          {
             "title": "FS1 HD",
             "link": "https://otte-tim.live.pv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd",
             "logo": "",
@@ -2973,6 +2965,22 @@
             "logo": "",
             "type": 7,
             "api": "1cb20afcd9d979c833cfd208c7d3eeb2:fef0c15b4a523370892edd5e4133c269",
+            "tokenApi": ""
+          },
+          {
+            "title": "ZDF GERMAN - AQ",
+            "link": "https://simplitv-live.mdn.ors.at/live/eds/zdf_hd/dash4h/zdf_hd.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "c1a0ac1044a433d0856ccdc08f245084:7f0e8800a6d63d7915ac181bb88ce813",
+            "tokenApi": ""
+          },
+          {
+            "title": "Match Football - AQ",
+            "link": "https://video.beeline.tv/live/d/channel319.isml/manifest-stb.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "9145a6e0f778e61866f573d4944dd533:d02173d40515fea5c83944f21d0f3114",
             "tokenApi": ""
           }
         ]
@@ -4608,7 +4616,7 @@
           },
           {
             "title": "SonyLiv ENG",
-            "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2105079/cricodi1506/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=b5f1e5a3f61955a3b9284f5f97aea383-1781495400095",
+            "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2037142/cricodi1706/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=ab9d177adc55e79bb8e8b46d1fadf335-1781668200122",
             "logo": "",
             "type": 0,
             "api": "",
@@ -4616,7 +4624,7 @@
           },
           {
             "title": "SonyLiv HIN",
-            "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2037142/cricodi1506/HIN/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=b5f1e5a3f61955a3b9284f5f97aea383-1781495400095",
+            "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2105079/cricodi1706/HIN/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=ab9d177adc55e79bb8e8b46d1fadf335-1781668200122",
             "logo": "",
             "type": 0,
             "api": "",
@@ -4624,7 +4632,7 @@
           },
           {
             "title": "SonyLiv TAM",
-            "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2018457/cricodi1506/TAM/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=b5f1e5a3f61955a3b9284f5f97aea383-1781495400095",
+            "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2105080/cricodi1706/TAM/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=ab9d177adc55e79bb8e8b46d1fadf335-1781668200122",
             "logo": "",
             "type": 0,
             "api": "",
@@ -4632,7 +4640,7 @@
           },
           {
             "title": "SonyLiv TEL",
-            "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2105080/cricodi1506/TEL/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=b5f1e5a3f61955a3b9284f5f97aea383-1781495400095",
+            "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2018457/cricodi1706/TEL/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=ab9d177adc55e79bb8e8b46d1fadf335-1781668200122",
             "logo": "",
             "type": 0,
             "api": "",
@@ -4640,7 +4648,7 @@
           },
           {
             "title": "SonyLiv KAN",
-            "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2037143/cricodi1506/KAN/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=b5f1e5a3f61955a3b9284f5f97aea383-1781495400095",
+            "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2037143/cricodi1706/KAN/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=ab9d177adc55e79bb8e8b46d1fadf335-1781668200122",
             "logo": "",
             "type": 0,
             "api": "",
