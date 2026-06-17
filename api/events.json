@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-17T08:11:41.372241",
+  "last_updated": "2026-06-17T08:21:52.209389",
   "event_count": 75,
   "events": {
     "events": [
@@ -736,8 +736,24 @@
             "tokenApi": ""
           },
           {
-            "title": "FANCODE HD",
+            "title": "FANCODE - HD",
             "link": "https://fncd.kuvuslov.cymru/mumbai/142968_english_hls_0f00f082a944838_1ta-di_h264/index.m3u8|origin=https://famcodexwebs.pages.dev",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "FANCODE - SD",
+            "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash-sd/enc/v8g0dlo4z8/out/v1/946019f85dc64ae99ff9ce64a9727a62/cenc-sd.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "5689304538fa9f3bb3da99c939a2ad4f:6907c88ed8ebdd35a2fa80b9684715e1",
+            "tokenApi": ""
+          },
+          {
+            "title": "TAPMAD - BD",
+            "link": "https://saseries.akamaized.net/hls/live/2110097/T@p305t@P!23@25!95/master.m3u8?hdnts=exp=1781683507~acl=/hls/*~hmac=d8a88c9a81eba0fe50eff0c1b247f9aa40213d46020f539cf6cc5ae07f98714e",
             "logo": "",
             "type": 0,
             "api": "",
