@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-17T17:02:11.791922",
+  "last_updated": "2026-06-17T17:11:45.860640",
   "event_count": 81,
   "events": {
     "events": [
@@ -851,14 +851,6 @@
             "tokenApi": ""
           },
           {
-            "title": "ORF GERMAN - AQ",
-            "link": "https://simplitv-live.mdn.ors.at/live/eds/orf_1_hd-1/dash4h/orf_1_hd-1.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "429bcf031bbf3146a67f3f583e4c4355:d1b92aba5a38a518c8b8a1fd2bca4398",
-            "tokenApi": ""
-          },
-          {
             "title": "TIPIK FRENCH - AQ",
             "link": "https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/dash/.mpd",
             "logo": "",
@@ -872,14 +864,6 @@
             "logo": "",
             "type": 7,
             "api": "433ffba670963e70857859a9dff4be04:51ede3a821229fe81e71282c8eff80e3",
-            "tokenApi": ""
-          },
-          {
-            "title": "VRT DUTCH - AQ",
-            "link": "https://live.vrtcdn.be/groupd/live/0761024f-37fe-4254-bc37-e95d7c62b2d1/live.isml/.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "893bc63340876605f52886a42e0ccce5:d6c46d2d691056fbd091bf1f01b21a91",
             "tokenApi": ""
           },
           {
@@ -923,22 +907,6 @@
             "tokenApi": ""
           },
           {
-            "title": "VIX SPANISH - AQ",
-            "link": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/8u9cregwlt/out/v1/687f6b2a559943549be271504a948ffd/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "1710ac2bbfcd3032d0f6533850968f47:d2548dacc8efcd1cd0af0373060c82dc",
-            "tokenApi": ""
-          },
-          {
-            "title": "SporTV BR - AQ",
-            "link": "https://a121aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "4bbcff3289d457b4dd5dbdd21221de9a:c4906b9a9f8dda3c0725bddb8c497733",
-            "tokenApi": ""
-          },
-          {
             "title": "Telemundo ES",
             "link": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(WSNS)/master.mpd",
             "logo": "",
@@ -952,14 +920,6 @@
             "logo": "",
             "type": 7,
             "api": "0:0",
-            "tokenApi": ""
-          },
-          {
-            "title": "ZDF GERMAN - AQ",
-            "link": "https://simplitv-live.mdn.ors.at/live/eds/zdf_hd/dash4h/zdf_hd.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "c1a0ac1044a433d0856ccdc08f245084:7f0e8800a6d63d7915ac181bb88ce813",
             "tokenApi": ""
           },
           {
@@ -1117,6 +1077,30 @@
           {
             "title": "HD SERVER 3",
             "link": "https://edge2caster.pro/hls/eJmauBDCIf.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streams.center&Origin=https://streams.center",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "beiN SPORTS FR",
+            "link": "http://193.47.62.44/hls/zzzzC.m3u8|referer=http://www.fawanews.sc/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "SD SERVER PT",
+            "link": "http://193.47.62.44/hls/huuu.m3u8?|referer=http://www.fawanews.sc/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "D SPORTS SD",
+            "link": "http://193.47.62.52/hls/zzzzCCC.m3u8|referer=http://www.fawanews.sc/",
             "logo": "",
             "type": 0,
             "api": "",
@@ -2756,19 +2740,19 @@
       },
       {
         "id": 10193,
-        "title": "India Women vs Netherlands Women",
+        "title": "New Zealand Women vs Ireland Women",
         "image": "null",
         "cat": "Cricket",
         "eventInfo": {
-          "teamA": "India Women",
-          "teamB": "Netherlands Women",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/213119/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/417753/image",
+          "teamA": "New Zealand Women",
+          "teamB": "Ireland Women",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/213115/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/213116/image",
           "eventName": "Cricket",
           "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/06/17 13:30:00 +0000",
-          "endTime": "2026/06/17 17:30:50 +0000"
+          "Status": "Upcoming",
+          "startTime": "2026/06/19 17:30:00 +0000",
+          "endTime": "2026/06/19 21:30:40 +0000"
         },
         "channels_data": [
           {
@@ -3002,7 +2986,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/3639/image",
           "eventName": "Baseball",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/06/17 17:05:00 +0000",
           "endTime": "2026/06/17 20:00:41 +0000"
         },
@@ -3045,7 +3029,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/3651/image",
           "eventName": "Baseball",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/06/17 17:05:00 +0000",
           "endTime": "2026/06/17 20:00:50 +0000"
         },
