@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-17T17:11:45.860640",
+  "last_updated": "2026-06-17T17:21:53.790506",
   "event_count": 81,
   "events": {
     "events": [
@@ -835,14 +835,6 @@
             "tokenApi": ""
           },
           {
-            "title": "TELEMUNDO - AQ",
-            "link": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1",
-            "tokenApi": ""
-          },
-          {
             "title": "Caz\u00e9TV BR - AQ",
             "link": "https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd",
             "logo": "",
@@ -1035,6 +1027,14 @@
             "tokenApi": ""
           },
           {
+            "title": "TELEMUNDO - AQ",
+            "link": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1",
+            "tokenApi": ""
+          },
+          {
             "title": "Live 1",
             "link": "https://instreams.pro/EU/HDWC1/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click",
             "logo": "",
@@ -1104,6 +1104,14 @@
             "logo": "",
             "type": 0,
             "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "TELEMUNDO [USA]",
+            "link": "https://g003-sle-us-cmaf-prd-cc.cdn.peacocktv.com/pck-sle/us-west-2/v1/dash/6f3f45fea6332a47667932dede90d20a96f2690c/peacock-dash-sle-4s-generic-cfd/co01/pcksle2/Content/CMAF_CTR-4s-v2/Live/channel(5021387-723245-491220811ed)/master_2hr.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "00229d0b1ff525e933b3d3d10214982a:e26f3150ae160ad2ac1430a9b1d3223a",
             "tokenApi": ""
           }
         ]
@@ -2883,26 +2891,18 @@
         "channels_data": [
           {
             "title": "WILLOW - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ohmn4cljxi/out/v1/0a5b331b601d4e53895af3e401bc4289/cenc.mpd",
             "logo": "",
             "type": 7,
-            "api": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
-            "tokenApi": ""
-          },
-          {
-            "title": "SKY CRICKET - AQ",
-            "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla",
-            "logo": "",
-            "type": 0,
-            "api": "",
+            "api": "a686ce424ebbc8a6112c3d61cdc4e812:f111c0142c7443610553201ab44c1c3f",
             "tokenApi": ""
           },
           {
             "title": "WILLOW HD",
-            "link": "https://tmaxapp.site/willoweng.m3u8",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
             "logo": "",
-            "type": 0,
-            "api": "",
+            "type": 7,
+            "api": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
             "tokenApi": ""
           },
           {
@@ -2914,16 +2914,16 @@
             "tokenApi": ""
           },
           {
-            "title": "SKY MAIN EVENT",
-            "link": "https://tmaxapp.site/skymainevent.m3u8",
+            "title": "WILLOW - LQ",
+            "link": "https://tmaxapp.site/willoweng.m3u8",
             "logo": "",
             "type": 0,
             "api": "",
             "tokenApi": ""
           },
           {
-            "title": "FOX CRICKET HD",
-            "link": "https://tmaxapp.site/foxcricket.m3u8",
+            "title": "LOW SERVER",
+            "link": "http://193.47.62.41/hls/EEEEDD.m3u8|referer=http://www.fawanews.sc/",
             "logo": "",
             "type": 0,
             "api": "",
