@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-18T01:31:48.229889",
+  "last_updated": "2026-06-18T01:41:30.726677",
   "event_count": 71,
   "events": {
     "events": [
@@ -1103,10 +1103,10 @@
           },
           {
             "title": "D SPORTS - AQ",
-            "link": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ubehitlwzo/out/v1/8e09c381a51f4366a19e979418112e8f/cenc.mpd",
+            "link": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/rgilyeubta/out/v1/09a67027b18f4fd78aaa3794a2aacfe8/cenc.mpd",
             "logo": "",
             "type": 7,
-            "api": "a7d11d37a1f7611ee88d4db880171f32:68f96d618b0b956b008c445896a25a79",
+            "api": "03f12d6a3dbfd3a6fa7dd7f6417e0c11:ea07b87acdf2e45be824cde4a1cf3504",
             "tokenApi": ""
           },
           {
@@ -1119,7 +1119,7 @@
           },
           {
             "title": "Caz\u00e9TV BR - AQ",
-            "link": "https://a121aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/a6bxtdgxts/out/v1/691e8c4b528d4e45b893a9e2e516211b/cenc.mpd",
+            "link": "https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/epg9sw6owc/out/v1/e50aecefcb294fae85d6b343e0a6f1cc/cenc.mpd",
             "logo": "",
             "type": 7,
             "api": "9752ef72590ef441ffa3731e0486fbc0:db63ec7b9f11348b7cc6808a54c99457",
@@ -1279,10 +1279,34 @@
           },
           {
             "title": "SporTV BR - AQ",
-            "link": "https://live-pv-ta.amazon.fastly-edge.com/gru-nitro/live/clients/dash/enc/tvezxbddeg/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd",
+            "link": "https://a121aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/tvezxbddeg/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd",
             "logo": "",
             "type": 7,
             "api": "cb5eaea6d91fc8a702f154cefd69c976:fd4b69623da596aac100e5722d8a1ca0",
+            "tokenApi": ""
+          },
+          {
+            "title": "FOX SPORTS HD",
+            "link": "https://chatgpt.hereisman.net/playlist/52180/load-playlist?|Referer=https://gooz.aapmains.net",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "TSN SPORTS HD",
+            "link": "https://chatgpt.hereisman.net/playlist/52179/load-playlist?|Referer=https://gooz.aapmains.net",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "Live 1",
+            "link": "https://instreams.pro/EU/HDWC1/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click",
+            "logo": "",
+            "type": 0,
+            "api": "",
             "tokenApi": ""
           }
         ]
@@ -3173,7 +3197,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/3652/image",
           "eventName": "Baseball",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/06/18 01:40:00 +0000",
           "endTime": "2026/06/18 05:00:10 +0000"
         },
@@ -3208,7 +3232,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/3637/image",
           "eventName": "Baseball",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/06/18 01:40:00 +0000",
           "endTime": "2026/06/18 05:00:09 +0000"
         },
