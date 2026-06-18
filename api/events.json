@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-18T18:01:55.187499",
-  "event_count": 72,
+  "last_updated": "2026-06-18T18:11:29.880990",
+  "event_count": 73,
   "events": {
     "events": [
       {
@@ -3547,7 +3547,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/3650/image",
           "eventName": "Baseball",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/06/18 18:10:00 +0000",
           "endTime": "2026/06/18 21:00:37 +0000"
         },
@@ -3862,6 +3862,33 @@
             "logo": "",
             "type": 7,
             "api": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 10237,
+        "title": "Los Angeles Knight Riders vs San Francisco Unicorns",
+        "image": "null",
+        "cat": "Cricket",
+        "eventInfo": {
+          "teamA": "Los Angeles Knight Riders",
+          "teamB": "San Francisco Unicorns",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/485011/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/485013/image",
+          "eventName": "Cricket",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/06/19 20:30:00 +0000",
+          "endTime": "2026/06/20 00:30:05 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "",
+            "link": "ok",
+            "logo": "",
+            "type": 0,
+            "api": "",
             "tokenApi": ""
           }
         ]
