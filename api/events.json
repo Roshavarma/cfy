@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-18T09:41:39.283350",
+  "last_updated": "2026-06-18T09:51:33.514774",
   "event_count": 75,
   "events": {
     "events": [
@@ -578,11 +578,27 @@
         },
         "channels_data": [
           {
+            "title": "WILLOW - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wvhgrxe0zw/out/v1/d336867052f04861bc67d2c567f31596/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "513d389521a73afdd3cf0a74e53f3b2f:392f7f7d2e451631e1075b20ce61f901",
+            "tokenApi": ""
+          },
+          {
             "title": "SKY CRICKET - AQ",
             "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla",
             "logo": "",
             "type": 0,
             "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "WILLOW ALT",
+            "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/wvhgrxe0zw/out/v1/d336867052f04861bc67d2c567f31596/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "513d389521a73afdd3cf0a74e53f3b2f:392f7f7d2e451631e1075b20ce61f901",
             "tokenApi": ""
           },
           {
@@ -595,7 +611,7 @@
           },
           {
             "title": "SonyLiv",
-            "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/20000291/England_1706/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=43e83f80052c15e3bc52a4c9271b9000-1781688600198",
+            "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/20000291/criclive1806/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=7f079e348ed8c2ddca9951078fcb1e6b-1781775000189",
             "logo": "",
             "type": 0,
             "api": "",
