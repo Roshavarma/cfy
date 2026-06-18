@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-18T02:01:43.741390",
+  "last_updated": "2026-06-18T02:11:30.129384",
   "event_count": 71,
   "events": {
     "events": [
@@ -1134,14 +1134,6 @@
             "tokenApi": ""
           },
           {
-            "title": "M6 FRANCE - AQ",
-            "link": "https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_cenc00/dash-short-hd.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "433ffba670963e70857859a9dff4be04:51ede3a821229fe81e71282c8eff80e3",
-            "tokenApi": ""
-          },
-          {
             "title": "VRT DUTCH - AQ",
             "link": "https://live.vrtcdn.be/groupd/live/0761024f-37fe-4254-bc37-e95d7c62b2d1/live.isml/.mpd",
             "logo": "",
@@ -1163,14 +1155,6 @@
             "logo": "",
             "type": 0,
             "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "CIGNAL ENGLISH",
-            "link": "https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/ch299/default/index.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "549ab7cd35a64bb6bb479ecead04d69d:829799ed534d11fcadeb4b192467e050",
             "tokenApi": ""
           },
           {
@@ -1371,6 +1355,14 @@
             "logo": "",
             "type": 7,
             "api": "1cb20afcd9d979c833cfd208c7d3eeb2:fef0c15b4a523370892edd5e4133c269",
+            "tokenApi": ""
+          },
+          {
+            "title": "CIGNAL ENGLISH",
+            "link": "https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/ch299/default/index.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "549ab7cd35a64bb6bb479ecead04d69d:829799ed534d11fcadeb4b192467e050",
             "tokenApi": ""
           }
         ]
