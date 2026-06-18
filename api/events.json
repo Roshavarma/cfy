@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-18T17:21:31.810720",
+  "last_updated": "2026-06-18T17:31:47.977409",
   "event_count": 71,
   "events": {
     "events": [
@@ -1370,7 +1370,7 @@
           "teamAFlag": "https://img.sofascore.com/api/v1/team/4752/image",
           "teamBFlag": "https://img.sofascore.com/api/v1/team/4792/image",
           "eventName": "Football",
-          "isHot": "0",
+          "isHot": "1",
           "Status": "Upcoming",
           "startTime": "2026/06/18 22:00:00 +0000",
           "endTime": "2026/06/19 00:00:00 +0000"
@@ -1645,7 +1645,7 @@
           "teamAFlag": "https://img.sofascore.com/api/v1/team/4781/image",
           "teamBFlag": "https://img.sofascore.com/api/v1/team/4735/image",
           "eventName": "Football",
-          "isHot": "0",
+          "isHot": "1",
           "Status": "Upcoming",
           "startTime": "2026/06/19 01:00:00 +0000",
           "endTime": "2026/06/19 03:00:00 +0000"
@@ -3281,7 +3281,7 @@
         "channels_data": [
           {
             "title": "Live 1",
-            "link": "ok",
+            "link": "3pis",
             "logo": "",
             "type": 0,
             "api": "",
@@ -3319,25 +3319,25 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/453162/image",
           "eventName": "Cricket",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/06/18 17:30:00 +0000",
           "endTime": "2026/06/18 20:40:00 +0000"
         },
         "channels_data": [
           {
             "title": "WILLOW - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/grljlmgmf4/out/v1/94a58c7403a244c3b74cbaf78f67062c/cenc.mpd",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/n54nrd5ppa/out/v1/c31222582f8649b7b686831c8a4b786f/cenc.mpd",
             "logo": "",
             "type": 7,
-            "api": "8e105d1907dd526a294052967cfdb3ea:0995990f3a3ca62ea8021d8ed42af211",
+            "api": "43f4ac4090920734149c0e549ff9d486:1bd632eab51f492e5e045ca368b1f64a",
             "tokenApi": ""
           },
           {
             "title": "WILLOW ALT",
-            "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/grljlmgmf4/out/v1/94a58c7403a244c3b74cbaf78f67062c/cenc.mpd",
+            "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/n54nrd5ppa/out/v1/c31222582f8649b7b686831c8a4b786f/cenc.mpd",
             "logo": "",
             "type": 7,
-            "api": "8e105d1907dd526a294052967cfdb3ea:0995990f3a3ca62ea8021d8ed42af211",
+            "api": "43f4ac4090920734149c0e549ff9d486:1bd632eab51f492e5e045ca368b1f64a",
             "tokenApi": ""
           },
           {
@@ -3503,6 +3503,14 @@
         "channels_data": [
           {
             "title": "Live 1",
+            "link": "https://chatgpt.hereisman.net/playlist/52192/load-playlist?|Referer=https://gooz.aapmains.net",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "HD SERVER",
             "link": "https://edge2caster.pro/hls/dazhfiach15.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streams.center&Origin=https://streams.center",
             "logo": "",
             "type": 0,
