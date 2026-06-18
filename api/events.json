@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-18T18:51:25.954258",
+  "last_updated": "2026-06-18T19:02:05.040086",
   "event_count": 73,
   "events": {
     "events": [
@@ -1112,7 +1112,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/4479/image",
           "eventName": "Football",
           "isHot": "1",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/06/18 19:00:00 +0000",
           "endTime": "2026/06/18 21:00:00 +0000"
         },
@@ -1424,6 +1424,22 @@
           {
             "title": "FUSSBALL 4K 2",
             "link": "http://starhub.pro/live/farhat-3379/67897-913379/742611.ts",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "D SPORTS+ - AQ",
+            "link": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ud6bnhthpj/out/v1/2639a2f4480f4269953de466d5f46463/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "83f81c4cc1443991543de4e22eea7586:ddfd7ca653d6f35543d8edb3c688e20f",
+            "tokenApi": ""
+          },
+          {
+            "title": "IRIB - 4K",
+            "link": "https://ncdn.telewebion.ir/faratar/live/playlist.m3u8",
             "logo": "",
             "type": 0,
             "api": "",
