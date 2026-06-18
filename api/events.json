@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-18T01:51:30.616744",
+  "last_updated": "2026-06-18T02:01:43.741390",
   "event_count": 71,
   "events": {
     "events": [
@@ -1072,7 +1072,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/4820/image",
           "eventName": "Football",
           "isHot": "1",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/06/18 02:00:00 +0000",
           "endTime": "2026/06/18 04:00:00 +0000"
         },
@@ -1094,35 +1094,35 @@
             "tokenApi": ""
           },
           {
-            "title": "CIGNAL ENGLISH",
-            "link": "https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/ch299/default/index.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "549ab7cd35a64bb6bb479ecead04d69d:829799ed534d11fcadeb4b192467e050",
-            "tokenApi": ""
-          },
-          {
             "title": "D SPORTS - AQ",
-            "link": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/rgilyeubta/out/v1/09a67027b18f4fd78aaa3794a2aacfe8/cenc.mpd",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ubehitlwzo/out/v1/8e09c381a51f4366a19e979418112e8f/cenc.mpd",
             "logo": "",
             "type": 7,
-            "api": "03f12d6a3dbfd3a6fa7dd7f6417e0c11:ea07b87acdf2e45be824cde4a1cf3504",
-            "tokenApi": ""
-          },
-          {
-            "title": "CTV SPORTS - AQ",
-            "link": "https://otte-tim.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/72sjo8hygl/out/v1/3079be34d72a4985852d299a02406a0c/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "d185684e2330de5bea436daa094a5e86:014f0116154f5bf0050e03a6b0a23157",
+            "api": "a7d11d37a1f7611ee88d4db880171f32:68f96d618b0b956b008c445896a25a79",
             "tokenApi": ""
           },
           {
             "title": "Caz\u00e9TV BR - AQ",
-            "link": "https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/epg9sw6owc/out/v1/e50aecefcb294fae85d6b343e0a6f1cc/cenc.mpd",
+            "link": "https://a121aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/epg9sw6owc/out/v1/e50aecefcb294fae85d6b343e0a6f1cc/cenc.mpd",
             "logo": "",
             "type": 7,
             "api": "9752ef72590ef441ffa3731e0486fbc0:db63ec7b9f11348b7cc6808a54c99457",
+            "tokenApi": ""
+          },
+          {
+            "title": "RTE SPORTS - AQ",
+            "link": "https://dai.google.com/linear/dash/pa/event/antwa0EiQm2PoHtx4rBtVw/stream/0c8b0b72-7a38-4852-ab2e-3fd88cbe71cc:GRQ/manifest.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "d816287e21496989eae1312925a423c5:00da00f13180e7e6cd5ce87d1c974e8d",
+            "tokenApi": ""
+          },
+          {
+            "title": "SporTV BR - AQ",
+            "link": "https://a121aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/tvezxbddeg/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "cb5eaea6d91fc8a702f154cefd69c976:fd4b69623da596aac100e5722d8a1ca0",
             "tokenApi": ""
           },
           {
@@ -1163,6 +1163,14 @@
             "logo": "",
             "type": 0,
             "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "CIGNAL ENGLISH",
+            "link": "https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/ch299/default/index.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "549ab7cd35a64bb6bb479ecead04d69d:829799ed534d11fcadeb4b192467e050",
             "tokenApi": ""
           },
           {
@@ -1214,43 +1222,99 @@
             "tokenApi": ""
           },
           {
-            "title": "RTE SPORTS - AQ",
-            "link": "https://dai.google.com/linear/dash/pa/event/antwa0EiQm2PoHtx4rBtVw/stream/0c8b0b72-7a38-4852-ab2e-3fd88cbe71cc:GRQ/manifest.mpd",
+            "title": "FOX SPORTS HD",
+            "link": "https://chatgpt.hereisman.net/playlist/52180/load-playlist?|Referer=https://gooz.aapmains.net",
             "logo": "",
-            "type": 7,
-            "api": "d816287e21496989eae1312925a423c5:00da00f13180e7e6cd5ce87d1c974e8d",
+            "type": 0,
+            "api": "",
             "tokenApi": ""
           },
           {
-            "title": "FUSSBALL TV (GER)",
-            "link": "https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_hd/DASH/index.mpd",
+            "title": "TSN SPORTS HD",
+            "link": "https://chatgpt.hereisman.net/playlist/52179/load-playlist?|Referer=https://gooz.aapmains.net",
             "logo": "",
-            "type": 7,
-            "api": "1cb20afcd9d979c833cfd208c7d3eeb2:fef0c15b4a523370892edd5e4133c269",
+            "type": 0,
+            "api": "",
             "tokenApi": ""
           },
           {
-            "title": "ORF (GERMAN IP)",
-            "link": "https://simplitv-live.mdn.ors.at/live/eds/orf_1_hd-1/dash4h/orf_1_hd-1.mpd",
+            "title": "Live 1",
+            "link": "https://instreams.pro/EU/HDWC1/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click",
             "logo": "",
-            "type": 7,
-            "api": "429bcf031bbf3146a67f3f583e4c4355:d1b92aba5a38a518c8b8a1fd2bca4398",
+            "type": 0,
+            "api": "",
             "tokenApi": ""
           },
           {
-            "title": "FUSSBALL 4K (GER)",
-            "link": "https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_uhd/DASH/index.mpd",
+            "title": "DAZN SPANISH",
+            "link": "https://1nyaler.streamhostingcdn.top/stream/94/index.m3u8",
             "logo": "",
-            "type": 7,
-            "api": "1f09d5788fbbb03a053d03cc731f31a9:d493d5a70c793362324638f61d1726ac",
+            "type": 0,
+            "api": "",
             "tokenApi": ""
           },
           {
-            "title": "UNiFy TV (IND)",
-            "link": "https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(fifa1)/master.mpd",
+            "title": "FAST SERVER",
+            "link": "https://pulltx.jdnzrgm.com/live/hd-en-6MvZ6BDgTsCfFPwFWn.m3u8?txSecret=945b54c1caddd76ee551605c473f8ff7&txTime=6A337538",
             "logo": "",
-            "type": 7,
-            "api": "10e2114398744f3880cc96653568da55:d6d40441f9fbebea03ec64c4aea7211f",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "HD SERVER ENG",
+            "link": "https://mainstreams.pro/hls/24SDAZFcsqnj24.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "HD SERVER ENG2",
+            "link": "https://edgestreams.pro/hls/b0h5fNwDKH.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "HD SERVER AR",
+            "link": "https://edgestreams.pro/hls/sqdahach1ax.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "TELEMUNDO HD",
+            "link": "https://mainstreams.pro/hls/eJmauBDCIf.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "SD SERVER 1",
+            "link": "http://193.47.62.44/hls/XzzzzCCC.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "SD SERVER 2",
+            "link": "https://live.wxinxi.com/live/25816724_sb2maw7iluj1ghr92sk5siud28tpimx0.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "SD SERVER 3",
+            "link": "https://pullsgp.yyzb456.top/live/stream-506605_lhd.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+            "logo": "",
+            "type": 0,
+            "api": "",
             "tokenApi": ""
           },
           {
@@ -1278,35 +1342,35 @@
             "tokenApi": ""
           },
           {
-            "title": "SporTV BR - AQ",
-            "link": "https://a121aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/tvezxbddeg/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd",
+            "title": "UNiFy TV (IND)",
+            "link": "https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(fifa1)/master.mpd",
             "logo": "",
             "type": 7,
-            "api": "cb5eaea6d91fc8a702f154cefd69c976:fd4b69623da596aac100e5722d8a1ca0",
+            "api": "10e2114398744f3880cc96653568da55:d6d40441f9fbebea03ec64c4aea7211f",
             "tokenApi": ""
           },
           {
-            "title": "FOX SPORTS HD",
-            "link": "https://chatgpt.hereisman.net/playlist/52180/load-playlist?|Referer=https://gooz.aapmains.net",
+            "title": "FUSSBALL 4K (GER)",
+            "link": "https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_uhd/DASH/index.mpd",
             "logo": "",
-            "type": 0,
-            "api": "",
+            "type": 7,
+            "api": "1f09d5788fbbb03a053d03cc731f31a9:d493d5a70c793362324638f61d1726ac",
             "tokenApi": ""
           },
           {
-            "title": "TSN SPORTS HD",
-            "link": "https://chatgpt.hereisman.net/playlist/52179/load-playlist?|Referer=https://gooz.aapmains.net",
+            "title": "ORF (GERMAN IP)",
+            "link": "https://simplitv-live.mdn.ors.at/live/eds/orf_1_hd-1/dash4h/orf_1_hd-1.mpd",
             "logo": "",
-            "type": 0,
-            "api": "",
+            "type": 7,
+            "api": "429bcf031bbf3146a67f3f583e4c4355:d1b92aba5a38a518c8b8a1fd2bca4398",
             "tokenApi": ""
           },
           {
-            "title": "Live 1",
-            "link": "https://instreams.pro/EU/HDWC1/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click",
+            "title": "FUSSBALL TV (GER)",
+            "link": "https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_hd/DASH/index.mpd",
             "logo": "",
-            "type": 0,
-            "api": "",
+            "type": 7,
+            "api": "1cb20afcd9d979c833cfd208c7d3eeb2:fef0c15b4a523370892edd5e4133c269",
             "tokenApi": ""
           }
         ]
@@ -3006,7 +3070,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/3642/image",
           "eventName": "Baseball",
           "isHot": "0",
-          "Status": "Live",
+          "Status": "Finish",
           "startTime": "2026/06/17 22:45:00 +0000",
           "endTime": "2026/06/18 02:00:06 +0000"
         },
@@ -3033,7 +3097,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/3644/image",
           "eventName": "Baseball",
           "isHot": "0",
-          "Status": "Live",
+          "Status": "Finish",
           "startTime": "2026/06/17 23:05:00 +0000",
           "endTime": "2026/06/18 02:00:34 +0000"
         },
@@ -3068,7 +3132,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/3634/image",
           "eventName": "Baseball",
           "isHot": "0",
-          "Status": "Live",
+          "Status": "Finish",
           "startTime": "2026/06/17 23:15:00 +0000",
           "endTime": "2026/06/18 02:00:43 +0000"
         },
