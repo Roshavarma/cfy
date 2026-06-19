@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-19T08:22:00.917479",
+  "last_updated": "2026-06-19T08:31:46.871012",
   "event_count": 61,
   "events": {
     "events": [
@@ -793,7 +793,7 @@
           },
           {
             "title": "T SPORTS HD",
-            "link": "http://starhub.pro/live/Anthony2/Anthony123/18452.ts",
+            "link": "https://prod-cdn01-live.toffeelive.com/live/BDVSAUS-26/index.m3u8?edge-cache-token=Expires=1781942066~Starts=1781855666~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=GWqDeRYBLPDd7t6O2Z6mY0kK-ZjAlsMYp9OIJMeexFfdZgY2w8e90na2LCtHxy3yIts4-nDPv33pM0nEKuzlDw",
             "logo": "",
             "type": 0,
             "api": "",
@@ -1141,7 +1141,16 @@
           "startTime": "2026/06/22 17:00:00 +0000",
           "endTime": "2026/06/22 19:00:00 +0000"
         },
-        "channels_data": []
+        "channels_data": [
+          {
+            "title": "Live 1",
+            "link": "ok",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
       },
       {
         "id": 10071,
