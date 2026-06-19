@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-19T22:41:25.321431",
+  "last_updated": "2026-06-19T22:51:27.061437",
   "event_count": 77,
   "events": {
     "events": [
@@ -3185,10 +3185,18 @@
         "channels_data": [
           {
             "title": "Live 1",
-            "link": "ok",
+            "link": "https://chatgpt.hereisman.net/playlist/52223/load-playlist?|Referer=https://gooz.aapmains.net",
             "logo": "",
             "type": 0,
             "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "TSN SPORTS - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/lzhmuzmjsl/out/v1/c171eeb214c749f2b351c79df317b21e/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "f5c2b30eac11be1e8cdfc9585f5fe6af:a8198d17bf9b0da77450fbb919a38b2d",
             "tokenApi": ""
           }
         ]
