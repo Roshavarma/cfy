@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-19T00:21:34.943440",
+  "last_updated": "2026-06-19T00:31:50.591760",
   "event_count": 73,
   "events": {
     "events": [
@@ -1821,7 +1821,7 @@
           },
           {
             "title": "FOX SPORTS 4K",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/stxrbahabo/out/v1/fc40f22f10374517a2784e1d97cb23f4/cenc.mpd",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/buf9inoetu/out/v1/31d30c91fc65458789b84209d3fa22e4/cenc.mpd",
             "logo": "",
             "type": 7,
             "api": "1f68713028d439ec03be07f56c1d6213:20093db6455160fffed4c394def3193d",
@@ -4027,11 +4027,19 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/485014/image",
           "eventName": "Cricket",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/06/19 00:30:00 +0000",
           "endTime": "2026/06/19 04:30:20 +0000"
         },
         "channels_data": [
+          {
+            "title": "WILLOW - AQ",
+            "link": "https://a57live-pv-ta-amazon.akamaized.net/iad-nitro/live/clients/dash/enc/wgrmbrvhu8/out/v1/09861970a7a74322aa31ddb10c4b1bce/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "9d04482a571bd3de3f3a395fb736b248:3927147a8deb5a6ac33eb47b0d7d8966",
+            "tokenApi": ""
+          },
           {
             "title": "SKY CRICKET - AQ",
             "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla",
@@ -4041,11 +4049,11 @@
             "tokenApi": ""
           },
           {
-            "title": "WILLOW - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
+            "title": "WILLOW - LQ",
+            "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/5avchsvn58/out/v1/12b107a8d0e8451faa2c86873e2e75c0/cenc-sd.mpd",
             "logo": "",
             "type": 7,
-            "api": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
+            "api": "62b75480d3fcea6a92ee3b2842f08108:e46fbd2e95659bc0450c7ca8628dcc6d",
             "tokenApi": ""
           }
         ]
