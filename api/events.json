@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-19T00:31:50.591760",
+  "last_updated": "2026-06-19T00:41:24.537462",
   "event_count": 73,
   "events": {
     "events": [
@@ -1804,7 +1804,7 @@
         },
         "channels_data": [
           {
-            "title": "FOX SPORTS FHD",
+            "title": "FOX SPORTS - AQ",
             "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/dash/enc/ap5wz1ofsp/out/v1/7fa6feef143747beaa186ebb6dfb2532/cenc.mpd|user-agent=Mozila",
             "logo": "",
             "type": 7,
@@ -1812,7 +1812,7 @@
             "tokenApi": ""
           },
           {
-            "title": "FOX ENGLISH FHD",
+            "title": "FOX ENGLISH - AQ",
             "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/jyocixinuk/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd",
             "logo": "",
             "type": 7,
@@ -1828,7 +1828,7 @@
             "tokenApi": ""
           },
           {
-            "title": "TSN SPORTS FHD",
+            "title": "TSN SPORTS - AQ",
             "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
             "logo": "",
             "type": 7,
@@ -1836,15 +1836,15 @@
             "tokenApi": ""
           },
           {
-            "title": "CIGNAL ENG FHD",
-            "link": "https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/ch299/default/index.mpd",
+            "title": "CIGNAL ENGLISH",
+            "link": "https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/pp_ch2_pri/default/index.mpd",
             "logo": "",
             "type": 7,
-            "api": "549ab7cd35a64bb6bb479ecead04d69d:829799ed534d11fcadeb4b192467e050",
+            "api": "4fef00332d7e4fbc8f7005dfbf851a59:a6368c181358f3e527411a6c452c6a1a",
             "tokenApi": ""
           },
           {
-            "title": "D SPORTS ES FHD",
+            "title": "D SPORTS - AQ",
             "link": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ubehitlwzo/out/v1/8e09c381a51f4366a19e979418112e8f/cenc.mpd",
             "logo": "",
             "type": 7,
@@ -1868,19 +1868,11 @@
             "tokenApi": ""
           },
           {
-            "title": "CTV SPORTS FHD",
-            "link": "https://otte-tim.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/72sjo8hygl/out/v1/3079be34d72a4985852d299a02406a0c/cenc.mpd",
+            "title": "Caz\u00e9TV BR - AQ",
+            "link": "https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/epg9sw6owc/out/v1/e50aecefcb294fae85d6b343e0a6f1cc/cenc.mpd|User-Agent=Mozilla",
             "logo": "",
             "type": 7,
-            "api": "d185684e2330de5bea436daa094a5e86:014f0116154f5bf0050e03a6b0a23157",
-            "tokenApi": ""
-          },
-          {
-            "title": "Caz\u00e9TV BR FHD",
-            "link": "https://otte-tim.live.pv-cdn.net/gru-nitro/live/clients/dash/enc/iayg0kyrof/out/v1/91dc04907f56415b897faccfa9d252da/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "1223d5105392cabf1bb9c2c1fdf6539a:340b409f4b8f78a343e0363a7938df38",
+            "api": "9752ef72590ef441ffa3731e0486fbc0:db63ec7b9f11348b7cc6808a54c99457",
             "tokenApi": ""
           },
           {
@@ -1892,7 +1884,7 @@
             "tokenApi": ""
           },
           {
-            "title": "TIPIK FRENCH FHD",
+            "title": "TIPIK FRENCH - AQ",
             "link": "https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/dash/.mpd",
             "logo": "",
             "type": 7,
@@ -1900,7 +1892,7 @@
             "tokenApi": ""
           },
           {
-            "title": "M6 FRANCE FHD",
+            "title": "M6 FRANCE - AQ",
             "link": "https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_cenc00/dash-short-hd.mpd",
             "logo": "",
             "type": 7,
@@ -1908,7 +1900,7 @@
             "tokenApi": ""
           },
           {
-            "title": "VRT DUTCH FHD",
+            "title": "VRT DUTCH - AQ",
             "link": "https://live.vrtcdn.be/groupd/live/0761024f-37fe-4254-bc37-e95d7c62b2d1/live.isml/.mpd",
             "logo": "",
             "type": 7,
@@ -1916,7 +1908,7 @@
             "tokenApi": ""
           },
           {
-            "title": "MATCH! FUTBOL FHD",
+            "title": "MATCH! FUTBOL - AQ",
             "link": "https://video.beeline.tv/live/d/channel319.isml/manifest-stb.mpd",
             "logo": "",
             "type": 7,
@@ -1924,7 +1916,7 @@
             "tokenApi": ""
           },
           {
-            "title": "RTB GOLIVE FHD",
+            "title": "RTB GOLIVE - AQ",
             "link": "https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8",
             "logo": "",
             "type": 0,
@@ -1932,7 +1924,7 @@
             "tokenApi": ""
           },
           {
-            "title": "beIN ARABIC FHD",
+            "title": "beIN ARABIC - AQ",
             "link": "https://raw.githubusercontent.com/ON2026/1smas/refs/heads/main/mx1app2.m3u8",
             "logo": "",
             "type": 0,
@@ -1964,7 +1956,7 @@
             "tokenApi": ""
           },
           {
-            "title": "VIX Espa\u00f1ol FHD",
+            "title": "VIX SPANISH - AQ",
             "link": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/8u9cregwlt/out/v1/687f6b2a559943549be271504a948ffd/cenc.mpd",
             "logo": "",
             "type": 7,
@@ -1980,14 +1972,6 @@
             "tokenApi": ""
           },
           {
-            "title": "SporTV BR FHD",
-            "link": "https://a121aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "4bbcff3289d457b4dd5dbdd21221de9a:c4906b9a9f8dda3c0725bddb8c497733",
-            "tokenApi": ""
-          },
-          {
             "title": "Telemundo ES (USA)",
             "link": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(WSNS)/master.mpd",
             "logo": "",
@@ -1996,7 +1980,7 @@
             "tokenApi": ""
           },
           {
-            "title": "TVP POLISH FHD",
+            "title": "TVP POLISH HD",
             "link": "https://estreams.tv.nej.cz/dash/CH_TVP_SPORT_Portable.ism/playlist.mpd",
             "logo": "",
             "type": 7,
@@ -2012,27 +1996,11 @@
             "tokenApi": ""
           },
           {
-            "title": "JOJ SPORTS FHD",
+            "title": "JOJ SPORTS - AQ",
             "link": "https://dash2.antik.sk/stream/nvidia_joj_sport/playlist_cenc.mpd",
             "logo": "",
             "type": 7,
             "api": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
-            "tokenApi": ""
-          },
-          {
-            "title": "FS1 HD",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16",
-            "tokenApi": ""
-          },
-          {
-            "title": "FS1 FHD",
-            "link": "https://otte-qw.live.pv-cdn.net/lhr-nitro/live/clients/dash/enc/laxpjik8el/out/v1/e8f0a2204c5c4490b338a9c2165dd92a/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "996d39be9ee1c8e65d94d7bb973bdf0f:5306cdc1e410bc6ddb2530608c42b11b",
             "tokenApi": ""
           },
           {
@@ -2044,19 +2012,19 @@
             "tokenApi": ""
           },
           {
-            "title": "FS1 4K",
-            "link": "https://otte-tim.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/huqokdsaks/out/v1/4ef90d78cd004a668bc0377f3884575b/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "a6164ea0967b4bbbb51fdd6c4f83a64f:b431d9ed821ca93df596168601ae5b00",
-            "tokenApi": ""
-          },
-          {
             "title": "RTE SPORTS FHD",
             "link": "https://dai.google.com/linear/dash/pa/event/antwa0EiQm2PoHtx4rBtVw/stream/0c8b0b72-7a38-4852-ab2e-3fd88cbe71cc:GRQ/manifest.mpd",
             "logo": "",
             "type": 7,
             "api": "d816287e21496989eae1312925a423c5:00da00f13180e7e6cd5ce87d1c974e8d",
+            "tokenApi": ""
+          },
+          {
+            "title": "Caz\u00e9TV BR - ALT",
+            "link": "https://a121aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/a6bxtdgxts/out/v1/691e8c4b528d4e45b893a9e2e516211b/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "9752ef72590ef441ffa3731e0486fbc0:db63ec7b9f11348b7cc6808a54c99457",
             "tokenApi": ""
           }
         ]
