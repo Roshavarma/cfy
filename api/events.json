@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-19T21:51:37.434517",
+  "last_updated": "2026-06-19T22:02:09.549129",
   "event_count": 78,
   "events": {
     "events": [
@@ -1184,7 +1184,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/4778/image",
           "eventName": "Football",
           "isHot": "1",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/06/19 22:00:00 +0000",
           "endTime": "2026/06/20 00:00:00 +0000"
         },
@@ -1294,16 +1294,8 @@
             "tokenApi": ""
           },
           {
-            "title": "TVE SPANISH - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/62qdkefv9f/out/v1/f7d5b356e048494a8325563e8916d50b/cenc.mpd|user-agent=Mozila",
-            "logo": "",
-            "type": 7,
-            "api": "fd86dde0ae3e14ff51c8fc8f248a50db:d106ae78b0893da2e4393ece99420baa",
-            "tokenApi": ""
-          },
-          {
             "title": "beIN ARABIC - AQ",
-            "link": "https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/wGucmvO-yvarXXDE14vqYciOy7_B3WPfuBAm2yuy96nJxEC8ti42HfmoJilq7gkWfVc3Miz0IkL0JAR-_y1Iaw/non_transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/master_dynamic_delta.m3u8?type=live",
+            "link": "https://raw.githubusercontent.com/ON2026/1smas/refs/heads/main/mx2app2.m3u8",
             "logo": "",
             "type": 0,
             "api": "",
@@ -1315,14 +1307,6 @@
             "logo": "",
             "type": 0,
             "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "CT SPORTS - AQ",
-            "link": "https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
             "tokenApi": ""
           },
           {
@@ -1343,7 +1327,7 @@
           },
           {
             "title": "TSN SPORTS HD",
-            "link": "https://1nyaler.streamhostingcdn.top/stream/94/index.m3u8",
+            "link": "https://streamxyz.shop/tsn1/index.m3u8?|Referer=https://xyzstreams.shop/",
             "logo": "",
             "type": 0,
             "api": "",
@@ -1363,6 +1347,14 @@
             "logo": "",
             "type": 7,
             "api": "9145a6e0f778e61866f573d4944dd533:d02173d40515fea5c83944f21d0f3114",
+            "tokenApi": ""
+          },
+          {
+            "title": "ARABIC LIVE - AQ",
+            "link": "https://prod-fastly-eu-west-3.video.pscp.tv/Transcoding/v1/hls/fj0ICZmF8uUPoq-dRXUIKen8PnkHo5P7Rj-oHn8wFYwJpyH7e56urjcFFTfXtnJUUnhtvgGMc9vP73FFSsG7yA/non_transcode/eu-west-3/periscope-replay-direct-prod-eu-west-3-public/master_dynamic_highlatency.m3u8?type=live",
+            "logo": "",
+            "type": 0,
+            "api": "",
             "tokenApi": ""
           },
           {
@@ -1406,6 +1398,110 @@
             "tokenApi": ""
           },
           {
+            "title": "TSN SPORTS 4K",
+            "link": "https://streamxyz.shop/tsn4k/index.m3u8?|Referer=https://xyzstreams.shop/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "beIN ARABIC 4K",
+            "link": "https://streamxyz.shop/bein4k/index.m3u8?|Referer=https://xyzstreams.shop/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "FAST SERVER",
+            "link": "https://pulltx.jdnzrgm.com/live/hd-en-6MvZ6BDgJEvcBY6UZ4.m3u8?txSecret=6e6bd75e4b407b5d5fdf8ab948b65100&txTime=6A35DFF8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "TELEMUNDO HD",
+            "link": "https://streamxyz.shop/Telemundo/index.m3u8?|Referer=https://xyzstreams.shop/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "D SPORTS [ALT]",
+            "link": "https://streamxyz.shop/dsports1arg/index.m3u8?|Referer=https://xyzstreams.shop/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "FOX SPORTS FHD",
+            "link": "https://streamxyz.shop/FOX/index.m3u8?|Referer=https://xyzstreams.shop/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "Live 1",
+            "link": "https://instreams.pro/EU/HDWC1/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "HD SERVER ENG",
+            "link": "https://edgestreams.pro/hls/24SDAZFcsqnj24.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "HD SERVER AR",
+            "link": "https://mainstreams.pro/hls/sqdahach1ax.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "SD SERVER ENG",
+            "link": "http://193.47.62.41/hls/FPPPA.m3u8?|referer=http://www.fawanews.sc/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "ITV SPORTS SD",
+            "link": "http://193.47.62.59/hls/VVVV.m3u8?|referer=http://www.fawanews.sc/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "beIN SPORTS FR",
+            "link": "http://193.47.62.47/hls/ZRRRZ.m3u8?|referer=http://www.fawanews.sc/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "D SPORTS ES",
+            "link": "http://193.47.62.59/hls/ZRRR.m3u8?|referer=http://www.fawanews.sc/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
             "title": "CIGNAL ENGLISH",
             "link": "https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/pp_ch2_pri/default/index.mpd",
             "logo": "",
@@ -1419,14 +1515,6 @@
             "logo": "",
             "type": 7,
             "api": "1cb20afcd9d979c833cfd208c7d3eeb2:fef0c15b4a523370892edd5e4133c269",
-            "tokenApi": ""
-          },
-          {
-            "title": "ORF (GERMAN IP)",
-            "link": "https://simplitv-live.mdn.ors.at/live/eds/orf_1_hd-1/dash4h/orf_1_hd-1.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "429bcf031bbf3146a67f3f583e4c4355:d1b92aba5a38a518c8b8a1fd2bca4398",
             "tokenApi": ""
           },
           {
@@ -1454,35 +1542,19 @@
             "tokenApi": ""
           },
           {
+            "title": "ORF (GERMAN IP)",
+            "link": "https://simplitv-live.mdn.ors.at/live/eds/orf_1_hd-1/dash4h/orf_1_hd-1.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "429bcf031bbf3146a67f3f583e4c4355:d1b92aba5a38a518c8b8a1fd2bca4398",
+            "tokenApi": ""
+          },
+          {
             "title": "UNiFy TV (IND)",
             "link": "https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(fifa1)/master.mpd",
             "logo": "",
             "type": 7,
             "api": "10e2114398744f3880cc96653568da55:d6d40441f9fbebea03ec64c4aea7211f",
-            "tokenApi": ""
-          },
-          {
-            "title": "TSN SPORTS 4K",
-            "link": "https://streamxyz.shop/tsn4k/index.m3u8?|Referer=https://xyzstreams.shop/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "beIN ARABIC 4K",
-            "link": "https://streamxyz.shop/bein4k/index.m3u8?|Referer=https://xyzstreams.shop/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "FAST SERVER",
-            "link": "https://pulltx.jdnzrgm.com/live/hd-en-6MvZ6BDgJEvcBY6UZ4.m3u8?txSecret=6e6bd75e4b407b5d5fdf8ab948b65100&txTime=6A35DFF8",
-            "logo": "",
-            "type": 0,
-            "api": "",
             "tokenApi": ""
           }
         ]
