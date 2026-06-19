@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-19T07:51:27.898496",
+  "last_updated": "2026-06-19T08:01:52.864176",
   "event_count": 61,
   "events": {
     "events": [
@@ -722,11 +722,19 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/187746/image",
           "eventName": "Cricket",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/06/19 08:00:50 +0000",
           "endTime": "2026/06/19 12:15:56 +0000"
         },
         "channels_data": [
+          {
+            "title": "WILLOW - AQ",
+            "link": "https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/iuz7dvit5y/out/v1/8c19f7954ab24086b52b2a7b808ddd73/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "1544c349ebb47984ba648348b5eb4664:b5aa349bbd609812fe85c2cc4b732d27",
+            "tokenApi": ""
+          },
           {
             "title": "TNT SPORTS - AQ",
             "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/2szrn2y3ep/out/v1/eacd8a4207dc4f0d9661a4b085b8fdd9/cenc.mpd",
@@ -741,6 +749,14 @@
             "logo": "",
             "type": 7,
             "api": "065051b99bf5cf8d9a3bde5cbde6aaf9:214bd176832872339ce184338320f9a2",
+            "tokenApi": ""
+          },
+          {
+            "title": "WILLOW ALT",
+            "link": "https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/iuz7dvit5y/out/v1/8c19f7954ab24086b52b2a7b808ddd73/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "1544c349ebb47984ba648348b5eb4664:b5aa349bbd609812fe85c2cc4b732d27",
             "tokenApi": ""
           },
           {
