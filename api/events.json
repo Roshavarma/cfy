@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-19T08:41:27.909306",
-  "event_count": 61,
+  "last_updated": "2026-06-19T08:51:24.062590",
+  "event_count": 65,
   "events": {
     "events": [
       {
@@ -122,7 +122,7 @@
           "teamBFlag": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHudrhyphenhyphenOGNuEpCmd8k8vfTaJ7hTqEb6GemloDedieYFrvM5MJz639vioDvQnlHGBhvxsNBHSLg2ICSGot7LWGA2PDZqoc3W_A3Yu002I5JGUeQgTCG_UFhDRPSJr2E1blnBokZvTYkB6B2nJVeeUy6s28sW-XHRZzCW_J6SOGpaoXx0LB-CH-9iTf1ebc/s1600/1000009837.jpg",
           "eventName": "Motorsport",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/06/19 08:45:22 +0000",
           "endTime": "2026/06/19 16:00:19 +0000"
         },
@@ -737,7 +737,7 @@
           },
           {
             "title": "TNT SPORTS - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/2szrn2y3ep/out/v1/eacd8a4207dc4f0d9661a4b085b8fdd9/cenc.mpd",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/2szrn2y3ep/out/v1/eacd8a4207dc4f0d9661a4b085b8fdd9/cenc.mpd?",
             "logo": "",
             "type": 7,
             "api": "12413e2c2855cfc59ce0fe6b20cc71ca:08d55a8f5fc93a9375f9b0cb2e1739ca",
@@ -2546,6 +2546,114 @@
           {
             "title": "WILLOW - LQ",
             "link": "https://tmaxapp.site/willoweng.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 10238,
+        "title": "Hamilton Tiger-Cats vs BC Lions",
+        "image": "null",
+        "cat": "American Football",
+        "eventInfo": {
+          "teamA": "Hamilton",
+          "teamB": "BC",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/4441/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/4440/image",
+          "eventName": "American Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/06/19 23:30:00 +0000",
+          "endTime": "2026/06/20 02:30:34 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Live 1",
+            "link": "ok",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 10239,
+        "title": "Ottawa Redblacks vs Toronto Argonauts",
+        "image": "null",
+        "cat": "American Football",
+        "eventInfo": {
+          "teamA": "Ottawa",
+          "teamB": "Toronto",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/4437/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/4436/image",
+          "eventName": "American Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/06/20 17:00:00 +0000",
+          "endTime": "2026/06/20 20:15:04 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Live 1",
+            "link": "ok",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 10240,
+        "title": "Edmonton Elks vs Montreal Alouettes",
+        "image": "null",
+        "cat": "American Football",
+        "eventInfo": {
+          "teamA": "Edmonton",
+          "teamB": "Montr\u00e9al",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/4434/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/4439/image",
+          "eventName": "American Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/06/20 20:00:00 +0000",
+          "endTime": "2026/06/20 23:30:24 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Live 1",
+            "link": "ok",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 10241,
+        "title": "Calgary Stampeders vs Saskatchewan Roughriders",
+        "image": "null",
+        "cat": "American Football",
+        "eventInfo": {
+          "teamA": "Calgary",
+          "teamB": "Saskatchewan",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/4433/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/4438/image",
+          "eventName": "American Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/06/20 23:00:00 +0000",
+          "endTime": "2026/06/21 02:15:50 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Live 1",
+            "link": "ok",
             "logo": "",
             "type": 0,
             "api": "",
