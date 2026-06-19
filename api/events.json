@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-19T04:31:40.686665",
+  "last_updated": "2026-06-19T04:41:20.219189",
   "event_count": 70,
   "events": {
     "events": [
@@ -728,14 +728,6 @@
         },
         "channels_data": [
           {
-            "title": "WILLOW - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5xmgabhhdk/out/v1/f617605096964389952f793c47752d81/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "7532657d0df193ead8be392691f7a004:82b2c85f53529b67f8a321dea7a3fb6d",
-            "tokenApi": ""
-          },
-          {
             "title": "TNT SPORTS - AQ",
             "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/2szrn2y3ep/out/v1/eacd8a4207dc4f0d9661a4b085b8fdd9/cenc.mpd",
             "logo": "",
@@ -752,6 +744,22 @@
             "tokenApi": ""
           },
           {
+            "title": "FANCODE - SD",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/v8g0dlo4z8/out/v1/946019f85dc64ae99ff9ce64a9727a62/cenc-sd.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "5689304538fa9f3bb3da99c939a2ad4f:6907c88ed8ebdd35a2fa80b9684715e1",
+            "tokenApi": ""
+          },
+          {
+            "title": "WILLOW - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5xmgabhhdk/out/v1/f617605096964389952f793c47752d81/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "7532657d0df193ead8be392691f7a004:82b2c85f53529b67f8a321dea7a3fb6d",
+            "tokenApi": ""
+          },
+          {
             "title": "WILLOW ALT",
             "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/5xmgabhhdk/out/v1/f617605096964389952f793c47752d81/cenc.mpd",
             "logo": "",
@@ -765,14 +773,6 @@
             "logo": "",
             "type": 0,
             "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "FANCODE - SD",
-            "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash-sd/enc/v8g0dlo4z8/out/v1/946019f85dc64ae99ff9ce64a9727a62/cenc-sd.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "5689304538fa9f3bb3da99c939a2ad4f:6907c88ed8ebdd35a2fa80b9684715e1",
             "tokenApi": ""
           },
           {
