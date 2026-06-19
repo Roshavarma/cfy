@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-19T01:11:35.127456",
-  "event_count": 73,
+  "last_updated": "2026-06-19T01:21:32.600815",
+  "event_count": 70,
   "events": {
     "events": [
       {
@@ -1892,14 +1892,6 @@
             "tokenApi": ""
           },
           {
-            "title": "M6 FRANCE - AQ",
-            "link": "https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_cenc00/dash-short-hd.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "433ffba670963e70857859a9dff4be04:51ede3a821229fe81e71282c8eff80e3",
-            "tokenApi": ""
-          },
-          {
             "title": "VRT DUTCH - AQ",
             "link": "https://live.vrtcdn.be/groupd/live/0761024f-37fe-4254-bc37-e95d7c62b2d1/live.isml/.mpd",
             "logo": "",
@@ -1941,10 +1933,26 @@
           },
           {
             "title": "VIX SPANISH - AQ",
-            "link": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/8u9cregwlt/out/v1/687f6b2a559943549be271504a948ffd/cenc.mpd",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8u9cregwlt/out/v1/687f6b2a559943549be271504a948ffd/cenc.mpd",
             "logo": "",
             "type": 7,
             "api": "1710ac2bbfcd3032d0f6533850968f47:d2548dacc8efcd1cd0af0373060c82dc",
+            "tokenApi": ""
+          },
+          {
+            "title": "VIX MUNDIAL - AQ",
+            "link": "https://vod-sev-orbit2-s2.izzigo.tv/out/u/startover/dash/VIX-MUNDIAL-90-HD/default.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "75074a0cbd83f5b72fb3e5c1495252a9:a4a0df04b2d28f2160cead2ecdeb7203",
+            "tokenApi": ""
+          },
+          {
+            "title": "IRIB 4K",
+            "link": "https://ncdn.telewebion.ir/faratar/live/playlist.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
             "tokenApi": ""
           },
           {
@@ -1953,14 +1961,6 @@
             "logo": "",
             "type": 7,
             "api": "0:0",
-            "tokenApi": ""
-          },
-          {
-            "title": "JOJ SPORTS - AQ",
-            "link": "https://dash2.antik.sk/stream/nvidia_joj_sport/playlist_cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
             "tokenApi": ""
           },
           {
@@ -3736,135 +3736,6 @@
         ]
       },
       {
-        "id": 10228,
-        "title": "Milwaukee Brewers vs Cleveland Guardians",
-        "image": "null",
-        "cat": "Baseball",
-        "eventInfo": {
-          "teamA": "Brewers",
-          "teamB": "Guardians",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/3630/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/3650/image",
-          "eventName": "Baseball",
-          "isHot": "0",
-          "Status": "Finish",
-          "startTime": "2026/06/18 18:10:00 +0000",
-          "endTime": "2026/06/18 21:00:37 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "Live 1",
-            "link": "https://chatgpt.hereisman.net/playlist/52194/load-playlist?|Referer=https://gooz.aapmains.net",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "HD SERVER",
-            "link": "https://mainstreams.pro/hls/16yuitzaerghbhc16.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streams.center&Origin=https://streams.center",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "Live 2",
-            "link": "https://instreams.pro/US/MLB2/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://instream.click/jwp-us.php?stream=MLB2&Origin=https://instream.click/jwp-us.php?stream=MLB2",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 10229,
-        "title": "Texas Rangers vs Minnesota Twins",
-        "image": "null",
-        "cat": "Baseball",
-        "eventInfo": {
-          "teamA": "Rangers",
-          "teamB": "Twins",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/3647/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/3649/image",
-          "eventName": "Baseball",
-          "isHot": "0",
-          "Status": "Finish",
-          "startTime": "2026/06/18 18:35:00 +0000",
-          "endTime": "2026/06/18 21:15:34 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "Live 1",
-            "link": "https://chatgpt.hereisman.net/playlist/52196/load-playlist?|Referer=https://gooz.aapmains.net",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "HD SERVER",
-            "link": "https://edgestreams.pro/hls/ihfazugfyjcazich17.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streams.center&Origin=https://streams.center",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "Live 2",
-            "link": "https://instreams.pro/US/MLB3/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://instream.click/jwp-us.php?stream=MLB3&Origin=https://instream.click/jwp-us.php?stream=MLB3",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 10230,
-        "title": "Seattle Mariners vs Baltimore Orioles",
-        "image": "null",
-        "cat": "Baseball",
-        "eventInfo": {
-          "teamA": "Mariners",
-          "teamB": "Orioles",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/3641/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/3652/image",
-          "eventName": "Baseball",
-          "isHot": "0",
-          "Status": "Finish",
-          "startTime": "2026/06/18 20:10:00 +0000",
-          "endTime": "2026/06/18 23:15:32 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "Live 1",
-            "link": "https://chatgpt.hereisman.net/playlist/52202/load-playlist?|Referer=https://gooz.aapmains.net",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "Live 2",
-            "link": "https://mainstreams.pro/hls/Czajafjihafch18.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streams.center&Origin=https://streams.center",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "HD SERVER",
-            "link": "https://instreams.pro/US/MLB4/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://instream.click/jwp-us.php?stream=MLB4&Origin=https://instream.click/jwp-us.php?stream=MLB4",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
         "id": 10231,
         "title": "Philadelphia Phillies vs New York Mets",
         "image": "null",
@@ -4047,6 +3918,14 @@
         "channels_data": [
           {
             "title": "Live 1",
+            "link": "https://chatgpt.hereisman.net/playlist/52216/load-playlist?|Referer=https://gooz.aapmains.net",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "Live 2",
             "link": "https://edgestreams.pro/hls/jnzkdzjfanch23.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streams.center&Origin=https://streams.center",
             "logo": "",
             "type": 0,
@@ -4132,8 +4011,24 @@
         },
         "channels_data": [
           {
-            "title": "",
-            "link": "ok",
+            "title": "SKY CRICKET - AQ",
+            "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "SKY MAIN EVENT",
+            "link": "https://tmaxapp.site/skymainevent.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "WILLOW - LQ",
+            "link": "https://tmaxapp.site/willoweng.m3u8",
             "logo": "",
             "type": 0,
             "api": "",
