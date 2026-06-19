@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-19T09:51:27.160966",
+  "last_updated": "2026-06-19T10:02:06.546392",
   "event_count": 78,
   "events": {
     "events": [
@@ -572,11 +572,19 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/187755/image",
           "eventName": "Cricket",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/06/19 10:00:57 +0000",
           "endTime": "2026/06/19 18:30:02 +0000"
         },
         "channels_data": [
+          {
+            "title": "WILLOW - AQ",
+            "link": "https://a57live-pv-ta-amazon.akamaized.net/iad-nitro/live/clients/dash/enc/6cewm4wcnq/out/v1/9582c14dc2564f7ba8b16a658e6c2ed7/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "8a5ac34c1bacf0bd4546280e7e3ac8ca:5e9032df0725dc3b74db431e70bf2358",
+            "tokenApi": ""
+          },
           {
             "title": "SKY CRICKET - AQ",
             "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla",
@@ -596,14 +604,6 @@
           {
             "title": "SKY MAIN EVENT",
             "link": "https://tmaxapp.site/skymainevent.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "WILLOW - LQ",
-            "link": "https://tmaxapp.site/willoweng.m3u8",
             "logo": "",
             "type": 0,
             "api": "",
