@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-20T00:41:27.791357",
+  "last_updated": "2026-06-20T00:51:37.989462",
   "event_count": 77,
   "events": {
     "events": [
@@ -1673,6 +1673,14 @@
             "tokenApi": ""
           },
           {
+            "title": "SporTV BR - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tvezxbddeg/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "cb5eaea6d91fc8a702f154cefd69c976:fd4b69623da596aac100e5722d8a1ca0",
+            "tokenApi": ""
+          },
+          {
             "title": "beIN ARABIC - AQ",
             "link": "https://raw.githubusercontent.com/ON2026/1smas/refs/heads/main/mx1app2.m3u8",
             "logo": "",
@@ -1830,14 +1838,6 @@
             "logo": "",
             "type": 0,
             "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "SporTV BR - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tvezxbddeg/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "cb5eaea6d91fc8a702f154cefd69c976:fd4b69623da596aac100e5722d8a1ca0",
             "tokenApi": ""
           },
           {
@@ -3452,8 +3452,8 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/485015/image",
           "eventName": "Cricket",
           "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/06/20 00:30:00 +0000",
+          "Status": "Upcoming",
+          "startTime": "2026/06/20 01:00:11 +0000",
           "endTime": "2026/06/20 05:00:25 +0000"
         },
         "channels_data": [
@@ -3511,7 +3511,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/485013/image",
           "eventName": "Cricket",
           "isHot": "0",
-          "Status": "Live",
+          "Status": "Finish",
           "startTime": "2026/06/19 20:30:00 +0000",
           "endTime": "2026/06/20 00:45:10 +0000"
         },
