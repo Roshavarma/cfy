@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-20T22:41:33.796833",
+  "last_updated": "2026-06-20T22:51:37.400233",
   "event_count": 71,
   "events": {
     "events": [
@@ -357,7 +357,7 @@
           "teamAFlag": "https://img.sofascore.com/api/v1/team/461847/image",
           "teamBFlag": "https://img.sofascore.com/api/v1/team/469943/image",
           "eventName": "Boxing",
-          "isHot": "0",
+          "isHot": "1",
           "Status": "Upcoming",
           "startTime": "2026/06/20 23:00:27 +0000",
           "endTime": "2026/06/21 05:00:30 +0000"
@@ -373,47 +373,15 @@
           },
           {
             "title": "HUB PREMIER - AQ",
-            "link": "https://sh-bks400-11.starhubgo.com/bpk-token/1aa@bnwtguorzo0q00jiqby4dmhni3it3ubvbtcizbca/bpk-tv/HubSports2HD/output/manifest.mpd",
+            "link": "https://mh-bks400-06.starhubgo.com/bpk-token/1aa@vrecibfasiafe5nikbjx0jeqc0nerakivpqzxuba/bpk-tv/HubSports2HD/output/manifest.mpd?bkm-query",
             "logo": "",
             "type": 7,
             "api": "fd72f19fac0c441b808996ea993d06d2:8f0be65b978ef60062b4c7dabb226a1d",
             "tokenApi": ""
           },
           {
-            "title": "UFC FIGHT PASS",
-            "link": "https://ogilbert.s3.us-east-1.amazonaws.com/espn.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
             "title": "PARAMOUNT+ HD",
-            "link": "https://chatgpt.hereisman.net/playlist/52050/load-playlist?|Referer=https://gooz.aapmains.net",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "TNT SPORTS HD",
-            "link": "https://chatgpt.hereisman.net/playlist/52049/load-playlist?|Referer=https://gooz.aapmains.net",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "CBS SPORTS HD",
-            "link": "https://image-storage-31.imgcontent.xyz/live/ufc-fight-night-muhammad-vs-bonfim/index.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "Live 1",
-            "link": "https://chatgpt.hereisman.net/playlist/52055/load-playlist?|Referer=https://gooz.aapmains.net",
+            "link": "https://chatgpt.hereisman.net/playlist/52297/load-playlist?|Referer=https://gooz.aapmains.net",
             "logo": "",
             "type": 0,
             "api": "",
@@ -428,6 +396,14 @@
             "tokenApi": ""
           },
           {
+            "title": "TNT SPORTS HD",
+            "link": "https://xstm.250909.cc/live/SPORTSFLUX-PRD-76753-1/4a7a4af09781/1033.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
             "title": "HD SERVER",
             "link": "https://mainstreams.pro/hls/zeuryuegn48.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz&Origin=https://streamcenter.xyz",
             "logo": "",
@@ -436,56 +412,8 @@
             "tokenApi": ""
           },
           {
-            "title": "TNT SPORTS",
-            "link": "https://xstm.250909.cc/live/SPORTSFLUX-PRD-76753-1/4a7a4af09781/1033.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "SPORT TV HD",
-            "link": "https://t7.ultrastream.vip/sporttv1/index.m3u8?|Referer=https://foottime.top/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "SonyLiv English",
-            "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/20000292/UFC_Free1406/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "SonyLiv Hindi",
-            "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/20000292/UFC_Free1406/HIN/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "Live 2",
-            "link": "https://acumen.loreofeldenring.site/dailymotion/live/playlist/21.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "COSMOTE SPORTS",
-            "link": "https://tmaxapp.site/cosmote6.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "SPORTSNET HD",
-            "link": "https://tmaxapp.site/sportsnet360.m3u8",
+            "title": "Live 1",
+            "link": "https://instreams.pro/US/NFLHD30/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click",
             "logo": "",
             "type": 0,
             "api": "",
@@ -1794,7 +1722,7 @@
           "teamAFlag": "https://img.sofascore.com/api/v1/team/4757/image",
           "teamBFlag": "https://img.sofascore.com/api/v1/team/55827/image",
           "eventName": "Football",
-          "isHot": "0",
+          "isHot": "1",
           "Status": "Upcoming",
           "startTime": "2026/06/21 00:00:00 +0000",
           "endTime": "2026/06/21 02:00:00 +0000"
