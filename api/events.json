@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-20T00:51:37.989462",
+  "last_updated": "2026-06-20T01:01:47.427313",
   "event_count": 77,
   "events": {
     "events": [
@@ -1638,14 +1638,6 @@
             "logo": "",
             "type": 7,
             "api": "adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a",
-            "tokenApi": ""
-          },
-          {
-            "title": "M6 FRANCE - AQ",
-            "link": "https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_cenc00/dash-short-hd.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "433ffba670963e70857859a9dff4be04:51ede3a821229fe81e71282c8eff80e3",
             "tokenApi": ""
           },
           {
@@ -3452,17 +3444,33 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/485015/image",
           "eventName": "Cricket",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/06/20 01:00:11 +0000",
           "endTime": "2026/06/20 05:00:25 +0000"
         },
         "channels_data": [
+          {
+            "title": "WILLOW - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhukhaxuw2/out/v1/df964fc528f04e98a83831bbcb88bb16/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "84904b9e8f527b72dd1566f8f2e00160:cda148bac3de81fe928d814a3d957477",
+            "tokenApi": ""
+          },
           {
             "title": "SKY CRICKET - AQ",
             "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla",
             "logo": "",
             "type": 0,
             "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "WILLOW ALT",
+            "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/rhukhaxuw2/out/v1/df964fc528f04e98a83831bbcb88bb16/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "84904b9e8f527b72dd1566f8f2e00160:cda148bac3de81fe928d814a3d957477",
             "tokenApi": ""
           },
           {
