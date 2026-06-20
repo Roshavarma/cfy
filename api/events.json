@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-20T00:31:50.508282",
+  "last_updated": "2026-06-20T00:41:27.791357",
   "event_count": 77,
   "events": {
     "events": [
@@ -1673,16 +1673,8 @@
             "tokenApi": ""
           },
           {
-            "title": "TVE SPANISH - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/62qdkefv9f/out/v1/f7d5b356e048494a8325563e8916d50b/cenc.mpd|user-agent=Mozila",
-            "logo": "",
-            "type": 7,
-            "api": "fd86dde0ae3e14ff51c8fc8f248a50db:d106ae78b0893da2e4393ece99420baa",
-            "tokenApi": ""
-          },
-          {
             "title": "beIN ARABIC - AQ",
-            "link": "https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/wGucmvO-yvarXXDE14vqYciOy7_B3WPfuBAm2yuy96nJxEC8ti42HfmoJilq7gkWfVc3Miz0IkL0JAR-_y1Iaw/non_transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/master_dynamic_delta.m3u8?type=live",
+            "link": "https://raw.githubusercontent.com/ON2026/1smas/refs/heads/main/mx1app2.m3u8",
             "logo": "",
             "type": 0,
             "api": "",
@@ -1785,62 +1777,6 @@
             "tokenApi": ""
           },
           {
-            "title": "CIGNAL ENGLISH",
-            "link": "https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/pp_ch2_pri/default/index.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "4fef00332d7e4fbc8f7005dfbf851a59:a6368c181358f3e527411a6c452c6a1a",
-            "tokenApi": ""
-          },
-          {
-            "title": "FUSSBALL TV (GER)",
-            "link": "https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_hd/DASH/index.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "1cb20afcd9d979c833cfd208c7d3eeb2:fef0c15b4a523370892edd5e4133c269",
-            "tokenApi": ""
-          },
-          {
-            "title": "ORF (GERMAN IP)",
-            "link": "https://simplitv-live.mdn.ors.at/live/eds/orf_1_hd-1/dash4h/orf_1_hd-1.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "429bcf031bbf3146a67f3f583e4c4355:d1b92aba5a38a518c8b8a1fd2bca4398",
-            "tokenApi": ""
-          },
-          {
-            "title": "FUSSBALL 4K (GER)",
-            "link": "https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_uhd/DASH/index.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "1f09d5788fbbb03a053d03cc731f31a9:d493d5a70c793362324638f61d1726ac",
-            "tokenApi": ""
-          },
-          {
-            "title": "ZDF (GERMAN IP)",
-            "link": "https://simplitv-live.mdn.ors.at/live/eds/zdf_hd/dash4h/zdf_hd.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "c1a0ac1044a433d0856ccdc08f245084:7f0e8800a6d63d7915ac181bb88ce813",
-            "tokenApi": ""
-          },
-          {
-            "title": "TELEMUNDO (USA)",
-            "link": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1",
-            "tokenApi": ""
-          },
-          {
-            "title": "UNiFy TV (IND)",
-            "link": "https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(fifa1)/master.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "10e2114398744f3880cc96653568da55:d6d40441f9fbebea03ec64c4aea7211f",
-            "tokenApi": ""
-          },
-          {
             "title": "TSN SPORTS 4K",
             "link": "https://streamxyz.shop/tsn4k/index.m3u8?|Referer=https://xyzstreams.shop/",
             "logo": "",
@@ -1875,14 +1811,6 @@
           {
             "title": "FAST SERVER",
             "link": "https://pulltx.jdnzrgm.com/live/hd-en-6MvZ6BDgoC9j85Gdk2.m3u8?txSecret=b5474933fc1090807f8b64a808d31210&txTime=6A360231",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "beIN MAX FHD",
-            "link": "https://raw.githubusercontent.com/ON2026/1smas/refs/heads/main/mx1app2.m3u8",
             "logo": "",
             "type": 0,
             "api": "",
@@ -1926,6 +1854,102 @@
             "logo": "",
             "type": 0,
             "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "FOX SPORTS SD",
+            "link": "http://193.47.62.47/hls/XFPPPA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "ITV SPORTS SD",
+            "link": "http://193.47.62.59/hls/XVVVV.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "AZAM SPORTS SD",
+            "link": "http://193.47.62.51/hls/YYYY.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "beiN SPORTS FR",
+            "link": "http://193.47.62.59/hls/XZRRRZ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "TELEMUNDO ES SD",
+            "link": "http://193.47.62.55/hls/XZRRR.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "ZDF (GERMAN IP)",
+            "link": "https://simplitv-live.mdn.ors.at/live/eds/zdf_hd/dash4h/zdf_hd.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "c1a0ac1044a433d0856ccdc08f245084:7f0e8800a6d63d7915ac181bb88ce813",
+            "tokenApi": ""
+          },
+          {
+            "title": "TELEMUNDO (USA)",
+            "link": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1",
+            "tokenApi": ""
+          },
+          {
+            "title": "UNiFy TV (IND)",
+            "link": "https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(fifa1)/master.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "10e2114398744f3880cc96653568da55:d6d40441f9fbebea03ec64c4aea7211f",
+            "tokenApi": ""
+          },
+          {
+            "title": "FUSSBALL 4K (GER)",
+            "link": "https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_uhd/DASH/index.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "1f09d5788fbbb03a053d03cc731f31a9:d493d5a70c793362324638f61d1726ac",
+            "tokenApi": ""
+          },
+          {
+            "title": "FUSSBALL TV (GER)",
+            "link": "https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_hd/DASH/index.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "1cb20afcd9d979c833cfd208c7d3eeb2:fef0c15b4a523370892edd5e4133c269",
+            "tokenApi": ""
+          },
+          {
+            "title": "ORF (GERMAN IP)",
+            "link": "https://simplitv-live.mdn.ors.at/live/eds/orf_1_hd-1/dash4h/orf_1_hd-1.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "429bcf031bbf3146a67f3f583e4c4355:d1b92aba5a38a518c8b8a1fd2bca4398",
+            "tokenApi": ""
+          },
+          {
+            "title": "CIGNAL ENGLISH",
+            "link": "https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/pp_ch2_pri/default/index.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "4fef00332d7e4fbc8f7005dfbf851a59:a6368c181358f3e527411a6c452c6a1a",
             "tokenApi": ""
           }
         ]
@@ -3434,14 +3458,6 @@
         },
         "channels_data": [
           {
-            "title": "WILLOW - AQ",
-            "link": "https://a57live-pv-ta-amazon.akamaized.net/iad-nitro/live/clients/dash/enc/wgrmbrvhu8/out/v1/09861970a7a74322aa31ddb10c4b1bce/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "9d04482a571bd3de3f3a395fb736b248:3927147a8deb5a6ac33eb47b0d7d8966",
-            "tokenApi": ""
-          },
-          {
             "title": "SKY CRICKET - AQ",
             "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla",
             "logo": "",
@@ -3460,14 +3476,6 @@
           {
             "title": "SKY MAIN EVENT",
             "link": "https://tmaxapp.site/skymainevent.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "SKY SPORTS HD",
-            "link": "http://starhub.pro/live/Anthony2/Anthony123/124269.ts",
             "logo": "",
             "type": 0,
             "api": "",
@@ -3503,9 +3511,9 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/485013/image",
           "eventName": "Cricket",
           "isHot": "0",
-          "Status": "Finish",
+          "Status": "Live",
           "startTime": "2026/06/19 20:30:00 +0000",
-          "endTime": "2026/06/20 00:30:05 +0000"
+          "endTime": "2026/06/20 00:45:10 +0000"
         },
         "channels_data": [
           {
@@ -4006,7 +4014,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/3637/image",
           "eventName": "Baseball",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/06/20 00:40:00 +0000",
           "endTime": "2026/06/20 04:00:48 +0000"
         },
