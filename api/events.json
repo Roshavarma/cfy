@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-20T07:51:43.592152",
+  "last_updated": "2026-06-20T08:02:01.803223",
   "event_count": 73,
   "events": {
     "events": [
@@ -639,7 +639,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/187575/image",
           "eventName": "Cricket",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/06/20 08:00:02 +0000",
           "endTime": "2026/06/20 16:30:08 +0000"
         },
@@ -669,6 +669,14 @@
             "tokenApi": ""
           },
           {
+            "title": "SKY SPORT NZ",
+            "link": "https://tmaxapp.site/skynz4.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
             "title": "TNT SPORTS HD",
             "link": "https://xstm.250909.cc/live/SPORTSFLUX-PRD-76753-1/4a7a4af09781/1033.m3u8",
             "logo": "",
@@ -690,6 +698,38 @@
             "logo": "",
             "type": 7,
             "api": "9dacc80134404c34ba184022c28d0000:982183fb4d9449c995859b7cff512092",
+            "tokenApi": ""
+          },
+          {
+            "title": "HOTSTAR - ENG",
+            "link": "https://livetv.hotstar.com/mp2/gec-india-1540065785/a00717b1324f45eb814eec9e48a12db8/index.mpd?|cookie=hdntl=exp=1782027393~acl=%2f*~id=5a0847025a4639ceab95df92be75f193~data=hdntl~hmac=3d597b27be17df942911f7bf039f969235084b649e3f8c2f4bcbef7564f967e0&User-agent=Hotstar;in.startv.hotstar/SportsLover(Android/15)&Referer=https://www.hotstar.com/&origin=https://www.hotstar.com&drmScheme=clearkey&drmLicense=9dacc80134404c34ba184022c28d0000:982183fb4d9449c995859b7cff512092",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "HOTSTAR - HIN",
+            "link": "https://jcevents.hotstar.com/bpk-tv/f0e3e64ae415771d8e460317ce97aa5e/Fallback/f0e3e64ae415771d8e460317ce97aa5e.m3u8?|cookie=hdntl=exp=1782027393~acl=%2f*~id=5a0847025a4639ceab95df92be75f193~data=hdntl~hmac=3d597b27be17df942911f7bf039f969235084b649e3f8c2f4bcbef7564f967e0&User-agent=Hotstar;in.startv.hotstar/SportsLover(Android/15)&Referer=https://www.hotstar.com/&origin=https://www.hotstar.com",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "HOTSTAR - TAM",
+            "link": "https://jcevents.hotstar.com/bpk-tv/4db6f833701e78ae4443cb268020f03b/Fallback/4db6f833701e78ae4443cb268020f03b.m3u8?|cookie=hdntl=exp=1782027393~acl=%2f*~id=5a0847025a4639ceab95df92be75f193~data=hdntl~hmac=3d597b27be17df942911f7bf039f969235084b649e3f8c2f4bcbef7564f967e0&User-agent=Hotstar;in.startv.hotstar/SportsLover(Android/15)&Referer=https://www.hotstar.com/&origin=https://www.hotstar.com",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "HOTSTAR - TEL",
+            "link": "https://jcevents.hotstar.com/bpk-tv/034d1fb94cae87294a06f4dc266084b9/Fallback/034d1fb94cae87294a06f4dc266084b9.m3u8?|cookie=hdntl=exp=1782027393~acl=%2f*~id=5a0847025a4639ceab95df92be75f193~data=hdntl~hmac=3d597b27be17df942911f7bf039f969235084b649e3f8c2f4bcbef7564f967e0&User-agent=Hotstar;in.startv.hotstar/SportsLover(Android/15)&Referer=https://www.hotstar.com/&origin=https://www.hotstar.com",
+            "logo": "",
+            "type": 0,
+            "api": "",
             "tokenApi": ""
           }
         ]
