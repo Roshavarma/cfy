@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-20T14:32:00.850899",
-  "event_count": 73,
+  "last_updated": "2026-06-20T14:41:39.795083",
+  "event_count": 72,
   "events": {
     "events": [
       {
@@ -628,121 +628,6 @@
         ]
       },
       {
-        "id": 9964,
-        "title": "India vs Afghanistan",
-        "image": "",
-        "cat": "Cricket",
-        "eventInfo": {
-          "teamA": "India",
-          "teamB": "Afghanistan",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/187765/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/187575/image",
-          "eventName": "Cricket",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/06/20 08:00:02 +0000",
-          "endTime": "2026/06/20 16:30:08 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "WILLOW - AQ",
-            "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/9ojf3ab417/out/v1/dab862174a2e42608efd6e964343c287/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "c961aa99a64fb1ab0d4fc07c9c45910f:13ee767345996b84504c1f7d950c6944",
-            "tokenApi": ""
-          },
-          {
-            "title": "TNT SPORTS - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vaplpo3app/out/v1/49b4d538ec854efa90d45084866cf7f9/cenc.mpd?|",
-            "logo": "",
-            "type": 7,
-            "api": "d14658a0ede94debcb4013b2056ba6d1:60838a3176127fed0eaf038a5575de11",
-            "tokenApi": ""
-          },
-          {
-            "title": "WILLOW ALT",
-            "link": "https://a201aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/9ojf3ab417/out/v1/dab862174a2e42608efd6e964343c287/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "c961aa99a64fb1ab0d4fc07c9c45910f:13ee767345996b84504c1f7d950c6944",
-            "tokenApi": ""
-          },
-          {
-            "title": "SKY SPORT NZ",
-            "link": "https://tmaxapp.site/skynz4.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "TNT SPORTS HD",
-            "link": "https://xstm.250909.cc/live/SPORTSFLUX-PRD-76753-1/4a7a4af09781/1033.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "WILLOW HD",
-            "link": "https://tmaxapp.site/willoweng.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "HOTSTAR HD",
-            "link": "https://livetv.hotstar.com/mp2/gec-india-1540065785/a00717b1324f45eb814eec9e48a12db8/index.mpd?",
-            "logo": "",
-            "type": 7,
-            "api": "9dacc80134404c34ba184022c28d0000:982183fb4d9449c995859b7cff512092",
-            "tokenApi": ""
-          },
-          {
-            "title": "HOTSTAR - ENG",
-            "link": "https://livetv.hotstar.com/mp2/gec-india-1540065785/a00717b1324f45eb814eec9e48a12db8/index.mpd?|cookie=hdntl=exp=1782027393~acl=%2f*~id=5a0847025a4639ceab95df92be75f193~data=hdntl~hmac=3d597b27be17df942911f7bf039f969235084b649e3f8c2f4bcbef7564f967e0&User-agent=Hotstar;in.startv.hotstar/SportsLover(Android/15)&Referer=https://www.hotstar.com/&origin=https://www.hotstar.com&drmScheme=clearkey&drmLicense=9dacc80134404c34ba184022c28d0000:982183fb4d9449c995859b7cff512092",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "HOTSTAR - HIN",
-            "link": "https://jcevents.hotstar.com/bpk-tv/f0e3e64ae415771d8e460317ce97aa5e/Fallback/f0e3e64ae415771d8e460317ce97aa5e.m3u8?|cookie=hdntl=exp=1782027393~acl=%2f*~id=5a0847025a4639ceab95df92be75f193~data=hdntl~hmac=3d597b27be17df942911f7bf039f969235084b649e3f8c2f4bcbef7564f967e0&User-agent=Hotstar;in.startv.hotstar/SportsLover(Android/15)&Referer=https://www.hotstar.com/&origin=https://www.hotstar.com",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "HOTSTAR - TAM",
-            "link": "https://jcevents.hotstar.com/bpk-tv/4db6f833701e78ae4443cb268020f03b/Fallback/4db6f833701e78ae4443cb268020f03b.m3u8?|cookie=hdntl=exp=1782027393~acl=%2f*~id=5a0847025a4639ceab95df92be75f193~data=hdntl~hmac=3d597b27be17df942911f7bf039f969235084b649e3f8c2f4bcbef7564f967e0&User-agent=Hotstar;in.startv.hotstar/SportsLover(Android/15)&Referer=https://www.hotstar.com/&origin=https://www.hotstar.com",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "HOTSTAR - TEL",
-            "link": "https://jcevents.hotstar.com/bpk-tv/034d1fb94cae87294a06f4dc266084b9/Fallback/034d1fb94cae87294a06f4dc266084b9.m3u8?|cookie=hdntl=exp=1782027393~acl=%2f*~id=5a0847025a4639ceab95df92be75f193~data=hdntl~hmac=3d597b27be17df942911f7bf039f969235084b649e3f8c2f4bcbef7564f967e0&User-agent=Hotstar;in.startv.hotstar/SportsLover(Android/15)&Referer=https://www.hotstar.com/&origin=https://www.hotstar.com",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "TAPMAD - BD",
-            "link": "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-258tjui/master.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
         "id": 10029,
         "title": "Bangladesh vs Australia",
         "image": "",
@@ -1315,7 +1200,7 @@
         "channels_data": [
           {
             "title": "Live 1",
-            "link": "ok",
+            "link": "okay",
             "logo": "",
             "type": 0,
             "api": "",
