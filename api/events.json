@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-20T16:41:51.072067",
-  "event_count": 72,
+  "last_updated": "2026-06-20T16:51:57.941520",
+  "event_count": 71,
   "events": {
     "events": [
       {
@@ -1115,19 +1115,11 @@
             "tokenApi": ""
           },
           {
-            "title": "CIGNAL ENGLISH",
-            "link": "https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/pp_ch2_pri/default/index.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "4fef00332d7e4fbc8f7005dfbf851a59:a6368c181358f3e527411a6c452c6a1a",
-            "tokenApi": ""
-          },
-          {
             "title": "D SPORTS - AQ",
-            "link": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ubehitlwzo/out/v1/8e09c381a51f4366a19e979418112e8f/cenc.mpd",
+            "link": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/rgilyeubta/out/v1/09a67027b18f4fd78aaa3794a2aacfe8/cenc.mpd",
             "logo": "",
             "type": 7,
-            "api": "a7d11d37a1f7611ee88d4db880171f32:68f96d618b0b956b008c445896a25a79",
+            "api": "03f12d6a3dbfd3a6fa7dd7f6417e0c11:ea07b87acdf2e45be824cde4a1cf3504",
             "tokenApi": ""
           },
           {
@@ -1140,7 +1132,7 @@
           },
           {
             "title": "CTV SPORTS - AQ",
-            "link": "https://otte-tim.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/72sjo8hygl/out/v1/3079be34d72a4985852d299a02406a0c/cenc.mpd",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/72sjo8hygl/out/v1/3079be34d72a4985852d299a02406a0c/cenc.mpd",
             "logo": "",
             "type": 7,
             "api": "d185684e2330de5bea436daa094a5e86:014f0116154f5bf0050e03a6b0a23157",
@@ -1312,6 +1304,54 @@
             "logo": "",
             "type": 7,
             "api": "c1a0ac1044a433d0856ccdc08f245084:7f0e8800a6d63d7915ac181bb88ce813",
+            "tokenApi": ""
+          },
+          {
+            "title": "CIGNAL ENGLISH",
+            "link": "https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/pp_ch2_pri/default/index.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "4fef00332d7e4fbc8f7005dfbf851a59:a6368c181358f3e527411a6c452c6a1a",
+            "tokenApi": ""
+          },
+          {
+            "title": "CT SPORTS CZ",
+            "link": "https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
+            "tokenApi": ""
+          },
+          {
+            "title": "TELEMUNDO HD",
+            "link": "https://mainstreams.pro/hls/eJmauBDCIf.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "FAST SERVER",
+            "link": "https://pulltx.jdnzrgm.com/live/hd-en-6MvZ6BDgU4C4bo4qHG.m3u8?txSecret=59b857c54fa14b06538728e85724d862&txTime=6A334B08",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "FOX SPORTS HD",
+            "link": "https://chatgpt.hereisman.net/playlist/52273/load-playlist?|Referer=https://gooz.aapmains.net",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "ITV SPORTS HD",
+            "link": "https://chatgpt.hereisman.net/playlist/52271/load-playlist?|Referer=https://gooz.aapmains.net",
+            "logo": "",
+            "type": 0,
+            "api": "",
             "tokenApi": ""
           }
         ]
@@ -2864,33 +2904,6 @@
           {
             "title": "WILLOW - LQ",
             "link": "https://tmaxapp.site/willoweng.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 10239,
-        "title": "Ottawa Redblacks vs Toronto Argonauts",
-        "image": "null",
-        "cat": "American Football",
-        "eventInfo": {
-          "teamA": "Ottawa",
-          "teamB": "Toronto",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/4437/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/4436/image",
-          "eventName": "American Football",
-          "isHot": "0",
-          "Status": "Upcoming",
-          "startTime": "2026/06/20 17:00:00 +0000",
-          "endTime": "2026/06/20 20:15:04 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "Live 1",
-            "link": "ok",
             "logo": "",
             "type": 0,
             "api": "",
