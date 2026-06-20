@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-20T09:51:38.462812",
+  "last_updated": "2026-06-20T10:02:01.473841",
   "event_count": 73,
   "events": {
     "events": [
@@ -572,11 +572,19 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/187755/image",
           "eventName": "Cricket",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/06/20 10:00:19 +0000",
           "endTime": "2026/06/20 18:30:25 +0000"
         },
         "channels_data": [
+          {
+            "title": "WILLOW - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/g4tq64xnon/out/v1/6cf2e7d1249844be9e012f214919bd63/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "389acb5887a904ab230db8f3a1d13a06:ab6c8517643db359b1e66b05e0596feb",
+            "tokenApi": ""
+          },
           {
             "title": "SKY CRICKET - AQ",
             "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla",
@@ -587,10 +595,10 @@
           },
           {
             "title": "WILLOW ALT",
-            "link": "https://abkyrm4aaaaaaaamfyfksth3wr44v.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/7bdy4bcpnx/out/v1/7a73933264244221b1ce3545dfebabc3/cenc.mpd",
+            "link": "https://abkyrm4aaaaaaaamfyfksth3wr44v.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/g4tq64xnon/out/v1/6cf2e7d1249844be9e012f214919bd63/cenc.mpd",
             "logo": "",
             "type": 7,
-            "api": "f46a493ad01c1b237b996f78e96d35c3:271e7552eb45e1ad20b17ad7f0fb2f3e",
+            "api": "389acb5887a904ab230db8f3a1d13a06:ab6c8517643db359b1e66b05e0596feb",
             "tokenApi": ""
           },
           {
