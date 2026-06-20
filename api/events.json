@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-20T02:21:36.064134",
-  "event_count": 77,
+  "last_updated": "2026-06-20T02:31:40.979200",
+  "event_count": 72,
   "events": {
     "events": [
       {
@@ -1563,7 +1563,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/7229/image",
           "eventName": "Football",
           "isHot": "1",
-          "Status": "Live",
+          "Status": "Finish",
           "startTime": "2026/06/20 00:30:00 +0000",
           "endTime": "2026/06/20 02:30:00 +0000"
         },
@@ -3509,19 +3509,19 @@
       },
       {
         "id": 10237,
-        "title": "Los Angeles Knight Riders vs San Francisco Unicorns",
+        "title": "Texas Super Kings vs San Francisco Unicorns",
         "image": "null",
         "cat": "Cricket",
         "eventInfo": {
-          "teamA": "Los Angeles Knight Riders",
+          "teamA": "Texas Super Kings",
           "teamB": "San Francisco Unicorns",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/485011/image",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/485010/image",
           "teamBFlag": "https://img.sofascore.com/api/v1/team/485013/image",
           "eventName": "Cricket",
           "isHot": "0",
-          "Status": "Finish",
-          "startTime": "2026/06/19 20:30:00 +0000",
-          "endTime": "2026/06/20 00:45:10 +0000"
+          "Status": "Upcoming",
+          "startTime": "2026/06/20 20:30:00 +0000",
+          "endTime": "2026/06/21 00:30:32 +0000"
         },
         "channels_data": [
           {
@@ -3594,7 +3594,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/4440/image",
           "eventName": "American Football",
           "isHot": "0",
-          "Status": "Live",
+          "Status": "Finish",
           "startTime": "2026/06/19 23:30:00 +0000",
           "endTime": "2026/06/20 02:30:34 +0000"
         },
@@ -3683,197 +3683,6 @@
           {
             "title": "Live 1",
             "link": "ok",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 10243,
-        "title": "Detroit Tigers vs Chicago White Sox",
-        "image": "null",
-        "cat": "Baseball",
-        "eventInfo": {
-          "teamA": "Tigers",
-          "teamB": "White Sox",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/3648/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/3644/image",
-          "eventName": "Baseball",
-          "isHot": "0",
-          "Status": "Finish",
-          "startTime": "2026/06/19 22:40:00 +0000",
-          "endTime": "2026/06/20 02:00:37 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "Live 1",
-            "link": "https://chatgpt.hereisman.net/playlist/52232/load-playlist?|Referer=https://gooz.aapmains.net",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "HD SERVER ",
-            "link": "https://edgestreams.pro/hls/16yuitzaerghbhc16.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streams.center&Origin=https://streams.center",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "LOW SERVER",
-            "link": "http://193.47.62.41/hls/SSSSS.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 10244,
-        "title": "New York Yankees vs Cincinnati Reds",
-        "image": "null",
-        "cat": "Baseball",
-        "eventInfo": {
-          "teamA": "Yankees",
-          "teamB": "Reds",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/3654/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/3633/image",
-          "eventName": "Baseball",
-          "isHot": "0",
-          "Status": "Finish",
-          "startTime": "2026/06/19 23:05:00 +0000",
-          "endTime": "2026/06/20 02:15:34 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "Live 1",
-            "link": "https://chatgpt.hereisman.net/playlist/52235/load-playlist?|Referer=https://gooz.aapmains.net",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "HD SERVER",
-            "link": "https://edgestreams.pro/hls/ihfazugfyjcazich17.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streams.center&Origin=https://streams.center",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 10246,
-        "title": "Tampa Bay Rays vs Washington Nationals",
-        "image": "null",
-        "cat": "Baseball",
-        "eventInfo": {
-          "teamA": "Rays",
-          "teamB": "Nationals",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/3653/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/5930/image",
-          "eventName": "Baseball",
-          "isHot": "0",
-          "Status": "Finish",
-          "startTime": "2026/06/19 23:10:00 +0000",
-          "endTime": "2026/06/20 02:15:45 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "Live 1",
-            "link": "https://chatgpt.hereisman.net/playlist/52240/load-playlist?|Referer=https://gooz.aapmains.net",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "HD SERVER",
-            "link": "https://edge2caster.pro/hls/bzagLHzach19.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streams.center&Origin=https://streams.center",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 10247,
-        "title": "Miami Marlins vs San Francisco Giants",
-        "image": "null",
-        "cat": "Baseball",
-        "eventInfo": {
-          "teamA": "Marlins",
-          "teamB": "Giants",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/3639/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/3634/image",
-          "eventName": "Baseball",
-          "isHot": "0",
-          "Status": "Finish",
-          "startTime": "2026/06/19 23:10:00 +0000",
-          "endTime": "2026/06/20 02:15:40 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "Live 1",
-            "link": "https://chatgpt.hereisman.net/playlist/52237/load-playlist?|Referer=https://gooz.aapmains.net",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "HD SERVER",
-            "link": "https://edge2caster.pro/hls/Czajafjihafch18.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streams.center&Origin=https://streams.center",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 10248,
-        "title": "Atlanta Braves vs Milwaukee Brewers",
-        "image": "null",
-        "cat": "Baseball",
-        "eventInfo": {
-          "teamA": "Braves",
-          "teamB": "Brewers",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/3656/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/3630/image",
-          "eventName": "Baseball",
-          "isHot": "0",
-          "Status": "Finish",
-          "startTime": "2026/06/19 23:15:00 +0000",
-          "endTime": "2026/06/20 02:15:48 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "Live 1",
-            "link": "https://chatgpt.hereisman.net/playlist/52241/load-playlist?|Referer=https://gooz.aapmains.net",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "HD SERVER",
-            "link": "https://mainstreams.pro/hls/jkzahzadach20.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streams.center&Origin=https://streams.center",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "LOW SERVER",
-            "link": "http://193.47.62.41/hls/ZKKKaaa.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
             "logo": "",
             "type": 0,
             "api": "",
