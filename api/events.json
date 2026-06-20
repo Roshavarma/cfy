@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-20T09:31:49.446550",
+  "last_updated": "2026-06-20T09:41:34.225779",
   "event_count": 73,
   "events": {
     "events": [
@@ -603,7 +603,7 @@
           },
           {
             "title": "SonyLiv",
-            "link": "https://dai.google.com/ssai/event/g7-oTK8QQqCNuXKbQnWVcQ/master.m3u8?hdnea=exp=1781901014~acl=/*~id=e44478e1d337fc2dcadc27f2a8548d94-1781857800204~hmac=e8aae070f4a1b8283bff5f89bb58b374e332f1f69307caad5b510b8af39b9113|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=8a397595884aa3a9e1031ca59f215d83-1781861400226",
+            "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/20000296/England_2006/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=a11f409d310a5681dad2ddb6fd579e0a-1781947800203",
             "logo": "",
             "type": 0,
             "api": "",
@@ -646,7 +646,7 @@
           },
           {
             "title": "TNT SPORTS - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vaplpo3app/out/v1/49b4d538ec854efa90d45084866cf7f9/cenc.mpd",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vaplpo3app/out/v1/49b4d538ec854efa90d45084866cf7f9/cenc.mpd?|",
             "logo": "",
             "type": 7,
             "api": "d14658a0ede94debcb4013b2056ba6d1:60838a3176127fed0eaf038a5575de11",
@@ -719,6 +719,14 @@
           {
             "title": "HOTSTAR - TEL",
             "link": "https://jcevents.hotstar.com/bpk-tv/034d1fb94cae87294a06f4dc266084b9/Fallback/034d1fb94cae87294a06f4dc266084b9.m3u8?|cookie=hdntl=exp=1782027393~acl=%2f*~id=5a0847025a4639ceab95df92be75f193~data=hdntl~hmac=3d597b27be17df942911f7bf039f969235084b649e3f8c2f4bcbef7564f967e0&User-agent=Hotstar;in.startv.hotstar/SportsLover(Android/15)&Referer=https://www.hotstar.com/&origin=https://www.hotstar.com",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "TAPMAD - BD",
+            "link": "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-258tjui/master.m3u8",
             "logo": "",
             "type": 0,
             "api": "",
