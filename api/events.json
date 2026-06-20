@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-20T07:31:49.935072",
-  "event_count": 72,
+  "last_updated": "2026-06-20T07:41:25.391628",
+  "event_count": 73,
   "events": {
     "events": [
       {
@@ -646,10 +646,10 @@
         "channels_data": [
           {
             "title": "WILLOW - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ztb9jtlusq/out/v1/80da27cef04449a5abf3bea2c70e19cd/cenc.mpd",
+            "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/9ojf3ab417/out/v1/dab862174a2e42608efd6e964343c287/cenc.mpd",
             "logo": "",
             "type": 7,
-            "api": "458e0f22edc0799b9c33656bb9e202a1:4af50d29813b200a8f1687da4573b155",
+            "api": "c961aa99a64fb1ab0d4fc07c9c45910f:13ee767345996b84504c1f7d950c6944",
             "tokenApi": ""
           },
           {
@@ -662,10 +662,10 @@
           },
           {
             "title": "WILLOW ALT",
-            "link": "https://a57live-pv-ta-amazon.akamaized.net/iad-nitro/live/clients/dash/enc/ztb9jtlusq/out/v1/80da27cef04449a5abf3bea2c70e19cd/cenc.mpd",
+            "link": "https://a201aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/9ojf3ab417/out/v1/dab862174a2e42608efd6e964343c287/cenc.mpd",
             "logo": "",
             "type": 7,
-            "api": "458e0f22edc0799b9c33656bb9e202a1:4af50d29813b200a8f1687da4573b155",
+            "api": "c961aa99a64fb1ab0d4fc07c9c45910f:13ee767345996b84504c1f7d950c6944",
             "tokenApi": ""
           },
           {
@@ -3142,6 +3142,33 @@
           "Status": "Upcoming",
           "startTime": "2026/06/21 02:10:00 +0000",
           "endTime": "2026/06/21 05:00:15 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Live 1",
+            "link": "ok",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 10259,
+        "title": "Arizona Diamondbacks vs Minnesota Twins",
+        "image": "null",
+        "cat": "Baseball",
+        "eventInfo": {
+          "teamA": "Diamondbacks",
+          "teamB": "Twins",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3640/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3649/image",
+          "eventName": "Baseball",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/06/21 02:10:00 +0000",
+          "endTime": "2026/06/21 05:00:06 +0000"
         },
         "channels_data": [
           {
