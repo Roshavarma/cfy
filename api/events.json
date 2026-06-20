@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-20T17:11:30.698681",
+  "last_updated": "2026-06-20T17:21:38.650253",
   "event_count": 71,
   "events": {
     "events": [
@@ -1168,6 +1168,14 @@
             "logo": "",
             "type": 7,
             "api": "9145a6e0f778e61866f573d4944dd533:d02173d40515fea5c83944f21d0f3114",
+            "tokenApi": ""
+          },
+          {
+            "title": "ARABIC LIVE - AQ",
+            "link": "https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/dpXv_Bj52CxsfzkpeY2HfAG9GNFBl7qI6s8HSUWcyRO-cjXHZqH9jkGzhEIgwNcw6R5ZRRUbA8ZV7S0DXKMrkQ/transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/dynamic_delta.m3u8?type=live",
+            "logo": "",
+            "type": 0,
+            "api": "",
             "tokenApi": ""
           },
           {
@@ -2642,19 +2650,19 @@
       },
       {
         "id": 10192,
-        "title": "Pakistan Women vs Bangladesh Women",
+        "title": "South Africa Women vs India Women",
         "image": "null",
         "cat": "Cricket",
         "eventInfo": {
-          "teamA": "Pakistan Women",
-          "teamB": "Bangladesh Women",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/187808/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/187809/image",
+          "teamA": "South Africa Women",
+          "teamB": "India Women",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/213118/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/213119/image",
           "eventName": "Cricket",
           "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/06/20 13:30:00 +0000",
-          "endTime": "2026/06/20 17:30:27 +0000"
+          "Status": "Upcoming",
+          "startTime": "2026/06/21 13:30:00 +0000",
+          "endTime": "2026/06/21 17:45:21 +0000"
         },
         "channels_data": [
           {
