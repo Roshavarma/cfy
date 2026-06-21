@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-21T11:31:39.139330",
-  "event_count": 68,
+  "last_updated": "2026-06-21T11:41:28.394157",
+  "event_count": 67,
   "events": {
     "events": [
       {
@@ -508,9 +508,9 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/187755/image",
           "eventName": "Cricket",
           "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/06/21 10:00:24 +0000",
-          "endTime": "2026/06/21 17:59:29 +0000"
+          "Status": "Upcoming",
+          "startTime": "2026/06/25 10:00:58 +0000",
+          "endTime": "2026/06/25 18:30:18 +0000"
         },
         "channels_data": [
           {
@@ -556,105 +556,6 @@
           {
             "title": "LOW SERVER",
             "link": "http://193.47.62.41/hls/EEEEDDD.m3u8|referer=http://www.fawanews.sc/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 10029,
-        "title": "Bangladesh vs Australia",
-        "image": "",
-        "cat": "Cricket",
-        "eventInfo": {
-          "teamA": "Bangladesh",
-          "teamB": "Australia",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/187744/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/187746/image",
-          "eventName": "Cricket",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/06/21 08:00:12 +0000",
-          "endTime": "2026/06/21 12:30:19 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "WILLOW - AQ",
-            "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/bd6zyslqrn/out/v1/ac547d11db5347a6bbd80e6fe23aaa22/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "0bcfafbaa2f575577a90d27aa962a214:2b30c9efb2bcd047db14438d49ab800e",
-            "tokenApi": ""
-          },
-          {
-            "title": "TNT SPORTS - AQ",
-            "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/65ldy4ejuu/out/v1/69bc6b64f1c14e36bb21e0075a71d8ca/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "570c19f1be3410e4e409be4dc7923f2b:9a4dea8af2a2a703dffa8a477e9edc50",
-            "tokenApi": ""
-          },
-          {
-            "title": "FANCODE - AQ",
-            "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe",
-            "tokenApi": ""
-          },
-          {
-            "title": "WILLOW ALT",
-            "link": "https://a57live-pv-ta-amazon.akamaized.net/iad-nitro/live/clients/dash/enc/zpnqiahxef/out/v1/f5a57dc142584558a8669a44e3b6aa11/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "1e5d713e767c1a6cffd1881387b207cd:1f97487e54111023d37c80d74cb3bb4c",
-            "tokenApi": ""
-          },
-          {
-            "title": "TAPMAD - AQ",
-            "link": "https://tapmad-play-81b2.samin36x.workers.dev/tapmad/event1.m3u8|user-agent=ExoPlayerDemo/6.4.36 (Linux;Android 11) AndroidXMedia3/1.4.1",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "T SPORTS - AQ",
-            "link": "http://starhub.pro/live/Anthony2/Anthony123/52500.ts",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "SKY SPORT NZ",
-            "link": "https://tmaxapp.site/skynz4.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "FOX CRICKET HD",
-            "link": "https://tmaxapp.site/foxcricket.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "FANCODE - LQ",
-            "link": "https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash-sd/enc/qddnwqthpp/out/v1/6c25cddab58043a6ace0ac64d97983f0/cenc-sd.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "709c812e1b4174002605df1d17d34a4c:0bbee6c9c20a0f065bf8369d54cbf83e",
-            "tokenApi": ""
-          },
-          {
-            "title": "T SPORTS HD",
-            "link": "https://prod-cdn01-live.toffeelive.com/live/BDVSAUS-26/index.m3u8?edge-cache-token=Expires=1781942066~Starts=1781855666~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=GWqDeRYBLPDd7t6O2Z6mY0kK-ZjAlsMYp9OIJMeexFfdZgY2w8e90na2LCtHxy3yIts4-nDPv33pM0nEKuzlDw",
             "logo": "",
             "type": 0,
             "api": "",
