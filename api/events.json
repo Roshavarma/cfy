@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-21T09:21:32.882413",
+  "last_updated": "2026-06-21T09:31:51.968357",
   "event_count": 68,
   "events": {
     "events": [
@@ -2318,14 +2318,14 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/187806/image",
           "eventName": "Cricket",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/06/21 09:30:00 +0000",
           "endTime": "2026/06/21 13:30:52 +0000"
         },
         "channels_data": [
           {
             "title": "WILLOW - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wiemjzqo1r/out/v1/2c11c7a28b204c33ab8e7abe61139c42/cenc.mpd",
+            "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/wiemjzqo1r/out/v1/2c11c7a28b204c33ab8e7abe61139c42/cenc.mpd",
             "logo": "",
             "type": 7,
             "api": "3c5748ca4057e0164af63c902f7179a9:57226e66db80823fedc53e3aa7bc7c59",
@@ -2333,7 +2333,7 @@
           },
           {
             "title": "WILLOW ALT",
-            "link": "https://abkyrm4aaaaaaaamfyfksth3wr44v.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/wiemjzqo1r/out/v1/2c11c7a28b204c33ab8e7abe61139c42/cenc.mpd",
+            "link": "https://a201aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/wiemjzqo1r/out/v1/2c11c7a28b204c33ab8e7abe61139c42/cenc.mpd",
             "logo": "",
             "type": 7,
             "api": "3c5748ca4057e0164af63c902f7179a9:57226e66db80823fedc53e3aa7bc7c59",
@@ -2341,7 +2341,7 @@
           },
           {
             "title": "SKY SPORT NZ",
-            "link": "https://tmaxapp.site/skynz5.m3u8",
+            "link": "https://tmaxapp.site/skynz3.m3u8",
             "logo": "",
             "type": 0,
             "api": "",
@@ -2353,6 +2353,14 @@
             "logo": "",
             "type": 7,
             "api": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
+            "tokenApi": ""
+          },
+          {
+            "title": "SKY SPORTS+",
+            "link": "https://tmaxapp.site/skyplussd.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
             "tokenApi": ""
           }
         ]
