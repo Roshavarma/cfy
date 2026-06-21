@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-21T18:41:32.820588",
+  "last_updated": "2026-06-21T18:51:20.064060",
   "event_count": 63,
   "events": {
     "events": [
@@ -969,10 +969,10 @@
         "channels_data": [
           {
             "title": "FOX SPORTS - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd|user-agent=Mozila",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/pyjkxphitw/out/v1/2314a5adddfa4ab2a6afa4b3dd52cbb6/cenc.mpd",
             "logo": "",
             "type": 7,
-            "api": "f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7",
+            "api": "b984175de3216c35d8daf678c61c0b9a:f7ca11d77347793f637dd5a0dc7323ad",
             "tokenApi": ""
           },
           {
@@ -1001,7 +1001,7 @@
           },
           {
             "title": "D SPORTS ES - AQ",
-            "link": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/3gg2jnixjn/out/v1/e1840e01f3f14563b66bbb944d5cc54c/cenc.mpd",
+            "link": "https://bia-cf.live.pv-cdn.net/sin-nitro/live/dash/enc/3gg2jnixjn/out/v1/e1840e01f3f14563b66bbb944d5cc54c/cenc.mpd|user-agent=Mozila",
             "logo": "",
             "type": 7,
             "api": "f8b207c10f3f76aeba32a360ec52b9e4:afad49d20eb39670e93e371c1d669921",
@@ -1048,6 +1048,22 @@
             "tokenApi": ""
           },
           {
+            "title": "SPORZA LIVE - AQ",
+            "link": "https://live.vrtcdn.be/groupd/live/0761024f-37fe-4254-bc37-e95d7c62b2d1/playout.isml/.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "7c0a14fc7dc3c641af8cb6506431a628:f318ff7c01cca20c4a5b3d91074ca460",
+            "tokenApi": ""
+          },
+          {
+            "title": "TELEMUNDO - AQ",
+            "link": "https://cun-live1-ott.izzigo.tv/out/u/dash/NOG1/TELEMUNDO-ARIZONA-USA-TCS-HD/default.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "1efe4add8fdf327c5f8d2a1c195e5c71:4f50e6f011e60ca01ee561f27187e78f",
+            "tokenApi": ""
+          },
+          {
             "title": "ARABIC LIVE - AQ",
             "link": "https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/dpXv_Bj52CxsfzkpeY2HfAG9GNFBl7qI6s8HSUWcyRO-cjXHZqH9jkGzhEIgwNcw6R5ZRRUbA8ZV7S0DXKMrkQ/transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/dynamic_delta.m3u8?type=live",
             "logo": "",
@@ -1072,8 +1088,8 @@
             "tokenApi": ""
           },
           {
-            "title": "BBC SPORTS HD",
-            "link": "https://chatgpt.hereisman.net/playlist/52271/load-playlist?|Referer=https://gooz.aapmains.net",
+            "title": "ITV SPORTS HD",
+            "link": "https://chatgpt.hereisman.net/playlist/52340/load-playlist?|Referer=https://gooz.aapmains.net",
             "logo": "",
             "type": 0,
             "api": "",
@@ -1081,7 +1097,7 @@
           },
           {
             "title": "TSN SPORTS HD",
-            "link": "https://chatgpt.hereisman.net/playlist/52273/load-playlist?|Referer=https://gooz.aapmains.net",
+            "link": "https://chatgpt.hereisman.net/playlist/52341/load-playlist?|Referer=https://gooz.aapmains.net",
             "logo": "",
             "type": 0,
             "api": "",
@@ -1089,7 +1105,7 @@
           },
           {
             "title": "FOX SPORTS HD",
-            "link": "https://chatgpt.hereisman.net/playlist/52273/load-playlist?|Referer=https://gooz.aapmains.net",
+            "link": "https://chatgpt.hereisman.net/playlist/52319/load-playlist?|Referer=https://gooz.aapmains.net",
             "logo": "",
             "type": 0,
             "api": "",
@@ -1280,11 +1296,11 @@
             "tokenApi": ""
           },
           {
-            "title": "SPORZA LIVE - AQ",
-            "link": "https://live.vrtcdn.be/groupd/live/0761024f-37fe-4254-bc37-e95d7c62b2d1/playout.isml/.mpd",
+            "title": "FAST SERVER",
+            "link": "https://pulltx.jdnzrgm.com/live/sd-6MvZ6BDhJJAmYXkTYa.m3u8?txSecret=2fc213980cc076bbe1ff716f56d1aa68&txTime=6A3857D8",
             "logo": "",
-            "type": 7,
-            "api": "7c0a14fc7dc3c641af8cb6506431a628:f318ff7c01cca20c4a5b3d91074ca460",
+            "type": 0,
+            "api": "",
             "tokenApi": ""
           }
         ]
