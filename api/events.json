@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-21T04:41:18.791549",
-  "event_count": 64,
+  "last_updated": "2026-06-21T04:51:28.107103",
+  "event_count": 61,
   "events": {
     "events": [
       {
@@ -3747,19 +3747,19 @@
       },
       {
         "id": 10236,
-        "title": "Washington Freedom vs MI New York",
+        "title": "Texas Super Kings vs MI New York",
         "image": "null",
         "cat": "Cricket",
         "eventInfo": {
-          "teamA": "Washington Freedom",
+          "teamA": "Texas Super Kings",
           "teamB": "MI New York",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/485015/image",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/485010/image",
           "teamBFlag": "https://img.sofascore.com/api/v1/team/485012/image",
           "eventName": "Cricket",
           "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/06/21 00:30:00 +0000",
-          "endTime": "2026/06/21 05:00:33 +0000"
+          "Status": "Upcoming",
+          "startTime": "2026/06/22 00:30:00 +0000",
+          "endTime": "2026/06/22 05:00:24 +0000"
         },
         "channels_data": [
           {
@@ -3894,127 +3894,6 @@
           {
             "title": "Live 1",
             "link": "ok",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 10253,
-        "title": "Philadelphia Phillies vs New York Mets",
-        "image": "null",
-        "cat": "Baseball",
-        "eventInfo": {
-          "teamA": "Phillies",
-          "teamB": "Mets",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/3635/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/3629/image",
-          "eventName": "Baseball",
-          "isHot": "0",
-          "Status": "Finish",
-          "startTime": "2026/06/20 23:15:00 +0000",
-          "endTime": "2026/06/21 02:15:24 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "Live 1",
-            "link": "https://instreams.pro/US/MLB8/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://instream.click/jwp-us.php?stream=MLB8&Origin=https://instream.click/jwp-us.php?stream=MLB8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "HD SERVER",
-            "link": "https://edge2caster.pro/hls/ijfnakfidch22.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streams.center&Origin=https://streams.center",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 10254,
-        "title": "Houston Astros vs Cleveland Guardians",
-        "image": "null",
-        "cat": "Baseball",
-        "eventInfo": {
-          "teamA": "Astros",
-          "teamB": "Guardians",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/3655/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/3650/image",
-          "eventName": "Baseball",
-          "isHot": "0",
-          "Status": "Finish",
-          "startTime": "2026/06/20 23:15:00 +0000",
-          "endTime": "2026/06/21 02:15:16 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "Live 1",
-            "link": "https://instreams.pro/US/MLB9/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://instream.click/jwp-us.php?stream=MLB9&Origin=https://instream.click/jwp-us.php?stream=MLB9",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "HD SERVER",
-            "link": "https://mainstreams.pro/hls/jnzkdzjfanch23.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streams.center&Origin=https://streams.center",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 10255,
-        "title": "Colorado Rockies vs Pittsburgh Pirates",
-        "image": "null",
-        "cat": "Baseball",
-        "eventInfo": {
-          "teamA": "Rockies",
-          "teamB": "Pirates",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/3628/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/3637/image",
-          "eventName": "Baseball",
-          "isHot": "0",
-          "Status": "Finish",
-          "startTime": "2026/06/21 01:10:00 +0000",
-          "endTime": "2026/06/21 04:15:16 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "Live 1",
-            "link": "https://chatgpt.hereisman.net/playlist/52306/load-playlist?|Referer=https://gooz.aapmains.net",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "Live 2",
-            "link": "https://instreams.pro/US/MLB10/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://instream.click/jwp-us.php?stream=MLB10&Origin=https://instream.click/jwp-us.php?stream=MLB10",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "HD SERVER",
-            "link": "https://edge2caster.pro/hls/fskjanach24.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streams.center&Origin=https://streams.center",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "LOW SERVER",
-            "link": "http://193.47.62.42/hls/etttqqqq.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
             "logo": "",
             "type": 0,
             "api": "",
