@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-21T03:51:21.502790",
+  "last_updated": "2026-06-21T04:01:45.119309",
   "event_count": 64,
   "events": {
     "events": [
@@ -2070,7 +2070,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/4770/image",
           "eventName": "Football",
           "isHot": "1",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/06/21 04:00:00 +0000",
           "endTime": "2026/06/21 06:00:00 +0000"
         },
@@ -2084,11 +2084,19 @@
             "tokenApi": ""
           },
           {
-            "title": "Caz\u00e9TV BR - AQ",
-            "link": "https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd",
+            "title": "FIFA WC FEED - AQ",
+            "link": "https://rcg-bks400-06.starhubgo.com/bpk-token/1ac@egjcbuq3ejeqccbmwbqvvsecirrjsiafecni01aa/bpk-tv/FIFAWCCh1/output/manifest.mpd",
             "logo": "",
             "type": 7,
-            "api": "34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4",
+            "api": "9e695f8c65d74c6a9827a2e35367c086:decde9976ea76d1a91f91d9bf068f413",
+            "tokenApi": ""
+          },
+          {
+            "title": "Caz\u00e9TV BR - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vzeco5ty0v/out/v1/44c6b8f31a2544e3b2a9bb41ed5e241e/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "ac7abaa9c9481aacfbdac64fc3ec3312:c0c504a2ed2e70b879a650b8770a38c6",
             "tokenApi": ""
           },
           {
@@ -2108,8 +2116,16 @@
             "tokenApi": ""
           },
           {
+            "title": "TRT SPORTS 2K",
+            "link": "https://rxne77juptdeyke3tytvgqwyh.medya.trt.com.tr/master.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
             "title": "D SPORTS ES - AQ",
-            "link": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/3gg2jnixjn/out/v1/e1840e01f3f14563b66bbb944d5cc54c/cenc.mpd",
+            "link": "https://bia-cf.live.pv-cdn.net/sin-nitro/live/dash/enc/3gg2jnixjn/out/v1/e1840e01f3f14563b66bbb944d5cc54c/cenc.mpd",
             "logo": "",
             "type": 7,
             "api": "f8b207c10f3f76aeba32a360ec52b9e4:afad49d20eb39670e93e371c1d669921",
@@ -2140,6 +2156,14 @@
             "tokenApi": ""
           },
           {
+            "title": "SporTV BR - AQ",
+            "link": "https://a121aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/tvezxbddeg/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "cb5eaea6d91fc8a702f154cefd69c976:fd4b69623da596aac100e5722d8a1ca0",
+            "tokenApi": ""
+          },
+          {
             "title": "M6 FRANCE - AQ",
             "link": "https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_cenc00/dash-short-hd.mpd",
             "logo": "",
@@ -2149,7 +2173,7 @@
           },
           {
             "title": "ARABIC LIVE - AQ",
-            "link": "https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/dpXv_Bj52CxsfzkpeY2HfAG9GNFBl7qI6s8HSUWcyRO-cjXHZqH9jkGzhEIgwNcw6R5ZRRUbA8ZV7S0DXKMrkQ/transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/dynamic_delta.m3u8?type=live",
+            "link": "https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/rwgIHAHzFvgWWR-IbtZ5vRLSLG4bZFXMRh80nOm4emKfiON6qwSiSFkp0-ORXBi3juXEJlOXu-9hiE96Z69rQA/non_transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/master_dynamic_delta.m3u8?type=live",
             "logo": "",
             "type": 0,
             "api": "",
@@ -2172,16 +2196,32 @@
             "tokenApi": ""
           },
           {
-            "title": "BBC SPORTS HD",
-            "link": "https://chatgpt.hereisman.net/playlist/52271/load-playlist?|Referer=https://gooz.aapmains.net",
+            "title": "FAST SERVER",
+            "link": "https://pulltx.jdnzrgm.com/live/hd-en-6MvZ6BDg8aT5FCRnSS.m3u8?txSecret=7ec4031a0208bf959353d83271fdc399&txTime=6A3784E9",
             "logo": "",
             "type": 0,
             "api": "",
             "tokenApi": ""
           },
           {
-            "title": "TSN SPORTS HD",
-            "link": "https://chatgpt.hereisman.net/playlist/52273/load-playlist?|Referer=https://gooz.aapmains.net",
+            "title": "FOX ENGLISH HD",
+            "link": "https://hugh.cdn.rumble.cloud/live/y16rq9u0/slot-13/2rvn-cv3b_1080p/chunklist_DVR.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "BBC SPORTS HD",
+            "link": "https://chatgpt.hereisman.net/playlist/52316/load-playlist?|Referer=https://gooz.aapmains.net",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "DAZN SPANISH HD",
+            "link": "https://1nyaler.streamhostingcdn.top/stream/94/index.m3u8",
             "logo": "",
             "type": 0,
             "api": "",
@@ -2189,7 +2229,7 @@
           },
           {
             "title": "FOX SPORTS HD",
-            "link": "https://chatgpt.hereisman.net/playlist/52273/load-playlist?|Referer=https://gooz.aapmains.net",
+            "link": "https://chatgpt.hereisman.net/playlist/52317/load-playlist?|Referer=https://gooz.aapmains.net",
             "logo": "",
             "type": 0,
             "api": "",
@@ -2269,7 +2309,7 @@
           },
           {
             "title": "HD SERVER ENG",
-            "link": "https://edgestreams.pro/hls/24SDAZFcsqnj24.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+            "link": "https://edgestreams.pro/hls/b0h5fNwDKH.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
             "logo": "",
             "type": 0,
             "api": "",
@@ -2277,7 +2317,7 @@
           },
           {
             "title": "HD SERVER AR",
-            "link": "https://edgestreams.pro/hls/24SDAZFcsqnj24.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+            "link": "https://mainstreams.pro/hls/sqdahach1ax.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
             "logo": "",
             "type": 0,
             "api": "",
@@ -2285,7 +2325,7 @@
           },
           {
             "title": "BBC SPORTS SD",
-            "link": "Ok",
+            "link": "http://193.47.62.47/hls/adXFPPPA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
             "logo": "",
             "type": 0,
             "api": "",
@@ -2293,7 +2333,7 @@
           },
           {
             "title": "TV4 SPORTS SD",
-            "link": "Ok",
+            "link": "https://live.wxinxi.com/live/84600906_46n5rq10l0bmsj8e2aovavl914psvggx.m3u8",
             "logo": "",
             "type": 0,
             "api": "",
@@ -2301,7 +2341,7 @@
           },
           {
             "title": "D SPORTS ES SD",
-            "link": "Ok",
+            "link": "http://193.47.62.59/hls/adXZRRR.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
             "logo": "",
             "type": 0,
             "api": "",
@@ -2309,7 +2349,7 @@
           },
           {
             "title": "beiN SPORTS FR",
-            "link": "Ik",
+            "link": "http://193.47.62.51/hls/adXZRRRZ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
             "logo": "",
             "type": 0,
             "api": "",
@@ -2377,22 +2417,6 @@
             "logo": "",
             "type": 7,
             "api": "4fef00332d7e4fbc8f7005dfbf851a59:a6368c181358f3e527411a6c452c6a1a",
-            "tokenApi": ""
-          },
-          {
-            "title": "FS1 4K",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/enc/ykzl8x62g5/out/v1/e8f0a2204c5c4490b338a9c2165dd92a/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "996d39be9ee1c8e65d94d7bb973bdf0f:5306cdc1e410bc6ddb2530608c42b11b",
-            "tokenApi": ""
-          },
-          {
-            "title": "FS1 - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/enc/5pwvqnlxhr/out/v1/79e41681b80248788032c6880a06e7d3/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "996d39be9ee1c8e65d94d7bb973bdf0f:5306cdc1e410bc6ddb2530608c42b11b",
             "tokenApi": ""
           }
         ]
