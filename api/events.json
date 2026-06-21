@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-21T13:21:34.124569",
+  "last_updated": "2026-06-21T13:31:51.111814",
   "event_count": 63,
   "events": {
     "events": [
@@ -1712,13 +1712,21 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/213119/image",
           "eventName": "Cricket",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/06/21 13:30:00 +0000",
           "endTime": "2026/06/21 17:45:21 +0000"
         },
         "channels_data": [
           {
-            "title": "PRIME VIDEO - AQ",
+            "title": "WILLOW - AQ",
+            "link": "https://a201aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/38inezkhzl/out/v1/76f949dc15d1470f83f784daa682c40c/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "f124481fc5fcc4c55fa0d972a2015f3a:dd542c320e7f1d2bb7a5e894eae38c6d",
+            "tokenApi": ""
+          },
+          {
+            "title": "PRIME ENGLISH - AQ",
             "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/87d0tehlad/out/v1/403835568f5b4e3ca2d201cc88b594ee/cenc.mpd",
             "logo": "",
             "type": 7,
@@ -1726,11 +1734,11 @@
             "tokenApi": ""
           },
           {
-            "title": "WILLOW - AQ",
-            "link": "https://a201aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/38inezkhzl/out/v1/76f949dc15d1470f83f784daa682c40c/cenc.mpd",
+            "title": "PRIME HINDI - AQ",
+            "link": "https://abkgl2eaaaaaaaampkohfk7gr5bd6.ta.bia-cf.live.pv-cdn.net/sin-nitro/live/clients/dash/enc/dbhxwvjlme/out/v1/8d64368150bc4bc998f66c15d3bd28bb/cenc.mpd",
             "logo": "",
             "type": 7,
-            "api": "f124481fc5fcc4c55fa0d972a2015f3a:dd542c320e7f1d2bb7a5e894eae38c6d",
+            "api": "fd06c5f8a305d276a7a90e22ca55b884:8aeca08488bac7d802700e8954b53ba1",
             "tokenApi": ""
           },
           {
@@ -1750,8 +1758,24 @@
             "tokenApi": ""
           },
           {
+            "title": "SKY MAIN EVENT",
+            "link": "https://tmaxapp.site/skymainevent.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
             "title": "SKY SPORT NZ",
-            "link": "https://tmaxapp.site/skynz5.m3u8",
+            "link": "https://tmaxapp.site/skynz3.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "Live 1",
+            "link": "https://tmaxapp.site/foxcricket.m3u8",
             "logo": "",
             "type": 0,
             "api": "",
