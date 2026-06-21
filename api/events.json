@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-21T13:01:58.595279",
-  "event_count": 67,
+  "last_updated": "2026-06-21T13:11:35.838887",
+  "event_count": 66,
   "events": {
     "events": [
       {
@@ -2056,24 +2056,6 @@
         ]
       },
       {
-        "id": 10116,
-        "title": "India A vs Sri Lanka A",
-        "image": "null",
-        "cat": "Cricket",
-        "eventInfo": {
-          "teamA": "India A",
-          "teamB": "Sri Lanka A",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/187765/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/187756/image",
-          "eventName": "cricket",
-          "isHot": "0",
-          "Status": "Finish",
-          "startTime": "2026/06/21 04:30:43 +0000",
-          "endTime": "2026/06/21 13:00:47 +0000"
-        },
-        "channels_data": []
-      },
-      {
         "id": 10192,
         "title": "South Africa Women vs India Women",
         "image": "null",
@@ -2092,26 +2074,26 @@
         "channels_data": [
           {
             "title": "WILLOW - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/yuoix8o52c/out/v1/5c380397b3a14f2b94019893c0734d0e/cenc.mpd",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/38inezkhzl/out/v1/76f949dc15d1470f83f784daa682c40c/cenc.mpd",
             "logo": "",
             "type": 7,
-            "api": "434f07d93d4ba702bed5d41b1cc21d22:065c5585a1b94dc36379421ba923a415",
+            "api": "f124481fc5fcc4c55fa0d972a2015f3a:dd542c320e7f1d2bb7a5e894eae38c6d",
             "tokenApi": ""
           },
           {
-            "title": "PRIME VIDEO - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/87d0tehlad/out/v1/403835568f5b4e3ca2d201cc88b594ee/cenc.mpd",
+            "title": "SKY CRICKET - AQ",
+            "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=8Q-Mt7GTaRI2Eo9LNZ9mrg&e=2081082141|user-agent=Mozilla",
             "logo": "",
-            "type": 7,
-            "api": "ee0c99be51120d109657df5229b48b01:6f0cc18e09de8ec73414bb2209d6c63b",
+            "type": 0,
+            "api": "",
             "tokenApi": ""
           },
           {
             "title": "WILLOW ALT",
-            "link": "https://abkyrm4aaaaaaaamfyfksth3wr44v.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/jzdcmsg42z/out/v1/04ed24f3421745a9ba1838971d36316f/cenc.mpd",
+            "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/38inezkhzl/out/v1/76f949dc15d1470f83f784daa682c40c/cenc.mpd",
             "logo": "",
             "type": 7,
-            "api": "36d3c540acc063a248ef7fc725a1b828:ae593b3c9f1c55cf4a819d2409051273",
+            "api": "f124481fc5fcc4c55fa0d972a2015f3a:dd542c320e7f1d2bb7a5e894eae38c6d",
             "tokenApi": ""
           },
           {
@@ -2136,6 +2118,14 @@
             "logo": "",
             "type": 0,
             "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "PRIME VIDEO - AQ",
+            "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/87d0tehlad/out/v1/403835568f5b4e3ca2d201cc88b594ee/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "ee0c99be51120d109657df5229b48b01:6f0cc18e09de8ec73414bb2209d6c63b",
             "tokenApi": ""
           }
         ]
