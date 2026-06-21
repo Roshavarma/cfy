@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-21T08:51:24.963225",
-  "event_count": 53,
+  "last_updated": "2026-06-21T09:01:49.195445",
+  "event_count": 55,
   "events": {
     "events": [
       {
@@ -2509,6 +2509,60 @@
           "Status": "Finish",
           "startTime": "2026/06/20 23:00:00 +0000",
           "endTime": "2026/06/21 02:15:50 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Live 1",
+            "link": "ok",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 10246,
+        "title": "New York Yankees vs Cincinnati Reds",
+        "image": "null",
+        "cat": "Baseball",
+        "eventInfo": {
+          "teamA": "Yankees",
+          "teamB": "Reds",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3654/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3633/image",
+          "eventName": "Baseball",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/06/21 17:35:00 +0000",
+          "endTime": "2026/06/21 20:30:25 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Live 1",
+            "link": "ok",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 10247,
+        "title": "Atlanta Braves vs Milwaukee Brewers",
+        "image": "null",
+        "cat": "Baseball",
+        "eventInfo": {
+          "teamA": "Braves",
+          "teamB": "Brewers",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3656/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3630/image",
+          "eventName": "Baseball",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/06/21 17:35:00 +0000",
+          "endTime": "2026/06/21 20:45:07 +0000"
         },
         "channels_data": [
           {
