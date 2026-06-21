@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-21T19:01:54.220425",
+  "last_updated": "2026-06-21T19:11:23.419681",
   "event_count": 63,
   "events": {
     "events": [
@@ -976,6 +976,14 @@
             "tokenApi": ""
           },
           {
+            "title": "RTE SPORTS - AQ",
+            "link": "https://dai.google.com/linear/dash/event/antwa0EiQm2PoHtx4rBtVw/manifest.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "d816287e21496989eae1312925a423c5:00da00f13180e7e6cd5ce87d1c974e8d",
+            "tokenApi": ""
+          },
+          {
             "title": "Caz\u00e9TV BR - AQ",
             "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vzeco5ty0v/out/v1/44c6b8f31a2544e3b2a9bb41ed5e241e/cenc.mpd|User-Agent=Mozilla",
             "logo": "",
@@ -989,14 +997,6 @@
             "logo": "",
             "type": 7,
             "api": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d",
-            "tokenApi": ""
-          },
-          {
-            "title": "RTE SPORTS - AQ",
-            "link": "https://dai.google.com/linear/dash/event/antwa0EiQm2PoHtx4rBtVw/manifest.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "d816287e21496989eae1312925a423c5:00da00f13180e7e6cd5ce87d1c974e8d",
             "tokenApi": ""
           },
           {
@@ -1065,7 +1065,7 @@
           },
           {
             "title": "ARABIC LIVE - AQ",
-            "link": "https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/dpXv_Bj52CxsfzkpeY2HfAG9GNFBl7qI6s8HSUWcyRO-cjXHZqH9jkGzhEIgwNcw6R5ZRRUbA8ZV7S0DXKMrkQ/transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/dynamic_delta.m3u8?type=live",
+            "link": "https://prod-fastly-ap-northeast-1.video.pscp.tv/Transcoding/v1/hls/EOqxDrmFwQ64w1yBb_7Dr7crvINp8oonUML-roVGRQz2m_iXCTxiXLFzG688BWOiv_Vpax4FAgPScaVeTDZp_w/non_transcode/ap-northeast-1/periscope-replay-direct-prod-ap-northeast-1-public/master_dynamic_delta.m3u8?type=live",
             "logo": "",
             "type": 0,
             "api": "",
@@ -3114,7 +3114,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/3637/image",
           "eventName": "Baseball",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/06/21 19:10:00 +0000",
           "endTime": "2026/06/21 22:15:11 +0000"
         },
@@ -3130,6 +3130,14 @@
           {
             "title": "HD SERVER",
             "link": "https://mainstreams.pro/hls/fskjanach24.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streams.center&Origin=https://streams.center",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "LOW SERVER",
+            "link": "http://193.47.62.42/hls/YAAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
             "logo": "",
             "type": 0,
             "api": "",
@@ -3155,6 +3163,14 @@
         },
         "channels_data": [
           {
+            "title": "HD SERVER",
+            "link": "https://mainstreams.pro/hls/kjhfzua25.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streams.center&Origin=https://streams.center",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
             "title": "Live 1",
             "link": "https://chatgpt.hereisman.net/playlist/52344/load-playlist?|Referer=https://gooz.aapmains.net",
             "logo": "",
@@ -3163,8 +3179,8 @@
             "tokenApi": ""
           },
           {
-            "title": "HD SERVER",
-            "link": "https://mainstreams.pro/hls/kjhfzua25.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streams.center&Origin=https://streams.center",
+            "title": "LOW SERVER",
+            "link": "http://193.47.62.42/hls/YAAAZ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
             "logo": "",
             "type": 0,
             "api": "",
