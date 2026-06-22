@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-22T01:01:43.809925",
+  "last_updated": "2026-06-22T01:11:27.296515",
   "event_count": 63,
   "events": {
     "events": [
@@ -1758,19 +1758,43 @@
             "tokenApi": ""
           },
           {
+            "title": "Sporza DUTCH - AQ",
+            "link": "https://live.vrtcdn.be/groupd/live/0761024f-37fe-4254-bc37-e95d7c62b2d1/playout.isml/.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "7c0a14fc7dc3c641af8cb6506431a628:f318ff7c01cca20c4a5b3d91074ca460",
+            "tokenApi": ""
+          },
+          {
+            "title": "SporTV BR - AQ",
+            "link": "https://a121aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/tvezxbddeg/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "cb5eaea6d91fc8a702f154cefd69c976:fd4b69623da596aac100e5722d8a1ca0",
+            "tokenApi": ""
+          },
+          {
+            "title": "D SPORTS+ - AQ",
+            "link": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ud6bnhthpj/out/v1/2639a2f4480f4269953de466d5f46463/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "83f81c4cc1443991543de4e22eea7586:ddfd7ca653d6f35543d8edb3c688e20f",
+            "tokenApi": ""
+          },
+          {
+            "title": "TSN ENGLISH - AQ",
+            "link": "https://soccerball.st/s1.php",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
             "title": "TIPIK FRENCH - AQ",
             "link": "https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/dash/.mpd",
             "logo": "",
             "type": 7,
             "api": "adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a",
-            "tokenApi": ""
-          },
-          {
-            "title": "M6 FRANCE - AQ",
-            "link": "https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_cenc00/dash-short-hd.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "433ffba670963e70857859a9dff4be04:51ede3a821229fe81e71282c8eff80e3",
             "tokenApi": ""
           },
           {
@@ -1808,6 +1832,22 @@
           {
             "title": "TSN SPORTS HD",
             "link": "https://chatgpt.hereisman.net/playlist/52363/load-playlist?|Referer=https://gooz.aapmains.net",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "DAZN SPANISH HD",
+            "link": "https://1nyaler.streamhostingcdn.top/stream/94/index.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "FAST SERVER",
+            "link": "https://pulltx.jdnzrgm.com/live/hd-en-6MvZ6BDg8ceZ7gFhbL.m3u8?txSecret=b25c9198a95a0a168800fde1225f4d02&txTime=6A38B070",
             "logo": "",
             "type": 0,
             "api": "",
@@ -1902,8 +1942,8 @@
             "tokenApi": ""
           },
           {
-            "title": "BBC SPORTS SD",
-            "link": "Ok",
+            "title": "ITV SPORTS SD",
+            "link": "http://193.47.62.51/hls/Xrtttt.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
             "logo": "",
             "type": 0,
             "api": "",
@@ -1911,7 +1951,7 @@
           },
           {
             "title": "TV4 SPORTS SD",
-            "link": "Ok",
+            "link": "http://193.47.62.42/hls/Xlplplpqqq.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
             "logo": "",
             "type": 0,
             "api": "",
@@ -1919,7 +1959,7 @@
           },
           {
             "title": "D SPORTS ES SD",
-            "link": "Ok",
+            "link": "http://193.47.62.59/hls/Xlplplpq.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
             "logo": "",
             "type": 0,
             "api": "",
@@ -1927,7 +1967,7 @@
           },
           {
             "title": "beiN SPORTS FR",
-            "link": "Ik",
+            "link": "http://193.47.62.55/hls/Xlplplpqq.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
             "logo": "",
             "type": 0,
             "api": "",
@@ -1998,48 +2038,32 @@
             "tokenApi": ""
           },
           {
-            "title": "Sporza DUTCH - AQ",
-            "link": "https://live.vrtcdn.be/groupd/live/0761024f-37fe-4254-bc37-e95d7c62b2d1/playout.isml/.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "7c0a14fc7dc3c641af8cb6506431a628:f318ff7c01cca20c4a5b3d91074ca460",
-            "tokenApi": ""
-          },
-          {
-            "title": "DAZN SPANISH HD",
-            "link": "https://1nyaler.streamhostingcdn.top/stream/94/index.m3u8",
+            "title": "FOX ONE 4K",
+            "link": "https://vizio.kuvuslov.cymru/fs1-4k/index.m3u8",
             "logo": "",
             "type": 0,
             "api": "",
             "tokenApi": ""
           },
           {
-            "title": "TSN ENGLISH - AQ",
-            "link": "https://soccerball.st/s1.php",
+            "title": "TSN SPORTS 4K",
+            "link": "https://vizio.kuvuslov.cymru/tsn4k/index.m3u8",
             "logo": "",
             "type": 0,
             "api": "",
             "tokenApi": ""
           },
           {
-            "title": "D SPORTS+ - AQ",
-            "link": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ud6bnhthpj/out/v1/2639a2f4480f4269953de466d5f46463/cenc.mpd",
+            "title": "beIN ARABIC 4K",
+            "link": "https://vizio.kuvuslov.cymru/bein4k/index.m3u8",
             "logo": "",
-            "type": 7,
-            "api": "83f81c4cc1443991543de4e22eea7586:ddfd7ca653d6f35543d8edb3c688e20f",
+            "type": 0,
+            "api": "",
             "tokenApi": ""
           },
           {
-            "title": "SporTV BR - AQ",
-            "link": "https://a121aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/tvezxbddeg/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "cb5eaea6d91fc8a702f154cefd69c976:fd4b69623da596aac100e5722d8a1ca0",
-            "tokenApi": ""
-          },
-          {
-            "title": "FAST SERVER",
-            "link": "https://pulltx.jdnzrgm.com/live/hd-en-6MvZ6BDg8ceZ7gFhbL.m3u8?txSecret=b25c9198a95a0a168800fde1225f4d02&txTime=6A38B070",
+            "title": "TELEMUNDO 4K",
+            "link": "https://vizio.kuvuslov.cymru/telemundo-4k/index.m3u8",
             "logo": "",
             "type": 0,
             "api": "",
