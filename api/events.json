@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-22T16:51:35.930832",
+  "last_updated": "2026-06-22T17:01:53.820076",
   "event_count": 57,
   "events": {
     "events": [
@@ -575,7 +575,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/4718/image",
           "eventName": "Football",
           "isHot": "1",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/06/22 17:00:00 +0000",
           "endTime": "2026/06/22 19:00:00 +0000"
         },
@@ -610,14 +610,6 @@
             "logo": "",
             "type": 7,
             "api": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d",
-            "tokenApi": ""
-          },
-          {
-            "title": "FIFA WC FEED",
-            "link": "https://sh-bks400-11.starhubgo.com/bpk-token/1aa@io0tjez2jpgrepyrzfonfuhtikst4mcji0yijuba/bpk-tv/FIFAWCCh1/output/manifest.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "9e695f8c65d74c6a9827a2e35367c086:decde9976ea76d1a91f91d9bf068f413",
             "tokenApi": ""
           },
           {
@@ -669,14 +661,6 @@
             "tokenApi": ""
           },
           {
-            "title": "CTV SPORTS - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/72sjo8hygl/out/v1/3079be34d72a4985852d299a02406a0c/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "d185684e2330de5bea436daa094a5e86:014f0116154f5bf0050e03a6b0a23157",
-            "tokenApi": ""
-          },
-          {
             "title": "D SPORTS+ - AQ",
             "link": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ud6bnhthpj/out/v1/2639a2f4480f4269953de466d5f46463/cenc.mpd",
             "logo": "",
@@ -690,14 +674,6 @@
             "logo": "",
             "type": 7,
             "api": "7c0a14fc7dc3c641af8cb6506431a628:f318ff7c01cca20c4a5b3d91074ca460",
-            "tokenApi": ""
-          },
-          {
-            "title": "TELEMUNDO - AQ",
-            "link": "https://cun-live1-ott.izzigo.tv/out/u/dash/NOG1/TELEMUNDO-ARIZONA-USA-TCS-HD/default.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "1efe4add8fdf327c5f8d2a1c195e5c71:4f50e6f011e60ca01ee561f27187e78f",
             "tokenApi": ""
           },
           {
@@ -726,7 +702,7 @@
           },
           {
             "title": "ARABIC LIVE - AQ",
-            "link": "https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/dpXv_Bj52CxsfzkpeY2HfAG9GNFBl7qI6s8HSUWcyRO-cjXHZqH9jkGzhEIgwNcw6R5ZRRUbA8ZV7S0DXKMrkQ/transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/dynamic_delta.m3u8?type=live",
+            "link": "https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/P4j4ouZssEdTMig_024DtkN1n0Na8HtAuA30wjK6UEefb6yXAlIj6tsg0SmAhVrDvF9MCjrSBZit0BRdGSVpNQ/non_transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/dynamic_highlatency.m3u8?type=live",
             "logo": "",
             "type": 0,
             "api": "",
@@ -878,7 +854,7 @@
           },
           {
             "title": "BBC SPORTS SD",
-            "link": "Ok",
+            "link": "http://193.47.62.42/hls/SXrtttt.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
             "logo": "",
             "type": 0,
             "api": "",
@@ -886,7 +862,7 @@
           },
           {
             "title": "TV4 SPORTS SD",
-            "link": "Ok",
+            "link": "http://193.47.62.55/hls/SXlplplpqqq.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
             "logo": "",
             "type": 0,
             "api": "",
@@ -894,7 +870,7 @@
           },
           {
             "title": "D SPORTS ES SD",
-            "link": "Ok",
+            "link": "http://193.47.62.59/hls/SXlplplpq.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
             "logo": "",
             "type": 0,
             "api": "",
