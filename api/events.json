@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-22T00:51:27.395691",
+  "last_updated": "2026-06-22T01:01:43.809925",
   "event_count": 63,
   "events": {
     "events": [
@@ -1680,7 +1680,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/4758/image",
           "eventName": "Football",
           "isHot": "1",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/06/22 01:00:00 +0000",
           "endTime": "2026/06/22 03:00:00 +0000"
         },
@@ -1726,6 +1726,22 @@
             "tokenApi": ""
           },
           {
+            "title": "TRT SPORTS 2K",
+            "link": "https://rxne77juptdeyke3tytvgqwyh.medya.trt.com.tr/master.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "TELEMUNDO - AQ",
+            "link": "https://cun-live1-ott.izzigo.tv/out/u/dash/NOG1/TELEMUNDO-ARIZONA-USA-TCS-HD/default.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "1efe4add8fdf327c5f8d2a1c195e5c71:4f50e6f011e60ca01ee561f27187e78f",
+            "tokenApi": ""
+          },
+          {
             "title": "CTV SPORTS - AQ",
             "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/72sjo8hygl/out/v1/3079be34d72a4985852d299a02406a0c/cenc.mpd",
             "logo": "",
@@ -1759,7 +1775,7 @@
           },
           {
             "title": "ARABIC LIVE - AQ",
-            "link": "https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/rsxfkoHxmZzOJknVEXMJN8Vja4iZs21NV5YzspfMv27zoFyP-Xv6V_ontpn1CHLusjYuTM4_-rlb-sl7bPhuJA/non_transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/master_dynamic_highlatency.m3u8?type=live",
+            "link": "https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/hj_BA0tHwHyQFlOwh6seUTPf2ACOiJ3_IjLgOj5DtwqcmL2_SKI3tWF2JoxA4SGJxr22d2nAMrfP92FcmYv6Dw/non_transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/master_dynamic_highlatency.m3u8?type=live",
             "logo": "",
             "type": 0,
             "api": "",
@@ -1879,7 +1895,7 @@
           },
           {
             "title": "HD SERVER AR",
-            "link": "https://edgestreams.pro/hls/24SDAZFcsqnj24.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+            "link": "https://mainstreams.pro/hls/sqdahach1ax.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
             "logo": "",
             "type": 0,
             "api": "",
@@ -1982,14 +1998,6 @@
             "tokenApi": ""
           },
           {
-            "title": "TRT SPORTS 2K",
-            "link": "https://rxne77juptdeyke3tytvgqwyh.medya.trt.com.tr/master.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
             "title": "Sporza DUTCH - AQ",
             "link": "https://live.vrtcdn.be/groupd/live/0761024f-37fe-4254-bc37-e95d7c62b2d1/playout.isml/.mpd",
             "logo": "",
@@ -2008,6 +2016,30 @@
           {
             "title": "TSN ENGLISH - AQ",
             "link": "https://soccerball.st/s1.php",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "D SPORTS+ - AQ",
+            "link": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ud6bnhthpj/out/v1/2639a2f4480f4269953de466d5f46463/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "83f81c4cc1443991543de4e22eea7586:ddfd7ca653d6f35543d8edb3c688e20f",
+            "tokenApi": ""
+          },
+          {
+            "title": "SporTV BR - AQ",
+            "link": "https://a121aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/tvezxbddeg/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "cb5eaea6d91fc8a702f154cefd69c976:fd4b69623da596aac100e5722d8a1ca0",
+            "tokenApi": ""
+          },
+          {
+            "title": "FAST SERVER",
+            "link": "https://pulltx.jdnzrgm.com/live/hd-en-6MvZ6BDg8ceZ7gFhbL.m3u8?txSecret=b25c9198a95a0a168800fde1225f4d02&txTime=6A38B070",
             "logo": "",
             "type": 0,
             "api": "",
