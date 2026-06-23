@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-23T16:51:38.443077",
+  "last_updated": "2026-06-23T17:02:04.390509",
   "event_count": 57,
   "events": {
     "events": [
@@ -559,7 +559,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/4723/image",
           "eventName": "Football",
           "isHot": "1",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/06/23 17:00:00 +0000",
           "endTime": "2026/06/23 19:00:00 +0000"
         },
@@ -597,14 +597,6 @@
             "tokenApi": ""
           },
           {
-            "title": "FOX ENGLISH - AQ",
-            "link": "https://fgg-4le.pages.dev/fifawc-fox.m3u8|origin=https://cxfooot.pages.dev/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
             "title": "D SPORTS ES - AQ",
             "link": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/hubonmgf5k/out/v1/10560d92577e4917973aa4624124ecd6/cenc-sd.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
             "logo": "",
@@ -613,11 +605,11 @@
             "tokenApi": ""
           },
           {
-            "title": "FOX SPORTS 4K",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/hsshvitvwa/out/v1/fc40f22f10374517a2784e1d97cb23f4/cenc.mpd",
+            "title": "ITV SPORTS - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/0eiyyz8qzm/out/v1/dd17af8835fe4bd087d1a4e359b635d7/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
             "logo": "",
             "type": 7,
-            "api": "1f68713028d439ec03be07f56c1d6213:20093db6455160fffed4c394def3193d",
+            "api": "30089c52924f037b225b82c616fee2a5:f55dc8b66ed4fc6753d6035ae7e17144",
             "tokenApi": ""
           },
           {
@@ -626,6 +618,14 @@
             "logo": "",
             "type": 7,
             "api": "d185684e2330de5bea436daa094a5e86:014f0116154f5bf0050e03a6b0a23157",
+            "tokenApi": ""
+          },
+          {
+            "title": "TRT SPORTS 2K",
+            "link": "https://rxne77juptdeyke3tytvgqwyh.medya.trt.com.tr/master.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
             "tokenApi": ""
           },
           {
@@ -645,19 +645,11 @@
             "tokenApi": ""
           },
           {
-            "title": "ARABIC LIVE - AQ",
-            "link": "https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/dpXv_Bj52CxsfzkpeY2HfAG9GNFBl7qI6s8HSUWcyRO-cjXHZqH9jkGzhEIgwNcw6R5ZRRUbA8ZV7S0DXKMrkQ/transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/dynamic_delta.m3u8?type=live",
+            "title": "TOFFEE BD - AQ",
+            "link": "https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-4/0/master_2000.m3u8?hdntl=Expires=1782308414~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AVXEwvcaHQ5d5a91K8YyfS7yi4Bv00UrewTSq4ReESRRjtAKQSRyDoiDdnHBUNxx-UoRREfoIbaQN7nx9pWK3WMojHMM",
             "logo": "",
             "type": 0,
             "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "VIX SPANISH - AQ",
-            "link": "https://vod-sev-orbit2-s2.izzigo.tv/out/u/startover/dash/VIX-MUNDIAL-90-HD/default.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "75074a0cbd83f5b72fb3e5c1495252a9:a4a0df04b2d28f2160cead2ecdeb7203",
             "tokenApi": ""
           },
           {
@@ -701,14 +693,6 @@
             "tokenApi": ""
           },
           {
-            "title": "CT SPORTS - AQ",
-            "link": "https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
-            "tokenApi": ""
-          },
-          {
             "title": "TELEMUNDO HD",
             "link": "https://mainstreams.pro/hls/eJmauBDCIf.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
             "logo": "",
@@ -722,14 +706,6 @@
             "logo": "",
             "type": 7,
             "api": "9145a6e0f778e61866f573d4944dd533:d02173d40515fea5c83944f21d0f3114",
-            "tokenApi": ""
-          },
-          {
-            "title": "beIN ARABIC - AQ",
-            "link": "https://raw.githubusercontent.com/ON2026/1smas/refs/heads/main/mx1app2.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
             "tokenApi": ""
           },
           {
@@ -766,7 +742,7 @@
           },
           {
             "title": "HD SERVER AR",
-            "link": "https://edgestreams.pro/hls/24SDAZFcsqnj24.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+            "link": "https://edgestreams.pro/hls/sqdahach1ax.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
             "logo": "",
             "type": 0,
             "api": "",
@@ -861,59 +837,11 @@
             "tokenApi": ""
           },
           {
-            "title": "CIGNAL ENGLISH",
-            "link": "https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/pp_ch2_pri/default/index.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "4fef00332d7e4fbc8f7005dfbf851a59:a6368c181358f3e527411a6c452c6a1a",
-            "tokenApi": ""
-          },
-          {
-            "title": "FS1 4K",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/enc/ykzl8x62g5/out/v1/e8f0a2204c5c4490b338a9c2165dd92a/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "996d39be9ee1c8e65d94d7bb973bdf0f:5306cdc1e410bc6ddb2530608c42b11b",
-            "tokenApi": ""
-          },
-          {
-            "title": "FS1 - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/enc/5pwvqnlxhr/out/v1/79e41681b80248788032c6880a06e7d3/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "996d39be9ee1c8e65d94d7bb973bdf0f:5306cdc1e410bc6ddb2530608c42b11b",
-            "tokenApi": ""
-          },
-          {
-            "title": "TRT SPORTS 2K",
-            "link": "https://rxne77juptdeyke3tytvgqwyh.medya.trt.com.tr/master.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
             "title": "Sporza DUTCH - AQ",
             "link": "https://live.vrtcdn.be/groupd/live/0761024f-37fe-4254-bc37-e95d7c62b2d1/playout.isml/.mpd",
             "logo": "",
             "type": 7,
             "api": "7c0a14fc7dc3c641af8cb6506431a628:f318ff7c01cca20c4a5b3d91074ca460",
-            "tokenApi": ""
-          },
-          {
-            "title": "TOFFEE BD - AQ",
-            "link": "https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-4/0/master_2000.m3u8?hdntl=Expires=1782308414~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AVXEwvcaHQ5d5a91K8YyfS7yi4Bv00UrewTSq4ReESRRjtAKQSRyDoiDdnHBUNxx-UoRREfoIbaQN7nx9pWK3WMojHMM",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "ITV SPORTS - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/0eiyyz8qzm/out/v1/dd17af8835fe4bd087d1a4e359b635d7/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-            "logo": "",
-            "type": 7,
-            "api": "30089c52924f037b225b82c616fee2a5:f55dc8b66ed4fc6753d6035ae7e17144",
             "tokenApi": ""
           },
           {
@@ -935,6 +863,22 @@
           {
             "title": "beIN SPORTS 4K",
             "link": "https://inproviszon.st/bein4k.m3u8?|accept-language=en-GB",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "D SPORTS+ - AQ",
+            "link": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ud6bnhthpj/out/v1/2639a2f4480f4269953de466d5f46463/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "83f81c4cc1443991543de4e22eea7586:ddfd7ca653d6f35543d8edb3c688e20f",
+            "tokenApi": ""
+          },
+          {
+            "title": "iScreen - AQ",
+            "link": "https://pastebin.com/raw/5U4SGEwY?e=.m3u8|Referer=https://iscreen.com.bd/",
             "logo": "",
             "type": 0,
             "api": "",
