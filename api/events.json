@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-23T17:21:31.824279",
+  "last_updated": "2026-06-23T17:31:47.300075",
   "event_count": 57,
   "events": {
     "events": [
@@ -589,6 +589,14 @@
             "tokenApi": ""
           },
           {
+            "title": "FOX ENGLISH - AQ",
+            "link": "https://otte-azion.live.pv-cdn.net/syd-nitro/live/clients/enc/brcuszv1in/out/v1/7832f893d9f043efbf0eabb9b33294cc/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "a3b68e5f2e15cfec39ee98461dfbff36:51256ff951bd8defc4604d5b92732e75",
+            "tokenApi": ""
+          },
+          {
             "title": "RTE SPORTS - AQ",
             "link": "https://dai.google.com/linear/dash/pa/event/oPeAYQs9T9yTHS98aR1EjQ/stream/5f14fdb0-81cb-4e12-9a86-4fcfb21a9e6f:GRQ/manifest.mpd",
             "logo": "",
@@ -679,6 +687,22 @@
           {
             "title": "FOX SPORTS HD",
             "link": "https://chatgpt.hereisman.net/playlist/52409/load-playlist?|Referer=https://gooz.aapmains.net",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "FAST SERVER",
+            "link": "https://pulltx.jdnzrgm.com/live/hd-en-6MvZ6BDh8ftiUfugar.m3u8?txSecret=ad05be13ed4690721c8c2d3fb2e94d66&txTime=6A3AE368",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "beiN ARABIC HD",
+            "link": "https://dwvpdsrgavbzt.cloudfront.net/live/ch1/ch1.m3u8|referer=https://www.kooratlyad33.site/",
             "logo": "",
             "type": 0,
             "api": "",
@@ -1744,25 +1768,17 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/187808/image",
           "eventName": "Cricket",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/06/23 17:30:00 +0000",
           "endTime": "2026/06/23 21:30:30 +0000"
         },
         "channels_data": [
           {
             "title": "WILLOW - AQ",
-            "link": "https://a201aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/38inezkhzl/out/v1/76f949dc15d1470f83f784daa682c40c/cenc.mpd",
+            "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/dgreeh7dby/out/v1/0becb4a313374a7c91de242c9e1b0fda/cenc.mpd",
             "logo": "",
             "type": 7,
-            "api": "f124481fc5fcc4c55fa0d972a2015f3a:dd542c320e7f1d2bb7a5e894eae38c6d",
-            "tokenApi": ""
-          },
-          {
-            "title": "PRIME VIDEO - AQ",
-            "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/87d0tehlad/out/v1/403835568f5b4e3ca2d201cc88b594ee/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "ee0c99be51120d109657df5229b48b01:6f0cc18e09de8ec73414bb2209d6c63b",
+            "api": "e5ebe7c1ecbf30dd61fe5c0b6cab4009:49f000b9abc8e5b863a0aa7bf285dc99",
             "tokenApi": ""
           },
           {
@@ -1775,10 +1791,10 @@
           },
           {
             "title": "WILLOW ALT",
-            "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/38inezkhzl/out/v1/76f949dc15d1470f83f784daa682c40c/cenc.mpd",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/dgreeh7dby/out/v1/0becb4a313374a7c91de242c9e1b0fda/cenc.mpd",
             "logo": "",
             "type": 7,
-            "api": "f124481fc5fcc4c55fa0d972a2015f3a:dd542c320e7f1d2bb7a5e894eae38c6d",
+            "api": "e5ebe7c1ecbf30dd61fe5c0b6cab4009:49f000b9abc8e5b863a0aa7bf285dc99",
             "tokenApi": ""
           },
           {
@@ -1791,15 +1807,7 @@
           },
           {
             "title": "SKY SPORT NZ",
-            "link": "https://tmaxapp.site/skynz3.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "Live 1",
-            "link": "https://tmaxapp.site/foxcricket.m3u8",
+            "link": "https://tmaxapp.site/skynz1.m3u8",
             "logo": "",
             "type": 0,
             "api": "",
@@ -1811,6 +1819,14 @@
             "logo": "",
             "type": 7,
             "api": "434f07d93d4ba702bed5d41b1cc21d22:065c5585a1b94dc36379421ba923a415",
+            "tokenApi": ""
+          },
+          {
+            "title": "LOW SERVER",
+            "link": "http://193.47.62.42/hls/qqqqq.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+            "logo": "",
+            "type": 0,
+            "api": "",
             "tokenApi": ""
           }
         ]
