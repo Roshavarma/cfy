@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-23T12:51:26.017964",
+  "last_updated": "2026-06-23T13:01:59.785474",
   "event_count": 55,
   "events": {
     "events": [
@@ -1569,19 +1569,19 @@
       },
       {
         "id": 10193,
-        "title": "New Zealand Women vs Scotland Women",
+        "title": "England Women vs West Indies Women",
         "image": "null",
         "cat": "Cricket",
         "eventInfo": {
-          "teamA": "New Zealand Women",
-          "teamB": "Scotland Women",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/213115/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/453162/image",
+          "teamA": "England Women",
+          "teamB": "West Indies Women",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/213121/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/213120/image",
           "eventName": "Cricket",
           "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/06/23 09:30:00 +0000",
-          "endTime": "2026/06/23 13:30:12 +0000"
+          "Status": "Upcoming",
+          "startTime": "2026/06/24 17:30:00 +0000",
+          "endTime": "2026/06/24 21:45:24 +0000"
         },
         "channels_data": [
           {
@@ -1653,18 +1653,18 @@
         "channels_data": [
           {
             "title": "WILLOW - AQ",
-            "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/wiemjzqo1r/out/v1/2c11c7a28b204c33ab8e7abe61139c42/cenc.mpd",
+            "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
             "logo": "",
             "type": 7,
-            "api": "3c5748ca4057e0164af63c902f7179a9:57226e66db80823fedc53e3aa7bc7c59",
+            "api": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
             "tokenApi": ""
           },
           {
-            "title": "PRIME VIDEO - AQ",
-            "link": "https://ABACK7IAAAAAAAAMGWF67QBV4IIUU.ta.bia-cf.live.pv-cdn.net/sin-nitro/live/clients/dash/enc/bd0fgrfxdi/out/v1/7910d7d4114049488aaaa4416deccfd4/cenc.mpd",
+            "title": "SKY CRICKET - AQ",
+            "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=8Q-Mt7GTaRI2Eo9LNZ9mrg&e=2081082141|user-agent=Mozilla",
             "logo": "",
-            "type": 7,
-            "api": "2842d822fe5417c548bcdfac8cb484ff:1156791bf5754b9aebb618228dbb17c8",
+            "type": 0,
+            "api": "",
             "tokenApi": ""
           },
           {
@@ -1676,8 +1676,16 @@
             "tokenApi": ""
           },
           {
+            "title": "SKY MAIN EVENT",
+            "link": "https://tmaxapp.site/skymainevent.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
             "title": "SKY SPORT NZ",
-            "link": "https://tmaxapp.site/skynz3.m3u8",
+            "link": "https://tmaxapp.site/skynz1.m3u8",
             "logo": "",
             "type": 0,
             "api": "",
@@ -1689,14 +1697,6 @@
             "logo": "",
             "type": 7,
             "api": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
-            "tokenApi": ""
-          },
-          {
-            "title": "SKY SPORTS+",
-            "link": "https://tmaxapp.site/skyplussd.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
             "tokenApi": ""
           }
         ]
