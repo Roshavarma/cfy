@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-23T00:01:54.846025",
+  "last_updated": "2026-06-23T00:11:15.829535",
   "event_count": 57,
   "events": {
     "events": [
@@ -1316,10 +1316,10 @@
         "channels_data": [
           {
             "title": "FOX SPORTS - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd|user-agent=Mozila",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/uwbax7q39k/out/v1/8b4bd9b5ac3b4f1696c93c93f0a64131/cenc.mpd",
             "logo": "",
             "type": 7,
-            "api": "f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7",
+            "api": "f7099d00f049367b0b0ba1cb58272e93:389ddcd5e3e18e0336a809016325c49e",
             "tokenApi": ""
           },
           {
@@ -1328,6 +1328,14 @@
             "logo": "",
             "type": 7,
             "api": "34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4",
+            "tokenApi": ""
+          },
+          {
+            "title": "RTE PLAYER - AQ",
+            "link": "https://live.rte.ie/live/tc-1/vc3/vc3.isml/.mpd?dvr_window_length=90&available=1782167100&expiry=1782212400&ip=89.184.62.154&filter=systemBitrate%3C%3D7000000&token1=ce87effc9e6c15479dc5ec7ca26dbd855db5ce04e71caf87c96de9bb34ca433d",
+            "logo": "",
+            "type": 7,
+            "api": "49c1810e4a14d689128b68d136bee8ab:a19757b5653bcd3d93c1b7710339386a",
             "tokenApi": ""
           },
           {
@@ -1387,8 +1395,16 @@
             "tokenApi": ""
           },
           {
-            "title": "BBC SPORTS HD",
-            "link": "https://chatgpt.hereisman.net/playlist/52271/load-playlist?|Referer=https://gooz.aapmains.net",
+            "title": "ITV SPORTS HD",
+            "link": "https://chatgpt.hereisman.net/playlist/52396/load-playlist?|Referer=https://gooz.aapmains.net",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "FAST SERVER",
+            "link": "https://pulltx.jdnzrgm.com/live/hd-en-6MvZ6BDgdE6MDtzcQE.m3u8?txSecret=3104a2b2ea930430c8481f5deed1f19c&txTime=6A39F278",
             "logo": "",
             "type": 0,
             "api": "",
@@ -1396,47 +1412,7 @@
           },
           {
             "title": "TSN SPORTS HD",
-            "link": "https://chatgpt.hereisman.net/playlist/52273/load-playlist?|Referer=https://gooz.aapmains.net",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "FOX SPORTS HD",
-            "link": "https://chatgpt.hereisman.net/playlist/52273/load-playlist?|Referer=https://gooz.aapmains.net",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "IRIB 4K",
-            "link": "https://ncdn.telewebion.ir/faratar/live/playlist.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "ELTA SPORTS - AQ",
-            "link": "https://drmteste-hamivideo.cdn.hinet.net/live/pool/hamitv-live166/hls-ae-fhd-4s-ma/index.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "CT SPORTS - AQ",
-            "link": "https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
-            "tokenApi": ""
-          },
-          {
-            "title": "TELEMUNDO HD",
-            "link": "https://mainstreams.pro/hls/eJmauBDCIf.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+            "link": "https://chatgpt.hereisman.net/playlist/52399/load-playlist?|Referer=https://gooz.aapmains.net",
             "logo": "",
             "type": 0,
             "api": "",
@@ -1448,14 +1424,6 @@
             "logo": "",
             "type": 7,
             "api": "9145a6e0f778e61866f573d4944dd533:d02173d40515fea5c83944f21d0f3114",
-            "tokenApi": ""
-          },
-          {
-            "title": "beIN ARABIC - AQ",
-            "link": "https://raw.githubusercontent.com/ON2026/1smas/refs/heads/main/mx1app2.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
             "tokenApi": ""
           },
           {
@@ -1584,54 +1552,6 @@
             "logo": "",
             "type": 7,
             "api": "ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1",
-            "tokenApi": ""
-          },
-          {
-            "title": "CIGNAL ENGLISH",
-            "link": "https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/pp_ch2_pri/default/index.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "4fef00332d7e4fbc8f7005dfbf851a59:a6368c181358f3e527411a6c452c6a1a",
-            "tokenApi": ""
-          },
-          {
-            "title": "FS1 4K",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/enc/ykzl8x62g5/out/v1/e8f0a2204c5c4490b338a9c2165dd92a/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "996d39be9ee1c8e65d94d7bb973bdf0f:5306cdc1e410bc6ddb2530608c42b11b",
-            "tokenApi": ""
-          },
-          {
-            "title": "FS1 - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/enc/5pwvqnlxhr/out/v1/79e41681b80248788032c6880a06e7d3/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "996d39be9ee1c8e65d94d7bb973bdf0f:5306cdc1e410bc6ddb2530608c42b11b",
-            "tokenApi": ""
-          },
-          {
-            "title": "TRT SPORTS 2K",
-            "link": "https://rxne77juptdeyke3tytvgqwyh.medya.trt.com.tr/master.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "Sporza DUTCH - AQ",
-            "link": "https://live.vrtcdn.be/groupd/live/0761024f-37fe-4254-bc37-e95d7c62b2d1/playout.isml/.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "7c0a14fc7dc3c641af8cb6506431a628:f318ff7c01cca20c4a5b3d91074ca460",
-            "tokenApi": ""
-          },
-          {
-            "title": "FAST SERVER",
-            "link": "https://pulltx.jdnzrgm.com/live/hd-en-6MvZ6BDgdE6MDtzcQE.m3u8?txSecret=3104a2b2ea930430c8481f5deed1f19c&txTime=6A39F278",
-            "logo": "",
-            "type": 0,
-            "api": "",
             "tokenApi": ""
           }
         ]
