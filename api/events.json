@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-23T17:11:36.156284",
+  "last_updated": "2026-06-23T17:21:31.824279",
   "event_count": 57,
   "events": {
     "events": [
@@ -549,7 +549,7 @@
       },
       {
         "id": 10074,
-        "title": "Portugal vs Uzbekistan",
+        "title": "Portugal vs Uzbekistann",
         "image": "null",
         "cat": "Football",
         "eventInfo": {
@@ -574,7 +574,7 @@
           },
           {
             "title": "Caz\u00e9TV BR - AQ",
-            "link": "https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd",
+            "link": "https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd?|",
             "logo": "",
             "type": 7,
             "api": "34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4",
@@ -629,24 +629,8 @@
             "tokenApi": ""
           },
           {
-            "title": "M6 FRANCE - AQ",
-            "link": "https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_cenc00/dash-short-hd.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "433ffba670963e70857859a9dff4be04:51ede3a821229fe81e71282c8eff80e3",
-            "tokenApi": ""
-          },
-          {
             "title": "TOFFEE BD - AQ",
             "link": "https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-4/0/master_2000.m3u8?hdntl=Expires=1782308414~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AVXEwvcaHQ5d5a91K8YyfS7yi4Bv00UrewTSq4ReESRRjtAKQSRyDoiDdnHBUNxx-UoRREfoIbaQN7nx9pWK3WMojHMM",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "RTB GOLIVE - AQ",
-            "link": "https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8",
             "logo": "",
             "type": 0,
             "api": "",
@@ -658,6 +642,30 @@
             "logo": "",
             "type": 0,
             "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "Live 1",
+            "link": "https://hugh.cdn.rumble.cloud/live/3fms19g4/slot-97/ouat-x8r2_1080p/chunklist_DVR.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "iScreen - AQ",
+            "link": "https://pastebin.com/raw/5U4SGEwY?e=.m3u8|Referer=https://iscreen.com.bd/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "D SPORTS+ - AQ",
+            "link": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ud6bnhthpj/out/v1/2639a2f4480f4269953de466d5f46463/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "83f81c4cc1443991543de4e22eea7586:ddfd7ca653d6f35543d8edb3c688e20f",
             "tokenApi": ""
           },
           {
@@ -717,7 +725,7 @@
             "tokenApi": ""
           },
           {
-            "title": "Live 1",
+            "title": "Live 2",
             "link": "https://instreams.pro/EU/HDWC1/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click",
             "logo": "",
             "type": 0,
@@ -826,30 +834,6 @@
             "logo": "",
             "type": 7,
             "api": "ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1",
-            "tokenApi": ""
-          },
-          {
-            "title": "D SPORTS+ - AQ",
-            "link": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ud6bnhthpj/out/v1/2639a2f4480f4269953de466d5f46463/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "83f81c4cc1443991543de4e22eea7586:ddfd7ca653d6f35543d8edb3c688e20f",
-            "tokenApi": ""
-          },
-          {
-            "title": "iScreen - AQ",
-            "link": "https://pastebin.com/raw/5U4SGEwY?e=.m3u8|Referer=https://iscreen.com.bd/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "Live 2",
-            "link": "https://hugh.cdn.rumble.cloud/live/3fms19g4/slot-97/ouat-x8r2_1080p/chunklist_DVR.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
             "tokenApi": ""
           }
         ]
