@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-23T20:01:58.349329",
+  "last_updated": "2026-06-23T20:11:30.386684",
   "event_count": 57,
   "events": {
     "events": [
@@ -936,19 +936,11 @@
             "tokenApi": ""
           },
           {
-            "title": "FIFA FEED - AQ",
-            "link": "https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/fifa_ppv1/default/index.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "f3c91e7a2d844a5bb8f16e2d9c7a4f13:9b3045bcf35b0a6ccfdd992fd9e5bd9b",
-            "tokenApi": ""
-          },
-          {
             "title": "D SPORTS ES - AQ",
-            "link": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/hubonmgf5k/out/v1/10560d92577e4917973aa4624124ecd6/cenc-sd.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+            "link": "https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/x0srg3jjpz/out/v1/f779c49314394d61886d63f58d9d52e4/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
             "logo": "",
             "type": 7,
-            "api": "45bbd582f220f438f896450d8306a3f2:582c6ba7f64bbc0f2d91c6b0c265760c",
+            "api": "4f4c3a9912ea752e88f4497864a1bc8b:278128004fe8c6ffb2cd2a0c154a241a",
             "tokenApi": ""
           },
           {
@@ -968,6 +960,14 @@
             "tokenApi": ""
           },
           {
+            "title": "QAZ SPORTS - AQ",
+            "link": "https://fo01-bkm.beetv.kz/bpk-tv/000003038/tve/index.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
             "title": "TIPIK FRENCH - AQ",
             "link": "https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/dash/.mpd",
             "logo": "",
@@ -981,6 +981,14 @@
             "logo": "",
             "type": 7,
             "api": "ac7abaa9c9481aacfbdac64fc3ec3312:c0c504a2ed2e70b879a650b8770a38c6",
+            "tokenApi": ""
+          },
+          {
+            "title": "FIFA FEED - AQ",
+            "link": "https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/fifa_ppv1/default/index.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "f3c91e7a2d844a5bb8f16e2d9c7a4f13:9b3045bcf35b0a6ccfdd992fd9e5bd9b",
             "tokenApi": ""
           },
           {
@@ -1013,6 +1021,14 @@
             "logo": "",
             "type": 0,
             "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "D SPORTS ES - LQ",
+            "link": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/hubonmgf5k/out/v1/10560d92577e4917973aa4624124ecd6/cenc-sd.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+            "logo": "",
+            "type": 7,
+            "api": "45bbd582f220f438f896450d8306a3f2:582c6ba7f64bbc0f2d91c6b0c265760c",
             "tokenApi": ""
           },
           {
@@ -1053,14 +1069,6 @@
             "logo": "",
             "type": 7,
             "api": "745cd6ec34a58f2f7ac2af35dc3da6d2:ae008f1e47e6567fe4201a6ff8f1ae54",
-            "tokenApi": ""
-          },
-          {
-            "title": "IRIB 4K",
-            "link": "https://ncdn.telewebion.ir/faratar/live/playlist.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
             "tokenApi": ""
           },
           {
@@ -1197,6 +1205,94 @@
             "logo": "",
             "type": 7,
             "api": "ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1",
+            "tokenApi": ""
+          },
+          {
+            "title": "FAST SERVER 1",
+            "link": "https://pulltx.jdnzrgm.com/live/hd-en-6MvZ6BDh8rt7q53GML.m3u8?txSecret=90e42bb78e891c6706340490a4ae557f&txTime=6A3B0708",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "FAST SERVER 2",
+            "link": "https://live.vivo200.com/live/hd-en-1-4460936.m3u8?txSecret=5445351240630d2d051417b47fe2093b&txTime=6A3AF2A8|Referer=https://player.online909.com/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "FOX ENGLISH HD",
+            "link": "https://wc.streamxyz.shop:2053/FOX/index.m3u8?|referer=https://xyzstreams.shop/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "FOX ENG - FAST",
+            "link": "https://inproviszon.st/fox.m3u8?|accept-language=en-GB",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "TSN ENGLISH HD",
+            "link": "https://boombaclat0000-56789.heytheredelilah.xyz/001/TSN1/playlist.m3u8?|accept-language=en-GB",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "beIN SPORTS 4K",
+            "link": "https://wc.streamxyz.shop:2053/bein/index.m3u8?|referer=https://xyzstreams.shop/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "beIN MAX HDR",
+            "link": "https://wc.streamxyz.shop:2053/bein4k/index.m3u8?|referer=https://xyzstreams.shop/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "TELEMUNDO FHD",
+            "link": "https://wc.streamxyz.shop:2053/Telemundo/index.m3u8?|referer=https://xyzstreams.shop/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "FOX SPORTS 4K",
+            "link": "https://boombaclat0000-56789.heytheredelilah.xyz/001/FOX4K/playlist.m3u8?|accept-language=en-GB",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "FOX SPORTS SD",
+            "link": "https://boombaclat0000-56789.heytheredelilah.xyz/001/FOX/playlist.m3u8?|accept-language=en-GB",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "TSN SPORTS 4K",
+            "link": "https://boombaclat0000-56789.heytheredelilah.xyz/001/TSN4K/playlist.m3u8?|accept-language=en-GB",
+            "logo": "",
+            "type": 0,
+            "api": "",
             "tokenApi": ""
           }
         ]
@@ -2415,11 +2511,19 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/3655/image",
           "eventName": "Baseball",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/06/23 20:07:00 +0000",
           "endTime": "2026/06/23 23:15:10 +0000"
         },
         "channels_data": [
+          {
+            "title": "Live 1",
+            "link": "https://chatgpt.hereisman.net/playlist/52415/load-playlist?|Referer=https://gooz.aapmains.net",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
           {
             "title": "HD SERVER",
             "link": "https://mainstreams.pro/hls/dazhfiach15.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz&Origin=https://streamcenter.xyz",
