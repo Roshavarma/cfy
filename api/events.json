@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-24T17:21:32.390411",
+  "last_updated": "2026-06-24T17:31:42.735423",
   "event_count": 55,
   "events": {
     "events": [
@@ -921,7 +921,7 @@
           "teamAFlag": "https://img.sofascore.com/api/v1/team/4479/image",
           "teamBFlag": "https://img.sofascore.com/api/v1/team/4792/image",
           "eventName": "Football",
-          "isHot": "0",
+          "isHot": "1",
           "Status": "Upcoming",
           "startTime": "2026/06/24 19:00:00 +0000",
           "endTime": "2026/06/24 21:00:00 +0000"
@@ -948,7 +948,7 @@
           "teamAFlag": "https://img.sofascore.com/api/v1/team/4699/image",
           "teamBFlag": "https://img.sofascore.com/api/v1/team/4752/image",
           "eventName": "Football",
-          "isHot": "0",
+          "isHot": "1",
           "Status": "Upcoming",
           "startTime": "2026/06/24 19:00:00 +0000",
           "endTime": "2026/06/24 21:00:00 +0000"
@@ -975,7 +975,7 @@
           "teamAFlag": "https://img.sofascore.com/api/v1/team/4778/image",
           "teamBFlag": "https://img.sofascore.com/api/v1/team/7229/image",
           "eventName": "Football",
-          "isHot": "0",
+          "isHot": "1",
           "Status": "Upcoming",
           "startTime": "2026/06/24 22:00:00 +0000",
           "endTime": "2026/06/25 00:00:00 +0000"
@@ -1753,7 +1753,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/213120/image",
           "eventName": "Cricket",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/06/24 17:30:00 +0000",
           "endTime": "2026/06/24 21:45:24 +0000"
         },
@@ -2152,7 +2152,15 @@
         "channels_data": [
           {
             "title": "Live 1",
-            "link": "ok",
+            "link": "https://chatgpt.hereisman.net/playlist/52466/load-playlist?|Referer=https://gooz.aapmains.net",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "HD SERVER",
+            "link": "https://mainstreams.pro/hls/ihfazugfyjcazich17.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streamcenter.xyz&Origin=https://streamcenter.xyz",
             "logo": "",
             "type": 0,
             "api": "",
