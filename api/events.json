@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-25T18:11:14.885978",
+  "last_updated": "2026-06-25T18:21:15.827233",
   "event_count": 43,
   "events": {
     "events": [
@@ -440,7 +440,7 @@
           },
           {
             "title": "TNT SPORTS - AQ",
-            "link": "https://otte-qw.live.pv-cdn.net/fra-nitro/live/clients/dash/enc/2szrn2y3ep/out/v1/eacd8a4207dc4f0d9661a4b085b8fdd9/cenc.mpd",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/2szrn2y3ep/out/v1/eacd8a4207dc4f0d9661a4b085b8fdd9/cenc.mpd?|",
             "logo": "",
             "type": 7,
             "api": "12413e2c2855cfc59ce0fe6b20cc71ca:08d55a8f5fc93a9375f9b0cb2e1739ca",
@@ -1579,6 +1579,14 @@
             "tokenApi": ""
           },
           {
+            "title": "SKY CRICKET - AQ",
+            "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=8Q-Mt7GTaRI2Eo9LNZ9mrg&e=2081082141|user-agent=Mozilla",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
             "title": "WILLOW ALT",
             "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/q4mqxqezxl/out/v1/a4cf7232de3f41b89682fdbcdfce733c/cenc.mpd",
             "logo": "",
@@ -1588,7 +1596,15 @@
           },
           {
             "title": "SKY SPORT NZ",
-            "link": "https://tmaxapp.site/skynz2.m3u8",
+            "link": "https://tmaxapp.site/skynz1.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "SKY MAIN EVENT",
+            "link": "https://tmaxapp.site/skymainevent.m3u8",
             "logo": "",
             "type": 0,
             "api": "",
