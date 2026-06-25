@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-25T19:11:12.561800",
+  "last_updated": "2026-06-25T19:21:18.425868",
   "event_count": 43,
   "events": {
     "events": [
@@ -1251,35 +1251,27 @@
             "tokenApi": ""
           },
           {
-            "title": "Caz\u00e9TV BR - AQ",
-            "link": "https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4",
-            "tokenApi": ""
-          },
-          {
             "title": "TSN SPORTS - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
+            "link": "https://otte.cache.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
             "logo": "",
             "type": 7,
             "api": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d",
             "tokenApi": ""
           },
           {
-            "title": "RTE SPORTS - AQ",
-            "link": "https://dai.google.com/linear/dash/event/antwa0EiQm2PoHtx4rBtVw/manifest.mpd",
+            "title": "M6 FRANCE - AQ",
+            "link": "https://edge-fastly-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_cenc00/dash-short-hd.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
             "logo": "",
             "type": 7,
-            "api": "d816287e21496989eae1312925a423c5:00da00f13180e7e6cd5ce87d1c974e8d",
+            "api": "1c285ebc98483383b938f2aac331410c:10accd30d969402cf0bb0fb99ad09283",
             "tokenApi": ""
           },
           {
-            "title": "FOX ENGLISH - AQ",
-            "link": "https://fgg-4le.pages.dev/fifawc-fox.m3u8|origin=https://cxfooot.pages.dev/",
+            "title": "Caz\u00e9TV BR - AQ",
+            "link": "https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd",
             "logo": "",
-            "type": 0,
-            "api": "",
+            "type": 7,
+            "api": "34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4",
             "tokenApi": ""
           },
           {
@@ -1312,14 +1304,6 @@
             "logo": "",
             "type": 7,
             "api": "adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a",
-            "tokenApi": ""
-          },
-          {
-            "title": "M6 FRANCE - AQ",
-            "link": "https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_cenc00/dash-short-hd.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "433ffba670963e70857859a9dff4be04:51ede3a821229fe81e71282c8eff80e3",
             "tokenApi": ""
           },
           {
@@ -2594,7 +2578,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/3651/image",
           "eventName": "Baseball",
           "isHot": "0",
-          "Status": "Live",
+          "Status": "Finish",
           "startTime": "2026/06/25 16:10:00 +0000",
           "endTime": "2026/06/25 19:15:24 +0000"
         },
