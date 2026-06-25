@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-25T13:51:18.503089",
+  "last_updated": "2026-06-25T14:01:39.415641",
   "event_count": 43,
   "events": {
     "events": [
@@ -425,41 +425,17 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/187756/image",
           "eventName": "Cricket",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/06/25 14:00:39 +0000",
           "endTime": "2026/06/26 00:00:44 +0000"
         },
         "channels_data": [
-          {
-            "title": "WILLOW - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/cjdpnuswqz/out/v1/ceaca3cd8fb64067a4fc34b99c6dc7d3/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "024b12ed56ef6d009b165ffa1e026f46:1962fbc99c0922ac1408cd401b3c0851",
-            "tokenApi": ""
-          },
           {
             "title": "TNT SPORTS - AQ",
             "link": "https://otte-qw.live.pv-cdn.net/fra-nitro/live/clients/dash/enc/2szrn2y3ep/out/v1/eacd8a4207dc4f0d9661a4b085b8fdd9/cenc.mpd",
             "logo": "",
             "type": 7,
             "api": "12413e2c2855cfc59ce0fe6b20cc71ca:08d55a8f5fc93a9375f9b0cb2e1739ca",
-            "tokenApi": ""
-          },
-          {
-            "title": "FANCODE - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe",
-            "tokenApi": ""
-          },
-          {
-            "title": "WILLOW - LQ",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/dtdvdzh9l8/out/v1/7e84ae6b938b493ebd68cd1e7c622d7b/cenc-sd.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "886196e35113ad86a02de0d303e5f858:5bc5352429d0903b8b1ec39f23bad593",
             "tokenApi": ""
           },
           {
@@ -476,6 +452,14 @@
             "logo": "",
             "type": 0,
             "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "WILLOW - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/cjdpnuswqz/out/v1/ceaca3cd8fb64067a4fc34b99c6dc7d3/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "024b12ed56ef6d009b165ffa1e026f46:1962fbc99c0922ac1408cd401b3c0851",
             "tokenApi": ""
           }
         ]
@@ -1688,11 +1672,19 @@
             "tokenApi": ""
           },
           {
-            "title": "PRIME VIDEO - AQ",
+            "title": "PRIME ENGLISH - AQ",
             "link": "https://ABMXTS6AAAAAAAAMKXB6KHGNM2AJK.ta.bia-cf.live.pv-cdn.net/sin-nitro/live/clients/dash/enc/cfydpvdsta/out/v1/7910d7d4114049488aaaa4416deccfd4/cenc.mpd",
             "logo": "",
             "type": 7,
             "api": "e647180c0a0a36d6a4a7528c2523bca1:960aa4eb16e6067b55a01d16062aaa70",
+            "tokenApi": ""
+          },
+          {
+            "title": "PRIME HINDI - AQ",
+            "link": "https://ABMXTS6AAAAAAAAMKXB6KHGNM2AJK.ta.bia-cf.live.pv-cdn.net/sin-nitro/live/clients/dash/enc/istbo7qzsm/out/v1/8d64368150bc4bc998f66c15d3bd28bb/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "3e56a9d11b147afc0dc2efb282dea2e1:16f395cf7a05885a77803050b7b56b2b",
             "tokenApi": ""
           },
           {
