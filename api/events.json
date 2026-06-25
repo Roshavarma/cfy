@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-25T05:21:09.472782",
-  "event_count": 36,
+  "last_updated": "2026-06-25T05:31:26.552863",
+  "event_count": 42,
   "events": {
     "events": [
       {
@@ -948,7 +948,7 @@
           "teamAFlag": "https://img.sofascore.com/api/v1/team/4757/image",
           "teamBFlag": "https://img.sofascore.com/api/v1/team/4711/image",
           "eventName": "Football",
-          "isHot": "0",
+          "isHot": "1",
           "Status": "Upcoming",
           "startTime": "2026/06/25 20:00:00 +0000",
           "endTime": "2026/06/25 22:00:00 +0000"
@@ -1978,6 +1978,168 @@
           "Status": "Upcoming",
           "startTime": "2026/06/25 19:45:00 +0000",
           "endTime": "2026/06/25 23:00:46 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Live 1",
+            "link": "ok",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 10266,
+        "title": "Detroit Tigers vs Houston Astros",
+        "image": "null",
+        "cat": "Baseball",
+        "eventInfo": {
+          "teamA": "Tigers",
+          "teamB": "Astros",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3648/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3655/image",
+          "eventName": "Baseball",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/06/25 22:40:00 +0000",
+          "endTime": "2026/06/26 02:00:51 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Live 1",
+            "link": "ok",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 10267,
+        "title": "Washington Nationals vs Philadelphia Phillies",
+        "image": "null",
+        "cat": "Baseball",
+        "eventInfo": {
+          "teamA": "Nationals",
+          "teamB": "Phillies",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/5930/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3635/image",
+          "eventName": "Baseball",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/06/25 22:45:00 +0000",
+          "endTime": "2026/06/26 02:00:43 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Live 1",
+            "link": "ok",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 10268,
+        "title": "Toronto Blue Jays vs Texas Rangers",
+        "image": "null",
+        "cat": "Baseball",
+        "eventInfo": {
+          "teamA": "Blue Jays",
+          "teamB": "Rangers",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3642/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3647/image",
+          "eventName": "Baseball",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/06/25 23:07:00 +0000",
+          "endTime": "2026/06/26 02:15:44 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Live 1",
+            "link": "ok",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 10269,
+        "title": "Boston Red Sox vs New York Yankees",
+        "image": "null",
+        "cat": "Baseball",
+        "eventInfo": {
+          "teamA": "Red Sox",
+          "teamB": "Yankees",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3646/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3654/image",
+          "eventName": "Baseball",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/06/25 23:10:00 +0000",
+          "endTime": "2026/06/26 02:15:40 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Live 1",
+            "link": "ok",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 10270,
+        "title": "New York Mets vs Chicago Cubs",
+        "image": "null",
+        "cat": "Baseball",
+        "eventInfo": {
+          "teamA": "Mets",
+          "teamB": "Cubs",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3629/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3627/image",
+          "eventName": "Baseball",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/06/25 23:10:00 +0000",
+          "endTime": "2026/06/26 02:15:46 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Live 1",
+            "link": "ok",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 10271,
+        "title": "St. Louis Cardinals vs Arizona Diamondbacks",
+        "image": "null",
+        "cat": "Baseball",
+        "eventInfo": {
+          "teamA": "Cardinals",
+          "teamB": "Diamondbacks",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3632/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3640/image",
+          "eventName": "Baseball",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/06/25 23:45:00 +0000",
+          "endTime": "2026/06/26 02:45:48 +0000"
         },
         "channels_data": [
           {
