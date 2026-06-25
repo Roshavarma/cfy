@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-25T19:51:18.217144",
+  "last_updated": "2026-06-25T20:01:47.195344",
   "event_count": 43,
   "events": {
     "events": [
@@ -914,7 +914,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/4768/image",
           "eventName": "Football",
           "isHot": "1",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/06/25 20:00:00 +0000",
           "endTime": "2026/06/25 22:00:00 +0000"
         },
@@ -1205,7 +1205,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/4711/image",
           "eventName": "Football",
           "isHot": "1",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/06/25 20:00:00 +0000",
           "endTime": "2026/06/25 22:00:00 +0000"
         },
@@ -1267,14 +1267,6 @@
             "tokenApi": ""
           },
           {
-            "title": "VIX SPANISH - AQ",
-            "link": "https://vod-sev-orbit2-s2.izzigo.tv/out/u/startover/dash/VIX-MUNDIAL-90-HD/default.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "75074a0cbd83f5b72fb3e5c1495252a9:a4a0df04b2d28f2160cead2ecdeb7203",
-            "tokenApi": ""
-          },
-          {
             "title": "TOFFEE BD - AQ",
             "link": "https://prod-cdn01-live.toffeelive.com/live/FIFA-2026/index.m3u8?edge-cache-token=Expires=1782498798~Starts=1782412398~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=_gqFE_F4uIRT9B0EuG2kDXz-OBM4x69zGwVEpIefgVKjINLT24MYGE4MmK7Ci1lV0Krxak2u8lAC3OqJp4GNBg",
             "logo": "",
@@ -1284,7 +1276,7 @@
           },
           {
             "title": "BBC SPORTS HD",
-            "link": "https://chatgpt.hereisman.net/playlist/52511/load-playlist?|Referer=https://gooz.aapmains.net",
+            "link": "https://chatgpt.hereisman.net/playlist/52519/load-playlist?|Referer=https://gooz.aapmains.net",
             "logo": "",
             "type": 0,
             "api": "",
@@ -1317,22 +1309,6 @@
           {
             "title": "IRIB 4K",
             "link": "https://ncdn.telewebion.ir/faratar/live/playlist.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "CT SPORTS - AQ",
-            "link": "https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
-            "tokenApi": ""
-          },
-          {
-            "title": "TELEMUNDO HD",
-            "link": "https://mainstreams.pro/hls/eJmauBDCIf.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
             "logo": "",
             "type": 0,
             "api": "",
@@ -1380,7 +1356,7 @@
           },
           {
             "title": "HD SERVER ENG",
-            "link": "https://edgestreams.pro/hls/24SDAZFcsqnj24.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+            "link": "https://edge2caster.pro/hls/b0h5fNwDKH.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
             "logo": "",
             "type": 0,
             "api": "",
@@ -1388,7 +1364,7 @@
           },
           {
             "title": "HD SERVER AR",
-            "link": "https://edgestreams.pro/hls/24SDAZFcsqnj24.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+            "link": "https://mainstreams.pro/hls/sqdahach1ax.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
             "logo": "",
             "type": 0,
             "api": "",
@@ -1512,6 +1488,54 @@
             "logo": "",
             "type": 7,
             "api": "1efe4add8fdf327c5f8d2a1c195e5c71:4f50e6f011e60ca01ee561f27187e78f",
+            "tokenApi": ""
+          },
+          {
+            "title": "TSN ENGLISH HD",
+            "link": "https://storage.googleapis.com/tyuhgfgfgghvbnzdf/mux_video_ts/index-1.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "FOX ENGLISH HD",
+            "link": "https://vildid.hundredmilesperhour.uk/1782420795/23220638e5734cc587a65936528a76dd/qIzJVzCxBOr9CCD9dKPDyBk_zI8BPqO-R6AWn2o5KW4/fox-usa.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "FAST SERVER 1",
+            "link": "https://pulltx.jdnzrgm.com/live/hd-en-6MvZ6BDgoTY6DS43pJ.m3u8?txSecret=3b239872027f985ce0b1a8068df6923c&txTime=6A3DAEB8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "TELEMUNDO HD",
+            "link": "https://instreams.pro/US/NFLHD3/tracks-v1a1/mono.m3u8?|referer=https://instream.click/&origin=https://instream.click",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "FOX SPORTS 4K",
+            "link": "https://vildid.hundredmilesperhour.uk/1782421833/f4e277bf9dca466fa23b941e7f25276d/k9H_fPs9xXXHtwGY-PnC8ixP2hU5CQk5Kdkk9MZnyzo/fox4k-usa.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "ARABIC LIVE HD",
+            "link": "https://vildid.hundredmilesperhour.uk/1782421972/f515b3f09090484cb94685ff40fcea04/5-j_Yumz4tcaE0JGl0Z26_ZLwBB3rCOwSB41WS2vcn4/beinsportsmax-sa.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
             "tokenApi": ""
           }
         ]
