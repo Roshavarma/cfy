@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-25T19:21:18.425868",
+  "last_updated": "2026-06-25T19:31:30.899482",
   "event_count": 43,
   "events": {
     "events": [
@@ -928,6 +928,14 @@
             "tokenApi": ""
           },
           {
+            "title": "WC ENGLISH - AQ",
+            "link": "https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/fifa_ppv1/default/index.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "2c338a117d434ce4bbe3569231af90f1:a9633d901ee8a3f4f58ac314b5c5f4fb",
+            "tokenApi": ""
+          },
+          {
             "title": "Caz\u00e9TV BR - AQ",
             "link": "https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd",
             "logo": "",
@@ -949,6 +957,14 @@
             "logo": "",
             "type": 7,
             "api": "d185684e2330de5bea436daa094a5e86:014f0116154f5bf0050e03a6b0a23157",
+            "tokenApi": ""
+          },
+          {
+            "title": "TOFFEE BD - AQ",
+            "link": "https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-2/index.m3u8?edge-cache-token=Expires=1782498798~Starts=1782412398~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=_gqFE_F4uIRT9B0EuG2kDXz-OBM4x69zGwVEpIefgVKjINLT24MYGE4MmK7Ci1lV0Krxak2u8lAC3OqJp4GNBg",
+            "logo": "",
+            "type": 0,
+            "api": "",
             "tokenApi": ""
           },
           {
@@ -1182,46 +1198,6 @@
             "type": 7,
             "api": "ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1",
             "tokenApi": ""
-          },
-          {
-            "title": "CIGNAL ENGLISH",
-            "link": "https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/pp_ch2_pri/default/index.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "4fef00332d7e4fbc8f7005dfbf851a59:a6368c181358f3e527411a6c452c6a1a",
-            "tokenApi": ""
-          },
-          {
-            "title": "FS1 4K",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/enc/ykzl8x62g5/out/v1/e8f0a2204c5c4490b338a9c2165dd92a/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "996d39be9ee1c8e65d94d7bb973bdf0f:5306cdc1e410bc6ddb2530608c42b11b",
-            "tokenApi": ""
-          },
-          {
-            "title": "FS1 - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/enc/5pwvqnlxhr/out/v1/79e41681b80248788032c6880a06e7d3/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "996d39be9ee1c8e65d94d7bb973bdf0f:5306cdc1e410bc6ddb2530608c42b11b",
-            "tokenApi": ""
-          },
-          {
-            "title": "TRT SPORTS 2K",
-            "link": "https://rxne77juptdeyke3tytvgqwyh.medya.trt.com.tr/master.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "Sporza DUTCH - AQ",
-            "link": "https://live.vrtcdn.be/groupd/live/0761024f-37fe-4254-bc37-e95d7c62b2d1/playout.isml/.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "7c0a14fc7dc3c641af8cb6506431a628:f318ff7c01cca20c4a5b3d91074ca460",
-            "tokenApi": ""
           }
         ]
       },
@@ -1307,14 +1283,6 @@
             "tokenApi": ""
           },
           {
-            "title": "ARABIC LIVE - AQ",
-            "link": "https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/dpXv_Bj52CxsfzkpeY2HfAG9GNFBl7qI6s8HSUWcyRO-cjXHZqH9jkGzhEIgwNcw6R5ZRRUbA8ZV7S0DXKMrkQ/transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/dynamic_delta.m3u8?type=live",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
             "title": "VIX SPANISH - AQ",
             "link": "https://vod-sev-orbit2-s2.izzigo.tv/out/u/startover/dash/VIX-MUNDIAL-90-HD/default.mpd",
             "logo": "",
@@ -1323,8 +1291,8 @@
             "tokenApi": ""
           },
           {
-            "title": "RTB GOLIVE - AQ",
-            "link": "https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8",
+            "title": "TOFFEE BD - AQ",
+            "link": "https://prod-cdn01-live.toffeelive.com/live/FIFA-2026/index.m3u8?edge-cache-token=Expires=1782498798~Starts=1782412398~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=_gqFE_F4uIRT9B0EuG2kDXz-OBM4x69zGwVEpIefgVKjINLT24MYGE4MmK7Ci1lV0Krxak2u8lAC3OqJp4GNBg",
             "logo": "",
             "type": 0,
             "api": "",
@@ -1333,6 +1301,14 @@
           {
             "title": "BBC SPORTS HD",
             "link": "https://chatgpt.hereisman.net/playlist/52271/load-playlist?|Referer=https://gooz.aapmains.net",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "ISCREEN BD - AQ",
+            "link": "https://pastebin.com/raw/5U4SGEwY?e=.m3u8|Referer=https://iscreen.com.bd/",
             "logo": "",
             "type": 0,
             "api": "",
@@ -1357,14 +1333,6 @@
           {
             "title": "IRIB 4K",
             "link": "https://ncdn.telewebion.ir/faratar/live/playlist.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "ELTA SPORTS - AQ",
-            "link": "https://drmteste-hamivideo.cdn.hinet.net/live/pool/hamitv-live166/hls-ae-fhd-4s-ma/index.m3u8",
             "logo": "",
             "type": 0,
             "api": "",
@@ -1528,46 +1496,6 @@
             "logo": "",
             "type": 7,
             "api": "ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1",
-            "tokenApi": ""
-          },
-          {
-            "title": "CIGNAL ENGLISH",
-            "link": "https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/pp_ch2_pri/default/index.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "4fef00332d7e4fbc8f7005dfbf851a59:a6368c181358f3e527411a6c452c6a1a",
-            "tokenApi": ""
-          },
-          {
-            "title": "FS1 4K",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/enc/ykzl8x62g5/out/v1/e8f0a2204c5c4490b338a9c2165dd92a/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "996d39be9ee1c8e65d94d7bb973bdf0f:5306cdc1e410bc6ddb2530608c42b11b",
-            "tokenApi": ""
-          },
-          {
-            "title": "FS1 - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/enc/5pwvqnlxhr/out/v1/79e41681b80248788032c6880a06e7d3/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "996d39be9ee1c8e65d94d7bb973bdf0f:5306cdc1e410bc6ddb2530608c42b11b",
-            "tokenApi": ""
-          },
-          {
-            "title": "TRT SPORTS 2K",
-            "link": "https://rxne77juptdeyke3tytvgqwyh.medya.trt.com.tr/master.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "Sporza DUTCH - AQ",
-            "link": "https://live.vrtcdn.be/groupd/live/0761024f-37fe-4254-bc37-e95d7c62b2d1/playout.isml/.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "7c0a14fc7dc3c641af8cb6506431a628:f318ff7c01cca20c4a5b3d91074ca460",
             "tokenApi": ""
           }
         ]
