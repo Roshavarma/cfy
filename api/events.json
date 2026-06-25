@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-25T00:31:25.662544",
+  "last_updated": "2026-06-25T00:41:16.840878",
   "event_count": 52,
   "events": {
     "events": [
@@ -1965,18 +1965,93 @@
         "channels_data": [
           {
             "title": "FOX SPORTS - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+            "logo": "",
+            "type": 7,
+            "api": "f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7",
+            "tokenApi": ""
+          },
+          {
+            "title": "TSN SPORTS - AQ",
+            "link": "https://otte-qw.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+            "logo": "",
+            "type": 7,
+            "api": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d",
+            "tokenApi": ""
+          },
+          {
+            "title": "FOX ENGLISH - AQ",
+            "link": "https://otte-qw.live.pv-cdn.net/gru-nitro/live/clients/dash/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+            "logo": "",
+            "type": 7,
+            "api": "f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7",
+            "tokenApi": ""
+          },
+          {
+            "title": "CANAL SPORTS - AQ",
+            "link": "https://otte-qw.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/ntkdl68eob/out/v1/bd5dfb7676994383881bc6e71877d29d/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+            "logo": "",
+            "type": 7,
+            "api": "d695093ea3e66d75a4d213a3e2cbf360:01be3f645e89a067d2786c295f68dde4",
+            "tokenApi": ""
+          },
+          {
+            "title": "TELEMUNDO - AQ",
+            "link": "https://cun-live1-ott.izzigo.tv/out/u/dash/NOG1/TELEMUNDO-ARIZONA-USA-TCS-HD/default.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "1efe4add8fdf327c5f8d2a1c195e5c71:4f50e6f011e60ca01ee561f27187e78f",
+            "tokenApi": ""
+          },
+          {
+            "title": "CT SPORTS - AQ",
+            "link": "https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
+            "tokenApi": ""
+          },
+          {
+            "title": "D SPORTS ES - AQ",
+            "link": "https://otte-qw.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/x0srg3jjpz/out/v1/f779c49314394d61886d63f58d9d52e4/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+            "logo": "",
+            "type": 7,
+            "api": "4f4c3a9912ea752e88f4497864a1bc8b:278128004fe8c6ffb2cd2a0c154a241a",
+            "tokenApi": ""
+          },
+          {
+            "title": "CAZE TV BR - AQ",
+            "link": "https://otte-qw.live.pv-cdn.net/fra-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+            "logo": "",
+            "type": 7,
+            "api": "34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 10083,
+        "title": "South Africa vs South Korea",
+        "image": "null",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "South Africa",
+          "teamB": "South Korea",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/4736/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/4735/image",
+          "eventName": "Football",
+          "isHot": "1",
+          "Status": "Upcoming",
+          "startTime": "2026/06/25 01:00:00 +0000",
+          "endTime": "2026/06/25 03:00:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "FOX SPORTS - AQ",
             "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cizlveblk4/out/v1/e5c36c41621e4384b80427d87199433a/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
             "logo": "",
             "type": 7,
             "api": "d7d78ea2021a29541136bd5dc8352fe7:6425ac4c0cdf906fe0cce5cf40dc8933",
-            "tokenApi": ""
-          },
-          {
-            "title": "TIPIK FRENCH - AQ",
-            "link": "https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/dash/.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a",
             "tokenApi": ""
           },
           {
@@ -1985,6 +2060,14 @@
             "logo": "",
             "type": 7,
             "api": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0",
+            "tokenApi": ""
+          },
+          {
+            "title": "TIPIK FRENCH - AQ",
+            "link": "https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/dash/.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a",
             "tokenApi": ""
           },
           {
@@ -2017,33 +2100,6 @@
             "logo": "",
             "type": 7,
             "api": "ac7abaa9c9481aacfbdac64fc3ec3312:c0c504a2ed2e70b879a650b8770a38c6",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 10083,
-        "title": "South Africa vs South Korea",
-        "image": "null",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "South Africa",
-          "teamB": "South Korea",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/4736/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/4735/image",
-          "eventName": "Football",
-          "isHot": "1",
-          "Status": "Upcoming",
-          "startTime": "2026/06/25 01:00:00 +0000",
-          "endTime": "2026/06/25 03:00:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "Live 1",
-            "link": "ok",
-            "logo": "",
-            "type": 0,
-            "api": "",
             "tokenApi": ""
           }
         ]
@@ -3436,7 +3492,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/3656/image",
           "eventName": "Baseball",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/06/25 00:40:00 +0000",
           "endTime": "2026/06/25 04:00:06 +0000"
         },
