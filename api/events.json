@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-25T22:31:27.480917",
+  "last_updated": "2026-06-25T22:41:14.938955",
   "event_count": 43,
   "events": {
     "events": [
@@ -1527,10 +1527,10 @@
           },
           {
             "title": "M6 FRANCE - AQ",
-            "link": "https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_cenc00/dash-short-hd.mpd",
+            "link": "https://edge-fastly-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_cenc00/dash-short-hd.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
             "logo": "",
             "type": 7,
-            "api": "433ffba670963e70857859a9dff4be04:51ede3a821229fe81e71282c8eff80e3",
+            "api": "1c285ebc98483383b938f2aac331410c:10accd30d969402cf0bb0fb99ad09283",
             "tokenApi": ""
           },
           {
@@ -1539,30 +1539,6 @@
             "logo": "",
             "type": 7,
             "api": "ac7abaa9c9481aacfbdac64fc3ec3312:c0c504a2ed2e70b879a650b8770a38c6",
-            "tokenApi": ""
-          },
-          {
-            "title": "ARABIC LIVE - AQ",
-            "link": "https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/dpXv_Bj52CxsfzkpeY2HfAG9GNFBl7qI6s8HSUWcyRO-cjXHZqH9jkGzhEIgwNcw6R5ZRRUbA8ZV7S0DXKMrkQ/transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/dynamic_delta.m3u8?type=live",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "VIX SPANISH - AQ",
-            "link": "https://vod-sev-orbit2-s2.izzigo.tv/out/u/startover/dash/VIX-MUNDIAL-90-HD/default.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "75074a0cbd83f5b72fb3e5c1495252a9:a4a0df04b2d28f2160cead2ecdeb7203",
-            "tokenApi": ""
-          },
-          {
-            "title": "RTB GOLIVE - AQ",
-            "link": "https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
             "tokenApi": ""
           },
           {
@@ -1598,14 +1574,6 @@
             "tokenApi": ""
           },
           {
-            "title": "ELTA SPORTS - AQ",
-            "link": "https://drmteste-hamivideo.cdn.hinet.net/live/pool/hamitv-live166/hls-ae-fhd-4s-ma/index.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
             "title": "CT SPORTS - AQ",
             "link": "https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cenc.mpd",
             "logo": "",
@@ -1627,22 +1595,6 @@
             "logo": "",
             "type": 7,
             "api": "9145a6e0f778e61866f573d4944dd533:d02173d40515fea5c83944f21d0f3114",
-            "tokenApi": ""
-          },
-          {
-            "title": "beIN ARABIC - AQ",
-            "link": "https://raw.githubusercontent.com/ON2026/1smas/refs/heads/main/mx1app2.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "MATCH! FUTBOL HD",
-            "link": "https://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_hd/17_89756005/1080/e6bef86de8a133cd7b27deb040758a00/4796141934.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
             "tokenApi": ""
           },
           {
@@ -1764,46 +1716,6 @@
             "type": 7,
             "api": "ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1",
             "tokenApi": ""
-          },
-          {
-            "title": "CIGNAL ENGLISH",
-            "link": "https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/pp_ch2_pri/default/index.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "4fef00332d7e4fbc8f7005dfbf851a59:a6368c181358f3e527411a6c452c6a1a",
-            "tokenApi": ""
-          },
-          {
-            "title": "FS1 4K",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/enc/ykzl8x62g5/out/v1/e8f0a2204c5c4490b338a9c2165dd92a/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "996d39be9ee1c8e65d94d7bb973bdf0f:5306cdc1e410bc6ddb2530608c42b11b",
-            "tokenApi": ""
-          },
-          {
-            "title": "FS1 - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/enc/5pwvqnlxhr/out/v1/79e41681b80248788032c6880a06e7d3/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "996d39be9ee1c8e65d94d7bb973bdf0f:5306cdc1e410bc6ddb2530608c42b11b",
-            "tokenApi": ""
-          },
-          {
-            "title": "TRT SPORTS 2K",
-            "link": "https://rxne77juptdeyke3tytvgqwyh.medya.trt.com.tr/master.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "Sporza DUTCH - AQ",
-            "link": "https://live.vrtcdn.be/groupd/live/0761024f-37fe-4254-bc37-e95d7c62b2d1/playout.isml/.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "7c0a14fc7dc3c641af8cb6506431a628:f318ff7c01cca20c4a5b3d91074ca460",
-            "tokenApi": ""
           }
         ]
       },
@@ -1866,34 +1778,10 @@
           },
           {
             "title": "M6 FRANCE - AQ",
-            "link": "https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_cenc00/dash-short-hd.mpd",
+            "link": "https://edge-fastly-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_cenc00/dash-short-hd.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
             "logo": "",
             "type": 7,
-            "api": "433ffba670963e70857859a9dff4be04:51ede3a821229fe81e71282c8eff80e3",
-            "tokenApi": ""
-          },
-          {
-            "title": "ARABIC LIVE - AQ",
-            "link": "https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/dpXv_Bj52CxsfzkpeY2HfAG9GNFBl7qI6s8HSUWcyRO-cjXHZqH9jkGzhEIgwNcw6R5ZRRUbA8ZV7S0DXKMrkQ/transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/dynamic_delta.m3u8?type=live",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "VIX SPANISH - AQ",
-            "link": "https://vod-sev-orbit2-s2.izzigo.tv/out/u/startover/dash/VIX-MUNDIAL-90-HD/default.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "75074a0cbd83f5b72fb3e5c1495252a9:a4a0df04b2d28f2160cead2ecdeb7203",
-            "tokenApi": ""
-          },
-          {
-            "title": "RTB GOLIVE - AQ",
-            "link": "https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
+            "api": "1c285ebc98483383b938f2aac331410c:10accd30d969402cf0bb0fb99ad09283",
             "tokenApi": ""
           },
           {
@@ -2947,7 +2835,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/3655/image",
           "eventName": "Baseball",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/06/25 22:40:00 +0000",
           "endTime": "2026/06/26 02:00:51 +0000"
         },
