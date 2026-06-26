@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-26T17:51:15.801877",
+  "last_updated": "2026-06-26T18:01:34.672304",
   "event_count": 41,
   "events": {
     "events": [
@@ -484,9 +484,9 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/187755/image",
           "eventName": "Cricket",
           "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/06/26 10:00:58 +0000",
-          "endTime": "2026/06/26 18:30:03 +0000"
+          "Status": "Upcoming",
+          "startTime": "2026/06/27 10:00:46 +0000",
+          "endTime": "2026/06/27 18:30:09 +0000"
         },
         "channels_data": [
           {
@@ -969,6 +969,14 @@
             "logo": "",
             "type": 7,
             "api": "6ffcc00004008873e754e8e743a32900:1f9207b15bbd497222b3a3013781db49",
+            "tokenApi": ""
+          },
+          {
+            "title": "SKY MAIN EVENT",
+            "link": "https://tmaxapp.site/skymainevent.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
             "tokenApi": ""
           },
           {
