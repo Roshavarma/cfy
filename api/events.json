@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-26T03:01:32.734177",
-  "event_count": 32,
+  "last_updated": "2026-06-26T03:11:04.748396",
+  "event_count": 29,
   "events": {
     "events": [
       {
@@ -566,7 +566,7 @@
           },
           {
             "title": "WC ENGLISH - AQ",
-            "link": "https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/fifa_ppv1/default/index.mpd",
+            "link": "https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/fifa_ppv1/default/index.mpd?|",
             "logo": "",
             "type": 7,
             "api": "2c338a117d434ce4bbe3569231af90f1:a9633d901ee8a3f4f58ac314b5c5f4fb",
@@ -1282,19 +1282,19 @@
       },
       {
         "id": 10212,
-        "title": "India Women vs Bangladesh Women",
+        "title": "Pakistan Women vs Netherlands Women",
         "image": "null",
         "cat": "Cricket",
         "eventInfo": {
-          "teamA": "India Women",
-          "teamB": "Bangladesh Women",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/213119/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/187809/image",
+          "teamA": "Pakistan Women",
+          "teamB": "Netherlands Women",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/187808/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/417753/image",
           "eventName": "Cricket",
           "isHot": "0",
-          "Status": "Finish",
-          "startTime": "2026/06/25 13:30:00 +0000",
-          "endTime": "2026/06/25 17:08:09 +0000"
+          "Status": "Upcoming",
+          "startTime": "2026/06/27 09:30:39 +0000",
+          "endTime": "2026/06/27 13:30:44 +0000"
         },
         "channels_data": [
           {
@@ -1528,111 +1528,6 @@
           {
             "title": "",
             "link": "ok",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 10269,
-        "title": "Boston Red Sox vs New York Yankees",
-        "image": "null",
-        "cat": "Baseball",
-        "eventInfo": {
-          "teamA": "Red Sox",
-          "teamB": "Yankees",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/3646/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/3654/image",
-          "eventName": "Baseball",
-          "isHot": "0",
-          "Status": "Finish",
-          "startTime": "2026/06/25 23:10:00 +0000",
-          "endTime": "2026/06/26 02:15:40 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "Live 1",
-            "link": "https://chatgpt.hereisman.net/playlist/52532/load-playlist?|Referer=https://gooz.aapmains.net",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "HD SERVER",
-            "link": "https://mainstreams.pro/hls/ijfnakfidch22.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streams.center&Origin=https://streams.center",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 10270,
-        "title": "New York Mets vs Chicago Cubs",
-        "image": "null",
-        "cat": "Baseball",
-        "eventInfo": {
-          "teamA": "Mets",
-          "teamB": "Cubs",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/3629/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/3627/image",
-          "eventName": "Baseball",
-          "isHot": "0",
-          "Status": "Finish",
-          "startTime": "2026/06/25 23:10:00 +0000",
-          "endTime": "2026/06/26 02:15:46 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "Live 1",
-            "link": "https://chatgpt.hereisman.net/playlist/52530/load-playlist?|Referer=https://gooz.aapmains.net",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "HD SERVER",
-            "link": "https://mainstreams.pro/hls/ojzkajnach21.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streams.center&Origin=https://streams.center",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 10271,
-        "title": "St. Louis Cardinals vs Arizona Diamondbacks",
-        "image": "null",
-        "cat": "Baseball",
-        "eventInfo": {
-          "teamA": "Cardinals",
-          "teamB": "Diamondbacks",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/3632/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/3640/image",
-          "eventName": "Baseball",
-          "isHot": "0",
-          "Status": "Finish",
-          "startTime": "2026/06/25 23:45:00 +0000",
-          "endTime": "2026/06/26 02:45:48 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "Live 1",
-            "link": "https://chatgpt.hereisman.net/playlist/52536/load-playlist?|Referer=https://gooz.aapmains.net",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "HD SERVER",
-            "link": "https://mainstreams.pro/hls/jnzkdzjfanch23.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streams.center&Origin=https://streams.center",
             "logo": "",
             "type": 0,
             "api": "",
@@ -1922,11 +1817,11 @@
             "tokenApi": ""
           },
           {
-            "title": "RTE SPORTS FHD",
-            "link": "https://dai.google.com/linear/dash/pa/event/antwa0EiQm2PoHtx4rBtVw/stream/9217f1b8-7d77-4590-8a52-4917bcfaeed2:GRQ/manifest.mpd",
+            "title": "M6 SPORTS FHD",
+            "link": "https://edge-fastly-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_cenc00/dash-short-hd.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
             "logo": "",
             "type": 7,
-            "api": "d816287e21496989eae1312925a423c5:00da00f13180e7e6cd5ce87d1c974e8d",
+            "api": "1c285ebc98483383b938f2aac331410c:10accd30d969402cf0bb0fb99ad09283",
             "tokenApi": ""
           }
         ]
