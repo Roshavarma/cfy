@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-26T03:21:04.537186",
-  "event_count": 29,
+  "last_updated": "2026-06-26T03:31:18.277058",
+  "event_count": 31,
   "events": {
     "events": [
       {
@@ -1822,6 +1822,60 @@
             "logo": "",
             "type": 7,
             "api": "1c285ebc98483383b938f2aac331410c:10accd30d969402cf0bb0fb99ad09283",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 10273,
+        "title": "Detroit Tigers vs Houston Astros",
+        "image": "null",
+        "cat": "Baseball",
+        "eventInfo": {
+          "teamA": "Detroit Tigers",
+          "teamB": "Houston Astros",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3648/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3655/image",
+          "eventName": "Baseball",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/06/26 22:40:57 +0000",
+          "endTime": "2026/06/27 01:40:02 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Live 1",
+            "link": "ok",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 10274,
+        "title": "Pittsburgh Pirates vs Cincinnati Reds",
+        "image": "null",
+        "cat": "Baseball",
+        "eventInfo": {
+          "teamA": "Pittsburgh Pirates",
+          "teamB": "Cincinnati Reds",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3637/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3633/image",
+          "eventName": "Baseball",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/06/26 22:40:57 +0000",
+          "endTime": "2026/06/27 01:40:02 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Live 1",
+            "link": "ok",
+            "logo": "",
+            "type": 0,
+            "api": "",
             "tokenApi": ""
           }
         ]
