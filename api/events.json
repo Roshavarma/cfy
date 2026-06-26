@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-26T21:21:09.473651",
+  "last_updated": "2026-06-26T21:31:29.209864",
   "event_count": 41,
   "events": {
     "events": [
@@ -1188,7 +1188,7 @@
           "teamAFlag": "https://img.sofascore.com/api/v1/team/4753/image",
           "teamBFlag": "https://img.sofascore.com/api/v1/team/4834/image",
           "eventName": "Football",
-          "isHot": "0",
+          "isHot": "1",
           "Status": "Upcoming",
           "startTime": "2026/06/27 00:00:00 +0000",
           "endTime": "2026/06/27 02:00:00 +0000"
@@ -1215,7 +1215,7 @@
           "teamAFlag": "https://img.sofascore.com/api/v1/team/4725/image",
           "teamBFlag": "https://img.sofascore.com/api/v1/team/4698/image",
           "eventName": "Football",
-          "isHot": "0",
+          "isHot": "true",
           "Status": "Upcoming",
           "startTime": "2026/06/27 00:00:00 +0000",
           "endTime": "2026/06/27 02:00:00 +0000"
@@ -1526,7 +1526,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/453162/image",
           "eventName": "Cricket",
           "isHot": "0",
-          "Status": "Live",
+          "Status": "Finish",
           "startTime": "2026/06/26 17:30:00 +0000",
           "endTime": "2026/06/26 21:30:45 +0000"
         },
@@ -1668,17 +1668,17 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/unique-tournament/20583/image",
           "eventName": "Cricket",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/06/26 21:30:00 +0000",
           "endTime": "2026/06/27 05:45:46 +0000"
         },
         "channels_data": [
           {
             "title": "WILLOW - AQ",
-            "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/nn1mbqcek0/out/v1/1b6cc824cef14f4494e8af6b853b5c13/cenc.mpd",
+            "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/pvls9poj3v/out/v1/141fa43a270a4d87bf00e1b0bd5bac99/cenc.mpd",
             "logo": "",
             "type": 7,
-            "api": "b09b6bbd3b089527100e2208d2b26ce0:a12c35aa0a4654870dfe921e168fd368",
+            "api": "09a7add5a258a5dc5db5aba58a5b8bf2:a9175d99a11e7ccf3d98917f6eec9472",
             "tokenApi": ""
           },
           {
@@ -1691,10 +1691,10 @@
           },
           {
             "title": "WILLOW - ALT",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/nn1mbqcek0/out/v1/1b6cc824cef14f4494e8af6b853b5c13/cenc.mpd",
+            "link": "https://abkyrm4aaaaaaaamfyfksth3wr44v.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/pvls9poj3v/out/v1/141fa43a270a4d87bf00e1b0bd5bac99/cenc.mpd",
             "logo": "",
             "type": 7,
-            "api": "b09b6bbd3b089527100e2208d2b26ce0:a12c35aa0a4654870dfe921e168fd368",
+            "api": "09a7add5a258a5dc5db5aba58a5b8bf2:a9175d99a11e7ccf3d98917f6eec9472",
             "tokenApi": ""
           },
           {
