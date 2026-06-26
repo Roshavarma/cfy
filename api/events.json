@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-26T09:31:29.734862",
+  "last_updated": "2026-06-26T09:41:12.519304",
   "event_count": 41,
   "events": {
     "events": [
@@ -482,11 +482,27 @@
         },
         "channels_data": [
           {
+            "title": "WILLOW - AQ",
+            "link": "https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/9shuubgs2n/out/v1/71d22d03b6d145c097696ceb34c94193/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "a1a1f05aaa3fd3bdbee4943cc2c93ae1:bee71825b52bd2810a0085b834d7da6e",
+            "tokenApi": ""
+          },
+          {
             "title": "SKY CRICKET - AQ",
             "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla",
             "logo": "",
             "type": 0,
             "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "WILLOW ALT",
+            "link": "https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/9shuubgs2n/out/v1/71d22d03b6d145c097696ceb34c94193/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "a1a1f05aaa3fd3bdbee4943cc2c93ae1:bee71825b52bd2810a0085b834d7da6e",
             "tokenApi": ""
           },
           {
@@ -507,7 +523,7 @@
           },
           {
             "title": "SonyLiv",
-            "link": "https://dai.google.com/ssai/event/XpIbI0pTQX-9mvR458k9aw/master.m3u8?hdnea=exp=1782419410~acl=/*~id=b13c7ca22427446aa65cacff732e5bd0-1782376200191~hmac=e47f0428cfdfd2606d6fac79c58df6067ee4d0bebb80a21346dd3b73709881c1|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:152.0) Gecko/20100101 Firefox/152.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=8f27d17b66e84dc4b57e21f81b43cd6f-1782379800208",
+            "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/20000293/England_2606/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:152.0) Gecko/20100101 Firefox/152.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=d891c613654604447b138ed563dc3e48-1782466200219",
             "logo": "",
             "type": 0,
             "api": "",
@@ -519,14 +535,6 @@
             "logo": "",
             "type": 0,
             "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "WILLOW - AQ",
-            "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/b6djbkac7i/out/v1/dcbd6e8854f347e88aa930f86749a874/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "65d2015d222aafe7d1848b800e5cf64c:d044090c84196787b83c540653cc52d2",
             "tokenApi": ""
           }
         ]
