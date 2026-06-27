@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-27T09:31:22.785288",
+  "last_updated": "2026-06-27T09:41:06.856568",
   "event_count": 39,
   "events": {
     "events": [
@@ -507,7 +507,7 @@
           },
           {
             "title": "SonyLiv",
-            "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/20000293/England_2606/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:152.0) Gecko/20100101 Firefox/152.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=d891c613654604447b138ed563dc3e48-1782466200219",
+            "link": "https://dai.google.com/ssai/event/ahLdkaRoSWavrsFLPU8THA/master.m3u8?hdnea=exp=1782592214~acl=/*~id=8aaddbbca7e2cf5bd61a43d82d2560b1-1782549000245~hmac=391bb99ea28c5b9d20513e97c67843fe3a16afc65aa1c65039fc01b89ff3bf5d|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:152.0) Gecko/20100101 Firefox/152.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=bd93df851991f163df797f8a338779ce-1782552600172",
             "logo": "",
             "type": 0,
             "api": "",
@@ -516,6 +516,14 @@
           {
             "title": "FOX CRICKET HD",
             "link": "https://tmaxapp.site/foxcricket.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "LOW SERVER",
+            "link": "http://193.47.62.42/hls/bbbbZQ.m3u8|referer=http://www.fawanews.sc/",
             "logo": "",
             "type": 0,
             "api": "",
@@ -853,16 +861,8 @@
             "tokenApi": ""
           },
           {
-            "title": "SKY SPORTS+",
+            "title": "SKY SPORTS PLUS",
             "link": "https://tmaxapp.site/skyplussd.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "SKY SPORT NZ",
-            "link": "https://tmaxapp.site/skynz2.m3u8",
             "logo": "",
             "type": 0,
             "api": "",
