@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-27T02:51:02.767553",
+  "last_updated": "2026-06-27T03:01:31.591977",
   "event_count": 34,
   "events": {
     "events": [
@@ -197,7 +197,7 @@
           "teamBFlag": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzZP7kZVz8XPUsapkhsNd-oO8yjHbAA2NXMRuEDPXZteAJRwIeIAUQo5U_6QA4mhPqXAeR5YPVY-Yu5hBVZcOIfWUUFvewgaC2bFmrSLu10iQgvBiLpB0vxEWz320Par_JDjKzTdCYYTcsA4dLb-TjD1fsXvMwGsb6XahN-Pq2ZsexcSsBITIxzXFRYEM/s1600/1000009833.jpg",
           "eventName": "WWE",
           "isHot": "0",
-          "Status": "Live",
+          "Status": "Finish",
           "startTime": "2026/06/27 00:00:46 +0000",
           "endTime": "2026/06/27 03:00:50 +0000"
         },
@@ -1737,7 +1737,7 @@
       },
       {
         "id": 10094,
-        "title": "Egypt vs Iran",
+        "title": "Egypt vs Irann",
         "image": "null",
         "cat": "Football",
         "eventInfo": {
@@ -1747,7 +1747,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/4766/image",
           "eventName": "Football",
           "isHot": "1",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/06/27 03:00:00 +0000",
           "endTime": "2026/06/27 05:00:00 +0000"
         },
@@ -1827,6 +1827,70 @@
           {
             "title": "IRIB 4K",
             "link": "https://ncdn.telewebion.ir/faratar/live/playlist.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "beiN ARABIC HD",
+            "link": "https://nhjjhhjhjjhfjj.pages.dev/1782536952/0376e569467d4477b2017bba0cc04b81/PifK9A2bBo47IOmsDBfKdT8aSHsnOMBNQv9aXFwneek/beinsportsmax-sa.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "FOX ENGLISH HD",
+            "link": "https://nhjjhhjhjjhfjj.pages.dev/1782536921/e051dfaf3cdd44f6b67a480ce7274cb4/9wbkIkVxNAdiJb-_dfxC2tYjIoNjQTg5S1tAYK0fbXE/fox-sports-1.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "TSN ENGLISH HD",
+            "link": "https://lb.xyzcloud3.xyz/tsn2/index.m3u8?|referer=https://xyzstreams.st/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "FOX SPORTS - HD",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cizlveblk4/out/v1/e5c36c41621e4384b80427d87199433a/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+            "logo": "",
+            "type": 7,
+            "api": "d7d78ea2021a29541136bd5dc8352fe7:6425ac4c0cdf906fe0cce5cf40dc8933",
+            "tokenApi": ""
+          },
+          {
+            "title": "FOX SPORTS 4K",
+            "link": "https://nhjjhhjhjjhfjj.pages.dev/1782536991/45f5ea3acae44221a0a7d4a1e6bc9d0a/1ESOM0Ok3ALDbqAwTHPicXb9fEpIxzp4XxMOsVVPICM/fox-sports-1-4k.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "FAST SERVER 1",
+            "link": "https://pulltx.jdnzrgm.com/live/hd-en-6MvZ6BDg885JoSWnbg.m3u8?txSecret=e0e299b2637573d27df3112284b4a242&txTime=6A3F6230",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "ARABIC LIVE FHD",
+            "link": "https://lb.xyzcloud3.xyz/bein2/index.m3u8?|referer=https://xyzstreams.st/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "NBC UNIVERSO HD",
+            "link": "https://lb.xyzcloud3.xyz/UNIVERSO/index.m3u8?|referer=https://xyzstreams.st/",
             "logo": "",
             "type": 0,
             "api": "",
@@ -1945,14 +2009,6 @@
             "tokenApi": ""
           },
           {
-            "title": "FUSSBALL 4K (GER)",
-            "link": "https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_uhd/DASH/index.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "1f09d5788fbbb03a053d03cc731f31a9:d493d5a70c793362324638f61d1726ac",
-            "tokenApi": ""
-          },
-          {
             "title": "ORF (GERMAN IP)",
             "link": "https://simplitv-live.mdn.ors.at/live/eds/orf_1_hd-1/dash4h/orf_1_hd-1.mpd",
             "logo": "",
@@ -1975,76 +2031,12 @@
             "type": 7,
             "api": "ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1",
             "tokenApi": ""
-          },
-          {
-            "title": "FOX SPORTS - HD",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cizlveblk4/out/v1/e5c36c41621e4384b80427d87199433a/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-            "logo": "",
-            "type": 7,
-            "api": "d7d78ea2021a29541136bd5dc8352fe7:6425ac4c0cdf906fe0cce5cf40dc8933",
-            "tokenApi": ""
-          },
-          {
-            "title": "TSN ENGLISH HD",
-            "link": "https://lb.xyzcloud3.xyz/tsn2/index.m3u8?|referer=https://xyzstreams.st/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "FOX ENGLISH HD",
-            "link": "https://nhjjhhjhjjhfjj.pages.dev/1782536921/e051dfaf3cdd44f6b67a480ce7274cb4/9wbkIkVxNAdiJb-_dfxC2tYjIoNjQTg5S1tAYK0fbXE/fox-sports-1.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "beiN ARABIC HD",
-            "link": "https://nhjjhhjhjjhfjj.pages.dev/1782536952/0376e569467d4477b2017bba0cc04b81/PifK9A2bBo47IOmsDBfKdT8aSHsnOMBNQv9aXFwneek/beinsportsmax-sa.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "FOX SPORTS 4K",
-            "link": "https://nhjjhhjhjjhfjj.pages.dev/1782536991/45f5ea3acae44221a0a7d4a1e6bc9d0a/1ESOM0Ok3ALDbqAwTHPicXb9fEpIxzp4XxMOsVVPICM/fox-sports-1-4k.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "ARABIC LIVE FHD",
-            "link": "https://lb.xyzcloud3.xyz/bein2/index.m3u8?|referer=https://xyzstreams.st/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "NBC UNIVERSO HD",
-            "link": "https://lb.xyzcloud3.xyz/UNIVERSO/index.m3u8?|referer=https://xyzstreams.st/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "FAST SERVER 1",
-            "link": "https://pulltx.jdnzrgm.com/live/hd-en-6MvZ6BDg885JoSWnbg.m3u8?txSecret=e0e299b2637573d27df3112284b4a242&txTime=6A3F6230",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
           }
         ]
       },
       {
         "id": 10095,
-        "title": "New Zealand vs Belgium",
+        "title": "New Zealand vs Belgiumm",
         "image": "null",
         "cat": "Football",
         "eventInfo": {
@@ -2054,7 +2046,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/4717/image",
           "eventName": "Football",
           "isHot": "1",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/06/27 03:00:00 +0000",
           "endTime": "2026/06/27 05:00:00 +0000"
         },
@@ -2089,14 +2081,6 @@
             "logo": "",
             "type": 7,
             "api": "03f12d6a3dbfd3a6fa7dd7f6417e0c11:ea07b87acdf2e45be824cde4a1cf3504",
-            "tokenApi": ""
-          },
-          {
-            "title": "TIPIK FRENCH - AQ",
-            "link": "https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/dash/.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a",
             "tokenApi": ""
           },
           {
@@ -2140,22 +2124,6 @@
             "tokenApi": ""
           },
           {
-            "title": "IRIB 4K",
-            "link": "https://ncdn.telewebion.ir/faratar/live/playlist.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "CT SPORTS - AQ",
-            "link": "https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
-            "tokenApi": ""
-          },
-          {
             "title": "TELEMUNDO HD",
             "link": "https://instreams.pro/US/NFLHD3/tracks-v1a1/mono.m3u8?|referer=https://instream.click/&origin=https://instream.click",
             "logo": "",
@@ -2164,19 +2132,75 @@
             "tokenApi": ""
           },
           {
-            "title": "MATCH! FUTBOL - AQ",
-            "link": "https://video.beeline.tv/live/d/channel319.isml/manifest-stb.mpd",
+            "title": "FAST SERVER 1",
+            "link": "https://pulltx.jdnzrgm.com/live/hd-en-6MvZ6BDhJQmD9yED1G.m3u8?txSecret=be0962eb776e2c61eda8cb6d6b26fa2b&txTime=6A3F6230",
             "logo": "",
-            "type": 7,
-            "api": "9145a6e0f778e61866f573d4944dd533:d02173d40515fea5c83944f21d0f3114",
+            "type": 0,
+            "api": "",
             "tokenApi": ""
           },
           {
-            "title": "TVP POLISH HD",
-            "link": "https://estreams.tv.nej.cz/dash/CH_TVP_SPORT_Portable.ism/playlist.mpd",
+            "title": "FOX ENGLISH HD",
+            "link": "https://nhjjhhjhjjhfjj.pages.dev/1782536732/8fb66a1a5272484f90a1e0a966624df7/WhSaOzFXrHtee4SlZYhnJ1utfCK0_8m_t6NS-s6w7qM/fox-usa.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "beiN ARABIC HD",
+            "link": "https://nhjjhhjhjjhfjj.pages.dev/1782536853/35e6f007a05a4fd78e7d28cac5005b01/gc-Q8aOIoPBaeD9yhEJMu0WqLihmaFg8-XxVHNoZB7g/beinsportsmax2-sa.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "CCTV SPORTS HD",
+            "link": "https://pullsgp.yyzb456.top/live/stream-506605_lhd.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "FOX ONE 4K",
+            "link": "https://lb.xyzcloud3.xyz/fox4k/index.m3u8?|referer=https://xyzstreams.st/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "TSN SPORTS 4K",
+            "link": "https://lb.xyzcloud3.xyz/tsn4k/index.m3u8?|referer=https://xyzstreams.st/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "TSN ENGLISH HD",
+            "link": "https://lb.xyzcloud3.xyz/tsn1/index.m3u8?|Referer=https://xyzstreams.st/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "FOX SPORTS 4K",
+            "link": "https://nhjjhhjhjjhfjj.pages.dev/1782536772/3bb069f59a41431d8dca06601cb34f29/Q4VkVbnO7OBslbV8BCq9etSF5ukha-JxjMdfXtj1g-E/fox4k-usa.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "FOX SPORTS - HD",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/zpfs5hlgya/out/v1/84b1d591a23640178a8e8aa43c6e59a7/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
             "logo": "",
             "type": 7,
-            "api": "0:0",
+            "api": "0cc2f872759c96de70237e6fa6de03d0:a879b1d38ed002d4018bce96f9219b8d",
             "tokenApi": ""
           },
           {
@@ -2205,7 +2229,7 @@
           },
           {
             "title": "BBC SPORTS SD",
-            "link": "Ok",
+            "link": "http://193.47.62.59/hls/GOOO.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
             "logo": "",
             "type": 0,
             "api": "",
@@ -2213,7 +2237,7 @@
           },
           {
             "title": "TV4 SPORTS SD",
-            "link": "Ok",
+            "link": "http://193.47.62.59/hls/RFRFRF.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
             "logo": "",
             "type": 0,
             "api": "",
@@ -2221,7 +2245,7 @@
           },
           {
             "title": "D SPORTS ES SD",
-            "link": "Ok",
+            "link": "http://193.47.62.59/hls/RFRFRFQQX.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
             "logo": "",
             "type": 0,
             "api": "",
@@ -2229,7 +2253,7 @@
           },
           {
             "title": "beiN SPORTS FR",
-            "link": "Ik",
+            "link": "http://193.47.62.47/hls/RFRFRFQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
             "logo": "",
             "type": 0,
             "api": "",
@@ -2260,14 +2284,6 @@
             "tokenApi": ""
           },
           {
-            "title": "FUSSBALL 4K (GER)",
-            "link": "https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_uhd/DASH/index.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "1f09d5788fbbb03a053d03cc731f31a9:d493d5a70c793362324638f61d1726ac",
-            "tokenApi": ""
-          },
-          {
             "title": "ORF (GERMAN IP)",
             "link": "https://simplitv-live.mdn.ors.at/live/eds/orf_1_hd-1/dash4h/orf_1_hd-1.mpd",
             "logo": "",
@@ -2289,62 +2305,6 @@
             "logo": "",
             "type": 7,
             "api": "ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1",
-            "tokenApi": ""
-          },
-          {
-            "title": "FOX SPORTS - HD",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/zpfs5hlgya/out/v1/84b1d591a23640178a8e8aa43c6e59a7/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-            "logo": "",
-            "type": 7,
-            "api": "0cc2f872759c96de70237e6fa6de03d0:a879b1d38ed002d4018bce96f9219b8d",
-            "tokenApi": ""
-          },
-          {
-            "title": "TSN ENGLISH HD",
-            "link": "https://lb.xyzcloud3.xyz/tsn1/index.m3u8?|Referer=https://xyzstreams.st/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "FOX ONE 4K",
-            "link": "https://lb.xyzcloud3.xyz/fox4k/index.m3u8?|referer=https://xyzstreams.st/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "TSN SPORTS 4K",
-            "link": "https://lb.xyzcloud3.xyz/tsn4k/index.m3u8?|referer=https://xyzstreams.st/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "FOX ENGLISH HD",
-            "link": "https://nhjjhhjhjjhfjj.pages.dev/1782536732/8fb66a1a5272484f90a1e0a966624df7/WhSaOzFXrHtee4SlZYhnJ1utfCK0_8m_t6NS-s6w7qM/fox-usa.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "beiN ARABIC HD",
-            "link": "https://nhjjhhjhjjhfjj.pages.dev/1782536853/35e6f007a05a4fd78e7d28cac5005b01/gc-Q8aOIoPBaeD9yhEJMu0WqLihmaFg8-XxVHNoZB7g/beinsportsmax2-sa.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "FOX SPORTS 4K",
-            "link": "https://nhjjhhjhjjhfjj.pages.dev/1782536772/3bb069f59a41431d8dca06601cb34f29/Q4VkVbnO7OBslbV8BCq9etSF5ukha-JxjMdfXtj1g-E/fox4k-usa.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
             "tokenApi": ""
           }
         ]
