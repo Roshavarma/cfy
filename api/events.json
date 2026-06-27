@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-27T08:20:55.437813",
-  "event_count": 20,
+  "last_updated": "2026-06-27T08:31:12.398525",
+  "event_count": 25,
   "events": {
     "events": [
       {
@@ -1079,6 +1079,141 @@
         "channels_data": [
           {
             "title": "",
+            "link": "ok",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 10263,
+        "title": "Boston Red Sox vs New York Yankees",
+        "image": "null",
+        "cat": "Baseball",
+        "eventInfo": {
+          "teamA": "Boston Red Sox",
+          "teamB": "New York Yankees",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3646/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3654/image",
+          "eventName": "Baseball",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/06/27 17:10:33 +0000",
+          "endTime": "2026/06/27 20:10:39 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "HD SERVER",
+            "link": "ok",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 10264,
+        "title": "Detroit Tigers vs Houston Astros",
+        "image": "null",
+        "cat": "Baseball",
+        "eventInfo": {
+          "teamA": "Detroit Tigers",
+          "teamB": "Houston Astros",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3648/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3655/image",
+          "eventName": "Baseball",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/06/27 17:10:33 +0000",
+          "endTime": "2026/06/27 20:10:39 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "HD SERVER",
+            "link": "ok",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 10265,
+        "title": "Toronto Blue Jays vs Texas Rangers",
+        "image": "null",
+        "cat": "Baseball",
+        "eventInfo": {
+          "teamA": "Toronto Blue Jays",
+          "teamB": "Texas Rangers",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3642/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3647/image",
+          "eventName": "Baseball",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/06/27 19:07:06 +0000",
+          "endTime": "2026/06/27 22:00:13 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "HD SERVER",
+            "link": "ok",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 10266,
+        "title": "Pittsburgh Pirates vs Cincinnati Reds",
+        "image": "null",
+        "cat": "Baseball",
+        "eventInfo": {
+          "teamA": "Pittsburgh Pirates",
+          "teamB": "Cincinnati Reds",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3637/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3633/image",
+          "eventName": "Baseball",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/06/27 20:05:16 +0000",
+          "endTime": "2026/06/27 23:00:20 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "HD SERVER",
+            "link": "ok",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 10267,
+        "title": "New York Mets vs Philadelphia Phillies",
+        "image": "null",
+        "cat": "Baseball",
+        "eventInfo": {
+          "teamA": "New York Mets",
+          "teamB": "Philadelphia Phillies",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3629/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3635/image",
+          "eventName": "Baseball",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/06/27 20:10:51 +0000",
+          "endTime": "2026/06/27 23:00:20 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "HD SERVER",
             "link": "ok",
             "logo": "",
             "type": 0,
