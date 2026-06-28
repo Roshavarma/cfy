@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-28T09:11:15.221901",
-  "event_count": 45,
+  "last_updated": "2026-06-28T09:21:15.347579",
+  "event_count": 44,
   "events": {
     "events": [
       {
@@ -673,7 +673,15 @@
         "channels_data": [
           {
             "title": "WILLOW - AQ",
-            "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/t1pm3hqfu8/out/v1/bf8327889d3648f4993d38fee45e6925/cenc.mpd",
+            "link": "https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/qen7i3mgzj/out/v1/d8b801ea1477401b9759bd7aa9fccd86/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "321beaffa646cda1512b2e09eb51d670:da91d675986084c80c0e2013d1efb085",
+            "tokenApi": ""
+          },
+          {
+            "title": "WILLOW ALT",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/t1pm3hqfu8/out/v1/bf8327889d3648f4993d38fee45e6925/cenc.mpd",
             "logo": "",
             "type": 7,
             "api": "b0834782ca43719ac4088e9b1e360578:df228a7544f6e6d9b9fc8dea82205daa",
@@ -685,14 +693,6 @@
             "logo": "",
             "type": 0,
             "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "WILLOW ALT",
-            "link": "https://a57live-pv-ta-amazon.akamaized.net/iad-nitro/live/clients/dash/enc/t1pm3hqfu8/out/v1/bf8327889d3648f4993d38fee45e6925/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "b0834782ca43719ac4088e9b1e360578:df228a7544f6e6d9b9fc8dea82205daa",
             "tokenApi": ""
           },
           {
@@ -898,7 +898,7 @@
         "channels_data": [
           {
             "title": "TAPMAD - AQ",
-            "link": "https://tapmad-play-81b2.samin36x.workers.dev/tapmad/event1.m3u8|user-agent=ExoPlayerDemo/6.4.36 (Linux;Android 11) AndroidXMedia3/1.4.1",
+            "link": "https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8|user-agent=ExoPlayerDemo/6.4.36 (Linux;Android 11) AndroidXMedia3/1.4.1",
             "logo": "",
             "type": 0,
             "api": "",
@@ -915,6 +915,14 @@
           {
             "title": "FANCODE - IN",
             "link": "https://in-mc-fblive.fancode.com/mumbai/143399_english_hls_b76266f66a74436_1ta-di_h264/index.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "TAPMAD HD",
+            "link": "https://premierleagpl23.akamaized.net/hls/live/2107108/TapAds777/master.m3u8",
             "logo": "",
             "type": 0,
             "api": "",
@@ -1369,33 +1377,6 @@
           "Status": "Upcoming",
           "startTime": "2026/07/04 01:30:00 +0000",
           "endTime": "2026/07/04 03:50:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 10314,
-        "title": "San Diego Padres vs Los Angeles Dodgers",
-        "image": "",
-        "cat": "Baseball",
-        "eventInfo": {
-          "teamA": "San Diego Padres",
-          "teamB": "Los Angeles Dodgers",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/3636/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/3638/image",
-          "eventName": "Baseball",
-          "isHot": "0",
-          "Status": "Upcoming",
-          "startTime": "2026/06/28 20:10:00 +0000",
-          "endTime": "2026/06/28 23:10:00 +0000"
         },
         "channels_data": [
           {
