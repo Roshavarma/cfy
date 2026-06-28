@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-28T22:31:26.174307",
+  "last_updated": "2026-06-28T22:41:08.341878",
   "event_count": 44,
   "events": {
     "events": [
@@ -795,11 +795,27 @@
         },
         "channels_data": [
           {
+            "title": "WILLOW - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/jmstp8nvrw/out/v1/52e62cdb3f6f4fd59a62716eedb03005/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "455826bfdc678b8c01ec3411ac8fbb1d:8e2ffa88a2e3994dd9bcef1d598978df",
+            "tokenApi": ""
+          },
+          {
             "title": "SKY CRICKET - AQ",
             "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla",
             "logo": "",
             "type": 0,
             "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "WILLOW - ALT",
+            "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/jmstp8nvrw/out/v1/52e62cdb3f6f4fd59a62716eedb03005/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "455826bfdc678b8c01ec3411ac8fbb1d:8e2ffa88a2e3994dd9bcef1d598978df",
             "tokenApi": ""
           },
           {
@@ -824,14 +840,6 @@
             "logo": "",
             "type": 0,
             "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "WILLOW - ALT",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/iwul0rynej/out/v1/81a7c51f0dcb41c7bf837c02449b46c8/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "dc736ed6f946b2dc2306251f44cc0859:be6032330791ba97bfeace844ce2abb6",
             "tokenApi": ""
           }
         ]
@@ -1820,6 +1828,14 @@
         },
         "channels_data": [
           {
+            "title": "Live 1",
+            "link": "https://chatgpt.hereisman.net/playlist/52694/load-playlist?|Referer=https://gooz.aapmains.net",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
             "title": "HD SERVER",
             "link": "https://instreams.pro/US/MLB15/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://instream.click/jwp-us.php?stream=MLB15&Origin=https://instream.click/jwp-us.php?stream=MLB15",
             "logo": "",
@@ -1828,7 +1844,7 @@
             "tokenApi": ""
           },
           {
-            "title": "Live 1",
+            "title": "Live 2",
             "link": "https://edge2caster.pro/hls/hfzljfahzcax29.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streams.center&Origin=https://streams.center",
             "logo": "",
             "type": 0,
