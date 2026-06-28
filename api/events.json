@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-28T09:51:07.958463",
+  "last_updated": "2026-06-28T10:01:32.816658",
   "event_count": 44,
   "events": {
     "events": [
@@ -524,11 +524,19 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/187755/image",
           "eventName": "Cricket",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/06/28 10:00:05 +0000",
           "endTime": "2026/06/28 18:30:16 +0000"
         },
         "channels_data": [
+          {
+            "title": "WILLOW - AQ",
+            "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/51hxe9fvk4/out/v1/3a105f38b2524e8ebebed7da7bcd9da9/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "1e717bd1a85d07de29b78bc5369cc2a1:8ee15cad679a169ab17eceefc4eb7afa",
+            "tokenApi": ""
+          },
           {
             "title": "SKY CRICKET - AQ",
             "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla",
@@ -539,10 +547,10 @@
           },
           {
             "title": "WILLOW ALT",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/h6yoxnltlz/out/v1/f8e35f2f8441467fafd4a5398a71ecbe/cenc.mpd",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/51hxe9fvk4/out/v1/3a105f38b2524e8ebebed7da7bcd9da9/cenc.mpd",
             "logo": "",
             "type": 7,
-            "api": "a58eaea09c8159c8e4a3bea3064dfa3c:56b318070e628a9e3e7501392ef472a5",
+            "api": "1e717bd1a85d07de29b78bc5369cc2a1:8ee15cad679a169ab17eceefc4eb7afa",
             "tokenApi": ""
           },
           {
@@ -583,14 +591,6 @@
             "logo": "",
             "type": 0,
             "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "WILLOW - AQ",
-            "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/h6yoxnltlz/out/v1/f8e35f2f8441467fafd4a5398a71ecbe/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "a58eaea09c8159c8e4a3bea3064dfa3c:56b318070e628a9e3e7501392ef472a5",
             "tokenApi": ""
           }
         ]
