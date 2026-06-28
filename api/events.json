@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-28T07:21:16.950945",
+  "last_updated": "2026-06-28T07:31:26.187706",
   "event_count": 45,
   "events": {
     "events": [
@@ -891,11 +891,19 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/187744/image",
           "eventName": "Cricket",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/06/28 07:30:57 +0000",
           "endTime": "2026/06/28 16:30:10 +0000"
         },
         "channels_data": [
+          {
+            "title": "TAPMAD - AQ",
+            "link": "https://tapmad-play-81b2.samin36x.workers.dev/tapmad/event1.m3u8|user-agent=ExoPlayerDemo/6.4.36 (Linux;Android 11) AndroidXMedia3/1.4.1",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
           {
             "title": "TNT SPORTS - AQ",
             "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/2szrn2y3ep/out/v1/eacd8a4207dc4f0d9661a4b085b8fdd9/cenc.mpd",
