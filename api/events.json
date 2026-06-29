@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-29T04:01:30.758140",
-  "event_count": 32,
+  "last_updated": "2026-06-29T04:11:09.824275",
+  "event_count": 42,
   "events": {
     "events": [
       {
@@ -1811,41 +1811,133 @@
         ]
       },
       {
-        "id": 10315,
-        "title": "Boston Red Sox vs New York Yankees",
+        "id": 10332,
+        "title": "Baltimore Orioles vs Chicago White Sox",
+        "image": "",
+        "cat": "Baseball",
+        "eventInfo": {
+          "teamA": "Baltimore Orioles",
+          "teamB": "Chicago White Sox",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3652/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3644/image",
+          "eventName": "Baseball",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/06/29 22:35:00 +0000",
+          "endTime": "2026/06/30 01:35:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Live 1",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 10333,
+        "title": "Philadelphia Phillies vs Pittsburgh Pirates",
+        "image": "",
+        "cat": "Baseball",
+        "eventInfo": {
+          "teamA": "Philadelphia Phillies",
+          "teamB": "Pittsburgh Pirates",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3635/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3637/image",
+          "eventName": "Baseball",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/06/29 22:40:00 +0000",
+          "endTime": "2026/06/30 01:40:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Live 1",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 10334,
+        "title": "New York Yankees vs Detroit Tigers",
+        "image": "",
+        "cat": "Baseball",
+        "eventInfo": {
+          "teamA": "New York Yankees",
+          "teamB": "Detroit Tigers",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3654/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3648/image",
+          "eventName": "Baseball",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/06/29 23:05:00 +0000",
+          "endTime": "2026/06/30 02:05:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Live 1",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 10335,
+        "title": "Toronto Blue Jays vs New York Mets",
+        "image": "",
+        "cat": "Baseball",
+        "eventInfo": {
+          "teamA": "Toronto Blue Jays",
+          "teamB": "New York Mets",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3642/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3629/image",
+          "eventName": "Baseball",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/06/29 23:07:00 +0000",
+          "endTime": "2026/06/30 02:07:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Live 1",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 10336,
+        "title": "Boston Red Sox vs Washington Nationals",
         "image": "",
         "cat": "Baseball",
         "eventInfo": {
           "teamA": "Boston Red Sox",
-          "teamB": "New York Yankees",
+          "teamB": "Washington Nationals",
           "teamAFlag": "https://img.sofascore.com/api/v1/team/3646/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/3654/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/5930/image",
           "eventName": "Baseball",
           "isHot": "0",
-          "Status": "Finish",
-          "startTime": "2026/06/28 23:20:00 +0000",
-          "endTime": "2026/06/29 02:20:00 +0000"
+          "Status": "Upcoming",
+          "startTime": "2026/06/29 23:10:00 +0000",
+          "endTime": "2026/06/30 02:10:00 +0000"
         },
         "channels_data": [
           {
             "title": "Live 1",
-            "link": "https://chatgpt.hereisman.net/playlist/52694/load-playlist?|Referer=https://gooz.aapmains.net",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "HD SERVER",
-            "link": "https://instreams.pro/US/MLB15/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://instream.click/jwp-us.php?stream=MLB15&Origin=https://instream.click/jwp-us.php?stream=MLB15",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "Live 2",
-            "link": "https://edge2caster.pro/hls/hfzljfahzcax29.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streams.center&Origin=https://streams.center",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
             "logo": "",
             "type": 0,
             "api": "",
@@ -1854,41 +1946,160 @@
         ]
       },
       {
-        "id": 10329,
-        "title": "San Diego Padres vs Los Angeles Dodgers",
+        "id": 10337,
+        "title": "Cleveland Guardians vs Texas Rangers",
         "image": "",
         "cat": "Baseball",
         "eventInfo": {
-          "teamA": "San Diego Padres",
+          "teamA": "Cleveland Guardians",
+          "teamB": "Texas Rangers",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3650/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3647/image",
+          "eventName": "Baseball",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/06/29 23:10:00 +0000",
+          "endTime": "2026/06/30 02:10:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Live 1",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 10338,
+        "title": "Milwaukee Brewers vs Cincinnati Reds",
+        "image": "",
+        "cat": "Baseball",
+        "eventInfo": {
+          "teamA": "Milwaukee Brewers",
+          "teamB": "Cincinnati Reds",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3630/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3633/image",
+          "eventName": "Baseball",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/06/29 23:40:00 +0000",
+          "endTime": "2026/06/30 02:40:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Live 1",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 10339,
+        "title": "Chicago Cubs vs San Diego Padres",
+        "image": "",
+        "cat": "Baseball",
+        "eventInfo": {
+          "teamA": "Chicago Cubs",
+          "teamB": "San Diego Padres",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3627/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3636/image",
+          "eventName": "Baseball",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/06/30 00:05:00 +0000",
+          "endTime": "2026/06/30 03:05:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Live 1",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 10340,
+        "title": "Houston Astros vs Minnesota Twins",
+        "image": "",
+        "cat": "Baseball",
+        "eventInfo": {
+          "teamA": "Houston Astros",
+          "teamB": "Minnesota Twins",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3655/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3649/image",
+          "eventName": "Baseball",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/06/30 00:10:00 +0000",
+          "endTime": "2026/06/30 03:10:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Live 1",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 10341,
+        "title": "Colorado Rockies vs Miami Marlins",
+        "image": "",
+        "cat": "Baseball",
+        "eventInfo": {
+          "teamA": "Colorado Rockies",
+          "teamB": "Miami Marlins",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3628/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3639/image",
+          "eventName": "Baseball",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/06/30 00:40:00 +0000",
+          "endTime": "2026/06/30 03:40:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Live 1",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 10342,
+        "title": "Athletics vs Los Angeles Dodgers",
+        "image": "",
+        "cat": "Baseball",
+        "eventInfo": {
+          "teamA": "Athletics",
           "teamB": "Los Angeles Dodgers",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/3636/image",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3645/image",
           "teamBFlag": "https://img.sofascore.com/api/v1/team/3638/image",
           "eventName": "Baseball",
           "isHot": "0",
-          "Status": "Finish",
-          "startTime": "2026/06/28 20:10:00 +0000",
-          "endTime": "2026/06/28 23:10:00 +0000"
+          "Status": "Upcoming",
+          "startTime": "2026/06/30 01:40:00 +0000",
+          "endTime": "2026/06/30 04:40:00 +0000"
         },
         "channels_data": [
           {
             "title": "Live 1",
-            "link": "https://chatgpt.hereisman.net/playlist/52687/load-playlist?|Referer=https://gooz.aapmains.net",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "HD SERVER",
-            "link": "https://instreams.pro/US/MLB14/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://instream.click/jwp-us.php?stream=MLB14&Origin=https://instream.click/jwp-us.php?stream=MLB14",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "Live 2",
-            "link": "https://edgestreams.pro/hls/hefbafbakx28.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streams.center&Origin=https://streams.center",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
             "logo": "",
             "type": 0,
             "api": "",
@@ -1897,41 +2108,52 @@
         ]
       },
       {
-        "id": 10331,
-        "title": "San Francisco Giants vs Atlanta Braves",
+        "id": 10343,
+        "title": "Seattle Mariners vs Los Angeles Angels",
         "image": "",
         "cat": "Baseball",
         "eventInfo": {
-          "teamA": "San Francisco Giants",
-          "teamB": "Atlanta Braves",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/3634/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/3656/image",
+          "teamA": "Seattle Mariners",
+          "teamB": "Los Angeles Angels",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3641/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/5929/image",
           "eventName": "Baseball",
           "isHot": "0",
-          "Status": "Finish",
-          "startTime": "2026/06/28 20:05:00 +0000",
-          "endTime": "2026/06/28 23:05:00 +0000"
+          "Status": "Upcoming",
+          "startTime": "2026/06/30 01:40:00 +0000",
+          "endTime": "2026/06/30 04:40:00 +0000"
         },
         "channels_data": [
           {
             "title": "Live 1",
-            "link": "https://chatgpt.hereisman.net/playlist/52686/load-playlist?|Referer=https://gooz.aapmains.net",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
             "logo": "",
             "type": 0,
             "api": "",
             "tokenApi": ""
-          },
+          }
+        ]
+      },
+      {
+        "id": 10344,
+        "title": "Arizona Diamondbacks vs San Francisco Giants",
+        "image": "",
+        "cat": "Baseball",
+        "eventInfo": {
+          "teamA": "Arizona Diamondbacks",
+          "teamB": "San Francisco Giants",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3640/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3634/image",
+          "eventName": "Baseball",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/06/30 01:40:00 +0000",
+          "endTime": "2026/06/30 04:40:00 +0000"
+        },
+        "channels_data": [
           {
-            "title": "HD SERVER",
-            "link": "https://edgestreams.pro/hls/jzabfazkbf27.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streams.center&Origin=https://streams.center",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "Live 2",
-            "link": "https://instreams.pro/US/MLB13/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://instream.click/jwp-us.php?stream=MLB13&Origin=https://instream.click/jwp-us.php?stream=MLB13",
+            "title": "Live 1",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
             "logo": "",
             "type": 0,
             "api": "",
