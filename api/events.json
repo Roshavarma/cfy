@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-29T15:21:13.653029",
-  "event_count": 42,
+  "last_updated": "2026-06-29T15:31:23.220548",
+  "event_count": 41,
   "events": {
     "events": [
       {
@@ -537,89 +537,6 @@
         ]
       },
       {
-        "id": 9954,
-        "title": "England vs New Zealand",
-        "image": "",
-        "cat": "Cricket",
-        "eventInfo": {
-          "teamA": "England",
-          "teamB": "New Zealand",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/187757/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/187755/image",
-          "eventName": "Cricket",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/06/29 10:00:01 +0000",
-          "endTime": "2026/06/29 18:00:06 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "WILLOW - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/hv0umqrko2/out/v1/9ccf0d5b729a4c88a42de20bbfa0d875/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "0bfd72dcc317a46b442c5eb3f293aac6:1aca7da5cd5e6246829716334feec5c7",
-            "tokenApi": ""
-          },
-          {
-            "title": "SKY CRICKET - AQ",
-            "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "WILLOW ALT",
-            "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/hv0umqrko2/out/v1/9ccf0d5b729a4c88a42de20bbfa0d875/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "0bfd72dcc317a46b442c5eb3f293aac6:1aca7da5cd5e6246829716334feec5c7",
-            "tokenApi": ""
-          },
-          {
-            "title": "SKY MAIN EVENT",
-            "link": "https://tmaxapp.site/skymainevent.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "SKY SPORT NZ",
-            "link": "https://tmaxapp.site/skynz1.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "FOX CRICKET HD",
-            "link": "https://tmaxapp.site/foxcricket.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "SonyLiv",
-            "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/20000291/England_2906/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:152.0) Gecko/20100101 Firefox/152.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=4fd49938705e76398f656a497cd2a92c-1782726600163",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "LOW SERVER",
-            "link": "http://193.47.62.42/hls/bbbbZQ.m3u8|referer=http://www.fawanews.sc/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
         "id": 10192,
         "title": "Australia Women vs West Indies Women",
         "image": "null",
@@ -856,9 +773,9 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/187744/image",
           "eventName": "Cricket",
           "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/06/29 07:30:48 +0000",
-          "endTime": "2026/06/29 16:00:52 +0000"
+          "Status": "Upcoming",
+          "startTime": "2026/06/30 07:30:15 +0000",
+          "endTime": "2026/06/30 16:00:20 +0000"
         },
         "channels_data": [
           {
@@ -1443,7 +1360,7 @@
           "teamAFlag": "https://img.sofascore.com/api/v1/team/4705/image",
           "teamBFlag": "https://img.sofascore.com/api/v1/team/4778/image",
           "eventName": "Football",
-          "isHot": "0",
+          "isHot": "1",
           "Status": "Upcoming",
           "startTime": "2026/06/30 01:00:41 +0000",
           "endTime": "2026/06/30 04:00:45 +0000"
