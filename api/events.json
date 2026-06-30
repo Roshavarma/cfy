@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-30T00:51:08.511009",
+  "last_updated": "2026-06-30T01:01:26.732142",
   "event_count": 40,
   "events": {
     "events": [
@@ -1646,7 +1646,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/4778/image",
           "eventName": "Football",
           "isHot": "1",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/06/30 01:00:41 +0000",
           "endTime": "2026/06/30 04:00:45 +0000"
         },
@@ -1740,14 +1740,6 @@
             "tokenApi": ""
           },
           {
-            "title": "GOLTV VIVO - AQ",
-            "link": "https://dmbgaz4xf6jyh.cloudfront.net/live-stream-dai/69690cfcce0dc031830e7c1a/123a264b71764485bd49eca2d552cf33/d97743de3620a865848fff7a9de14dda1bf2409d/manifest.mpd?aid=688aae6d61c87d6274c05065&dnt=true&access_token=63ey9SOpQeHBRfWJYQLXQjelQc0QM1HXmlHp4iZrH8UCOCM8QtGIGg1sEEPJH0R0yXktUEXdLeB&uid=Knx65GY6UbaWSADZybEvf6m5MvqNIuNs&sid=bwRy9BgSc4RFeVhYh52hVIY8uPsJ4v4d&pid=A0xT1VnepBvKKqyeyRNtNkZBmHBrNNZM&ref=ditu.caracoltv.com&ext_pb=0&es=dmbgaz4xf6jyh.cloudfront.net&proto=https&pz=us&xr=us-east-2&manifestfilter=video_height:480-1080",
-            "logo": "",
-            "type": 7,
-            "api": "1c6bfd8d1cdd4df69ea5fc4dd2f025bb:b6fd90027dac7a94a9461f8b2638cbb4",
-            "tokenApi": ""
-          },
-          {
             "title": "BINGE+ BD - AQ",
             "link": "https://tc-sg.rockstreamer.com/v1/019ed91616121ea540a8171c8e801f/019ed92ac80315fc600b1796d4ad8b/main.m3u8|referer=https://iscreen.com.bd/",
             "logo": "",
@@ -1790,6 +1782,86 @@
           {
             "title": "IRIB 4K",
             "link": "https://ncdn.telewebion.ir/faratar/live/playlist.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "FOX ENGLISH HD",
+            "link": "https://cdn011.viaplus.site/fox-xyz.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "TSN ENGLISH HD",
+            "link": "https://cdn011.viaplus.site/tsn1-xyz.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "beIN MAX FHD",
+            "link": "https://cdn011.viaplus.site/bein-xyz.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "FAST SERVER",
+            "link": "https://pulltx.jdnzrgm.com/live/hd-en-6MvYMRSY7KZ7DbeQYW.m3u8?txSecret=941d9b61f9a9d2696228ff5ae641fe37&txTime=6A4335E0",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "TSN SPORTS 4K",
+            "link": "https://cdn011.viaplus.site/tsn4k-xyz.m3u8?|referer=https://xyzstreams.st/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "beIN MAX 4K",
+            "link": "https://cdn011.viaplus.site/bein4k-xyz.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "FUSSBALL TV 4K",
+            "link": "https://cdn011.viaplus.site/fussballtv1uhd-de.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "TELEMUNDO FHD",
+            "link": "https://cdn011.viaplus.site/telemundo-xyz.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "DAZN MUNDIAL",
+            "link": "https://cdn011.viaplus.site/daznmundial-es.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "ARABIC LIVE HD",
+            "link": "https://cdn011.viaplus.site/bein-xyz.m3u8",
             "logo": "",
             "type": 0,
             "api": "",
@@ -1953,86 +2025,6 @@
             "logo": "",
             "type": 7,
             "api": "ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1",
-            "tokenApi": ""
-          },
-          {
-            "title": "TSN ENGLISH HD",
-            "link": "https://cdn011.viaplus.site/tsn1-xyz.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "FOX ENGLISH HD",
-            "link": "https://cdn011.viaplus.site/fox-xyz.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "beIN MAX FHD",
-            "link": "https://cdn011.viaplus.site/bein-xyz.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "FAST SERVER",
-            "link": "https://pulltx.jdnzrgm.com/live/hd-en-6MvYMRSY7KZ7DbeQYW.m3u8?txSecret=941d9b61f9a9d2696228ff5ae641fe37&txTime=6A4335E0",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "TSN SPORTS 4K",
-            "link": "https://cdn011.viaplus.site/tsn4k-xyz.m3u8?|referer=https://xyzstreams.st/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "beIN MAX 4K",
-            "link": "https://cdn011.viaplus.site/bein4k-xyz.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "FUSSBALL TV 4K",
-            "link": "https://cdn011.viaplus.site/fussballtv1uhd-de.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "TELEMUNDO FHD",
-            "link": "https://cdn011.viaplus.site/telemundo-xyz.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "DAZN MUNDIAL",
-            "link": "https://cdn011.viaplus.site/daznmundial-es.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "ARABIC LIVE HD",
-            "link": "https://cdn011.viaplus.site/bein-xyz.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
             "tokenApi": ""
           }
         ]
