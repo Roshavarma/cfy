@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-30T20:51:02.717852",
+  "last_updated": "2026-06-30T21:01:26.318886",
   "event_count": 39,
   "events": {
     "events": [
@@ -1574,7 +1574,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/4688/image",
           "eventName": "Football",
           "isHot": "1",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/06/30 21:00:00 +0000",
           "endTime": "2026/06/30 23:20:00 +0000"
         },
@@ -1649,14 +1649,6 @@
             "logo": "",
             "type": 7,
             "api": "2c338a117d434ce4bbe3569231af90f1:a9633d901ee8a3f4f58ac314b5c5f4fb",
-            "tokenApi": ""
-          },
-          {
-            "title": "NPO1 DUTCH - AQ",
-            "link": "https://npo-nl-ams-p30-am5.cdn.streamgate.nl/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3ODI4NTAxNDYsInVyaSI6IlwvbGl2ZVwvbnBvXC91XzNfNFwvbnBvcGx1c1wvZHJtXC9kYXNoX2NlbmNcL25wby0xXC8wXC8wXC8wXC9ucG8tMS5pc21sIiwidmlld2VyIjoidmlld2VyIiwicmlkIjoiN2FmNjY2MSJ9.duQUETqbOlZDaRwZyqdKtH5iDl2oWPe9auG3gtbpm94/live/npo/u_3_4/npoplus/drm/dash_cenc/npo-1/0/0/0/npo-1.isml/stream.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "8d3c85fa30730fdc39efc09de476415f:8fdccd948bb2cc6d99d5305ccffebcb7",
             "tokenApi": ""
           },
           {
@@ -1908,11 +1900,11 @@
             "tokenApi": ""
           },
           {
-            "title": "FOX ENGLISH HD",
-            "link": "https://inproviszon.st/fox-usa.m3u8",
+            "title": "NPO1 DUTCH - AQ",
+            "link": "https://npo-nl-ams-p30-am5.cdn.streamgate.nl/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3ODI4NTAxNDYsInVyaSI6IlwvbGl2ZVwvbnBvXC91XzNfNFwvbnBvcGx1c1wvZHJtXC9kYXNoX2NlbmNcL25wby0xXC8wXC8wXC8wXC9ucG8tMS5pc21sIiwidmlld2VyIjoidmlld2VyIiwicmlkIjoiN2FmNjY2MSJ9.duQUETqbOlZDaRwZyqdKtH5iDl2oWPe9auG3gtbpm94/live/npo/u_3_4/npoplus/drm/dash_cenc/npo-1/0/0/0/npo-1.isml/stream.mpd",
             "logo": "",
-            "type": 0,
-            "api": "",
+            "type": 7,
+            "api": "8d3c85fa30730fdc39efc09de476415f:8fdccd948bb2cc6d99d5305ccffebcb7",
             "tokenApi": ""
           }
         ]
