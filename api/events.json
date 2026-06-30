@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-30T16:51:10.021530",
-  "event_count": 40,
+  "last_updated": "2026-06-30T17:01:26.769075",
+  "event_count": 39,
   "events": {
     "events": [
       {
@@ -532,89 +532,6 @@
             "logo": "",
             "type": 7,
             "api": "0b59ce06de74ed84f2eda5e81dadba13:48e4ba4ad6c2a60d2bda5d71a0050844",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 10192,
-        "title": "Australia Women vs West Indies Women",
-        "image": "null",
-        "cat": "Cricket",
-        "eventInfo": {
-          "teamA": "Australia Women",
-          "teamB": "West Indies Women",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/213117/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/187760/image",
-          "eventName": "Cricket",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/06/30 13:30:22 +0000",
-          "endTime": "2026/06/30 17:45:26 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "WILLOW - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rquannm6kn/out/v1/96ada7c3e2c64821b78ebd08a4e68780/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "3a3043c3e12a8ff1f06eb68094225ea4:14b6bad42a42e707e89b9be2cb88e63a",
-            "tokenApi": ""
-          },
-          {
-            "title": "SKY CRICKET - AQ",
-            "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "WILLOW ALT",
-            "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/rquannm6kn/out/v1/96ada7c3e2c64821b78ebd08a4e68780/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "3a3043c3e12a8ff1f06eb68094225ea4:14b6bad42a42e707e89b9be2cb88e63a",
-            "tokenApi": ""
-          },
-          {
-            "title": "SKY SPORTS MIX",
-            "link": "https://tmaxapp.site/skymix.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "SKY SPORT NZ",
-            "link": "https://tmaxapp.site/skynz1.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "WILLOW HD",
-            "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/yuoix8o52c/out/v1/5c380397b3a14f2b94019893c0734d0e/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "434f07d93d4ba702bed5d41b1cc21d22:065c5585a1b94dc36379421ba923a415",
-            "tokenApi": ""
-          },
-          {
-            "title": "SKY MAIN EVENT",
-            "link": "https://tmaxapp.site/skymainevent.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "Live 1",
-            "link": "https://tmaxapp.site/willoweng.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
             "tokenApi": ""
           }
         ]
@@ -1294,9 +1211,9 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/4475/image",
           "eventName": "Football",
           "isHot": "1",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/06/30 17:00:00 +0000",
-          "endTime": "2026/06/30 19:20:00 +0000"
+          "endTime": "2026/06/30 20:30:45 +0000"
         },
         "channels_data": [
           {
@@ -1388,8 +1305,8 @@
             "tokenApi": ""
           },
           {
-            "title": "QAZ SPORTS - AQ",
-            "link": "https://fo03-bkm.beetv.kz/bpk-tv/000003038/tve/index.m3u8",
+            "title": "ISCREEN BD - AQ",
+            "link": "https://pastebin.com/raw/5U4SGEwY?e=.m3u8|Referer=https://iscreen.com.bd/",
             "logo": "",
             "type": 0,
             "api": "",
@@ -1444,11 +1361,67 @@
             "tokenApi": ""
           },
           {
-            "title": "TELEMUNDO HD",
-            "link": "https://mainstreams.pro/hls/eJmauBDCIf.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+            "title": "FIX ENGLISH HD",
+            "link": "https://inproviszon.st/fox-usa.m3u8",
             "logo": "",
             "type": 0,
             "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "TSN ENGLISH HD",
+            "link": "https://inproviszon.st/tsn1-xyz.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "beIN MAX HD",
+            "link": "https://inproviszon.st/bein-xyz.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "FAST SERVER",
+            "link": "https://pulltx.jdnzrgm.com/live/hd-en-6MvYMRSYcqkSDLDK2v.m3u8?txSecret=8ded90204e6c7223fb91b0c65c0f40d1&txTime=6A4419B0",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "FOX ENGLISH 4K",
+            "link": "https://inproviszon.st/fox4k-usa.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "TELEMUNDO HD",
+            "link": "https://instreams.pro/US/NFLHD2/tracks-v1a1/mono.m3u8?|referer=https://instream.click/&origin=https://instream.click",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "FOX SPORTS [ALT]",
+            "link": "https://abgh3fbaaaaaaaambylpff72g6up6.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/dash/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7",
+            "tokenApi": ""
+          },
+          {
+            "title": "TSN SPORTS [ALT]",
+            "link": "https://abgh3fbaaaaaaaambylpff72g6up6.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d",
             "tokenApi": ""
           },
           {
@@ -1486,6 +1459,14 @@
           {
             "title": "HD SERVER AR",
             "link": "https://edge2caster.pro/hls/eJmauBDCIf.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "HD SERVER ES",
+            "link": "https://edge2caster.pro/hls/b0h5fNwDKH.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
             "logo": "",
             "type": 0,
             "api": "",
@@ -1570,22 +1551,6 @@
             "type": 7,
             "api": "ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1",
             "tokenApi": ""
-          },
-          {
-            "title": "ITV SPORTS - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/0eiyyz8qzm/out/v1/dd17af8835fe4bd087d1a4e359b635d7/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-            "logo": "",
-            "type": 7,
-            "api": "30089c52924f037b225b82c616fee2a5:f55dc8b66ed4fc6753d6035ae7e17144",
-            "tokenApi": ""
-          },
-          {
-            "title": "HD SERVER ES",
-            "link": "https://edge2caster.pro/hls/b0h5fNwDKH.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
           }
         ]
       },
@@ -1627,7 +1592,7 @@
           "teamAFlag": "https://img.sofascore.com/api/v1/team/4781/image",
           "teamBFlag": "https://img.sofascore.com/api/v1/team/4757/image",
           "eventName": "Football",
-          "isHot": "0",
+          "isHot": "1",
           "Status": "Upcoming",
           "startTime": "2026/07/01 01:00:00 +0000",
           "endTime": "2026/07/01 03:20:00 +0000"
