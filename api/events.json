@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-02T04:50:52.659624",
-  "event_count": 17,
+  "last_updated": "2026-07-02T05:01:16.622942",
+  "event_count": 18,
   "events": {
     "events": [
       {
@@ -16,8 +16,8 @@
           "eventName": "Motorsports",
           "isHot": "0",
           "Status": "Upcoming",
-          "startTime": "2026/07/02 11:30:46 +0000",
-          "endTime": "2026/07/02 15:00:52 +0000"
+          "startTime": "2026/07/03 11:30:32 +0000",
+          "endTime": "2026/07/03 15:00:38 +0000"
         },
         "channels_data": [
           {
@@ -1334,6 +1334,33 @@
         "channels_data": [
           {
             "title": "",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 10375,
+        "title": "Calgary Stampeders vs Toronto Argonauts",
+        "image": "",
+        "cat": "American football",
+        "eventInfo": {
+          "teamA": "Calgary Stampeders",
+          "teamB": "Toronto Argonauts",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/4433/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/4436/image",
+          "eventName": "American football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/07/03 01:00:00 +0000",
+          "endTime": "2026/07/03 04:00:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Live 1",
             "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
             "logo": "",
             "type": 0,
