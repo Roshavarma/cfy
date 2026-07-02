@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-02T18:51:01.427292",
+  "last_updated": "2026-07-02T19:01:23.698069",
   "event_count": 27,
   "events": {
     "events": [
@@ -1208,7 +1208,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/4718/image",
           "eventName": "Football",
           "isHot": "1",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/07/02 19:00:00 +0000",
           "endTime": "2026/07/02 21:20:00 +0000"
         },
@@ -1390,11 +1390,107 @@
             "tokenApi": ""
           },
           {
-            "title": "TVP POLISH HD",
-            "link": "https://estreams.tv.nej.cz/dash/CH_TVP_SPORT_Portable.ism/playlist.mpd",
+            "title": "beiN SPORTS - AQ",
+            "link": "https://81cup.s3.us-east-2.amazonaws.com/max1/master.m3u8|referer=https://kora.depoooo.com/",
             "logo": "",
-            "type": 7,
-            "api": "0:0",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "FAST SERVER",
+            "link": "https://pulltx.jdnzrgm.com/live/hd-en-6MvYMRSYcTmdWXx9Vx.m3u8?txSecret=c1d59b6e4aae3e22f9ffc885921b5e31&txTime=6A46D7E0",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "BBC ENGLISH HD",
+            "link": "https://inproviszon.st/bbc-xyz-waUvqaAACr.m3u8?|referer=https://vileembeds.pages.dev/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "TSN ENGLISH HD",
+            "link": "https://inproviszon.st/tsn1-xyz-waUvqaAACr.m3u8?|referer=https://vileembeds.pages.dev/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "FOX ENGLISH HD",
+            "link": "https://inproviszon.st/fox-usa.m3u8?|referer=https://vileembeds.pages.dev/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "FOX SPORTS 4K",
+            "link": "https://inproviszon.st/fox4k-usa.m3u8?|referer=https://vileembeds.pages.dev/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "TELEMUNDO 4K",
+            "link": "https://inproviszon.st/telemundo4k-xyz.m3u8?|referer=https://vileembeds.pages.dev/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "TSN SPORTS 4K",
+            "link": "https://inproviszon.st/tsn4k-xyz-waUvqaAACr.m3u8?|referer=https://vileembeds.pages.dev/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "DAZN MUNDIAL",
+            "link": "https://inproviszon.st/telemundo-xyz-waUvqaAACr.m3u8?|referer=https://vileembeds.pages.dev/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "TELEMUNDO FHD",
+            "link": "https://inproviszon.st/telemundo-xyz-waUvqaAACr.m3u8?|referer=https://vileembeds.pages.dev/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "FUSSBALL TV UHD",
+            "link": "https://inproviszon.st/fussballtv1uhd-de.m3u8?|referer=https://vileembeds.pages.dev/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "ISCREEN BD - AQ",
+            "link": "https://pastebin.com/raw/AFnPnGzQ?e=.m3u8|referer=https://iscreen.com.bd/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "HD SERVER ES",
+            "link": "https://mainstreams.pro/hls/b0h5fNwDKH.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+            "logo": "",
+            "type": 0,
+            "api": "",
             "tokenApi": ""
           },
           {
@@ -1454,6 +1550,30 @@
             "tokenApi": ""
           },
           {
+            "title": "T SPORTS HD",
+            "link": "http://198.195.239.50:8095/tsports/tracks-v1a1/mono.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "SOMOY TV HD",
+            "link": "http://198.195.239.50:8095/somoyTv/tracks-v1a1/mono.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "BTV BDIX HD",
+            "link": "http://198.195.239.50:8095/btv/tracks-v1a1/mono.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
             "title": "FUSSBALL TV (GER)",
             "link": "https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_hd/DASH/index.mpd",
             "logo": "",
@@ -1499,142 +1619,6 @@
             "logo": "",
             "type": 7,
             "api": "ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1",
-            "tokenApi": ""
-          },
-          {
-            "title": "TELEMUNDO HD",
-            "link": "https://chatgpt.hereisman.net/playlist/52827/load-playlist?|Referer=https://gooz.aapmains.net",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "FAST SERVER",
-            "link": "https://pulltx.jdnzrgm.com/live/hd-en-6MvYMRSYcTmdWXx9Vx.m3u8?txSecret=c1d59b6e4aae3e22f9ffc885921b5e31&txTime=6A46D7E0",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "beiN SPORTS - AQ",
-            "link": "https://81cup.s3.us-east-2.amazonaws.com/max1/master.m3u8|referer=https://kora.depoooo.com/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "BBC ENGLISH HD",
-            "link": "https://inproviszon.st/bbc-xyz-waUvqaAACr.m3u8?|referer=https://vileembeds.pages.dev/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "TSN ENGLISH HD",
-            "link": "https://inproviszon.st/tsn1-xyz-waUvqaAACr.m3u8?|referer=https://vileembeds.pages.dev/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "FOX ENGLISH HD",
-            "link": "https://inproviszon.st/fox-usa.m3u8?|referer=https://vileembeds.pages.dev/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "FOX SPORTS 4K",
-            "link": "https://inproviszon.st/fox4k-usa.m3u8?|referer=https://vileembeds.pages.dev/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "TSN SPORTS 4K",
-            "link": "https://inproviszon.st/tsn4k-xyz-waUvqaAACr.m3u8?|referer=https://vileembeds.pages.dev/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "TELEMUNDO 4K",
-            "link": "https://inproviszon.st/telemundo4k-xyz.m3u8?|referer=https://vileembeds.pages.dev/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "DAZN MUNDIAL",
-            "link": "https://inproviszon.st/telemundo-xyz-waUvqaAACr.m3u8?|referer=https://vileembeds.pages.dev/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "TELEMUNDO FHD",
-            "link": "https://inproviszon.st/telemundo-xyz-waUvqaAACr.m3u8?|referer=https://vileembeds.pages.dev/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "FUSSBALL TV UHD",
-            "link": "https://inproviszon.st/fussballtv1uhd-de.m3u8?|referer=https://vileembeds.pages.dev/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "ISCREEN BD - AQ",
-            "link": "https://pastebin.com/raw/AFnPnGzQ?e=.m3u8|referer=https://iscreen.com.bd/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "HD SERVER ES",
-            "link": "https://mainstreams.pro/hls/b0h5fNwDKH.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "T SPORTS HD",
-            "link": "http://198.195.239.50:8095/tsports/tracks-v1a1/mono.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "SOMOY TV HD",
-            "link": "http://198.195.239.50:8095/somoyTv/tracks-v1a1/mono.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "BTV BDIX HD",
-            "link": "http://198.195.239.50:8095/btv/tracks-v1a1/mono.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
             "tokenApi": ""
           }
         ]
