@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-01T23:50:58.462371",
+  "last_updated": "2026-07-02T00:01:22.829151",
   "event_count": 26,
   "events": {
     "events": [
@@ -1208,7 +1208,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/4479/image",
           "eventName": "Football",
           "isHot": "1",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/07/02 00:00:00 +0000",
           "endTime": "2026/07/02 03:00:11 +0000"
         },
@@ -1231,10 +1231,10 @@
           },
           {
             "title": "D SPORTS ES - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/rgilyeubta/out/v1/09a67027b18f4fd78aaa3794a2aacfe8/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
             "logo": "",
             "type": 7,
-            "api": "03f12d6a3dbfd3a6fa7dd7f6417e0c11:ea07b87acdf2e45be824cde4a1cf3504",
+            "api": "f836853d8eac19446ed9535f5fc568b1:b3bc5ef00602b29abac7e482d3d9fbf3",
             "tokenApi": ""
           },
           {
@@ -1366,6 +1366,94 @@
             "tokenApi": ""
           },
           {
+            "title": "BBC ENGLISH HD",
+            "link": "https://inproviszon.st/bbc-xyz-waUvqaAACr.m3u8?|referer=https://vileembeds.pages.dev/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "BBC SPORTS 4K",
+            "link": "https://inproviszon.st/bbc-4k.m3u8?|referer=https://vileembeds.pages.dev/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "TSN ENGLISH HD",
+            "link": "https://inproviszon.st/tsn1-xyz-waUvqaAACr.m3u8?|referer=https://vileembeds.pages.dev/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "FOX ENGLISH HD",
+            "link": "https://inproviszon.st/fox-usa.m3u8?|referer=https://vileembeds.pages.dev/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "FAST SERVER",
+            "link": "https://pulltx.jdnzrgm.com/live/hd-en-6MvYMRSYcswv5p3EBp.m3u8?txSecret=013fbb0ed8194c83baacc3b607c23ac9&txTime=6A45CCB0",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "DAZN MUNIDAL",
+            "link": "https://inproviszon.st/daznmundial-es.m3u8?|referer=https://vileembeds.pages.dev/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "TSN SPORTS 4K",
+            "link": "https://inproviszon.st/tsn4k-xyz-waUvqaAACr.m3u8?|referer=https://vileembeds.pages.dev/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "FOX SPORTS 4K",
+            "link": "https://inproviszon.st/fox4k-usa.m3u8?|referer=https://xyzstreams.st/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "TELEMUNDO FHD",
+            "link": "https://inproviszon.st/telemundo-xyz-waUvqaAACr.m3u8?|referer=https://vileembeds.pages.dev/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "TELEMUNDO 4K",
+            "link": "https://inproviszon.st/telemundo-4k.m3u8?|referer=https://vileembeds.pages.dev/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "FUSSBALL 4K LIVE",
+            "link": "https://inproviszon.st/fussballtv1uhd-de.m3u8?|referer=https://vileembeds.pages.dev/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
             "title": "MATCH! FUTBOL - AQ",
             "link": "https://video.beeline.tv/live/d/channel319.isml/manifest-stb.mpd",
             "logo": "",
@@ -1475,94 +1563,6 @@
             "logo": "",
             "type": 7,
             "api": "ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1",
-            "tokenApi": ""
-          },
-          {
-            "title": "BBC ENGLISH HD",
-            "link": "https://inproviszon.st/bbc-xyz-waUvqaAACr.m3u8?|referer=https://vileembeds.pages.dev/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "BBC SPORTS 4K",
-            "link": "https://inproviszon.st/bbc-4k.m3u8?|referer=https://vileembeds.pages.dev/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "TSN ENGLISH HD",
-            "link": "https://inproviszon.st/tsn1-xyz-waUvqaAACr.m3u8?|referer=https://vileembeds.pages.dev/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "FOX ENGLISH HD",
-            "link": "https://inproviszon.st/fox-usa.m3u8?|referer=https://vileembeds.pages.dev/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "FAST SERVER",
-            "link": "https://pulltx.jdnzrgm.com/live/hd-en-6MvYMRSYcswv5p3EBp.m3u8?txSecret=013fbb0ed8194c83baacc3b607c23ac9&txTime=6A45CCB0",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "DAZN MUNIDAL",
-            "link": "https://inproviszon.st/daznmundial-es.m3u8?|referer=https://vileembeds.pages.dev/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "TSN SPORTS 4K",
-            "link": "https://inproviszon.st/tsn4k-xyz-waUvqaAACr.m3u8?|referer=https://vileembeds.pages.dev/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "FOX SPORTS 4K",
-            "link": "https://inproviszon.st/fox4k-usa.m3u8?|referer=https://xyzstreams.st/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "TELEMUNDO FHD",
-            "link": "https://inproviszon.st/telemundo-xyz-waUvqaAACr.m3u8?|referer=https://vileembeds.pages.dev/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "TELEMUNDO 4K",
-            "link": "https://inproviszon.st/telemundo-4k.m3u8?|referer=https://vileembeds.pages.dev/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "FUSSBALL 4K LIVE",
-            "link": "https://inproviszon.st/fussballtv1uhd-de.m3u8?|referer=https://vileembeds.pages.dev/",
-            "logo": "",
-            "type": 0,
-            "api": "",
             "tokenApi": ""
           }
         ]
