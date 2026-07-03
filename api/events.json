@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-03T02:40:57.928096",
+  "last_updated": "2026-07-03T02:50:56.428945",
   "event_count": 18,
   "events": {
     "events": [
@@ -899,6 +899,14 @@
             "tokenApi": ""
           },
           {
+            "title": "TOFFEE BD - AQ",
+            "link": "https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-3/sst/0/master_1500.m3u8?hdntl=Expires=1783129211~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AeQsclArjTVKKVJ81WycB0hQUd-mhHGraSAwvlSNZZyaTt6vUKeOBUZh-lJu8DNLHFdRSyzhDXOV-8Ir84LfyOh13o4F",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
             "title": "Caz\u00e9TV BR - AQ",
             "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vzeco5ty0v/out/v1/44c6b8f31a2544e3b2a9bb41ed5e241e/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
             "logo": "",
@@ -915,11 +923,19 @@
             "tokenApi": ""
           },
           {
-            "title": "TOFFEE BD - AQ",
-            "link": "https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-3/sst/0/master_1500.m3u8?hdntl=Expires=1783129211~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AeQsclArjTVKKVJ81WycB0hQUd-mhHGraSAwvlSNZZyaTt6vUKeOBUZh-lJu8DNLHFdRSyzhDXOV-8Ir84LfyOh13o4F",
+            "title": "RTE SPORTS - AQ",
+            "link": "https://dai.google.com/linear/dash/pa/event/oPeAYQs9T9yTHS98aR1EjQ/stream/88fd3886-51db-45b1-a9fd-a6c8db5a50ae:GRQ/manifest.mpd",
             "logo": "",
-            "type": 0,
-            "api": "",
+            "type": 7,
+            "api": "d816287e21496989eae1312925a423c5:00da00f13180e7e6cd5ce87d1c974e8d",
+            "tokenApi": ""
+          },
+          {
+            "title": "FOX SPORTS 4K",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/enc/7pc1xwlvyu/out/v1/40b31d7224c4457fbbd23fc02ada6e11/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "a6164ea0967b4bbbb51fdd6c4f83a64f:b431d9ed821ca93df596168601ae5b00",
             "tokenApi": ""
           },
           {
@@ -932,7 +948,7 @@
           },
           {
             "title": "TSN SPORTS HD",
-            "link": "https://chatgpt.hereisman.net/playlist/52273/load-playlist?|Referer=https://gooz.aapmains.net",
+            "link": "https://chatgpt.hereisman.net/playlist/52852/load-playlist?|Referer=https://gooz.aapmains.net",
             "logo": "",
             "type": 0,
             "api": "",
@@ -940,7 +956,7 @@
           },
           {
             "title": "FOX SPORTS HD",
-            "link": "https://chatgpt.hereisman.net/playlist/52273/load-playlist?|Referer=https://gooz.aapmains.net",
+            "link": "https://chatgpt.hereisman.net/playlist/52850/load-playlist?|Referer=https://gooz.aapmains.net",
             "logo": "",
             "type": 0,
             "api": "",
@@ -996,7 +1012,7 @@
           },
           {
             "title": "HD SERVER ENG",
-            "link": "https://edgestreams.pro/hls/24SDAZFcsqnj24.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+            "link": "https://edge2caster.pro/hls/24SDAZFcsqnj24.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
             "logo": "",
             "type": 0,
             "api": "",
@@ -1004,7 +1020,7 @@
           },
           {
             "title": "HD SERVER AR",
-            "link": "https://edgestreams.pro/hls/24SDAZFcsqnj24.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+            "link": "https://mainstreams.pro/hls/eJmauBDCIf.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
             "logo": "",
             "type": 0,
             "api": "",
@@ -1012,7 +1028,7 @@
           },
           {
             "title": "BBC SPORTS SD",
-            "link": "Ok",
+            "link": "http://193.47.62.47/hls/THXCZzsss.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
             "logo": "",
             "type": 0,
             "api": "",
@@ -1020,7 +1036,7 @@
           },
           {
             "title": "TV4 SPORTS SD",
-            "link": "Ok",
+            "link": "http://193.47.62.55/hls/THXCZckkkqq.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
             "logo": "",
             "type": 0,
             "api": "",
@@ -1028,7 +1044,7 @@
           },
           {
             "title": "D SPORTS ES SD",
-            "link": "Ok",
+            "link": "http://193.47.62.47/hls/THXCZckkkqqq.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
             "logo": "",
             "type": 0,
             "api": "",
@@ -1036,7 +1052,7 @@
           },
           {
             "title": "beiN SPORTS FR",
-            "link": "Ik",
+            "link": "http://193.47.62.51/hls/THXCZckkkq.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
             "logo": "",
             "type": 0,
             "api": "",
@@ -1091,22 +1107,6 @@
             "tokenApi": ""
           },
           {
-            "title": "RTE SPORTS - AQ",
-            "link": "https://dai.google.com/linear/dash/pa/event/oPeAYQs9T9yTHS98aR1EjQ/stream/88fd3886-51db-45b1-a9fd-a6c8db5a50ae:GRQ/manifest.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "d816287e21496989eae1312925a423c5:00da00f13180e7e6cd5ce87d1c974e8d",
-            "tokenApi": ""
-          },
-          {
-            "title": "FOX SPORTS 4K",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/enc/7pc1xwlvyu/out/v1/40b31d7224c4457fbbd23fc02ada6e11/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "a6164ea0967b4bbbb51fdd6c4f83a64f:b431d9ed821ca93df596168601ae5b00",
-            "tokenApi": ""
-          },
-          {
             "title": "BINGE+ BD - AQ",
             "link": "https://tc-sg.rockstreamer.com/v1/019ed91616121ea540a8171c8e801f/019ed92ac80315fc600b1796d4ad8b/main.m3u8|referer=https://iscreen.com.bd/",
             "logo": "",
@@ -1120,6 +1120,86 @@
             "logo": "",
             "type": 7,
             "api": "1c6bfd8d1cdd4df69ea5fc4dd2f025bb:b6fd90027dac7a94a9461f8b2638cbb4",
+            "tokenApi": ""
+          },
+          {
+            "title": "TSN ENGLISH HD",
+            "link": "https://inproviszon.st/tsn1-xyz-waUvqaAACr.m3u8?|referer=https://vileembeds.pages.dev/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "FOX ENGLISH HD",
+            "link": "https://inproviszon.st/fox-sports-1.m3u8?|referer=https://vileembeds.pages.dev/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "TSN SPORTS 4K",
+            "link": "https://inproviszon.st/tsn4k-xyz-waUvqaAACr.m3u8?|referer=https://vileembeds.pages.dev/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "DAZN MUNDIAL",
+            "link": "https://inproviszon.st/daznmundial-es.m3u8?|referer=https://vileembeds.pages.dev/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "FUSSBALL TV UHD",
+            "link": "https://inproviszon.st/fussballtv1uhd-de.m3u8?|referer=https://vileembeds.pages.dev/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "FAST SERVER",
+            "link": "https://pulltx.jdnzrgm.com/live/hd-en-6MvYMRSYcRa9e48EM4.m3u8?txSecret=640ff09321e9703a47f1c89f0ff267a2&txTime=6A474B30",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "beiN ARABIC HD",
+            "link": "https://inproviszon.st/bein-xyz-waUvqaAACr.m3u8?|Referer=https://vileembeds.pages.dev/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "FOX ENGLISH 4K",
+            "link": "https://inproviszon.st/fs14k-xyz-waUvqaAACr.m3u8?|referer=https://vileembeds.pages.dev/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "ISCREEN BD - AQ",
+            "link": "https://pastebin.com/raw/AFnPnGzQ?e=.m3u8|referer=https://iscreen.com.bd/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "HD SERVER ES",
+            "link": "https://mainstreams.pro/hls/b0h5fNwDKH.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+            "logo": "",
+            "type": 0,
+            "api": "",
             "tokenApi": ""
           }
         ]
