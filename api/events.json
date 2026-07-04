@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-04T08:20:57.738234",
-  "event_count": 16,
+  "last_updated": "2026-07-04T08:31:15.155331",
+  "event_count": 20,
   "events": {
     "events": [
       {
@@ -1047,6 +1047,114 @@
           "Status": "Upcoming",
           "startTime": "2026/07/07 00:00:00 +0000",
           "endTime": "2026/07/07 02:20:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Live 1",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 10407,
+        "title": "Golden State Warriors vs Milwaukee Bucks",
+        "image": "",
+        "cat": "Basketball",
+        "eventInfo": {
+          "teamA": "Golden State Warriors",
+          "teamB": "Milwaukee Bucks",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3428/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3410/image",
+          "eventName": "Basketball",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/07/04 19:00:00 +0000",
+          "endTime": "2026/07/04 21:30:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Live 1",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 10408,
+        "title": "Oklahoma City Thunder vs Memphis Grizzlies",
+        "image": "",
+        "cat": "Basketball",
+        "eventInfo": {
+          "teamA": "Oklahoma City Thunder",
+          "teamB": "Memphis Grizzlies",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3418/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3415/image",
+          "eventName": "Basketball",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/07/04 19:00:00 +0000",
+          "endTime": "2026/07/04 21:30:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Live 1",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 10409,
+        "title": "Sacramento Kings vs Brooklyn Nets",
+        "image": "",
+        "cat": "Basketball",
+        "eventInfo": {
+          "teamA": "Sacramento Kings",
+          "teamB": "Brooklyn Nets",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3413/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3436/image",
+          "eventName": "Basketball",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/07/04 21:00:00 +0000",
+          "endTime": "2026/07/04 23:30:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Live 1",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 10410,
+        "title": "Utah Jazz vs Atlanta Hawks",
+        "image": "",
+        "cat": "Basketball",
+        "eventInfo": {
+          "teamA": "Utah Jazz",
+          "teamB": "Atlanta Hawks",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3434/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3423/image",
+          "eventName": "Basketball",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/07/04 21:00:00 +0000",
+          "endTime": "2026/07/04 23:30:00 +0000"
         },
         "channels_data": [
           {
