@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-04T08:41:09.073713",
-  "event_count": 35,
+  "last_updated": "2026-07-04T08:51:31.521665",
+  "event_count": 37,
   "events": {
     "events": [
       {
@@ -1560,6 +1560,60 @@
           "Status": "Upcoming",
           "startTime": "2026/07/05 02:10:00 +0000",
           "endTime": "2026/07/05 05:10:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Live 1",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 10426,
+        "title": "Switzerland vs Colombia",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Switzerland",
+          "teamB": "Colombia",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/4699/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/4820/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/07/07 20:00:00 +0000",
+          "endTime": "2026/07/07 22:20:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Live 1",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 10427,
+        "title": "Argentina vs Egypt",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Argentina",
+          "teamB": "Egypt",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/4819/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/4758/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/07/07 16:00:00 +0000",
+          "endTime": "2026/07/07 18:20:00 +0000"
         },
         "channels_data": [
           {
