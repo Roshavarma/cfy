@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-04T16:51:06.717579",
+  "last_updated": "2026-07-04T17:01:29.373863",
   "event_count": 37,
   "events": {
     "events": [
@@ -885,7 +885,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/4778/image",
           "eventName": "Football",
           "isHot": "1",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/07/04 17:00:00 +0000",
           "endTime": "2026/07/04 19:20:00 +0000"
         },
@@ -995,14 +995,6 @@
             "tokenApi": ""
           },
           {
-            "title": "GOLTV VIVO - AQ",
-            "link": "https://dmbgaz4xf6jyh.cloudfront.net/live-stream-dai/69690cfcce0dc031830e7c1a/123a264b71764485bd49eca2d552cf33/d97743de3620a865848fff7a9de14dda1bf2409d/manifest.mpd?aid=688aae6d61c87d6274c05065&dnt=true&access_token=63ey9SOpQeHBRfWJYQLXQjelQc0QM1HXmlHp4iZrH8UCOCM8QtGIGg1sEEPJH0R0yXktUEXdLeB&uid=Knx65GY6UbaWSADZybEvf6m5MvqNIuNs&sid=bwRy9BgSc4RFeVhYh52hVIY8uPsJ4v4d&pid=A0xT1VnepBvKKqyeyRNtNkZBmHBrNNZM&ref=ditu.caracoltv.com&ext_pb=0&es=dmbgaz4xf6jyh.cloudfront.net&proto=https&pz=us&xr=us-east-2&manifestfilter=video_height:480-1080",
-            "logo": "",
-            "type": 7,
-            "api": "1c6bfd8d1cdd4df69ea5fc4dd2f025bb:b6fd90027dac7a94a9461f8b2638cbb4",
-            "tokenApi": ""
-          },
-          {
             "title": "FOX SPORTS 4K",
             "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/rgmw19qjux/out/v1/c6ac7e638a9d4998891ae85aba377c59/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
             "logo": "",
@@ -1108,7 +1100,7 @@
           },
           {
             "title": "HD SERVER ENG",
-            "link": "https://edgestreams.pro/hls/24SDAZFcsqnj24.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+            "link": "https://edgestream1.pro/hls/24SDAZFcsqnj24.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streams.center&Origin=https://streams.center",
             "logo": "",
             "type": 0,
             "api": "",
@@ -1116,7 +1108,15 @@
           },
           {
             "title": "HD SERVER AR",
-            "link": "https://edgestreams.pro/hls/24SDAZFcsqnj24.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+            "link": "https://edgestream3.pro/hls/eJmauBDCIf.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streams.center&Origin=https://streams.center",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "HD SERVER ES",
+            "link": "https://edgestream2.pro/hls/b0h5fNwDKH.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streams.center&Origin=https://streams.center",
             "logo": "",
             "type": 0,
             "api": "",
@@ -1149,6 +1149,22 @@
           {
             "title": "beiN SPORTS FR",
             "link": "http://193.47.62.59/hls/cdTHXCZckkkq.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "AZAM SPORTS SD",
+            "link": "http://193.47.62.55/hls/cdTHXCZckkkqqqX.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "beiN ARABIC SD",
+            "link": "http://193.47.62.59/hls/cdTHXCZckkkqr.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
             "logo": "",
             "type": 0,
             "api": "",
@@ -1224,6 +1240,14 @@
             "logo": "",
             "type": 7,
             "api": "ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1",
+            "tokenApi": ""
+          },
+          {
+            "title": "GOLTV VIVO - AQ",
+            "link": "https://dmbgaz4xf6jyh.cloudfront.net/live-stream-dai/69690cfcce0dc031830e7c1a/123a264b71764485bd49eca2d552cf33/d97743de3620a865848fff7a9de14dda1bf2409d/manifest.mpd?aid=688aae6d61c87d6274c05065&dnt=true&access_token=63ey9SOpQeHBRfWJYQLXQjelQc0QM1HXmlHp4iZrH8UCOCM8QtGIGg1sEEPJH0R0yXktUEXdLeB&uid=Knx65GY6UbaWSADZybEvf6m5MvqNIuNs&sid=bwRy9BgSc4RFeVhYh52hVIY8uPsJ4v4d&pid=A0xT1VnepBvKKqyeyRNtNkZBmHBrNNZM&ref=ditu.caracoltv.com&ext_pb=0&es=dmbgaz4xf6jyh.cloudfront.net&proto=https&pz=us&xr=us-east-2&manifestfilter=video_height:480-1080",
+            "logo": "",
+            "type": 7,
+            "api": "1c6bfd8d1cdd4df69ea5fc4dd2f025bb:b6fd90027dac7a94a9461f8b2638cbb4",
             "tokenApi": ""
           }
         ]
