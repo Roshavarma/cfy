@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-04T20:51:12.378194",
+  "last_updated": "2026-07-04T21:01:37.636942",
   "event_count": 36,
   "events": {
     "events": [
@@ -1264,7 +1264,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/4481/image",
           "eventName": "Football",
           "isHot": "1",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/07/04 21:00:00 +0000",
           "endTime": "2026/07/04 23:20:00 +0000"
         },
@@ -1310,6 +1310,14 @@
             "tokenApi": ""
           },
           {
+            "title": "TOFFEE BD - AQ",
+            "link": "https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-2/sst/0/master_1500.m3u8?hdntl=Expires=1783282721~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AeQsclBAt0ns-5i4iHbPTKQvhGRskSEW9byEAtRlUBcWgb6LI01n-ut3uoNKdFyU2GB8wwlAAuzrGAF4tw0HVdcaJJQL",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
             "title": "TIPIK FRENCH - AQ",
             "link": "https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/dash/.mpd",
             "logo": "",
@@ -1326,8 +1334,64 @@
             "tokenApi": ""
           },
           {
-            "title": "TOFFEE BD - AQ",
-            "link": "https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-2/sst/0/master_1500.m3u8?hdntl=Expires=1783282721~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AeQsclBAt0ns-5i4iHbPTKQvhGRskSEW9byEAtRlUBcWgb6LI01n-ut3uoNKdFyU2GB8wwlAAuzrGAF4tw0HVdcaJJQL",
+            "title": "BINGE+ BD - AQ",
+            "link": "https://tc-sg.rockstreamer.com/v1/019ed91616121ea540a8171c8e801f/019ed92ac80315fc600b1796d4ad8b/main.m3u8|referer=https://iscreen.com.bd/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "TSN4 SPORTS - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+            "logo": "",
+            "type": 7,
+            "api": "abc5b2883121012850ebda05b528c5ec:e5250924f4b738905f7163a0134587a7",
+            "tokenApi": ""
+          },
+          {
+            "title": "RTE SPORTS - AQ",
+            "link": "https://dai.google.com/linear/dash/pa/event/oPeAYQs9T9yTHS98aR1EjQ/stream/a15f395f-f7d2-4728-8db4-ee96e5643dcb:GRQ/manifest.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "d816287e21496989eae1312925a423c5:00da00f13180e7e6cd5ce87d1c974e8d",
+            "tokenApi": ""
+          },
+          {
+            "title": "TVE La 1 - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/c7di7zkdor/out/v1/f7d5b356e048494a8325563e8916d50b/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+            "logo": "",
+            "type": 7,
+            "api": "745cd6ec34a58f2f7ac2af35dc3da6d2:ae008f1e47e6567fe4201a6ff8f1ae54",
+            "tokenApi": ""
+          },
+          {
+            "title": "FOX SPORTS 4K",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/enc/gu2hxfshmt/out/v1/fc40f22f10374517a2784e1d97cb23f4/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+            "logo": "",
+            "type": 7,
+            "api": "1f68713028d439ec03be07f56c1d6213:20093db6455160fffed4c394def3193d",
+            "tokenApi": ""
+          },
+          {
+            "title": "GOLTV VIVO - AQ",
+            "link": "https://dmbgaz4xf6jyh.cloudfront.net/live-stream-dai/69690cfcce0dc031830e7c1a/123a264b71764485bd49eca2d552cf33/d97743de3620a865848fff7a9de14dda1bf2409d/manifest.mpd?aid=688aae6d61c87d6274c05065&dnt=true&access_token=63ey9SOpQeHBRfWJYQLXQjelQc0QM1HXmlHp4iZrH8UCOCM8QtGIGg1sEEPJH0R0yXktUEXdLeB&uid=Knx65GY6UbaWSADZybEvf6m5MvqNIuNs&sid=bwRy9BgSc4RFeVhYh52hVIY8uPsJ4v4d&pid=A0xT1VnepBvKKqyeyRNtNkZBmHBrNNZM&ref=ditu.caracoltv.com&ext_pb=0&es=dmbgaz4xf6jyh.cloudfront.net&proto=https&pz=us&xr=us-east-2&manifestfilter=video_height:480-1080",
+            "logo": "",
+            "type": 7,
+            "api": "1c6bfd8d1cdd4df69ea5fc4dd2f025bb:b6fd90027dac7a94a9461f8b2638cbb4",
+            "tokenApi": ""
+          },
+          {
+            "title": "FOX ONE HD",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/zpfs5hlgya/out/v1/84b1d591a23640178a8e8aa43c6e59a7/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+            "logo": "",
+            "type": 7,
+            "api": "0cc2f872759c96de70237e6fa6de03d0:a879b1d38ed002d4018bce96f9219b8d",
+            "tokenApi": ""
+          },
+          {
+            "title": "ISCREEN BD HD",
+            "link": "https://livecdn.rockstreamer.com/main/Iscreen_fifa_main/main/in4_1080p/chunks.m3u8|referer=https://iscreen.com.bd/",
             "logo": "",
             "type": 0,
             "api": "",
@@ -1382,19 +1446,19 @@
             "tokenApi": ""
           },
           {
+            "title": "TELEMUNDO ES",
+            "link": "https://instreams.pro/US/NFLHD2/tracks-v1a1/mono.m3u8?|referer=https://instream.click/&origin=https://instream.click",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
             "title": "MATCH! FUTBOL - AQ",
             "link": "https://video.beeline.tv/live/d/channel319.isml/manifest-stb.mpd",
             "logo": "",
             "type": 7,
             "api": "9145a6e0f778e61866f573d4944dd533:d02173d40515fea5c83944f21d0f3114",
-            "tokenApi": ""
-          },
-          {
-            "title": "TVP POLISH HD",
-            "link": "https://estreams.tv.nej.cz/dash/CH_TVP_SPORT_Portable.ism/playlist.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "0:0",
             "tokenApi": ""
           },
           {
@@ -1407,7 +1471,7 @@
           },
           {
             "title": "HD SERVER ENG",
-            "link": "https://edgestreams.pro/hls/24SDAZFcsqnj24.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+            "link": "https://edgestream1.pro/hls/24SDAZFcsqnj24.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streams.center&Origin=https://streams.center",
             "logo": "",
             "type": 0,
             "api": "",
@@ -1415,7 +1479,15 @@
           },
           {
             "title": "HD SERVER AR",
-            "link": "https://edgestreams.pro/hls/24SDAZFcsqnj24.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+            "link": "https://edgestream3.pro/hls/eJmauBDCIf.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streams.center&Origin=https://streams.center",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "HD SERVER ES",
+            "link": "https://edgestream2.pro/hls/b0h5fNwDKH.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streams.center&Origin=https://streams.center",
             "logo": "",
             "type": 0,
             "api": "",
@@ -1448,6 +1520,22 @@
           {
             "title": "beiN SPORTS FR",
             "link": "http://193.47.62.59/hls/cdTHXCZckkkq.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "AZAM SPORTS SD",
+            "link": "http://193.47.62.47/hls/cdTHXCZckkkqqqX.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "beiN ARABIC SD",
+            "link": "http://193.47.62.55/hls/cdTHXCZckkkqr.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
             "logo": "",
             "type": 0,
             "api": "",
@@ -1499,94 +1587,6 @@
             "logo": "",
             "type": 7,
             "api": "ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1",
-            "tokenApi": ""
-          },
-          {
-            "title": "TSN4 SPORTS - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-            "logo": "",
-            "type": 7,
-            "api": "abc5b2883121012850ebda05b528c5ec:e5250924f4b738905f7163a0134587a7",
-            "tokenApi": ""
-          },
-          {
-            "title": "RTE SPORTS - AQ",
-            "link": "https://dai.google.com/linear/dash/pa/event/oPeAYQs9T9yTHS98aR1EjQ/stream/a15f395f-f7d2-4728-8db4-ee96e5643dcb:GRQ/manifest.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "d816287e21496989eae1312925a423c5:00da00f13180e7e6cd5ce87d1c974e8d",
-            "tokenApi": ""
-          },
-          {
-            "title": "TVE La 1 - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/c7di7zkdor/out/v1/f7d5b356e048494a8325563e8916d50b/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-            "logo": "",
-            "type": 7,
-            "api": "745cd6ec34a58f2f7ac2af35dc3da6d2:ae008f1e47e6567fe4201a6ff8f1ae54",
-            "tokenApi": ""
-          },
-          {
-            "title": "FOX ONE HD",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/zpfs5hlgya/out/v1/84b1d591a23640178a8e8aa43c6e59a7/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-            "logo": "",
-            "type": 7,
-            "api": "0cc2f872759c96de70237e6fa6de03d0:a879b1d38ed002d4018bce96f9219b8d",
-            "tokenApi": ""
-          },
-          {
-            "title": "GOLTV VIVO - AQ",
-            "link": "https://dmbgaz4xf6jyh.cloudfront.net/live-stream-dai/69690cfcce0dc031830e7c1a/123a264b71764485bd49eca2d552cf33/d97743de3620a865848fff7a9de14dda1bf2409d/manifest.mpd?aid=688aae6d61c87d6274c05065&dnt=true&access_token=63ey9SOpQeHBRfWJYQLXQjelQc0QM1HXmlHp4iZrH8UCOCM8QtGIGg1sEEPJH0R0yXktUEXdLeB&uid=Knx65GY6UbaWSADZybEvf6m5MvqNIuNs&sid=bwRy9BgSc4RFeVhYh52hVIY8uPsJ4v4d&pid=A0xT1VnepBvKKqyeyRNtNkZBmHBrNNZM&ref=ditu.caracoltv.com&ext_pb=0&es=dmbgaz4xf6jyh.cloudfront.net&proto=https&pz=us&xr=us-east-2&manifestfilter=video_height:480-1080",
-            "logo": "",
-            "type": 7,
-            "api": "1c6bfd8d1cdd4df69ea5fc4dd2f025bb:b6fd90027dac7a94a9461f8b2638cbb4",
-            "tokenApi": ""
-          },
-          {
-            "title": "BINGE+ BD - AQ",
-            "link": "https://tc-sg.rockstreamer.com/v1/019ed91616121ea540a8171c8e801f/019ed92ac80315fc600b1796d4ad8b/main.m3u8|referer=https://iscreen.com.bd/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "FOX SPORTS 4K",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/enc/gu2hxfshmt/out/v1/fc40f22f10374517a2784e1d97cb23f4/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-            "logo": "",
-            "type": 7,
-            "api": "1f68713028d439ec03be07f56c1d6213:20093db6455160fffed4c394def3193d",
-            "tokenApi": ""
-          },
-          {
-            "title": "TELEMUNDO ES",
-            "link": "https://instreams.pro/US/NFLHD2/tracks-v1a1/mono.m3u8?|referer=https://instream.click/&origin=https://instream.click",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "ISCREEN BD HD",
-            "link": "https://livecdn.rockstreamer.com/main/Iscreen_fifa_main/main/in4_1080p/chunks.m3u8|referer=https://iscreen.com.bd/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "AZAM SPORTS SD",
-            "link": "http://193.47.62.47/hls/cdTHXCZckkkqqqX.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "beiN ARABIC SD",
-            "link": "http://193.47.62.55/hls/cdTHXCZckkkqr.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-            "logo": "",
-            "type": 0,
-            "api": "",
             "tokenApi": ""
           }
         ]
@@ -1813,7 +1813,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/3436/image",
           "eventName": "Basketball",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/07/04 21:00:00 +0000",
           "endTime": "2026/07/04 23:30:00 +0000"
         },
@@ -1848,7 +1848,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/3423/image",
           "eventName": "Basketball",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/07/04 21:00:00 +0000",
           "endTime": "2026/07/04 23:30:00 +0000"
         },
