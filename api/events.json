@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-04T07:20:57.897982",
-  "event_count": 15,
+  "last_updated": "2026-07-04T07:31:11.919981",
+  "event_count": 16,
   "events": {
     "events": [
       {
@@ -912,6 +912,33 @@
           "Status": "Upcoming",
           "startTime": "2026/07/04 17:00:00 +0000",
           "endTime": "2026/07/04 19:20:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Live 1",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 10386,
+        "title": "Paraguay vs France",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Paraguay",
+          "teamB": "France",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/4789/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/4481/image",
+          "eventName": "Football",
+          "isHot": "1",
+          "Status": "Upcoming",
+          "startTime": "2026/07/04 21:00:00 +0000",
+          "endTime": "2026/07/04 23:20:00 +0000"
         },
         "channels_data": [
           {
