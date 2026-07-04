@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-04T01:31:16.239451",
+  "last_updated": "2026-07-04T01:41:09.387909",
   "event_count": 34,
   "events": {
     "events": [
@@ -470,9 +470,9 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/187756/image",
           "eventName": "Cricket",
           "isHot": "0",
-          "Status": "Finish",
-          "startTime": "2026/07/03 14:00:59 +0000",
-          "endTime": "2026/07/03 22:00:09 +0000"
+          "Status": "Upcoming",
+          "startTime": "2026/07/04 14:00:10 +0000",
+          "endTime": "2026/07/04 22:00:17 +0000"
         },
         "channels_data": [
           {
@@ -1690,7 +1690,7 @@
           "teamAFlag": "https://img.sofascore.com/api/v1/team/4820/image",
           "teamBFlag": "https://img.sofascore.com/api/v1/team/4764/image",
           "eventName": "Football",
-          "isHot": "0",
+          "isHot": "1",
           "Status": "Live",
           "startTime": "2026/07/04 01:30:00 +0000",
           "endTime": "2026/07/04 03:50:00 +0000"
@@ -1866,7 +1866,55 @@
           },
           {
             "title": "HD SERVER ENG",
-            "link": "https://edgestreams.pro/hls/24SDAZFcsqnj24.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+            "link": "https://mainstreams.pro/hls/24SDAZFcsqnj24.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "FOX ENGLISH HD",
+            "link": "https://inproviszon.st/fox-usa.m3u8?|referer=https://vileembeds.pages.dev/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "FAST SERVER",
+            "link": "https://pulltx.jdnzrgm.com/live/hd-en-6MvYMRSYT95RQWihmQ.m3u8?txSecret=ae5bc870355e23e1548e30c489b7525e&txTime=6A488798",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "TSN SPORTS 4K",
+            "link": "https://inproviszon.st/tsn4k-xyz-waUvqaAACr.m3u8?|referer=https://vileembeds.pages.dev/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "DAZN MUNDIAL",
+            "link": "https://inproviszon.st/daznmundial-es.m3u8?|referer=https://vileembeds.pages.dev/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "FUSSBALL TV UHD",
+            "link": "https://inproviszon.st/fussballtv1uhd-de.m3u8?|referer=https://vileembeds.pages.dev/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "HD SERVER ES",
+            "link": "https://mainstreams.pro/hls/b0h5fNwDKH.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
             "logo": "",
             "type": 0,
             "api": "",
@@ -1874,15 +1922,15 @@
           },
           {
             "title": "HD SERVER AR",
-            "link": "https://edgestreams.pro/hls/24SDAZFcsqnj24.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+            "link": "https://edge2caster.pro/hls/eJmauBDCIf.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
             "logo": "",
             "type": 0,
             "api": "",
             "tokenApi": ""
           },
           {
-            "title": "BBC SPORTS SD",
-            "link": "Ok",
+            "title": "ITV SPORTS SD",
+            "link": "http://193.47.62.55/hls/dTHXCZzsss.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
             "logo": "",
             "type": 0,
             "api": "",
@@ -1890,7 +1938,7 @@
           },
           {
             "title": "TV4 SPORTS SD",
-            "link": "Ok",
+            "link": "http://193.47.62.51/hls/dTHXCZckkkqq.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
             "logo": "",
             "type": 0,
             "api": "",
@@ -1898,7 +1946,7 @@
           },
           {
             "title": "D SPORTS ES SD",
-            "link": "Ok",
+            "link": "http://193.47.62.51/hls/dTHXCZckkkqqq.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
             "logo": "",
             "type": 0,
             "api": "",
@@ -1906,7 +1954,7 @@
           },
           {
             "title": "beiN SPORTS FR",
-            "link": "Ik",
+            "link": "http://193.47.62.47/hls/dTHXCZckkkq.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
             "logo": "",
             "type": 0,
             "api": "",
@@ -1961,24 +2009,8 @@
             "tokenApi": ""
           },
           {
-            "title": "FOX ENGLISH HD",
-            "link": "https://inproviszon.st/fox-usa.m3u8?|referer=https://vileembeds.pages.dev/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "FAST SERVER",
-            "link": "https://pulltx.jdnzrgm.com/live/hd-en-6MvYMRSYT95RQWihmQ.m3u8?txSecret=ae5bc870355e23e1548e30c489b7525e&txTime=6A488798",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "TSN SPORTS 4K",
-            "link": "https://inproviszon.st/tsn4k-xyz-waUvqaAACr.m3u8?|referer=https://vileembeds.pages.dev/",
+            "title": "FOX ENGLISH 4K",
+            "link": "https://inproviszon.st/fox4k-usa.m3u8?|referer=https://vileembeds.pages.dev/",
             "logo": "",
             "type": 0,
             "api": "",
@@ -2531,7 +2563,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/3646/image",
           "eventName": "Baseball",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/07/04 01:38:00 +0000",
           "endTime": "2026/07/04 04:38:00 +0000"
         },
@@ -2582,11 +2614,19 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/3639/image",
           "eventName": "Baseball",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/07/04 01:40:00 +0000",
           "endTime": "2026/07/04 04:40:00 +0000"
         },
         "channels_data": [
+          {
+            "title": "Live 1",
+            "link": "https://chatgpt.hereisman.net/playlist/52886/load-playlist?|Referer=https://gooz.aapmains.net",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
           {
             "title": "HD SERVER",
             "link": "https://mainstreams.pro/hls/fskjanach24.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streams.center&Origin=https://streams.center",
@@ -2596,8 +2636,16 @@
             "tokenApi": ""
           },
           {
-            "title": "Live 1",
+            "title": "Live 2",
             "link": "https://instreams.pro/US/MLB10/tracks-v1a1/mono.m3u8?|referer=https://instream.click/&origin=https://instream.click",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "LOW SERVER",
+            "link": "http://193.47.62.42/hls/EKKKQQQQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
             "logo": "",
             "type": 0,
             "api": "",
@@ -2633,6 +2681,14 @@
           {
             "title": "Live 1",
             "link": "https://instreams.pro/US/MLB11/tracks-v1a1/mono.m3u8?|referer=https://instream.click/&origin=https://instream.click",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "LOW SERVER",
+            "link": "http://193.47.62.42/hls/RJJJ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
             "logo": "",
             "type": 0,
             "api": "",
