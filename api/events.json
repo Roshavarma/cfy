@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-04T14:01:36.768531",
+  "last_updated": "2026-07-04T14:11:08.045229",
   "event_count": 37,
   "events": {
     "events": [
@@ -15,8 +15,8 @@
           "teamBFlag": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Formula_One_logo.svg/1280px-Formula_One_logo.svg.png",
           "eventName": "Motorsports",
           "isHot": "0",
-          "Status": "Upcoming",
-          "startTime": "2026/07/04 15:00:27 +0000",
+          "Status": "Live",
+          "startTime": "2026/07/04 14:04:04 +0000",
           "endTime": "2026/07/04 17:45:29 +0000"
         },
         "channels_data": [
@@ -460,6 +460,14 @@
         },
         "channels_data": [
           {
+            "title": "WILLOW - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5d6gvqj1oq/out/v1/62a7137bc76844298b66cb9b52921d8c/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "18d67f23b3a4fa2602fe7dcc4d85c771:cfe251885ca34ae5aa51e2e809aaf02c",
+            "tokenApi": ""
+          },
+          {
             "title": "FANCODE - AQ",
             "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
             "logo": "",
@@ -468,11 +476,11 @@
             "tokenApi": ""
           },
           {
-            "title": "WILLOW - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash-sd/enc/mjbrguo2ra/out/v1/376bdfb0a66e4fffb2ad20f800ae73d9/cenc-sd.mpd",
+            "title": "WILLOW ALT",
+            "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/5d6gvqj1oq/out/v1/62a7137bc76844298b66cb9b52921d8c/cenc.mpd",
             "logo": "",
             "type": 7,
-            "api": "93835f4c237ce7d7d4256fb2107a2ac0:8e84e97526061deed4c6ddc9a59041bc",
+            "api": "18d67f23b3a4fa2602fe7dcc4d85c771:cfe251885ca34ae5aa51e2e809aaf02c",
             "tokenApi": ""
           },
           {
@@ -484,19 +492,11 @@
             "tokenApi": ""
           },
           {
-            "title": "FANCODE - IN",
-            "link": "https://dai-fancode.pages.dev/mumbai/142979_english_hls_fc331367d392190_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1&Referer=https://fancode.com/",
+            "title": "WILLOW - LQ",
+            "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash-sd/enc/mjbrguo2ra/out/v1/376bdfb0a66e4fffb2ad20f800ae73d9/cenc-sd.mpd",
             "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "FANCODE - BD",
-            "link": "https://bd-mc-flive.fancode.com/mumbai/142979_english_hls_fc331367d392190_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783171805~_GO=Generated~acl=/mumbai/142979_english_hls_fc331367d392190_1ta-di_h264/*~Signature=Ac2BFenuXhfRr1QY9bI_UpFencoe2k9ZEmcu8OIz2rbhe2UEOs7Izkub3T5yvQD313WArA2EjuuxikLxRzLRZ5xg4aYH|User-Agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1&Referer=https://fancode.com/",
-            "logo": "",
-            "type": 0,
-            "api": "",
+            "type": 7,
+            "api": "93835f4c237ce7d7d4256fb2107a2ac0:8e84e97526061deed4c6ddc9a59041bc",
             "tokenApi": ""
           }
         ]
