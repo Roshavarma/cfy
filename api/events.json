@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-05T13:41:21.634855",
+  "last_updated": "2026-07-05T13:51:18.072525",
   "event_count": 36,
   "events": {
     "events": [
@@ -15,7 +15,7 @@
           "teamBFlag": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Formula_One_logo.svg/1280px-Formula_One_logo.svg.png",
           "eventName": "Motorsports",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/07/05 13:50:11 +0000",
           "endTime": "2026/07/05 17:50:20 +0000"
         },
@@ -460,27 +460,11 @@
         },
         "channels_data": [
           {
-            "title": "WILLOW - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5d6gvqj1oq/out/v1/62a7137bc76844298b66cb9b52921d8c/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "18d67f23b3a4fa2602fe7dcc4d85c771:cfe251885ca34ae5aa51e2e809aaf02c",
-            "tokenApi": ""
-          },
-          {
             "title": "FANCODE - AQ",
             "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
             "logo": "",
             "type": 7,
             "api": "065051b99bf5cf8d9a3bde5cbde6aaf9:214bd176832872339ce184338320f9a2",
-            "tokenApi": ""
-          },
-          {
-            "title": "WILLOW ALT",
-            "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/5d6gvqj1oq/out/v1/62a7137bc76844298b66cb9b52921d8c/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "18d67f23b3a4fa2602fe7dcc4d85c771:cfe251885ca34ae5aa51e2e809aaf02c",
             "tokenApi": ""
           },
           {
@@ -492,11 +476,19 @@
             "tokenApi": ""
           },
           {
-            "title": "WILLOW - LQ",
-            "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash-sd/enc/mjbrguo2ra/out/v1/376bdfb0a66e4fffb2ad20f800ae73d9/cenc-sd.mpd",
+            "title": "WILLOW ALT",
+            "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/5d6gvqj1oq/out/v1/62a7137bc76844298b66cb9b52921d8c/cenc.mpd",
             "logo": "",
             "type": 7,
-            "api": "93835f4c237ce7d7d4256fb2107a2ac0:8e84e97526061deed4c6ddc9a59041bc",
+            "api": "18d67f23b3a4fa2602fe7dcc4d85c771:cfe251885ca34ae5aa51e2e809aaf02c",
+            "tokenApi": ""
+          },
+          {
+            "title": "WILLOW - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5d6gvqj1oq/out/v1/62a7137bc76844298b66cb9b52921d8c/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "18d67f23b3a4fa2602fe7dcc4d85c771:cfe251885ca34ae5aa51e2e809aaf02c",
             "tokenApi": ""
           }
         ]
@@ -519,11 +511,19 @@
         },
         "channels_data": [
           {
-            "title": "WILLOW - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/slqmxbfik7/out/v1/7712c83009e8420fb34db73f3a1a2151/cenc.mpd",
+            "title": "PRIME VIDEO - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/nqfhrxlfzd/out/v1/adc4f984bb244252b29bd96adb6a7b44/cenc.mpd",
             "logo": "",
             "type": 7,
-            "api": "b686f89fa608fc0bb8fc7b21b3c98ffd:9e87208b1511dcbd6d4b54b89252c3d6",
+            "api": "9f1106840b0996d072db21884983f407:772273c40b9c10b28b43b777beac27eb",
+            "tokenApi": ""
+          },
+          {
+            "title": "WILLOW - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
             "tokenApi": ""
           },
           {
@@ -540,62 +540,6 @@
             "logo": "",
             "type": 7,
             "api": "b686f89fa608fc0bb8fc7b21b3c98ffd:9e87208b1511dcbd6d4b54b89252c3d6",
-            "tokenApi": ""
-          },
-          {
-            "title": "SKY SPORTS MIX",
-            "link": "https://tmaxapp.site/skymix.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "SKY SPORT NZ",
-            "link": "https://tmaxapp.site/skynz1.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "WILLOW HD",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
-            "tokenApi": ""
-          },
-          {
-            "title": "SKY MAIN EVENT",
-            "link": "https://tmaxapp.site/skymainevent.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "Live 1",
-            "link": "https://tmaxapp.site/willoweng.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "HOTSTAR - HIN",
-            "link": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD1_Hindi_BTS/WDVLive/index.mpd?%7cCookie=%5F%5Fhdnea%5F%5F=st=1783005222~exp=1783026822~acl=/bpk-tv/Star_Sports_HD1_Hindi_BTS/WDVLive/*~hmac=a6c13ee4b088cfa1aefaf91663976dd80ef90f20c83f624a072a8f5b706208f0&drmScheme=clearkey&drmLicense=400131994b445d8c8817202248760fda:2d56cb6f07a75b9aff165d534ae2bfc4",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "HOTSTAR - ENG",
-            "link": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD1_BTS/WDVLive/index.mpd?%7cCookie=%5F%5Fhdnea%5F%5F=st=1783005222~exp=1783026822~acl=/bpk-tv/Star_Sports_HD1_BTS/WDVLive/*~hmac=3f62c01169babce96daa5a3cec187e129257ee0f6e69b3316d04009ff668a560&drmScheme=clearkey&drmLicense=965dc2ddb1d85138ad787999a7f30ca5:859695076e67fe961836b564db6d689c",
-            "logo": "",
-            "type": 0,
-            "api": "",
             "tokenApi": ""
           }
         ]
