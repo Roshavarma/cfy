@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-05T00:01:36.306970",
+  "last_updated": "2026-07-05T00:11:06.202710",
   "event_count": 36,
   "events": {
     "events": [
@@ -2165,7 +2165,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/3629/image",
           "eventName": "Baseball",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/07/05 00:08:00 +0000",
           "endTime": "2026/07/05 03:08:00 +0000"
         },
@@ -2200,7 +2200,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/3632/image",
           "eventName": "Baseball",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/07/05 00:08:00 +0000",
           "endTime": "2026/07/05 03:08:00 +0000"
         },
@@ -2235,7 +2235,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/3635/image",
           "eventName": "Baseball",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/07/05 00:10:00 +0000",
           "endTime": "2026/07/05 03:10:00 +0000"
         },
@@ -2270,11 +2270,19 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/3634/image",
           "eventName": "Baseball",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/07/05 00:10:00 +0000",
           "endTime": "2026/07/05 03:10:00 +0000"
         },
         "channels_data": [
+          {
+            "title": "Live 1",
+            "link": "https://chatgpt.hereisman.net/playlist/52938/load-playlist?|Referer=https://gooz.aapmains.net",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
           {
             "title": "HD SERVER",
             "link": "https://edgestream3.pro/hls/kjhfzua25.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streams.center&Origin=https://streams.center",
@@ -2284,7 +2292,7 @@
             "tokenApi": ""
           },
           {
-            "title": "Live 1",
+            "title": "Live 2",
             "link": "https://instreams.pro/US/MLB11/tracks-v1a1/mono.m3u8?|referer=https://instream.click/&origin=https://instream.click",
             "logo": "",
             "type": 0,
