@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-05T14:01:41.710213",
+  "last_updated": "2026-07-05T14:11:20.575194",
   "event_count": 36,
   "events": {
     "events": [
@@ -468,6 +468,14 @@
             "tokenApi": ""
           },
           {
+            "title": "WILLOW - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/eolqlqdwy8/out/v1/92811e0ccd11470089dd9859f626de0a/cenc-sd.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "f70872218414a8bc36bf93e61f201d75:67e1ddbad299385c94372c554ee47a9e",
+            "tokenApi": ""
+          },
+          {
             "title": "TAPMAD - AQ",
             "link": "https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8",
             "logo": "",
@@ -481,14 +489,6 @@
             "logo": "",
             "type": 7,
             "api": "5689304538fa9f3bb3da99c939a2ad4f:6907c88ed8ebdd35a2fa80b9684715e1",
-            "tokenApi": ""
-          },
-          {
-            "title": "WILLOW - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5d6gvqj1oq/out/v1/62a7137bc76844298b66cb9b52921d8c/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "18d67f23b3a4fa2602fe7dcc4d85c771:cfe251885ca34ae5aa51e2e809aaf02c",
             "tokenApi": ""
           }
         ]
@@ -520,10 +520,18 @@
           },
           {
             "title": "WILLOW - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/0u92uacao7/out/v1/bc1252bd57ad4eae9ecedf1c034ab31d/cenc-sd.mpd",
             "logo": "",
             "type": 7,
-            "api": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
+            "api": "828e1be00ea3a93a9d237b369004ef27:cccada06b88b88edbc9d89daf5693c0e",
+            "tokenApi": ""
+          },
+          {
+            "title": "TAMASHA - AQ",
+            "link": "https://cdn14lhr.tamashaweb.com:8087/jazzauth/ICCWT20WC-ADFREE-2026-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yMy8yMDI2IDEwOjQ3OjQ0IEFNJmhhc2hfdmFsdWU9NCtjamcwTC9WdVNaWjFoRmhEQytVZz09JnZhbGlkbWludXRlcz02MA%3D%3D",
+            "logo": "",
+            "type": 0,
+            "api": "",
             "tokenApi": ""
           },
           {
@@ -535,11 +543,11 @@
             "tokenApi": ""
           },
           {
-            "title": "WILLOW ALT",
-            "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/slqmxbfik7/out/v1/7712c83009e8420fb34db73f3a1a2151/cenc.mpd",
+            "title": "WILLOW HD",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
             "logo": "",
             "type": 7,
-            "api": "b686f89fa608fc0bb8fc7b21b3c98ffd:9e87208b1511dcbd6d4b54b89252c3d6",
+            "api": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
             "tokenApi": ""
           }
         ]
