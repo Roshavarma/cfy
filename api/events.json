@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-05T13:51:18.072525",
+  "last_updated": "2026-07-05T14:01:41.710213",
   "event_count": 36,
   "events": {
     "events": [
@@ -454,7 +454,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/187756/image",
           "eventName": "Cricket",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/07/05 14:00:17 +0000",
           "endTime": "2026/07/05 22:00:22 +0000"
         },
@@ -468,19 +468,19 @@
             "tokenApi": ""
           },
           {
+            "title": "TAPMAD - AQ",
+            "link": "https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
             "title": "FANCODE - LQ",
             "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash-sd/enc/v8g0dlo4z8/out/v1/946019f85dc64ae99ff9ce64a9727a62/cenc-sd.mpd",
             "logo": "",
             "type": 7,
             "api": "5689304538fa9f3bb3da99c939a2ad4f:6907c88ed8ebdd35a2fa80b9684715e1",
-            "tokenApi": ""
-          },
-          {
-            "title": "WILLOW ALT",
-            "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/5d6gvqj1oq/out/v1/62a7137bc76844298b66cb9b52921d8c/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "18d67f23b3a4fa2602fe7dcc4d85c771:cfe251885ca34ae5aa51e2e809aaf02c",
             "tokenApi": ""
           },
           {
