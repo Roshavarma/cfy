@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-05T16:21:33.691763",
-  "event_count": 36,
+  "last_updated": "2026-07-06T10:31:30.875385",
+  "event_count": 29,
   "events": {
     "events": [
       {
@@ -15,7 +15,7 @@
           "teamBFlag": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Formula_One_logo.svg/1280px-Formula_One_logo.svg.png",
           "eventName": "Motorsports",
           "isHot": "0",
-          "Status": "Live",
+          "Status": "Finish",
           "startTime": "2026/07/05 13:50:11 +0000",
           "endTime": "2026/07/05 17:50:20 +0000"
         },
@@ -438,9 +438,9 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/187756/image",
           "eventName": "Cricket",
           "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/07/05 14:00:17 +0000",
-          "endTime": "2026/07/05 22:00:22 +0000"
+          "Status": "Upcoming",
+          "startTime": "2026/07/06 14:00:06 +0000",
+          "endTime": "2026/07/06 22:00:16 +0000"
         },
         "channels_data": [
           {
@@ -486,113 +486,6 @@
         ]
       },
       {
-        "id": 10212,
-        "title": "Australia Women vs England Women",
-        "image": "null",
-        "cat": "Cricket",
-        "eventInfo": {
-          "teamA": "Australia Women",
-          "teamB": "England Women",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/4741/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/187757/image",
-          "eventName": "Cricket",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/07/05 14:30:06 +0000",
-          "endTime": "2026/07/05 19:00:12 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "PRIME VIDEO - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/nqfhrxlfzd/out/v1/adc4f984bb244252b29bd96adb6a7b44/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "9f1106840b0996d072db21884983f407:772273c40b9c10b28b43b777beac27eb",
-            "tokenApi": ""
-          },
-          {
-            "title": "WILLOW - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
-            "tokenApi": ""
-          },
-          {
-            "title": "TAMASHA - AQ",
-            "link": "https://cdn14lhr.tamashaweb.com:8087/jazzauth/ICCWT20WC-ADFREE-2026-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yMy8yMDI2IDEwOjQ3OjQ0IEFNJmhhc2hfdmFsdWU9NCtjamcwTC9WdVNaWjFoRmhEQytVZz09JnZhbGlkbWludXRlcz02MA%3D%3D",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "SKY CRICKET - AQ",
-            "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "PRIME BENGAL - AQ",
-            "link": "https://pastebin.com/raw/A0UzgRVL?e=.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "PRIME VIDEO ALT",
-            "link": "https://ABBWIKLAAAAAAAAMPTEU6ZSHBMC3U.ta.bia-cf.live.pv-cdn.net/sin-nitro/live/clients/dash/enc/miuhzspv41/out/v1/d7130f460d41486ea7e8e3eb45f0522f/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "9f1106840b0996d072db21884983f407:772273c40b9c10b28b43b777beac27eb",
-            "tokenApi": ""
-          },
-          {
-            "title": "WILLOW - LQ",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/0u92uacao7/out/v1/bc1252bd57ad4eae9ecedf1c034ab31d/cenc-sd.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "828e1be00ea3a93a9d237b369004ef27:cccada06b88b88edbc9d89daf5693c0e",
-            "tokenApi": ""
-          },
-          {
-            "title": "HOTSTAR - ENG",
-            "link": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD1_BTS/WDVLive/index.mpd?%7cCookie=%5F%5Fhdnea%5F%5F=st=1783253614~exp=1783275214~acl=/bpk-tv/Star_Sports_HD1_BTS/WDVLive/*~hmac=17b2b592b93c5ab73bfabc738dc9042930b5d52316335ceaae0e4d051c0871a6",
-            "logo": "",
-            "type": 7,
-            "api": "965dc2ddb1d85138ad787999a7f30ca5:859695076e67fe961836b564db6d689c",
-            "tokenApi": ""
-          },
-          {
-            "title": "HOTSTAR - HIN",
-            "link": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD1_Hindi_BTS/WDVLive/index.mpd?%7cCookie=%5F%5Fhdnea%5F%5F=st=1783253614~exp=1783275214~acl=/bpk-tv/Star_Sports_HD1_Hindi_BTS/WDVLive/*~hmac=55ce85f66fde1ca3635af90013625a7f4c69054b85da47059540e4549333a40b",
-            "logo": "",
-            "type": 7,
-            "api": "400131994b445d8c8817202248760fda:2d56cb6f07a75b9aff165d534ae2bfc4",
-            "tokenApi": ""
-          },
-          {
-            "title": "HOTSTAR - TAM",
-            "link": "https://jcevents.hotstar.com/bpk-tv/4db6f833701e78ae4443cb268020f03b/Fallback/4db6f833701e78ae4443cb268020f03b.m3u8|cookie=hdntl=exp=1783283204~acl=%2f*~id=327cc2f8aeb1e70f89799f0744968cc8~data=hdntl~hmac=f4a105a0b18819b071cd1b2f61758552cae673f9bfc44614a6bb9627a7826650&User-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169%20(Android/15)&Referer=https://www.hotstar.com/&Origin=https://www.hotstar.com",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "HOTSTAR - TEL",
-            "link": "https://jcevents.hotstar.com/bpk-tv/034d1fb94cae87294a06f4dc266084b9/Fallback/034d1fb94cae87294a06f4dc266084b9.m3u8|cookie=hdntl=exp=1783283204~acl=%2f*~id=327cc2f8aeb1e70f89799f0744968cc8~data=hdntl~hmac=f4a105a0b18819b071cd1b2f61758552cae673f9bfc44614a6bb9627a7826650&User-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169%20(Android/15)&Referer=https://www.hotstar.com/&Origin=https://www.hotstar.com",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
         "id": 10237,
         "title": "Major League Cricket",
         "image": "null",
@@ -604,17 +497,17 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/unique-tournament/20583/image",
           "eventName": "Cricket",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Finish",
           "startTime": "2026/07/05 21:30:41 +0000",
           "endTime": "2026/07/06 05:45:46 +0000"
         },
         "channels_data": [
           {
             "title": "WILLOW - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash-sd/enc/qgqowqeowi/out/v1/0ba7e4a01b204e779292901411d813d1/cenc-sd.mpd",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash-sd/enc/ixpz6gunc9/out/v1/23cee51d3d3e4c53942e38530293d1e2/cenc-sd.mpd",
             "logo": "",
             "type": 7,
-            "api": "afe6afa236086ee3d09cec1ea950edcf:d3fc59f530c58c45f64c3b341ab679ef",
+            "api": "eb8cf0e21e70f08b3e452c850169cb84:491be72c0df90dc471578aabea2d9570",
             "tokenApi": ""
           },
           {
@@ -627,15 +520,15 @@
           },
           {
             "title": "WILLOW - ALT",
-            "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/qgqowqeowi/out/v1/0ba7e4a01b204e779292901411d813d1/cenc-sd.mpd",
+            "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/ixpz6gunc9/out/v1/23cee51d3d3e4c53942e38530293d1e2/cenc-sd.mpd",
             "logo": "",
             "type": 7,
-            "api": "afe6afa236086ee3d09cec1ea950edcf:d3fc59f530c58c45f64c3b341ab679ef",
+            "api": "eb8cf0e21e70f08b3e452c850169cb84:491be72c0df90dc471578aabea2d9570",
             "tokenApi": ""
           },
           {
             "title": "LOW SERVER",
-            "link": "http://193.47.62.40/hls/NAAAQQQQQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+            "link": "http://193.47.62.41/hls/ZAZAZAZ.m3u8|Referer=http://www.fawanews.sc/",
             "logo": "",
             "type": 0,
             "api": "",
@@ -643,7 +536,7 @@
           },
           {
             "title": "HOTSTAR - IN",
-            "link": "https://livetv.hotstar.com/mp2/gec-india-1540065785/a00717b1324f45eb814eec9e48a12db8/index.mpd?|Cookie=hdntl=exp=1783283204~acl=%2f*~id=327cc2f8aeb1e70f89799f0744968cc8~data=hdntl~hmac=f4a105a0b18819b071cd1b2f61758552cae673f9bfc44614a6bb9627a7826650&User-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/11)&Referer=https://www.hotstar.com/&Origin=https://www.hotstar.com",
+            "link": "https://livetv.hotstar.com/mp2/gec-india-1540065785/a00717b1324f45eb814eec9e48a12db8/index.mpd?|Cookie=hdntl=exp=1783370022~acl=%2f*~id=b509ac94f4259648f90a3f8dca8765fb~data=hdntl~hmac=d1b272c895aeaf5110c4914913dc09cb8926dcecd31e5cb8d53255d009b9828c&User-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/11)&Referer=https://www.hotstar.com/&Origin=https://www.hotstar.com",
             "logo": "",
             "type": 7,
             "api": "9dacc80134404c34ba184022c28d0000:982183fb4d9449c995859b7cff512092",
@@ -663,25 +556,25 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/187744/image",
           "eventName": "Cricket",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/07/06 07:30:49 +0000",
           "endTime": "2026/07/06 16:00:58 +0000"
         },
         "channels_data": [
-          {
-            "title": "TAPMAD - AQ",
-            "link": "https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8|user-agent=ExoPlayerDemo/6.4.36 (Linux;Android 11) AndroidXMedia3/1.4.1",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
           {
             "title": "FANCODE - AQ",
             "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
             "logo": "",
             "type": 7,
             "api": "7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe",
+            "tokenApi": ""
+          },
+          {
+            "title": "TAPMAD - AQ",
+            "link": "https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8|user-agent=ExoPlayerDemo/6.4.36 (Linux;Android 11) AndroidXMedia3/1.4.1",
+            "logo": "",
+            "type": 0,
+            "api": "",
             "tokenApi": ""
           },
           {
@@ -702,15 +595,15 @@
           },
           {
             "title": "FANCODE - BD",
-            "link": "https://raw.githubusercontent.com/srhady/Fancode-bd/refs/heads/main/raw_link/bangladesh_vs_zimbabwe_143399_english.m3u8",
+            "link": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/zimbabwe_vs_bangladesh_143400_english.m3u8",
             "logo": "",
             "type": 0,
             "api": "",
             "tokenApi": ""
           },
           {
-            "title": "FANCODE - IN",
-            "link": "https://in-mc-fblive.fancode.com/mumbai/143399_english_hls_b76266f66a74436_1ta-di_h264/index.m3u8",
+            "title": "Live 1",
+            "link": "https://pastebin.com/raw/ZV3x64sr?e=.m3u8",
             "logo": "",
             "type": 0,
             "api": "",
@@ -866,60 +759,6 @@
         ]
       },
       {
-        "id": 10387,
-        "title": "Brazil vs Norway",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Brazil",
-          "teamB": "Norway",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/4748/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/4475/image",
-          "eventName": "Football",
-          "isHot": "1",
-          "Status": "Upcoming",
-          "startTime": "2026/07/05 20:00:00 +0000",
-          "endTime": "2026/07/05 22:20:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "Live 1",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 10388,
-        "title": "Mexico vs England",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Mexico",
-          "teamB": "England",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/4781/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/4713/image",
-          "eventName": "Football",
-          "isHot": "1",
-          "Status": "Upcoming",
-          "startTime": "2026/07/06 00:00:00 +0000",
-          "endTime": "2026/07/06 02:20:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "Live 1",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
         "id": 10389,
         "title": "Portugal vs Spain",
         "image": "",
@@ -930,7 +769,7 @@
           "teamAFlag": "https://img.sofascore.com/api/v1/team/4704/image",
           "teamBFlag": "https://img.sofascore.com/api/v1/team/4698/image",
           "eventName": "Football",
-          "isHot": "0",
+          "isHot": "1",
           "Status": "Upcoming",
           "startTime": "2026/07/06 19:00:00 +0000",
           "endTime": "2026/07/06 21:20:00 +0000"
@@ -957,7 +796,7 @@
           "teamAFlag": "https://img.sofascore.com/api/v1/team/4724/image",
           "teamBFlag": "https://img.sofascore.com/api/v1/team/4717/image",
           "eventName": "Football",
-          "isHot": "0",
+          "isHot": "1",
           "Status": "Upcoming",
           "startTime": "2026/07/07 00:00:00 +0000",
           "endTime": "2026/07/07 02:20:00 +0000"
@@ -1055,20 +894,20 @@
         ]
       },
       {
-        "id": 10429,
-        "title": "Milwaukee Bucks vs Brooklyn Nets",
+        "id": 10448,
+        "title": "Norway vs England",
         "image": "",
-        "cat": "Basketball",
+        "cat": "Football",
         "eventInfo": {
-          "teamA": "Milwaukee Bucks",
-          "teamB": "Brooklyn Nets",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/3410/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/3436/image",
-          "eventName": "Basketball",
+          "teamA": "Norway",
+          "teamB": "England",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/4475/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/4713/image",
+          "eventName": "Football",
           "isHot": "0",
           "Status": "Upcoming",
-          "startTime": "2026/07/05 19:00:00 +0000",
-          "endTime": "2026/07/05 21:30:00 +0000"
+          "startTime": "2026/07/11 21:00:00 +0000",
+          "endTime": "2026/07/11 23:20:00 +0000"
         },
         "channels_data": [
           {
@@ -1082,20 +921,20 @@
         ]
       },
       {
-        "id": 10430,
-        "title": "Los Angeles Lakers vs Miami Heat",
+        "id": 10449,
+        "title": "Oklahoma City Thunder vs Atlanta Hawks",
         "image": "",
         "cat": "Basketball",
         "eventInfo": {
-          "teamA": "Los Angeles Lakers",
-          "teamB": "Miami Heat",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/3427/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/3435/image",
+          "teamA": "Oklahoma City Thunder",
+          "teamB": "Atlanta Hawks",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3418/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3423/image",
           "eventName": "Basketball",
           "isHot": "0",
           "Status": "Upcoming",
-          "startTime": "2026/07/05 20:30:00 +0000",
-          "endTime": "2026/07/05 23:00:00 +0000"
+          "startTime": "2026/07/06 23:00:00 +0000",
+          "endTime": "2026/07/07 01:30:00 +0000"
         },
         "channels_data": [
           {
@@ -1109,20 +948,47 @@
         ]
       },
       {
-        "id": 10431,
-        "title": "Sacramento Kings vs Golden State Warriors",
+        "id": 10450,
+        "title": "San Antonio Spurs vs Los Angeles Lakers",
         "image": "",
         "cat": "Basketball",
         "eventInfo": {
-          "teamA": "Sacramento Kings",
+          "teamA": "San Antonio Spurs",
+          "teamB": "Los Angeles Lakers",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3429/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3427/image",
+          "eventName": "Basketball",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/07/06 23:30:00 +0000",
+          "endTime": "2026/07/07 02:00:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Live 1",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 10451,
+        "title": "Brooklyn Nets vs Golden State Warriors",
+        "image": "",
+        "cat": "Basketball",
+        "eventInfo": {
+          "teamA": "Brooklyn Nets",
           "teamB": "Golden State Warriors",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/3413/image",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3436/image",
           "teamBFlag": "https://img.sofascore.com/api/v1/team/3428/image",
           "eventName": "Basketball",
           "isHot": "0",
           "Status": "Upcoming",
-          "startTime": "2026/07/05 21:00:00 +0000",
-          "endTime": "2026/07/05 23:30:00 +0000"
+          "startTime": "2026/07/07 00:00:00 +0000",
+          "endTime": "2026/07/07 02:30:00 +0000"
         },
         "channels_data": [
           {
@@ -1136,20 +1002,47 @@
         ]
       },
       {
-        "id": 10432,
-        "title": "Golden State Warriors vs San Antonio Spurs",
+        "id": 10452,
+        "title": "Utah Jazz vs Memphis Grizzlies",
+        "image": "",
+        "cat": "Basketball",
+        "eventInfo": {
+          "teamA": "Utah Jazz",
+          "teamB": "Memphis Grizzlies",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3434/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3415/image",
+          "eventName": "Basketball",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/07/07 01:00:00 +0000",
+          "endTime": "2026/07/07 03:30:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Live 1",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 10453,
+        "title": "Golden State Warriors vs Miami Heat",
         "image": "",
         "cat": "Basketball",
         "eventInfo": {
           "teamA": "Golden State Warriors",
-          "teamB": "San Antonio Spurs",
+          "teamB": "Miami Heat",
           "teamAFlag": "https://img.sofascore.com/api/v1/team/3428/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/3429/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3435/image",
           "eventName": "Basketball",
           "isHot": "0",
           "Status": "Upcoming",
-          "startTime": "2026/07/05 23:00:00 +0000",
-          "endTime": "2026/07/06 01:30:00 +0000"
+          "startTime": "2026/07/07 02:00:00 +0000",
+          "endTime": "2026/07/07 04:30:00 +0000"
         },
         "channels_data": [
           {
@@ -1163,63 +1056,20 @@
         ]
       },
       {
-        "id": 10433,
-        "title": "Atlanta Braves vs New York Mets",
+        "id": 10454,
+        "title": "Sacramento Kings vs Milwaukee Bucks",
         "image": "",
-        "cat": "Baseball",
+        "cat": "Basketball",
         "eventInfo": {
-          "teamA": "Atlanta Braves",
-          "teamB": "New York Mets",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/3656/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/3629/image",
-          "eventName": "Baseball",
+          "teamA": "Sacramento Kings",
+          "teamB": "Milwaukee Bucks",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3413/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3410/image",
+          "eventName": "Basketball",
           "isHot": "0",
           "Status": "Upcoming",
-          "startTime": "2026/07/05 16:30:00 +0000",
-          "endTime": "2026/07/05 19:30:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "Live 1",
-            "link": "https://chatgpt.hereisman.net/playlist/52954/load-playlist?|Referer=https://gooz.aapmains.net ",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "HD SERVER",
-            "link": "https://edgestream3.pro/hls/dazhfiach15.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streams.center&Origin=https://streams.center",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "LOW SERVER",
-            "link": "http://193.47.62.43/hls/JBBBQQQQQQQq.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 10434,
-        "title": "Washington Nationals vs Pittsburgh Pirates",
-        "image": "",
-        "cat": "Baseball",
-        "eventInfo": {
-          "teamA": "Washington Nationals",
-          "teamB": "Pittsburgh Pirates",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/5930/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/3637/image",
-          "eventName": "Baseball",
-          "isHot": "0",
-          "Status": "Upcoming",
-          "startTime": "2026/07/05 17:00:00 +0000",
-          "endTime": "2026/07/05 20:00:00 +0000"
+          "startTime": "2026/07/07 02:00:00 +0000",
+          "endTime": "2026/07/07 04:30:00 +0000"
         },
         "channels_data": [
           {
@@ -1233,115 +1083,7 @@
         ]
       },
       {
-        "id": 10435,
-        "title": "Cincinnati Reds vs Baltimore Orioles",
-        "image": "",
-        "cat": "Baseball",
-        "eventInfo": {
-          "teamA": "Cincinnati Reds",
-          "teamB": "Baltimore Orioles",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/3633/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/3652/image",
-          "eventName": "Baseball",
-          "isHot": "0",
-          "Status": "Upcoming",
-          "startTime": "2026/07/05 17:05:00 +0000",
-          "endTime": "2026/07/05 20:05:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "Live 1",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 10436,
-        "title": "New York Yankees vs Minnesota Twins",
-        "image": "",
-        "cat": "Baseball",
-        "eventInfo": {
-          "teamA": "New York Yankees",
-          "teamB": "Minnesota Twins",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/3654/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/3649/image",
-          "eventName": "Baseball",
-          "isHot": "0",
-          "Status": "Upcoming",
-          "startTime": "2026/07/05 17:35:00 +0000",
-          "endTime": "2026/07/05 20:35:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "Live 1",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 10437,
-        "title": "Cleveland Guardians vs Chicago White Sox",
-        "image": "",
-        "cat": "Baseball",
-        "eventInfo": {
-          "teamA": "Cleveland Guardians",
-          "teamB": "Chicago White Sox",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/3650/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/3644/image",
-          "eventName": "Baseball",
-          "isHot": "0",
-          "Status": "Upcoming",
-          "startTime": "2026/07/05 18:00:00 +0000",
-          "endTime": "2026/07/05 21:00:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "Live 1",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 10438,
-        "title": "Chicago Cubs vs St. Louis Cardinals",
-        "image": "",
-        "cat": "Baseball",
-        "eventInfo": {
-          "teamA": "Chicago Cubs",
-          "teamB": "St. Louis Cardinals",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/3627/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/3632/image",
-          "eventName": "Baseball",
-          "isHot": "0",
-          "Status": "Upcoming",
-          "startTime": "2026/07/05 18:30:00 +0000",
-          "endTime": "2026/07/05 21:30:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "Live 1",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 10439,
+        "id": 10455,
         "title": "Kansas City Royals vs Philadelphia Phillies",
         "image": "",
         "cat": "Baseball",
@@ -1353,8 +1095,8 @@
           "eventName": "Baseball",
           "isHot": "0",
           "Status": "Upcoming",
-          "startTime": "2026/07/05 19:00:00 +0000",
-          "endTime": "2026/07/05 22:00:00 +0000"
+          "startTime": "2026/07/06 18:10:00 +0000",
+          "endTime": "2026/07/06 21:10:00 +0000"
         },
         "channels_data": [
           {
@@ -1368,20 +1110,20 @@
         ]
       },
       {
-        "id": 10440,
-        "title": "Houston Astros vs Tampa Bay Rays",
+        "id": 10456,
+        "title": "Tampa Bay Rays vs New York Yankees",
         "image": "",
         "cat": "Baseball",
         "eventInfo": {
-          "teamA": "Houston Astros",
-          "teamB": "Tampa Bay Rays",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/3655/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/3653/image",
+          "teamA": "Tampa Bay Rays",
+          "teamB": "New York Yankees",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3653/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3654/image",
           "eventName": "Baseball",
           "isHot": "0",
           "Status": "Upcoming",
-          "startTime": "2026/07/05 19:30:00 +0000",
-          "endTime": "2026/07/05 22:30:00 +0000"
+          "startTime": "2026/07/06 22:40:00 +0000",
+          "endTime": "2026/07/07 01:40:00 +0000"
         },
         "channels_data": [
           {
@@ -1395,20 +1137,20 @@
         ]
       },
       {
-        "id": 10441,
-        "title": "Texas Rangers vs Detroit Tigers",
+        "id": 10457,
+        "title": "Washington Nationals vs Houston Astros",
         "image": "",
         "cat": "Baseball",
         "eventInfo": {
-          "teamA": "Texas Rangers",
-          "teamB": "Detroit Tigers",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/3647/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/3648/image",
+          "teamA": "Washington Nationals",
+          "teamB": "Houston Astros",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/5930/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3655/image",
           "eventName": "Baseball",
           "isHot": "0",
           "Status": "Upcoming",
-          "startTime": "2026/07/05 19:30:00 +0000",
-          "endTime": "2026/07/05 22:30:00 +0000"
+          "startTime": "2026/07/06 22:45:00 +0000",
+          "endTime": "2026/07/07 01:45:00 +0000"
         },
         "channels_data": [
           {
@@ -1422,20 +1164,47 @@
         ]
       },
       {
-        "id": 10442,
-        "title": "Arizona Diamondbacks vs Milwaukee Brewers",
+        "id": 10458,
+        "title": "Atlanta Braves vs New York Mets",
         "image": "",
         "cat": "Baseball",
         "eventInfo": {
-          "teamA": "Arizona Diamondbacks",
+          "teamA": "Atlanta Braves",
+          "teamB": "New York Mets",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3656/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3629/image",
+          "eventName": "Baseball",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/07/06 23:15:00 +0000",
+          "endTime": "2026/07/07 02:15:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Live 1",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 10459,
+        "title": "St. Louis Cardinals vs Milwaukee Brewers",
+        "image": "",
+        "cat": "Baseball",
+        "eventInfo": {
+          "teamA": "St. Louis Cardinals",
           "teamB": "Milwaukee Brewers",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/3640/image",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3632/image",
           "teamBFlag": "https://img.sofascore.com/api/v1/team/3630/image",
           "eventName": "Baseball",
           "isHot": "0",
           "Status": "Upcoming",
-          "startTime": "2026/07/05 20:00:00 +0000",
-          "endTime": "2026/07/05 23:00:00 +0000"
+          "startTime": "2026/07/06 23:45:00 +0000",
+          "endTime": "2026/07/07 02:45:00 +0000"
         },
         "channels_data": [
           {
@@ -1449,20 +1218,20 @@
         ]
       },
       {
-        "id": 10443,
-        "title": "Colorado Rockies vs San Francisco Giants",
+        "id": 10460,
+        "title": "San Diego Padres vs Arizona Diamondbacks",
         "image": "",
         "cat": "Baseball",
         "eventInfo": {
-          "teamA": "Colorado Rockies",
-          "teamB": "San Francisco Giants",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/3628/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/3634/image",
+          "teamA": "San Diego Padres",
+          "teamB": "Arizona Diamondbacks",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3636/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3640/image",
           "eventName": "Baseball",
           "isHot": "0",
           "Status": "Upcoming",
-          "startTime": "2026/07/05 20:00:00 +0000",
-          "endTime": "2026/07/05 23:00:00 +0000"
+          "startTime": "2026/07/07 01:40:00 +0000",
+          "endTime": "2026/07/07 04:40:00 +0000"
         },
         "channels_data": [
           {
@@ -1476,47 +1245,20 @@
         ]
       },
       {
-        "id": 10444,
-        "title": "Athletics vs Miami Marlins",
+        "id": 10461,
+        "title": "San Francisco Giants vs Toronto Blue Jays",
         "image": "",
         "cat": "Baseball",
         "eventInfo": {
-          "teamA": "Athletics",
-          "teamB": "Miami Marlins",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/3645/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/3639/image",
-          "eventName": "Baseball",
-          "isHot": "0",
-          "Status": "Upcoming",
-          "startTime": "2026/07/05 20:30:00 +0000",
-          "endTime": "2026/07/05 23:30:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "Live 1",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 10445,
-        "title": "Seattle Mariners vs Toronto Blue Jays",
-        "image": "",
-        "cat": "Baseball",
-        "eventInfo": {
-          "teamA": "Seattle Mariners",
+          "teamA": "San Francisco Giants",
           "teamB": "Toronto Blue Jays",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/3641/image",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3634/image",
           "teamBFlag": "https://img.sofascore.com/api/v1/team/3642/image",
           "eventName": "Baseball",
           "isHot": "0",
           "Status": "Upcoming",
-          "startTime": "2026/07/05 21:00:00 +0000",
-          "endTime": "2026/07/06 00:00:00 +0000"
+          "startTime": "2026/07/07 01:45:00 +0000",
+          "endTime": "2026/07/07 04:45:00 +0000"
         },
         "channels_data": [
           {
@@ -1530,47 +1272,20 @@
         ]
       },
       {
-        "id": 10446,
-        "title": "Los Angeles Dodgers vs San Diego Padres",
+        "id": 10462,
+        "title": "Los Angeles Dodgers vs Colorado Rockies",
         "image": "",
         "cat": "Baseball",
         "eventInfo": {
           "teamA": "Los Angeles Dodgers",
-          "teamB": "San Diego Padres",
+          "teamB": "Colorado Rockies",
           "teamAFlag": "https://img.sofascore.com/api/v1/team/3638/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/3636/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3628/image",
           "eventName": "Baseball",
           "isHot": "0",
           "Status": "Upcoming",
-          "startTime": "2026/07/05 23:20:00 +0000",
-          "endTime": "2026/07/06 02:20:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "Live 1",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 10447,
-        "title": "Los Angeles Angels vs Boston Red Sox",
-        "image": "",
-        "cat": "Baseball",
-        "eventInfo": {
-          "teamA": "Los Angeles Angels",
-          "teamB": "Boston Red Sox",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/5929/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/3646/image",
-          "eventName": "Baseball",
-          "isHot": "0",
-          "Status": "Upcoming",
-          "startTime": "2026/07/06 01:30:00 +0000",
-          "endTime": "2026/07/06 04:30:00 +0000"
+          "startTime": "2026/07/07 02:10:00 +0000",
+          "endTime": "2026/07/07 05:10:00 +0000"
         },
         "channels_data": [
           {
