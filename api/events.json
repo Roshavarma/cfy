@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-07T02:11:12.067468",
-  "event_count": 27,
+  "last_updated": "2026-07-07T02:21:12.405687",
+  "event_count": 22,
   "events": {
     "events": [
       {
@@ -770,7 +770,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/4717/image",
           "eventName": "Football",
           "isHot": "1",
-          "Status": "Live",
+          "Status": "Finish",
           "startTime": "2026/07/07 00:00:00 +0000",
           "endTime": "2026/07/07 02:20:00 +0000"
         },
@@ -1254,92 +1254,6 @@
         ]
       },
       {
-        "id": 10449,
-        "title": "Oklahoma City Thunder vs Atlanta Hawks",
-        "image": "",
-        "cat": "Basketball",
-        "eventInfo": {
-          "teamA": "Oklahoma City Thunder",
-          "teamB": "Atlanta Hawks",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/3418/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/3423/image",
-          "eventName": "Basketball",
-          "isHot": "0",
-          "Status": "Finish",
-          "startTime": "2026/07/06 23:00:00 +0000",
-          "endTime": "2026/07/07 01:30:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "Live 1",
-            "link": "https://chatgpt.hereisman.net/playlist/53009/load-playlist?|Referer=https://gooz.aapmains.net",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "HD SERVER",
-            "link": "https://edgestream1.pro/hls/mlkijfezag65.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streams.center&Origin=https://streams.center",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "Live 2",
-            "link": "https://instreams.pro/US/NBA1/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 10450,
-        "title": "San Antonio Spurs vs Los Angeles Lakers",
-        "image": "",
-        "cat": "Basketball",
-        "eventInfo": {
-          "teamA": "San Antonio Spurs",
-          "teamB": "Los Angeles Lakers",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/3429/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/3427/image",
-          "eventName": "Basketball",
-          "isHot": "0",
-          "Status": "Finish",
-          "startTime": "2026/07/06 23:30:00 +0000",
-          "endTime": "2026/07/07 02:00:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "Live 1",
-            "link": "https://chatgpt.hereisman.net/playlist/53013/load-playlist?&.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://gooz.aapmains.net/new-stream-embed/53013?ad=111&Origin=https://gooz.aapmains.net/new-stream-embed/53013?ad=111",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "HD SERVER",
-            "link": "https://edgestream2.pro/hls/wfazgsqtrezu66.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streams.center&Origin=https://streams.center",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "Live 2",
-            "link": "https://instreams.pro/US/NBA2/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
         "id": 10451,
         "title": "Brooklyn Nets vs Golden State Warriors",
         "image": "",
@@ -1451,6 +1365,14 @@
         },
         "channels_data": [
           {
+            "title": "Live 1",
+            "link": "https://chatgpt.hereisman.net/playlist/53020/load-playlist?|Referer=https://gooz.aapmains.net ",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
             "title": "HD SERVER",
             "link": "https://edgestream2.pro/hls/bvnsqdfvgha70.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streams.center&Origin=https://streams.center",
             "logo": "",
@@ -1459,8 +1381,16 @@
             "tokenApi": ""
           },
           {
-            "title": "Live 1",
+            "title": "Live 2",
             "link": "https://instreams.pro/US/NBA6/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "LOW SERVER",
+            "link": "http://193.47.62.42/hls/ZGGGQQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
             "logo": "",
             "type": 0,
             "api": "",
@@ -1486,6 +1416,14 @@
         },
         "channels_data": [
           {
+            "title": "Live 1",
+            "link": "https://chatgpt.hereisman.net/playlist/53024/load-playlist?|Referer=https://gooz.aapmains.net ",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
             "title": "HD SERVER",
             "link": "https://edgestream1.pro/hls/zeafwqvhfe69.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streams.center&Origin=https://streams.center",
             "logo": "",
@@ -1494,137 +1432,16 @@
             "tokenApi": ""
           },
           {
-            "title": "Live 1",
+            "title": "Live 2",
             "link": "https://instreams.pro/US/NBA5/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click",
             "logo": "",
             "type": 0,
             "api": "",
             "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 10456,
-        "title": "Tampa Bay Rays vs New York Yankees",
-        "image": "",
-        "cat": "Baseball",
-        "eventInfo": {
-          "teamA": "Tampa Bay Rays",
-          "teamB": "New York Yankees",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/3653/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/3654/image",
-          "eventName": "Baseball",
-          "isHot": "0",
-          "Status": "Finish",
-          "startTime": "2026/07/06 22:40:00 +0000",
-          "endTime": "2026/07/07 01:40:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "Live 1",
-            "link": "https://chatgpt.hereisman.net/playlist/53000/load-playlist?|Referer=https://gooz.aapmains.net",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
           },
           {
-            "title": "HD SERVER",
-            "link": "https://edgestream1.pro/hls/16yuitzaerghbhc16.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streams.center&Origin=https://streams.center",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "Live 2",
-            "link": "https://instreams.pro/US/MLB2/tracks-v1a1/mono.m3u8?|referer=https://instream.click/&origin=https://instream.click",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 10457,
-        "title": "Washington Nationals vs Houston Astros",
-        "image": "",
-        "cat": "Baseball",
-        "eventInfo": {
-          "teamA": "Washington Nationals",
-          "teamB": "Houston Astros",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/5930/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/3655/image",
-          "eventName": "Baseball",
-          "isHot": "0",
-          "Status": "Finish",
-          "startTime": "2026/07/06 22:45:00 +0000",
-          "endTime": "2026/07/07 01:45:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "Live 1",
-            "link": "https://chatgpt.hereisman.net/playlist/53007/load-playlist?|Referer=https://gooz.aapmains.net",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "HD SERVER",
-            "link": "https://edgestream2.pro/hls/ihfazugfyjcazich17.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streams.center&Origin=https://streams.center",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "Live 2",
-            "link": "https://instreams.pro/US/MLB3/tracks-v1a1/mono.m3u8?|referer=https://instream.click/&origin=https://instream.click",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 10458,
-        "title": "Atlanta Braves vs New York Mets",
-        "image": "",
-        "cat": "Baseball",
-        "eventInfo": {
-          "teamA": "Atlanta Braves",
-          "teamB": "New York Mets",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/3656/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/3629/image",
-          "eventName": "Baseball",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/07/06 23:15:00 +0000",
-          "endTime": "2026/07/07 02:15:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "Live 1",
-            "link": "https://chatgpt.hereisman.net/playlist/53010/load-playlist?|Referer=https://gooz.aapmains.net",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "HD SERVER",
-            "link": "https://edgestream2.pro/hls/Czajafjihafch18.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streams.center&Origin=https://streams.center",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "Live 2",
-            "link": "https://instreams.pro/US/MLB4/tracks-v1a1/mono.m3u8?|referer=https://instream.click/&origin=https://instream.click",
+            "title": "LOW SERVER",
+            "link": "http://193.47.62.42/hls/ZGGGQQQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
             "logo": "",
             "type": 0,
             "api": "",
@@ -1795,6 +1612,14 @@
         },
         "channels_data": [
           {
+            "title": "Live 1",
+            "link": "https://chatgpt.hereisman.net/playlist/53028/load-playlist?|Referer=https://gooz.aapmains.net ",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
             "title": "HD SERVER",
             "link": "https://edgestream3.pro/hls/ijfnakfidch22.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streams.center&Origin=https://streams.center",
             "logo": "",
@@ -1803,8 +1628,16 @@
             "tokenApi": ""
           },
           {
-            "title": "Live 1",
+            "title": "Live 2",
             "link": "https://instreams.pro/US/MLB6/tracks-v1a1/mono.m3u8?|referer=https://instream.click/&origin=https://instream.click",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "LOW SERVER",
+            "link": "http://193.47.62.42/hls/ZGGGQQQQQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
             "logo": "",
             "type": 0,
             "api": "",
