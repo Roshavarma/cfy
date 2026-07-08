@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-08T22:41:24.736500",
+  "last_updated": "2026-07-08T22:51:23.118652",
   "event_count": 31,
   "events": {
     "events": [
@@ -854,7 +854,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/3642/image",
           "eventName": "Baseball",
           "isHot": "0",
-          "Status": "Live",
+          "Status": "Finish",
           "startTime": "2026/07/08 19:45:00 +0000",
           "endTime": "2026/07/08 22:45:00 +0000"
         },
@@ -1112,7 +1112,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/3655/image",
           "eventName": "Baseball",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/07/08 22:45:00 +0000",
           "endTime": "2026/07/09 01:45:00 +0000"
         },
@@ -1161,6 +1161,14 @@
         },
         "channels_data": [
           {
+            "title": "Live 1",
+            "link": "https://chatgpt.hereisman.net/playlist/53088/load-playlist?|Referer=https://gooz.aapmains.net",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
             "title": "HD SERVER",
             "link": "https://edgestream3.pro/hls/ijfnakfidch22.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streams.center&Origin=https://streams.center",
             "logo": "",
@@ -1169,8 +1177,8 @@
             "tokenApi": ""
           },
           {
-            "title": "Live 1",
-            "link": "https://instreams.pro/US/MLB1/tracks-v1a1/mono.m3u8?|referer=https://instream.click/&origin=https://instream.click",
+            "title": "Live 2",
+            "link": "https://instreams.pro/US/MLB8/tracks-v1a1/mono.m3u8?|referer=https://instream.click/&origin=https://instream.click",
             "logo": "",
             "type": 0,
             "api": "",
@@ -1406,6 +1414,14 @@
         },
         "channels_data": [
           {
+            "title": "Live 1",
+            "link": "https://chatgpt.hereisman.net/playlist/53090/load-playlist?|Referer=https://gooz.aapmains.net",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
             "title": "HD SERVER",
             "link": "https://edgestream2.pro/hls/jnzkdzjfanch23.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streams.center&Origin=https://streams.center",
             "logo": "",
@@ -1414,8 +1430,8 @@
             "tokenApi": ""
           },
           {
-            "title": "Live 1",
-            "link": "https://instreams.pro/US/MLB1/tracks-v1a1/mono.m3u8?|referer=https://instream.click/&origin=https://instream.click",
+            "title": "Live 2",
+            "link": "https://instreams.pro/US/MLB9/tracks-v1a1/mono.m3u8?|referer=https://instream.click/&origin=https://instream.click",
             "logo": "",
             "type": 0,
             "api": "",
