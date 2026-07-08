@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-08T05:01:39.603973",
-  "event_count": 29,
+  "last_updated": "2026-07-08T05:11:19.410112",
+  "event_count": 30,
   "events": {
     "events": [
       {
@@ -294,6 +294,24 @@
             "tokenApi": ""
           }
         ]
+      },
+      {
+        "id": 1359,
+        "title": "All Elite Wrestling AEW",
+        "image": "null",
+        "cat": "Boxing",
+        "eventInfo": {
+          "teamA": "AEW Dynamite",
+          "teamB": "AEW Dynamite",
+          "teamAFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRp1SZ-AqjaenfdMglPCTHj7nxLIQb59d4gpKXjdTx1HG4Epcz9g61cHHI&s=10",
+          "teamBFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRp1SZ-AqjaenfdMglPCTHj7nxLIQb59d4gpKXjdTx1HG4Epcz9g61cHHI&s=10",
+          "eventName": "Wrestling",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/07/09 00:00:35 +0000",
+          "endTime": "2026/07/09 03:00:40 +0000"
+        },
+        "channels_data": []
       },
       {
         "id": 8963,
@@ -646,7 +664,7 @@
           "teamAFlag": "https://img.sofascore.com/api/v1/team/4481/image",
           "teamBFlag": "https://img.sofascore.com/api/v1/team/4778/image",
           "eventName": "Football",
-          "isHot": "0",
+          "isHot": "1",
           "Status": "Upcoming",
           "startTime": "2026/07/09 20:00:00 +0000",
           "endTime": "2026/07/09 22:20:00 +0000"
