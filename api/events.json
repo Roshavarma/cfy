@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-09T19:21:19.552442",
+  "last_updated": "2026-07-09T19:31:34.936322",
   "event_count": 35,
   "events": {
     "events": [
@@ -805,8 +805,8 @@
             "tokenApi": ""
           },
           {
-            "title": "BBC SPORTS HD",
-            "link": "https://chatgpt.hereisman.net/playlist/52271/load-playlist?|Referer=https://gooz.aapmains.net",
+            "title": "ITV SPORTS HD",
+            "link": "https://chatgpt.hereisman.net/playlist/53123/load-playlist?|Referer=https://gooz.aapmains.net",
             "logo": "",
             "type": 0,
             "api": "",
@@ -1011,6 +1011,38 @@
             "type": 7,
             "api": "adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a",
             "tokenApi": ""
+          },
+          {
+            "title": "TUDN MEXICO - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/o2vy4aahsh/out/v1/e293c932745a44dcaf897573dfc53532/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "763ce1ebcaf23502c8cf357c6ef423e1:0c5e6c0820a1ea28753721db00272411",
+            "tokenApi": ""
+          },
+          {
+            "title": "beIN MAX FHD",
+            "link": "https://pacquiao.inproviszon.st/bein-xyz-waUvqaAAC.m3u8?|Referer=https://ritzembeds.pages.dev/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "TELEMUNDO HD",
+            "link": "https://pacquiao.inproviszon.st/telemundo-xyz-waUvqaAACr.m3u8?|Referer=https://ritzembeds.pages.dev/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "beIN SPORTS FR",
+            "link": "https://pacquiao.inproviszon.st/bein12fr-xyz.m3u8?|Referer=https://ritzembeds.pages.dev/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
           }
         ]
       },
@@ -1188,11 +1220,19 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/3426/image",
           "eventName": "Basketball",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/07/09 19:30:00 +0000",
           "endTime": "2026/07/09 22:00:00 +0000"
         },
         "channels_data": [
+          {
+            "title": "Live 1",
+            "link": "https://chatgpt.hereisman.net/playlist/53125/load-playlist?|Referer=https://gooz.aapmains.net ",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
           {
             "title": "HD SERVER",
             "link": "https://edgestream2.pro/hls/mlkijfezag65.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streams.center&Origin=https://streams.center",
