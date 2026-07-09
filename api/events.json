@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-09T16:51:22.134902",
+  "last_updated": "2026-07-09T17:01:41.936952",
   "event_count": 35,
   "events": {
     "events": [
@@ -15,9 +15,9 @@
           "teamBFlag": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Formula_One_logo.svg/1280px-Formula_One_logo.svg.png",
           "eventName": "Motorsports",
           "isHot": "0",
-          "Status": "Finish",
-          "startTime": "2026/07/05 13:50:11 +0000",
-          "endTime": "2026/07/05 17:50:20 +0000"
+          "Status": "Upcoming",
+          "startTime": "2026/07/17 11:30:40 +0000",
+          "endTime": "2026/07/17 17:50:46 +0000"
         },
         "channels_data": [
           {
@@ -587,7 +587,7 @@
           },
           {
             "title": "WILLOW ALT",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/enc/dtyyswyqxt/out/v1/6706270f291145aaa388903d32c6cd6f/cenc.mpd",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/enc/dtyyswyqxt/out/v1/6706270f291145aaa388903d32c6cd6f/cenc.mpd?|",
             "logo": "",
             "type": 7,
             "api": "b9d942f08fa157e355701dd5d6f0bd32:32b949d60fd1fd73002e0286a5225ead",
@@ -636,6 +636,14 @@
           {
             "title": "SONY TEN 4 - IN",
             "link": "https://dishmt.slivcdn.com/hls/live/2020589-b/ten4hd/master.m3u8?hdnea=exp=1783654759~acl=/*~id=1e03fe217581440690708a23c8a3a3ff-2008311105131851914~hmac=248eb41103c6143461848cf0f909137167ab9ac9317c2121fafd2e760e5249e3|Origin=https://www.sonyliv.com&Referer=https://www.sonyliv.com/&x-playback-session-id=1e03fe217581440690708a23c8a3a3ff-1783611559313",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "TAPMAD - BD",
+            "link": "https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8|referer=https://tapmad.com/",
             "logo": "",
             "type": 0,
             "api": "",
@@ -1082,8 +1090,16 @@
         },
         "channels_data": [
           {
+            "title": "Live 1",
+            "link": "https://chatgpt.hereisman.net/playlist/53109/load-playlist?|Referer=https://gooz.aapmains.net ",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
             "title": "HD SERVER",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "link": "https://edgestream1.pro/hls/ihfazugfyjcazich17.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streams.center&Origin=https://streams.center",
             "logo": "",
             "type": 0,
             "api": "",
@@ -1109,8 +1125,16 @@
         },
         "channels_data": [
           {
+            "title": "Live 1",
+            "link": "https://chatgpt.hereisman.net/playlist/53109/load-playlist?|Referer=https://gooz.aapmains.net ",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
             "title": "HD SERVER",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "link": "https://edgestream1.pro/hls/16yuitzaerghbhc16.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streams.center&Origin=https://streams.center",
             "logo": "",
             "type": 0,
             "api": "",
