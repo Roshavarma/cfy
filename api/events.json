@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-10T06:41:10.095556",
-  "event_count": 14,
+  "last_updated": "2026-07-10T06:51:14.458834",
+  "event_count": 22,
   "events": {
     "events": [
       {
@@ -797,6 +797,222 @@
         "channels_data": [
           {
             "title": "Live 1",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 10521,
+        "title": "Miami Heat vs Milwaukee Bucks",
+        "image": "",
+        "cat": "Basketball",
+        "eventInfo": {
+          "teamA": "Miami Heat",
+          "teamB": "Milwaukee Bucks",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3435/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3410/image",
+          "eventName": "Basketball",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/07/10 20:00:00 +0000",
+          "endTime": "2026/07/10 22:30:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "HD SERVER",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 10522,
+        "title": "Indiana Pacers vs Cleveland Cavaliers",
+        "image": "",
+        "cat": "Basketball",
+        "eventInfo": {
+          "teamA": "Indiana Pacers",
+          "teamB": "Cleveland Cavaliers",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3419/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3432/image",
+          "eventName": "Basketball",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/07/10 20:30:00 +0000",
+          "endTime": "2026/07/10 23:00:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "HD SERVER",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 10523,
+        "title": "New York Knicks vs Brooklyn Nets",
+        "image": "",
+        "cat": "Basketball",
+        "eventInfo": {
+          "teamA": "New York Knicks",
+          "teamB": "Brooklyn Nets",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3421/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3436/image",
+          "eventName": "Basketball",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/07/10 22:00:00 +0000",
+          "endTime": "2026/07/11 00:30:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "HD SERVER",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 10524,
+        "title": "Denver Nuggets vs Houston Rockets",
+        "image": "",
+        "cat": "Basketball",
+        "eventInfo": {
+          "teamA": "Denver Nuggets",
+          "teamB": "Houston Rockets",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3417/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3412/image",
+          "eventName": "Basketball",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/07/10 22:30:00 +0000",
+          "endTime": "2026/07/11 01:00:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "HD SERVER",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 10525,
+        "title": "Memphis Grizzlies vs Chicago Bulls",
+        "image": "",
+        "cat": "Basketball",
+        "eventInfo": {
+          "teamA": "Memphis Grizzlies",
+          "teamB": "Chicago Bulls",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3415/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3409/image",
+          "eventName": "Basketball",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/07/11 00:00:00 +0000",
+          "endTime": "2026/07/11 02:30:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "HD SERVER",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 10526,
+        "title": "Toronto Raptors vs Boston Celtics",
+        "image": "",
+        "cat": "Basketball",
+        "eventInfo": {
+          "teamA": "Toronto Raptors",
+          "teamB": "Boston Celtics",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3433/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3422/image",
+          "eventName": "Basketball",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/07/11 01:00:00 +0000",
+          "endTime": "2026/07/11 03:30:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "HD SERVER",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 10527,
+        "title": "Los Angeles Lakers vs Oklahoma City Thunder",
+        "image": "",
+        "cat": "Basketball",
+        "eventInfo": {
+          "teamA": "Los Angeles Lakers",
+          "teamB": "Oklahoma City Thunder",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3427/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3418/image",
+          "eventName": "Basketball",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/07/11 02:00:00 +0000",
+          "endTime": "2026/07/11 04:30:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "HD SERVER",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 10528,
+        "title": "Phoenix Suns vs Portland Trail Blazers",
+        "image": "",
+        "cat": "Basketball",
+        "eventInfo": {
+          "teamA": "Phoenix Suns",
+          "teamB": "Portland Trail Blazers",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3416/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3414/image",
+          "eventName": "Basketball",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/07/11 03:00:00 +0000",
+          "endTime": "2026/07/11 05:30:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "HD SERVER",
             "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
             "logo": "",
             "type": 0,
