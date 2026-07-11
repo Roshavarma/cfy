@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-11T20:21:24.468884",
+  "last_updated": "2026-07-11T20:31:35.124437",
   "event_count": 37,
   "events": {
     "events": [
@@ -480,11 +480,19 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/unique-tournament/20583/image",
           "eventName": "Cricket",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/07/11 20:30:51 +0000",
           "endTime": "2026/07/12 05:00:55 +0000"
         },
         "channels_data": [
+          {
+            "title": "WILLOW - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/x2gsqpgf9v/out/v1/171c6ca793784c919401b42f2cf2fa38/cenc-sd.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "60e18e2ca7de363d708d81a61a1214db:e84ed731f8423ac252ac24470967ce9f",
+            "tokenApi": ""
+          },
           {
             "title": "SKY CRICKET - AQ",
             "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla",
@@ -495,15 +503,7 @@
           },
           {
             "title": "SKY SPORT NZ",
-            "link": "https://tmaxapp.site/8wirwjs76erftg/skysport1nz.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "SKY MAIN EVENT",
-            "link": "https://tmaxapp.site/8wirwjs76erftg/skysportsmainevent.m3u8",
+            "link": "https://tmaxapp.site/8wirwjs76erftg/skysport9nz.m3u8",
             "logo": "",
             "type": 0,
             "api": "",
@@ -523,14 +523,6 @@
             "logo": "",
             "type": 7,
             "api": "9dacc80134404c34ba184022c28d0000:982183fb4d9449c995859b7cff512092",
-            "tokenApi": ""
-          },
-          {
-            "title": "WILLOW - AQ",
-            "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/f6qyiqdrzf/out/v1/6641897c1e754a3ebafc39756ff0babd/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "8df7bf85307a0a06a40746d3f2467505:64149eb6b7db7ee312dd7bf60e4cd4e9",
             "tokenApi": ""
           }
         ]
