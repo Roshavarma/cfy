@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-11T20:51:27.460511",
+  "last_updated": "2026-07-11T21:01:44.737191",
   "event_count": 36,
   "events": {
     "events": [
@@ -349,11 +349,19 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/469993/image",
           "eventName": "Boxing",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/07/11 21:00:33 +0000",
           "endTime": "2026/07/12 05:00:10 +0000"
         },
         "channels_data": [
+          {
+            "title": "PARAMOUNT+ - AQ",
+            "link": "https://semijaunais.s3.eu-central-1.amazonaws.com/paramount.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
           {
             "title": "PARAMOUNT+ HD",
             "link": "https://chatgpt.hereisman.net/playlist/53239/load-playlist?|Referer=https://gooz.aapmains.net",
@@ -365,6 +373,14 @@
           {
             "title": "PARAMOUNT+ S2",
             "link": "https://chatgpt.hereisman.net/playlist/53238/load-playlist?|Referer=https://gooz.aapmains.net",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "PARAMOUNT+ BR",
+            "link": "https://rdcstream.life/live/paramountplus/index.m3u8|referer=https://playerembed.xyz",
             "logo": "",
             "type": 0,
             "api": "",
@@ -671,6 +687,22 @@
             "tokenApi": ""
           },
           {
+            "title": "FAST SERVER",
+            "link": "https://pulltx.jdnzrgm.com/live/hd-en-6MvYMRTGwBXzhYMKQz.m3u8?txSecret=423d2b8b7ba4e9954942154b43111e4a&txTime=6A52D108",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "WC ENGLISH - AQ",
+            "link": "https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/fifa_ppv1/default/index.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "17bb9e12c9d844bb9d032a5399d61cc5:08c136b87678210bbac2224550f85c9e",
+            "tokenApi": ""
+          },
+          {
             "title": "TSN SPORTS - AQ",
             "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
             "logo": "",
@@ -788,22 +820,6 @@
             "logo": "",
             "type": 7,
             "api": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
-            "tokenApi": ""
-          },
-          {
-            "title": "TELEMUNDO HD",
-            "link": "https://mainstreams.pro/hls/eJmauBDCIf.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "FAST SERVER",
-            "link": "https://pulltx.jdnzrgm.com/live/hd-en-6MvYMRTGwBXzhYMKQz.m3u8?txSecret=423d2b8b7ba4e9954942154b43111e4a&txTime=6A52D108",
-            "logo": "",
-            "type": 0,
-            "api": "",
             "tokenApi": ""
           },
           {
@@ -1302,6 +1318,14 @@
           "endTime": "2026/07/12 00:00:00 +0000"
         },
         "channels_data": [
+          {
+            "title": "Live 1",
+            "link": "https://chatgpt.hereisman.net/playlist/53241/load-playlist?|Referer=https://gooz.aapmains.net ",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
           {
             "title": "HD SERVER",
             "link": "https://edgestream2.pro/hls/hfsdqtaxvb67.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
