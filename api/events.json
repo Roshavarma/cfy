@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-11T20:11:26.427261",
-  "event_count": 39,
+  "last_updated": "2026-07-11T20:21:24.468884",
+  "event_count": 37,
   "events": {
     "events": [
       {
@@ -486,22 +486,6 @@
         },
         "channels_data": [
           {
-            "title": "WILLOW - AQ",
-            "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/f6qyiqdrzf/out/v1/6641897c1e754a3ebafc39756ff0babd/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "8df7bf85307a0a06a40746d3f2467505:64149eb6b7db7ee312dd7bf60e4cd4e9",
-            "tokenApi": ""
-          },
-          {
-            "title": "WILLOW - LQ",
-            "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/lensgx4y9j/out/v1/3d35107ebf2640a692c976fcd1f95ba0/cenc-sd.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "9994651a99c9768db663457fd7a18a12:e67d8ef470fd996c42bb195246fd0b76",
-            "tokenApi": ""
-          },
-          {
             "title": "SKY CRICKET - AQ",
             "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla",
             "logo": "",
@@ -539,6 +523,14 @@
             "logo": "",
             "type": 7,
             "api": "9dacc80134404c34ba184022c28d0000:982183fb4d9449c995859b7cff512092",
+            "tokenApi": ""
+          },
+          {
+            "title": "WILLOW - AQ",
+            "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/f6qyiqdrzf/out/v1/6641897c1e754a3ebafc39756ff0babd/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "8df7bf85307a0a06a40746d3f2467505:64149eb6b7db7ee312dd7bf60e4cd4e9",
             "tokenApi": ""
           }
         ]
@@ -1552,100 +1544,6 @@
           {
             "title": "HD SERVER",
             "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 10554,
-        "title": "Chicago White Sox vs Athletics",
-        "image": "",
-        "cat": "Baseball",
-        "eventInfo": {
-          "teamA": "Chicago White Sox",
-          "teamB": "Athletics",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/3644/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/3645/image",
-          "eventName": "Baseball",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/07/11 18:10:00 +0000",
-          "endTime": "2026/07/11 21:10:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "Live 1",
-            "link": "https://chatgpt.hereisman.net/playlist/53213/load-playlist?|Referer=https://gooz.aapmains.net",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "Live 2",
-            "link": "https://instreams.pro/live/MLB2/mono.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://instream.click/jwp2-us.php?stream=MLB2&Origin=https://instream.click/jwp2-us.php?stream=MLB2",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "LOW SERVER",
-            "link": "http://193.47.62.41/hls/tatataqQQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 10555,
-        "title": "Minnesota Twins vs Los Angeles Angels",
-        "image": "",
-        "cat": "Baseball",
-        "eventInfo": {
-          "teamA": "Minnesota Twins",
-          "teamB": "Los Angeles Angels",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/3649/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/5929/image",
-          "eventName": "Baseball",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/07/11 18:10:00 +0000",
-          "endTime": "2026/07/11 21:10:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "Live 1",
-            "link": "https://chatgpt.hereisman.net/playlist/53211/load-playlist?|Referer=https://gooz.aapmains.net ",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "HD SERVER",
-            "link": "https://tmaxapp.site/8wirwjs76erftg/tntsports1.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "Live 2",
-            "link": "https://instreams.pro/live/MLB1/mono.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://instream.click/jwp2-us.php?stream=MLB1&Origin=https://instream.click/jwp2-us.php?stream=MLB1",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "LOW SERVER",
-            "link": "http://193.47.62.41/hls/tatataqQQQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
             "logo": "",
             "type": 0,
             "api": "",
