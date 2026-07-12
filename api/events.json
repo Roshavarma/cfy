@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-12T11:51:27.729134",
+  "last_updated": "2026-07-12T12:01:48.443363",
   "event_count": 36,
   "events": {
     "events": [
@@ -640,10 +640,10 @@
         "channels_data": [
           {
             "title": "WILLOW - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/ujyfvj5vk5/out/v1/0790932cd2584a4cb746b631499e4bd9/cenc-sd.mpd",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ac8hjui1bt/out/v1/7f3eb00469024757b051a35bdb9a71c5/cenc.mpd",
             "logo": "",
             "type": 7,
-            "api": "dbb6a8643e214ddf350cd0ff2fc37362:c39b581feb8f71b5a97ed656a2776649",
+            "api": "9d4ac51eff0cff8f0d0da3fbdbc11b5a:a640f2050f6f0ef67cdc6e794c12070e",
             "tokenApi": ""
           },
           {
@@ -656,10 +656,10 @@
           },
           {
             "title": "WILLOW - ALT",
-            "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash-sd/enc/ujyfvj5vk5/out/v1/0790932cd2584a4cb746b631499e4bd9/cenc-sd.mpd",
+            "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ac8hjui1bt/out/v1/7f3eb00469024757b051a35bdb9a71c5/cenc.mpd",
             "logo": "",
             "type": 7,
-            "api": "dbb6a8643e214ddf350cd0ff2fc37362:c39b581feb8f71b5a97ed656a2776649",
+            "api": "9d4ac51eff0cff8f0d0da3fbdbc11b5a:a640f2050f6f0ef67cdc6e794c12070e",
             "tokenApi": ""
           },
           {
@@ -684,6 +684,14 @@
             "logo": "",
             "type": 0,
             "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "WILLOW - LQ",
+            "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash-sd/enc/ujyfvj5vk5/out/v1/0790932cd2584a4cb746b631499e4bd9/cenc-sd.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "dbb6a8643e214ddf350cd0ff2fc37362:c39b581feb8f71b5a97ed656a2776649",
             "tokenApi": ""
           },
           {
@@ -738,8 +746,8 @@
             "tokenApi": ""
           },
           {
-            "title": "FANCODE - IN",
-            "link": "https://in-mc-fblive.fancode.com/mumbai/143143_english_hls_19c0236ea87043_1ta-di_h264/index.m3u8",
+            "title": "LOW SERVER",
+            "link": "http://162.251.160.53:8089/WIvsIRE/index.m3u8",
             "logo": "",
             "type": 0,
             "api": "",
