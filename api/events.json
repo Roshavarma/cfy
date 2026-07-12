@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-12T09:41:28.524700",
+  "last_updated": "2026-07-12T09:51:19.904918",
   "event_count": 37,
   "events": {
     "events": [
@@ -754,14 +754,6 @@
         },
         "channels_data": [
           {
-            "title": "WILLOW - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/il6abt14ce/out/v1/7973ad2adc6341dcb785e9960bdf1c0c/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "1d63df11bb77a72701ae3233bdbfa1ab:95598b0c96d8c75ec60041e9151c1b11",
-            "tokenApi": ""
-          },
-          {
             "title": "SKY CRICKET - AQ",
             "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla",
             "logo": "",
@@ -795,7 +787,7 @@
           },
           {
             "title": "SonyLiv",
-            "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/20000292/cricodi1107/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:152.0) Gecko/20100101 Firefox/152.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=54eac2245e0f4496fac43f80ea197c26-1783762200160",
+            "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/20000299/cricodi1207/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:152.0) Gecko/20100101 Firefox/152.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=2326f29b1e6d716eb66ca54013a53311-1783848600184",
             "logo": "",
             "type": 0,
             "api": "",
@@ -816,6 +808,14 @@
             "type": 0,
             "api": "",
             "tokenApi": ""
+          },
+          {
+            "title": "WILLOW - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/il6abt14ce/out/v1/7973ad2adc6341dcb785e9960bdf1c0c/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "1d63df11bb77a72701ae3233bdbfa1ab:95598b0c96d8c75ec60041e9151c1b11",
+            "tokenApi": ""
           }
         ]
       },
@@ -831,7 +831,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/213120/image",
           "eventName": "Cricket",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/07/12 09:45:56 +0000",
           "endTime": "2026/07/12 17:45:06 +0000"
         },
