@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-12T00:41:14.219109",
+  "last_updated": "2026-07-12T00:51:19.980407",
   "event_count": 28,
   "events": {
     "events": [
@@ -471,10 +471,10 @@
         "channels_data": [
           {
             "title": "WILLOW - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/7prhzhzglj/out/v1/2a355f8895d14b5d80a00bf925504bb9/cenc.mpd",
+            "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/lgmfiovhzf/out/v1/63bea75c73214832b3584bd0f83c867b/cenc-sd.mpd",
             "logo": "",
             "type": 7,
-            "api": "b3039b6143a9a6b71c7dbcc9c5fd0e28:7c54779ae1d6eb264929fb88911484bc",
+            "api": "9e60d4b810867d218a89c5683c8f7d60:edce5730c719ad1dd27e3bebc5c86d0e",
             "tokenApi": ""
           },
           {
@@ -486,27 +486,11 @@
             "tokenApi": ""
           },
           {
-            "title": "WILLOW - ALT",
-            "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/7prhzhzglj/out/v1/2a355f8895d14b5d80a00bf925504bb9/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "b3039b6143a9a6b71c7dbcc9c5fd0e28:7c54779ae1d6eb264929fb88911484bc",
-            "tokenApi": ""
-          },
-          {
             "title": "SKY SPORT NZ",
             "link": "https://tmaxapp.site/8wirwjs76erftg/skysport9nz.m3u8",
             "logo": "",
             "type": 0,
             "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "WILLOW - LQ",
-            "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash-sd/enc/x2gsqpgf9v/out/v1/171c6ca793784c919401b42f2cf2fa38/cenc-sd.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "60e18e2ca7de363d708d81a61a1214db:e84ed731f8423ac252ac24470967ce9f",
             "tokenApi": ""
           },
           {
@@ -1058,11 +1042,43 @@
             "tokenApi": ""
           },
           {
+            "title": "WC ENGLISH - AQ",
+            "link": "https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/fifa_ppv1/default/index.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "17bb9e12c9d844bb9d032a5399d61cc5:08c136b87678210bbac2224550f85c9e",
+            "tokenApi": ""
+          },
+          {
+            "title": "FAST SERVER 1",
+            "link": "https://pulltx.jdnzrgm.com/live/hd-en-6MvYMRTGw9LWq4XQG6.m3u8?txSecret=d6adcc5d849b146e8977cb42c83c4f39&txTime=6A530B28",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "FAST SERVER 2",
+            "link": "https://pulltx.jdnzrgm.com/live/sd-6MvYMRTGw9LWq4XQG6.m3u8?txSecret=f77b58b84f282b2471cb322fb928753a&txTime=6A530B28",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
             "title": "ITV SPORTS - AQ",
             "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/0eiyyz8qzm/out/v1/dd17af8835fe4bd087d1a4e359b635d7/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
             "logo": "",
             "type": 7,
             "api": "30089c52924f037b225b82c616fee2a5:f55dc8b66ed4fc6753d6035ae7e17144",
+            "tokenApi": ""
+          },
+          {
+            "title": "HD SERVER ES",
+            "link": "https://edgestream2.pro/hls/b0h5fNwDKH.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
+            "logo": "",
+            "type": 0,
+            "api": "",
             "tokenApi": ""
           },
           {
@@ -1087,14 +1103,6 @@
             "logo": "",
             "type": 7,
             "api": "ac7abaa9c9481aacfbdac64fc3ec3312:c0c504a2ed2e70b879a650b8770a38c6",
-            "tokenApi": ""
-          },
-          {
-            "title": "WC ENGLISH - AQ",
-            "link": "https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/fifa_ppv1/default/index.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "17bb9e12c9d844bb9d032a5399d61cc5:08c136b87678210bbac2224550f85c9e",
             "tokenApi": ""
           },
           {
@@ -1178,14 +1186,6 @@
             "tokenApi": ""
           },
           {
-            "title": "FAST SERVER 1",
-            "link": "https://pulltx.jdnzrgm.com/live/hd-en-6MvYMRTGw9LWq4XQG6.m3u8?txSecret=d6adcc5d849b146e8977cb42c83c4f39&txTime=6A530B28",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
             "title": "Live 1",
             "link": "https://instreams.pro/EU/HDWC1/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click",
             "logo": "",
@@ -1212,14 +1212,6 @@
           {
             "title": "HD SERVER FR",
             "link": "https://edgestream1.pro/hls/sqdahach1ax.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "HD SERVER ES",
-            "link": "https://edgestream2.pro/hls/b0h5fNwDKH.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
             "logo": "",
             "type": 0,
             "api": "",
@@ -1327,14 +1319,6 @@
             "logo": "",
             "type": 7,
             "api": "ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1",
-            "tokenApi": ""
-          },
-          {
-            "title": "FAST SERVER 2",
-            "link": "https://pulltx.jdnzrgm.com/live/sd-6MvYMRTGw9LWq4XQG6.m3u8?txSecret=f77b58b84f282b2471cb322fb928753a&txTime=6A530B28",
-            "logo": "",
-            "type": 0,
-            "api": "",
             "tokenApi": ""
           }
         ]
