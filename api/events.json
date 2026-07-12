@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-12T04:11:09.954771",
-  "event_count": 18,
+  "last_updated": "2026-07-12T04:21:08.289296",
+  "event_count": 19,
   "events": {
     "events": [
       {
@@ -1401,6 +1401,33 @@
           {
             "title": "HD SERVER ",
             "link": "https://edgestream2.pro/hls/JHDAJBDnjdna30.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 10570,
+        "title": "England vs Argentina",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "England",
+          "teamB": "Argentina",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/4713/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/4819/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/07/15 19:00:00 +0000",
+          "endTime": "2026/07/15 21:20:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "HD SERVER",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
             "logo": "",
             "type": 0,
             "api": "",
