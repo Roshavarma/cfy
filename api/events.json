@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-13T16:51:31.260119",
+  "last_updated": "2026-07-13T17:01:48.726182",
   "event_count": 36,
   "events": {
     "events": [
@@ -612,11 +612,19 @@
             "tokenApi": ""
           },
           {
-            "title": "FANCODE - IN",
-            "link": "https://in-mc-fblive.fancode.com/mumbai/143603_english_hls_e17d5121b699620_1ta-di_h264/1080p.m3u8",
+            "title": "WILLOW - ALT",
+            "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/yjj3kcke8p/out/v1/08ddbaeae1434d86ac9698935fff784a/cenc.mpd",
             "logo": "",
-            "type": 0,
-            "api": "",
+            "type": 7,
+            "api": "49def90d59d0f6b46583d1c8deb4a652:b259a61601b695a25df12fe13995f802",
+            "tokenApi": ""
+          },
+          {
+            "title": "WILLOW - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/yjj3kcke8p/out/v1/08ddbaeae1434d86ac9698935fff784a/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "49def90d59d0f6b46583d1c8deb4a652:b259a61601b695a25df12fe13995f802",
             "tokenApi": ""
           }
         ]
@@ -949,8 +957,8 @@
         },
         "channels_data": [
           {
-            "title": "",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "title": "HD SERVER",
+            "link": "https://edgestream2.pro/hls/pllmazjkdzajh72.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
             "logo": "",
             "type": 0,
             "api": "",
