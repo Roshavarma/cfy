@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-13T00:51:11.404174",
+  "last_updated": "2026-07-13T01:01:32.371508",
   "event_count": 23,
   "events": {
     "events": [
@@ -350,16 +350,16 @@
           "eventName": "Cricket",
           "isHot": "0",
           "Status": "Live",
-          "startTime": "2026/07/12 20:30:15 +0000",
+          "startTime": "2026/07/13 00:30:47 +0000",
           "endTime": "2026/07/13 05:00:22 +0000"
         },
         "channels_data": [
           {
             "title": "WILLOW - AQ",
-            "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/xp8f5ubilf/out/v1/117e5986fa5c489f9b5339fd859ef4be/cenc.mpd",
+            "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/gt3qlkgd61/out/v1/79abba722e7447fe8ee02668537dfb94/cenc.mpd",
             "logo": "",
             "type": 7,
-            "api": "67b816c0fdb4cfd56e69718b0d98ff92:a9e0ea5820cd5549d5488aae7eb8397d",
+            "api": "a369094e70cfd3f88b7950ba71ff4c9b:e9cae08aed9155d2c53a168fad1caecc",
             "tokenApi": ""
           },
           {
@@ -1020,14 +1020,30 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/3429/image",
           "eventName": "Basketball",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/07/13 01:00:00 +0000",
           "endTime": "2026/07/13 03:30:00 +0000"
         },
         "channels_data": [
           {
+            "title": "Live 1",
+            "link": "https://chatgpt.hereisman.net/playlist/53320/load-playlist?|Referer=https://gooz.aapmains.net",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
             "title": "HD SERVER",
             "link": "https://edgestream2.pro/hls/ztyarueaghj71.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online&user-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "SD SERVER",
+            "link": "http://193.47.62.41/hls/xaaaQQQQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
             "logo": "",
             "type": 0,
             "api": "",
