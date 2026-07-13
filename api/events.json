@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-13T18:11:28.086145",
+  "last_updated": "2026-07-13T18:21:28.152541",
   "event_count": 36,
   "events": {
     "events": [
@@ -572,11 +572,27 @@
         },
         "channels_data": [
           {
+            "title": "WILLOW - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ykl659itkv/out/v1/9247f81f1d004a09bce944eaa486dfb8/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "7d529ea9a55b54c6f2321f946ecacd71:a990e0193f7d3556de377484b9a79c72",
+            "tokenApi": ""
+          },
+          {
             "title": "FANCODE - AQ",
             "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
             "logo": "",
             "type": 7,
             "api": "7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe",
+            "tokenApi": ""
+          },
+          {
+            "title": "WILLOW - ALT",
+            "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ykl659itkv/out/v1/9247f81f1d004a09bce944eaa486dfb8/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "7d529ea9a55b54c6f2321f946ecacd71:a990e0193f7d3556de377484b9a79c72",
             "tokenApi": ""
           },
           {
@@ -609,22 +625,6 @@
             "logo": "",
             "type": 0,
             "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "WILLOW - ALT",
-            "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/yjj3kcke8p/out/v1/08ddbaeae1434d86ac9698935fff784a/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "49def90d59d0f6b46583d1c8deb4a652:b259a61601b695a25df12fe13995f802",
-            "tokenApi": ""
-          },
-          {
-            "title": "WILLOW - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/yjj3kcke8p/out/v1/08ddbaeae1434d86ac9698935fff784a/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "49def90d59d0f6b46583d1c8deb4a652:b259a61601b695a25df12fe13995f802",
             "tokenApi": ""
           }
         ]
