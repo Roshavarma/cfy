@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-13T04:41:14.348950",
-  "event_count": 22,
+  "last_updated": "2026-07-13T04:51:09.258725",
+  "event_count": 21,
   "events": {
     "events": [
       {
@@ -349,9 +349,9 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/unique-tournament/20583/image",
           "eventName": "Cricket",
           "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/07/13 00:30:47 +0000",
-          "endTime": "2026/07/13 05:00:22 +0000"
+          "Status": "Upcoming",
+          "startTime": "2026/07/15 21:30:42 +0000",
+          "endTime": "2026/07/16 05:55:47 +0000"
         },
         "channels_data": [
           {
@@ -802,41 +802,6 @@
           {
             "title": "HD SERVER",
             "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 10578,
-        "title": "Utah Jazz vs Los Angeles Clippers",
-        "image": "",
-        "cat": "Basketball",
-        "eventInfo": {
-          "teamA": "Utah Jazz",
-          "teamB": "Los Angeles Clippers",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/3434/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/3425/image",
-          "eventName": "Basketball",
-          "isHot": "0",
-          "Status": "Finish",
-          "startTime": "2026/07/13 02:00:00 +0000",
-          "endTime": "2026/07/13 04:30:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "Live 1",
-            "link": "https://chatgpt.hereisman.net/playlist/53323/load-playlist?|Referer=https://gooz.aapmains.net",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "HD SERVER",
-            "link": "https://edgestream1.pro/hls/pllmazjkdzajh72.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
             "logo": "",
             "type": 0,
             "api": "",
