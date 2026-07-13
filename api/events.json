@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-13T09:51:24.559268",
+  "last_updated": "2026-07-13T10:01:41.648758",
   "event_count": 37,
   "events": {
     "events": [
@@ -633,7 +633,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/213119/image",
           "eventName": "Cricket",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/07/13 10:00:08 +0000",
           "endTime": "2026/07/13 18:00:15 +0000"
         },
@@ -647,8 +647,24 @@
             "tokenApi": ""
           },
           {
+            "title": "WILLOW - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/syd-nitro/live/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
+            "tokenApi": ""
+          },
+          {
             "title": "SKY CRICKET - AQ",
             "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "SKY MAIN EVENT",
+            "link": "https://tmaxapp.site/8wirwjs76erftg/skysportsmainevent.m3u8",
             "logo": "",
             "type": 0,
             "api": "",
@@ -660,14 +676,6 @@
             "logo": "",
             "type": 0,
             "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "WILLOW HD",
-            "link": "https://otte.cache.aiv-cdn.net/syd-nitro/live/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
             "tokenApi": ""
           },
           {
@@ -687,11 +695,11 @@
             "tokenApi": ""
           },
           {
-            "title": "WILLOW - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ac8hjui1bt/out/v1/7f3eb00469024757b051a35bdb9a71c5/cenc.mpd",
+            "title": "SONY TEN 1 - IN",
+            "link": "https://dishmt.slivcdn.com//hls/live/2011747/TEN1HD/master.m3u8?hdnea=st=1783935349~exp=1783935649~acl=*~id=280e0cce-e4ce-4377-ae14-6a13156ab727~hmac=5b68ebe7e7a003c99002f9af54db58768600e3de90e4938e09392325b84ba99b",
             "logo": "",
-            "type": 7,
-            "api": "9d4ac51eff0cff8f0d0da3fbdbc11b5a:a640f2050f6f0ef67cdc6e794c12070e",
+            "type": 0,
+            "api": "",
             "tokenApi": ""
           }
         ]
