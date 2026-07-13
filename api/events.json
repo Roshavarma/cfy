@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-13T09:41:21.282894",
+  "last_updated": "2026-07-13T09:51:24.559268",
   "event_count": 37,
   "events": {
     "events": [
@@ -639,11 +639,11 @@
         },
         "channels_data": [
           {
-            "title": "WILLOW - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ac8hjui1bt/out/v1/7f3eb00469024757b051a35bdb9a71c5/cenc.mpd",
+            "title": "ICC TV - AQ",
+            "link": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-02)/hdntl=exp=1783963527~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~data=hdntl~hmac=a52111765afdb90aa53807f7fda3806eac1c3f031521826b7f798a7e7a2c50ef/manifest.mpd|User-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
             "logo": "",
             "type": 7,
-            "api": "9d4ac51eff0cff8f0d0da3fbdbc11b5a:a640f2050f6f0ef67cdc6e794c12070e",
+            "api": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
             "tokenApi": ""
           },
           {
@@ -652,14 +652,6 @@
             "logo": "",
             "type": 0,
             "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "WILLOW - ALT",
-            "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ac8hjui1bt/out/v1/7f3eb00469024757b051a35bdb9a71c5/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "9d4ac51eff0cff8f0d0da3fbdbc11b5a:a640f2050f6f0ef67cdc6e794c12070e",
             "tokenApi": ""
           },
           {
@@ -680,34 +672,26 @@
           },
           {
             "title": "SonyLiv",
-            "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/20000299/cricodi1207/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:152.0) Gecko/20100101 Firefox/152.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=2326f29b1e6d716eb66ca54013a53311-1783848600184",
+            "link": "https://dai.google.com/ssai/event/ga95v7YpR9uILztaMnCF5w/master.m3u8?hdnea=exp=1783974611~acl=/*~id=2a783d15ae52a25278bff3c13af8d10b-1783931400196~hmac=864df817044b51887bdee08d48762d8c9134a8777d1a46a9afb73e361d05c697|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:152.0) Gecko/20100101 Firefox/152.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=6737b12eb14e12c8262a262fda455c47-1783935000252",
             "logo": "",
             "type": 0,
             "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "WILLOW - LQ",
-            "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash-sd/enc/ujyfvj5vk5/out/v1/0790932cd2584a4cb746b631499e4bd9/cenc-sd.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "dbb6a8643e214ddf350cd0ff2fc37362:c39b581feb8f71b5a97ed656a2776649",
             "tokenApi": ""
           },
           {
             "title": "LOW SERVER",
-            "link": "http://193.47.62.41/hls/MMMMQQ.m3u8|referer=http://www.fawanews.sc/",
+            "link": "http://193.47.62.44/hls/MMMMQQ.m3u8|referer=http://www.fawanews.sc/",
             "logo": "",
             "type": 0,
             "api": "",
             "tokenApi": ""
           },
           {
-            "title": "SONY TEN 5 - IN",
-            "link": "https://sonydaimenew.akamaized.net/hls/live/20000292/cricodi1007/ENG/std_lrh-800300010.m3u8?hdnea=exp=1783719307~acl=/*~id=93990197163189329710487836056018~hmac=f3dc79fa525d6349508ae77d9891919455c7ce84cf84d32d3b89f92643f80c24",
+            "title": "WILLOW - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ac8hjui1bt/out/v1/7f3eb00469024757b051a35bdb9a71c5/cenc.mpd",
             "logo": "",
-            "type": 0,
-            "api": "",
+            "type": 7,
+            "api": "9d4ac51eff0cff8f0d0da3fbdbc11b5a:a640f2050f6f0ef67cdc6e794c12070e",
             "tokenApi": ""
           }
         ]
