@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-13T12:11:23.214851",
-  "event_count": 37,
+  "last_updated": "2026-07-13T12:21:27.388859",
+  "event_count": 36,
   "events": {
     "events": [
       {
@@ -614,105 +614,6 @@
           {
             "title": "FANCODE - IN",
             "link": "https://in-mc-fblive.fancode.com/mumbai/143603_english_hls_e17d5121b699620_1ta-di_h264/1080p.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 10484,
-        "title": "England Women vs India Women",
-        "image": "",
-        "cat": "Cricket",
-        "eventInfo": {
-          "teamA": "England Women",
-          "teamB": "India Women",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/213121/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/213119/image",
-          "eventName": "Cricket",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/07/13 10:00:08 +0000",
-          "endTime": "2026/07/13 18:00:15 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "WILLOW - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/gxcvq7x1no/out/v1/920f3a7378634062929ac47a49b3a992/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "3fd51d89ec662dc791e32e9be619df9f:4a4df026fcdd6f0776dc19cbf18ab23d",
-            "tokenApi": ""
-          },
-          {
-            "title": "ICC TV - AQ",
-            "link": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-02)/hdntl=exp=1783963527~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~data=hdntl~hmac=a52111765afdb90aa53807f7fda3806eac1c3f031521826b7f798a7e7a2c50ef/manifest.mpd|User-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
-            "logo": "",
-            "type": 7,
-            "api": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
-            "tokenApi": ""
-          },
-          {
-            "title": "WILLOW - ALT",
-            "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/gxcvq7x1no/out/v1/920f3a7378634062929ac47a49b3a992/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "3fd51d89ec662dc791e32e9be619df9f:4a4df026fcdd6f0776dc19cbf18ab23d",
-            "tokenApi": ""
-          },
-          {
-            "title": "SKY CRICKET - AQ",
-            "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "SKY MAIN EVENT",
-            "link": "https://tmaxapp.site/8wirwjs76erftg/skysportsmainevent.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "SKY SPORT NZ",
-            "link": "https://tmaxapp.site/8wirwjs76erftg/skysport1nz.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "SonyLiv",
-            "link": "https://dai.google.com/ssai/event/ga95v7YpR9uILztaMnCF5w/master.m3u8?hdnea=exp=1783974611~acl=/*~id=2a783d15ae52a25278bff3c13af8d10b-1783931400196~hmac=864df817044b51887bdee08d48762d8c9134a8777d1a46a9afb73e361d05c697|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:152.0) Gecko/20100101 Firefox/152.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=6737b12eb14e12c8262a262fda455c47-1783935000252",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "WILLOW HD",
-            "link": "https://otte.cache.aiv-cdn.net/syd-nitro/live/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
-            "tokenApi": ""
-          },
-          {
-            "title": "LOW SERVER",
-            "link": "http://193.47.62.44/hls/MMMMQQ.m3u8|referer=http://www.fawanews.sc/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "SONY TEN 1 - IN",
-            "link": "https://dishmt.slivcdn.com//hls/live/2011747/TEN1HD/master.m3u8?hdnea=st=1783935349~exp=1783935649~acl=*~id=280e0cce-e4ce-4377-ae14-6a13156ab727~hmac=5b68ebe7e7a003c99002f9af54db58768600e3de90e4938e09392325b84ba99b",
             "logo": "",
             "type": 0,
             "api": "",
