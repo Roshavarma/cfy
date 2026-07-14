@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-14T09:51:25.606885",
+  "last_updated": "2026-07-14T10:01:51.518556",
   "event_count": 37,
   "events": {
     "events": [
@@ -467,7 +467,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/187765/image",
           "eventName": "Cricket",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/07/14 10:00:37 +0000",
           "endTime": "2026/07/14 18:00:42 +0000"
         },
@@ -507,6 +507,14 @@
           {
             "title": "SKY SPORT NZ",
             "link": "https://tmaxapp.site/8wirwjs76erftg/skysport1nz.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "LOW SERVER",
+            "link": "http://193.47.62.44/hls/zzzz.m3u8|referer=http://www.fawanews.sc/",
             "logo": "",
             "type": 0,
             "api": "",
