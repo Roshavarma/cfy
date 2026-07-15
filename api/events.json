@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-15T19:21:27.650563",
+  "last_updated": "2026-07-15T19:31:41.166657",
   "event_count": 38,
   "events": {
     "events": [
@@ -1477,7 +1477,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/3419/image",
           "eventName": "Basketball",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/07/15 19:30:00 +0000",
           "endTime": "2026/07/15 22:00:00 +0000"
         },
@@ -1527,6 +1527,14 @@
         "channels_data": [
           {
             "title": "Live 1",
+            "link": "https://chatgpt.hereisman.net/playlist/53376/load-playlist?|Referer=https://gooz.aapmains.net ",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "Live 2",
             "link": "https://hls.live123.fans/live/3923420.m3u8",
             "logo": "",
             "type": 0,
