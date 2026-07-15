@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-15T18:21:17.270359",
+  "last_updated": "2026-07-15T18:31:35.930796",
   "event_count": 38,
   "events": {
     "events": [
@@ -617,49 +617,6 @@
             "logo": "",
             "type": 7,
             "api": "709c812e1b4174002605df1d17d34a4c:0bbee6c9c20a0f065bf8369d54cbf83e",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 10485,
-        "title": "Ireland Women vs West Indies Women",
-        "image": "",
-        "cat": "Cricket",
-        "eventInfo": {
-          "teamA": "Ireland Women",
-          "teamB": "West Indies Women",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/213116/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/213120/image",
-          "eventName": "Cricket",
-          "isHot": "0",
-          "Status": "Finish",
-          "startTime": "2026/07/15 09:45:54 +0000",
-          "endTime": "2026/07/15 17:45:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "FANCODE - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe",
-            "tokenApi": ""
-          },
-          {
-            "title": "FANCODE - LQ",
-            "link": "https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash-sd/enc/qddnwqthpp/out/v1/6c25cddab58043a6ace0ac64d97983f0/cenc-sd.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "709c812e1b4174002605df1d17d34a4c:0bbee6c9c20a0f065bf8369d54cbf83e",
-            "tokenApi": ""
-          },
-          {
-            "title": "LOW SERVER",
-            "link": "http://162.251.160.53:8089/WIvsIRE/index.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
             "tokenApi": ""
           }
         ]
@@ -1693,6 +1650,33 @@
           {
             "title": "",
             "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 10635,
+        "title": "Spain vs W102",
+        "image": "null",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Spain",
+          "teamB": "TBD",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/4698/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/865204/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/07/19 19:00:11 +0000",
+          "endTime": "2026/07/19 22:00:16 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "",
+            "link": "ok",
             "logo": "",
             "type": 0,
             "api": "",
