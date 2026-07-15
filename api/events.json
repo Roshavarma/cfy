@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-15T10:31:33.657215",
+  "last_updated": "2026-07-15T10:41:29.513881",
   "event_count": 38,
   "events": {
     "events": [
@@ -406,19 +406,19 @@
         },
         "channels_data": [
           {
+            "title": "FANCODE - AQ",
+            "link": "https://a204aivottepl-a.akamaihd.net/sin-nitro/live/clients/dash/enc/h35gev6jft/out/v1/c64004e114c245a4ab84bb570275a4a9/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "065051b99bf5cf8d9a3bde5cbde6aaf9:214bd176832872339ce184338320f9a2",
+            "tokenApi": ""
+          },
+          {
             "title": "TAPMAD - AQ",
             "link": "https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8",
             "logo": "",
             "type": 0,
             "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "FANCODE - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "065051b99bf5cf8d9a3bde5cbde6aaf9:214bd176832872339ce184338320f9a2",
             "tokenApi": ""
           },
           {
@@ -432,6 +432,14 @@
           {
             "title": "LOW SERVER",
             "link": "http://162.251.160.53:8089/BANvsZIM/index.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "FANCODE - IN",
+            "link": "https://in-mc-pdlive.fancode.cim/mumbai/143403_english_hls_4b9e3a65fb80219_1ta-di_h264/index.m3u8",
             "logo": "",
             "type": 0,
             "api": "",
