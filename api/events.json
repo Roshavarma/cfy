@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-15T18:41:29.077444",
+  "last_updated": "2026-07-15T18:51:27.701567",
   "event_count": 38,
   "events": {
     "events": [
@@ -647,11 +647,43 @@
             "tokenApi": ""
           },
           {
+            "title": "BBC SPORTS HD",
+            "link": "https://chatgpt.hereisman.net/playlist/53373/load-playlist?|Referer=https://gooz.aapmains.net",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "TSN SPORTS HD",
+            "link": "https://chatgpt.hereisman.net/playlist/53372/load-playlist?|Referer=https://gooz.aapmains.net",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
             "title": "ITV SPORTS - AQ",
             "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/0eiyyz8qzm/out/v1/dd17af8835fe4bd087d1a4e359b635d7/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
             "logo": "",
             "type": 7,
             "api": "30089c52924f037b225b82c616fee2a5:f55dc8b66ed4fc6753d6035ae7e17144",
+            "tokenApi": ""
+          },
+          {
+            "title": "SPANISH - AQ",
+            "link": "https://teleamazonasb.cdn.mdstrm.com/live-stream-mp/dfzu2jckcs3he/a5e7a2777ea24b8ca49b326b536f87b2/6a0cd90eb3852427fcded197/manifest.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "aa78205160ef4b5c972d5e815a8fe6e4:338b545591e45469e71dae3a8fb8dbb0",
+            "tokenApi": ""
+          },
+          {
+            "title": "TOFFEE BD - AQ",
+            "link": "https://prod-cdn01-live.toffeelive.com/live/FIFA-2026/sst/index.m3u8?edge-cache-token=Expires=1784147509~Starts=1784140309~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Data=eyJzdWJzY3JpYmVyX2lkIjoiOGY5YTgxMDYtMThlMi00YTFjLWI1M2EtZDk1YTc4MmU4M2RjIn0~Signature=rFfbyuY4WvDcHsudacmZWFlB8JtUi3iFa1T3JOnRYhqHG-QQRz5SsBpG24gY7ptp6xEnb3Hbs-04INDUSbXECA",
+            "logo": "",
+            "type": 0,
+            "api": "",
             "tokenApi": ""
           },
           {
@@ -663,8 +695,16 @@
             "tokenApi": ""
           },
           {
-            "title": "TOFFEE BD - AQ",
-            "link": "https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-5/index.m3u8?edge-cache-token=Expires=1782031423~Starts=1781945023~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=ab86BO5xhFRJWIwd4hrKlygvpy5sg78MNR55Csko25L_ML0-XD8mAySh1eHNSfOtwQ0j31TIrz3ZyU4UY6WRCA",
+            "title": "ISCREEN BD - AQ",
+            "link": "https://ld58dqz8ajj8.rockstreamer.com/isc_ssai/isc_ssai_ads/playlist.m3u8?|referer=https://iscreen.com.bd/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "beiN SPORTS - AQ",
+            "link": "https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/RNEWhVHDVlEKwz30fQzu2QqaLyYmm-YzTT4IpbCqfppjUhHt1gSYjy0RqpFL9kaJNZglb3pjmaymEIs2VLcjNg/non_transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/master_dynamic_delta.m3u8?type=live",
             "logo": "",
             "type": 0,
             "api": "",
@@ -684,14 +724,6 @@
             "logo": "",
             "type": 7,
             "api": "1223d5105392cabf1bb9c2c1fdf6539a:340b409f4b8f78a343e0363a7938df38",
-            "tokenApi": ""
-          },
-          {
-            "title": "WC ENGLISH - AQ",
-            "link": "https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/fifa_ppv1/default/index.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "17bb9e12c9d844bb9d032a5399d61cc5:08c136b87678210bbac2224550f85c9e",
             "tokenApi": ""
           },
           {
@@ -751,8 +783,16 @@
             "tokenApi": ""
           },
           {
-            "title": "BBC SPORTS HD",
-            "link": "https://chatgpt.hereisman.net/playlist/53373/load-playlist?|Referer=https://gooz.aapmains.net",
+            "title": "FOX SPORTS HD",
+            "link": "https://chatgpt.hereisman.net/playlist/53370/load-playlist?|Referer=https://gooz.aapmains.net",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "UNITE8 HINDI HD",
+            "link": "https://hugh.cdn.rumble.cloud/live/hd37fm8g/slot-59/re4b-dm36/chunklist.m3u8",
             "logo": "",
             "type": 0,
             "api": "",
@@ -760,15 +800,7 @@
           },
           {
             "title": "TSN SPORTS HD",
-            "link": "https://chatgpt.hereisman.net/playlist/53372/load-playlist?|Referer=https://gooz.aapmains.net",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "FOX SPORTS HD",
-            "link": "https://chatgpt.hereisman.net/playlist/53370/load-playlist?|Referer=https://gooz.aapmains.net",
+            "link": "https://202-218-193-199.twitcasting.tv/tc.livehls/v1/streams/838197478/hls/1008.96/media.m3u8?useQSS=1",
             "logo": "",
             "type": 0,
             "api": "",
@@ -783,8 +815,8 @@
             "tokenApi": ""
           },
           {
-            "title": "FAST SERVER",
-            "link": "Ok",
+            "title": "FAST SERVER 1",
+            "link": "https://pul-tenm.gkykp.com/live/hd-en-1-4459813.m3u8?txSecret=7a28de5b22ea6d0e49c6685dfaa818b4&txTime=6A591BA8",
             "logo": "",
             "type": 0,
             "api": "",
@@ -927,24 +959,16 @@
             "tokenApi": ""
           },
           {
-            "title": "beiN SPORTS - AQ",
-            "link": "https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/RNEWhVHDVlEKwz30fQzu2QqaLyYmm-YzTT4IpbCqfppjUhHt1gSYjy0RqpFL9kaJNZglb3pjmaymEIs2VLcjNg/non_transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/master_dynamic_delta.m3u8?type=live",
+            "title": "FAST SERVER 2",
+            "link": "https://live2.jxa76.com/live/hd-en-6MvYMRTGwFvxSW19eK.m3u8?txSecret=3c8e85f1d41746caf77e629441434fc0&txTime=19F6340AC13",
             "logo": "",
             "type": 0,
             "api": "",
             "tokenApi": ""
           },
           {
-            "title": "UNITE8 HINDI HD",
-            "link": "https://hugh.cdn.rumble.cloud/live/hd37fm8g/slot-59/re4b-dm36/chunklist.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "TSN SPORTS HD",
-            "link": "https://202-218-193-199.twitcasting.tv/tc.livehls/v1/streams/838197478/hls/1008.96/media.m3u8?useQSS=1",
+            "title": "CCTV SPORTS HD",
+            "link": "https://pullsgp.yyzb456.top/live/stream-758611_lhd.m3u8",
             "logo": "",
             "type": 0,
             "api": "",
