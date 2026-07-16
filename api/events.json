@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-16T17:41:15.950338",
-  "event_count": 39,
+  "last_updated": "2026-07-16T17:51:18.243508",
+  "event_count": 45,
   "events": {
     "events": [
       {
@@ -1443,6 +1443,176 @@
             "logo": "",
             "type": 0,
             "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 10647,
+        "title": "Vitoria vs Vasco da Gama",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Vit\u00f3ria",
+          "teamB": "Vasco da Gama",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/1962/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/1974/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/07/16 22:30:00 +0000",
+          "endTime": "2026/07/17 00:50:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 10648,
+        "title": "Botafogo vs Santos",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Botafogo",
+          "teamB": "Santos",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/1958/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/1968/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/07/16 22:30:00 +0000",
+          "endTime": "2026/07/17 00:50:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "SportDigital Fussball",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 10649,
+        "title": "CF Montreal vs Toronto FC",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "CF Montr\u00e9al",
+          "teamB": "Toronto FC",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/22006/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/7080/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/07/16 23:30:00 +0000",
+          "endTime": "2026/07/17 01:50:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "TSN SPORTS 5 - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+            "logo": "",
+            "type": 7,
+            "api": "385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8",
+            "tokenApi": ""
+          },
+          {
+            "title": "TSN SPORTS 4 - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+            "logo": "",
+            "type": 7,
+            "api": "abc5b2883121012850ebda05b528c5ec:e5250924f4b738905f7163a0134587a7",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 10650,
+        "title": "Chicago Fire vs Vancouver Whitecaps",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Chicago Fire",
+          "teamB": "Vancouver Whitecaps",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/2505/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/22010/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/07/17 00:30:00 +0000",
+          "endTime": "2026/07/17 02:50:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 10651,
+        "title": "St.Louis City vs Sporting Kansas City",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "St.Louis City",
+          "teamB": "Sporting Kansas City",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/407803/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/2509/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/07/17 00:30:00 +0000",
+          "endTime": "2026/07/17 02:50:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 10652,
+        "title": "Seattle Sounders FC vs Portland Timbers",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Seattle Sounders FC",
+          "teamB": "Portland Timbers",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/22009/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/22007/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/07/17 02:30:00 +0000",
+          "endTime": "2026/07/17 04:50:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "TSN SPORTS 5 - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+            "logo": "",
+            "type": 7,
+            "api": "385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8",
             "tokenApi": ""
           }
         ]
