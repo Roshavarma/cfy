@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-16T21:11:21.868758",
-  "event_count": 45,
+  "last_updated": "2026-07-16T21:21:18.018133",
+  "event_count": 43,
   "events": {
     "events": [
       {
@@ -355,27 +355,11 @@
         },
         "channels_data": [
           {
-            "title": "WILLOW - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fkaphi8il2/out/v1/06fab1ff523346b895a0575e0f01bcd0/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "007e2e674f82de21623b314b5908693d:929841d213cb7c94e592037bac2fc67f",
-            "tokenApi": ""
-          },
-          {
             "title": "SKY CRICKET - AQ",
             "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla",
             "logo": "",
             "type": 0,
             "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "WILLOW - ALT",
-            "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/fkaphi8il2/out/v1/06fab1ff523346b895a0575e0f01bcd0/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "007e2e674f82de21623b314b5908693d:929841d213cb7c94e592037bac2fc67f",
             "tokenApi": ""
           },
           {
@@ -392,6 +376,14 @@
             "logo": "",
             "type": 7,
             "api": "9dacc80134404c34ba184022c28d0000:982183fb4d9449c995859b7cff512092",
+            "tokenApi": ""
+          },
+          {
+            "title": "WILLOW - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fkaphi8il2/out/v1/06fab1ff523346b895a0575e0f01bcd0/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "007e2e674f82de21623b314b5908693d:929841d213cb7c94e592037bac2fc67f",
             "tokenApi": ""
           }
         ]
@@ -1575,73 +1567,19 @@
         },
         "channels_data": [
           {
-            "title": "TSN SPORTS 5 - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-            "logo": "",
-            "type": 7,
-            "api": "385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8",
-            "tokenApi": ""
-          },
-          {
-            "title": "TSN SPORTS 4 - AQ",
+            "title": "TSN SPORTS - AQ",
             "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
             "logo": "",
             "type": 7,
             "api": "abc5b2883121012850ebda05b528c5ec:e5250924f4b738905f7163a0134587a7",
             "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 10650,
-        "title": "Chicago Fire vs Vancouver Whitecaps",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Chicago Fire",
-          "teamB": "Vancouver Whitecaps",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/2505/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/22010/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Upcoming",
-          "startTime": "2026/07/17 00:30:00 +0000",
-          "endTime": "2026/07/17 02:50:00 +0000"
-        },
-        "channels_data": [
+          },
           {
-            "title": "",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "title": "TSN SPORTS 5 - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
             "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 10651,
-        "title": "St.Louis City vs Sporting Kansas City",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "St.Louis City",
-          "teamB": "Sporting Kansas City",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/407803/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/2509/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Upcoming",
-          "startTime": "2026/07/17 00:30:00 +0000",
-          "endTime": "2026/07/17 02:50:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
+            "type": 7,
+            "api": "385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8",
             "tokenApi": ""
           }
         ]
