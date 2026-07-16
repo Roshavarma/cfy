@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-16T18:21:15.759817",
+  "last_updated": "2026-07-16T18:31:38.433732",
   "event_count": 45,
   "events": {
     "events": [
@@ -566,17 +566,17 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/187755/image",
           "eventName": "Cricket",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/07/16 18:30:33 +0000",
           "endTime": "2026/07/17 04:00:39 +0000"
         },
         "channels_data": [
           {
             "title": "WILLOW - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ykl659itkv/out/v1/9247f81f1d004a09bce944eaa486dfb8/cenc.mpd",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/f6zxvxbrof/out/v1/e12426335a5240ffa676798c53a77e6e/cenc.mpd",
             "logo": "",
             "type": 7,
-            "api": "7d529ea9a55b54c6f2321f946ecacd71:a990e0193f7d3556de377484b9a79c72",
+            "api": "2af5031d717117b3abe01558b78e2df5:a971f2b0740eeb1d1ef3e0f2936db73b",
             "tokenApi": ""
           },
           {
@@ -588,24 +588,24 @@
             "tokenApi": ""
           },
           {
-            "title": "WILLOW - ALT",
-            "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ykl659itkv/out/v1/9247f81f1d004a09bce944eaa486dfb8/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "7d529ea9a55b54c6f2321f946ecacd71:a990e0193f7d3556de377484b9a79c72",
-            "tokenApi": ""
-          },
-          {
             "title": "TAPMAD - AQ",
-            "link": "https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8|referer=https://tapmad.com",
+            "link": "https://saseries.akamaized.net/hls/live/2110097/UFC-20-3827e1/master.m3u8?|referer=https://tapmad.com",
             "logo": "",
             "type": 0,
             "api": "",
             "tokenApi": ""
           },
           {
+            "title": "WILLOW - ALT",
+            "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/f6zxvxbrof/out/v1/e12426335a5240ffa676798c53a77e6e/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "2af5031d717117b3abe01558b78e2df5:a971f2b0740eeb1d1ef3e0f2936db73b",
+            "tokenApi": ""
+          },
+          {
             "title": "TNT SPORTS HD",
-            "link": "https://tmaxapp.site/8wirwjs76erftg/tntsports2.m3u8",
+            "link": "https://tmaxapp.site/8wirwjs76erftg/tntsports1.m3u8",
             "logo": "",
             "type": 0,
             "api": "",
@@ -617,6 +617,14 @@
             "logo": "",
             "type": 7,
             "api": "709c812e1b4174002605df1d17d34a4c:0bbee6c9c20a0f065bf8369d54cbf83e",
+            "tokenApi": ""
+          },
+          {
+            "title": "LOW SERVER",
+            "link": "http://193.47.62.53/hls/HYYYZQQQQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+            "logo": "",
+            "type": 0,
+            "api": "",
             "tokenApi": ""
           }
         ]
