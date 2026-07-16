@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-16T12:01:49.019937",
-  "event_count": 37,
+  "last_updated": "2026-07-16T12:11:27.877717",
+  "event_count": 39,
   "events": {
     "events": [
       {
@@ -1365,6 +1365,60 @@
           "Status": "Upcoming",
           "startTime": "2026/07/17 02:00:00 +0000",
           "endTime": "2026/07/17 04:30:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 10645,
+        "title": "MI London vs Sunrisers Leeds",
+        "image": "",
+        "cat": "Cricket",
+        "eventInfo": {
+          "teamA": "MI London",
+          "teamB": "Sunrisers Leeds",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/377172/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/377178/image",
+          "eventName": "Cricket",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/07/21 17:30:00 +0000",
+          "endTime": "2026/07/21 21:30:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 10646,
+        "title": "Southern Brave vs Welsh Fire",
+        "image": "",
+        "cat": "Cricket",
+        "eventInfo": {
+          "teamA": "Southern Brave",
+          "teamB": "Welsh Fire",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/377177/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/377179/image",
+          "eventName": "Cricket",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/07/22 17:30:00 +0000",
+          "endTime": "2026/07/22 21:30:00 +0000"
         },
         "channels_data": [
           {
