@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-17T21:31:25.920405",
-  "event_count": 41,
+  "last_updated": "2026-07-17T21:41:04.876195",
+  "event_count": 38,
   "events": {
     "events": [
       {
@@ -638,57 +638,6 @@
         ]
       },
       {
-        "id": 10603,
-        "title": "1Boston Red Sox vs Tampa Bay Rays",
-        "image": "",
-        "cat": "Baseball",
-        "eventInfo": {
-          "teamA": "Boston Red Sox",
-          "teamB": "Tampa Bay Rays",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/3646/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/3653/image",
-          "eventName": "Baseball",
-          "isHot": "0",
-          "Status": "Finish",
-          "startTime": "2026/07/17 17:35:00 +0000",
-          "endTime": "2026/07/17 20:35:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "Live 1",
-            "link": "https://chatgpt.hereisman.net/playlist/53418/load-playlist?|Referer=https://gooz.aapmains.net ",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "Live 2",
-            "link": "https://instreams.live/live/MLB4/mono.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://instream.click/jwp2-us.php?stream=MLB4&Origin=https://instream.click/jwp2-us.php?stream=MLB4",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "LOW SERVER",
-            "link": "http://193.47.62.46/hls/nyyyq.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "HD SERVER ",
-            "link": "https://edgestream3.pro/hls/dazhfiach15.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
         "id": 10604,
         "title": "2Boston Red Sox vs Tampa Bay Rays",
         "image": "",
@@ -1187,41 +1136,6 @@
         ]
       },
       {
-        "id": 10618,
-        "title": "Jaffna Kings vs Galle Gallants",
-        "image": "",
-        "cat": "Cricket",
-        "eventInfo": {
-          "teamA": "Jaffna Kings",
-          "teamB": "Galle Gallants",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/453388/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/453389/image",
-          "eventName": "Cricket",
-          "isHot": "0",
-          "Status": "Finish",
-          "startTime": "2026/07/17 14:00:00 +0000",
-          "endTime": "2026/07/17 18:30:37 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "WILLOW - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0omm36jeyc/out/v1/1650c48dbdfc441586b9349a300d608e/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "543b86e80285d5c13b9ee30e1673964f:cc6adf6600ef70ad3282c9c719832d04",
-            "tokenApi": ""
-          },
-          {
-            "title": "WILLOW - ALT",
-            "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/0omm36jeyc/out/v1/1650c48dbdfc441586b9349a300d608e/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "543b86e80285d5c13b9ee30e1673964f:cc6adf6600ef70ad3282c9c719832d04",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
         "id": 10619,
         "title": "Kandy Royals vs Dambulla Sixers",
         "image": "",
@@ -1313,7 +1227,7 @@
           "teamAFlag": "https://img.sofascore.com/api/v1/team/4481/image",
           "teamBFlag": "https://img.sofascore.com/api/v1/team/4713/image",
           "eventName": "Football",
-          "isHot": "0",
+          "isHot": "1",
           "Status": "Upcoming",
           "startTime": "2026/07/18 21:00:00 +0000",
           "endTime": "2026/07/18 23:20:00 +0000"
@@ -1627,73 +1541,6 @@
           {
             "title": "HD SERVER",
             "link": "https://edgestream1.pro/hls/bvnsqdfvgha70.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 10663,
-        "title": "The Blaze vs Durham Women",
-        "image": "",
-        "cat": "Cricket",
-        "eventInfo": {
-          "teamA": "The Blaze",
-          "teamB": "Durham Women",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/1081090/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/1081086/image",
-          "eventName": "Cricket",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/07/17 17:45:02 +0000",
-          "endTime": "2026/07/17 22:00:07 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "WILLOW - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ca6lfdhbtl/out/v1/6612089a90424b0894fcfefef444a988/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "31cb90e7adf14d62c40cb7d85d37d6ac:d100b18a1937455db4ca2b3dcb5bd317",
-            "tokenApi": ""
-          },
-          {
-            "title": "SKY CRICKET - AQ",
-            "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "WILLOW - ALT",
-            "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ca6lfdhbtl/out/v1/6612089a90424b0894fcfefef444a988/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "31cb90e7adf14d62c40cb7d85d37d6ac:d100b18a1937455db4ca2b3dcb5bd317",
-            "tokenApi": ""
-          },
-          {
-            "title": "TAPMAD - AQ",
-            "link": "https://saseries.akamaized.net/hls/live/2110097/UFC-20-3827e1/master.m3u8|referer=https://tapmad.com",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "SKY SPORT NZ",
-            "link": "https://tmaxapp.site/8wirwjs76erftg/skysport5nz.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "SonyLiv",
-            "link": "https://dai.google.com/ssai/event/O1T1FsBGRG-E3tKfjU-jnw/master.m3u8?hdnea=exp=1784349017~acl=/*~id=b62cdb64795972a49c2bb9473adba3f9-1784305800213~hmac=27b8a34b5ec330bfdeb8594b3d4004f429cf302c893d2bf17afa22a455a5e25e|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:152.0) Gecko/20100101 Firefox/152.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=eaa5ca4c091bb23b480d9c0b6f0a3122-1784309400172",
             "logo": "",
             "type": 0,
             "api": "",
