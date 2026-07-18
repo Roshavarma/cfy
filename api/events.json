@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-18T13:41:08.943871",
+  "last_updated": "2026-07-18T13:51:01.785502",
   "event_count": 41,
   "events": {
     "events": [
@@ -754,11 +754,19 @@
         },
         "channels_data": [
           {
-            "title": "",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "title": "WILLOW - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/y87fzxvvvh/out/v1/ae2a7936a2d342b8913cc63b8781cab6/cenc.mpd",
             "logo": "",
-            "type": 0,
-            "api": "",
+            "type": 7,
+            "api": "298a4628daaba71f86b9060520700539:ffccd30926b91d75e4a3aab097c64653",
+            "tokenApi": ""
+          },
+          {
+            "title": "WILLOW - ALT",
+            "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/y87fzxvvvh/out/v1/ae2a7936a2d342b8913cc63b8781cab6/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "298a4628daaba71f86b9060520700539:ffccd30926b91d75e4a3aab097c64653",
             "tokenApi": ""
           }
         ]
