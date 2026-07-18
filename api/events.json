@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-18T17:21:07.656878",
+  "last_updated": "2026-07-18T17:31:19.808198",
   "event_count": 41,
   "events": {
     "events": [
@@ -1091,8 +1091,8 @@
         },
         "channels_data": [
           {
-            "title": "",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "title": "HD SERVER",
+            "link": "https://edgestream2.pro/hls/ztyarueaghj71.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
             "logo": "",
             "type": 0,
             "api": "",
@@ -1615,10 +1615,10 @@
         "channels_data": [
           {
             "title": "WILLOW - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bfsnzvy7s3/out/v1/c2fcf46249134d43af165252bad98f5c/cenc.mpd",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/9uwi1u8pp4/out/v1/e3442a4252344b0493129c4db959dc06/cenc.mpd",
             "logo": "",
             "type": 7,
-            "api": "e3f90cc7280490c20a54405dfb0cf744:c5ef31239f2e9146de635ebf39f62466",
+            "api": "c19c0062404ac30d42291fbfadba323e:6086d22b65e8e988f4b6da3e34a3e2c3",
             "tokenApi": ""
           },
           {
@@ -1639,18 +1639,10 @@
           },
           {
             "title": "WILLOW - ALT",
-            "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/bfsnzvy7s3/out/v1/c2fcf46249134d43af165252bad98f5c/cenc.mpd",
+            "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/9uwi1u8pp4/out/v1/e3442a4252344b0493129c4db959dc06/cenc.mpd",
             "logo": "",
             "type": 7,
-            "api": "e3f90cc7280490c20a54405dfb0cf744:c5ef31239f2e9146de635ebf39f62466",
-            "tokenApi": ""
-          },
-          {
-            "title": "FOX CRICKET HD",
-            "link": "http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VCQ4ADX96VH4G8PY7URBWRQU/19146/index.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
+            "api": "c19c0062404ac30d42291fbfadba323e:6086d22b65e8e988f4b6da3e34a3e2c3",
             "tokenApi": ""
           },
           {
@@ -1664,6 +1656,14 @@
           {
             "title": "SonyLiv",
             "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/20000295/criclive1807/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:152.0) Gecko/20100101 Firefox/152.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=ddd957f2ac5534f4b94466bbcc9c4c88-1784368200117",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "LOW SERVER ",
+            "link": "http://104.251.122.123:8089/crc4/index.m3u8",
             "logo": "",
             "type": 0,
             "api": "",
