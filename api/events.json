@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-18T15:41:07.007948",
-  "event_count": 42,
+  "last_updated": "2026-07-18T15:51:10.005037",
+  "event_count": 40,
   "events": {
     "events": [
       {
@@ -1592,84 +1592,6 @@
         ]
       },
       {
-        "id": 10689,
-        "title": "AFC Ajax vs Olympiacos FC",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "AFC Ajax",
-          "teamB": "Olympiacos FC",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/2953/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/3245/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/07/18 13:30:00 +0000",
-          "endTime": "2026/07/18 15:50:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "Live 1",
-            "link": "https://live.vivo200.com/live/sd-1-4584528.m3u8?txSecret=c60212596bd784119f7687af306e090a&txTime=6A5B92FC|referer=https://player.online909.com/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "LOW SERVER ",
-            "link": "http://193.47.62.49/hls/YNNNQQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 10690,
-        "title": "Sportfreunde Lotte vs Real Betis",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Sportfreunde Lotte",
-          "teamB": "Real Betis",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/5844/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/2816/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/07/18 13:30:00 +0000",
-          "endTime": "2026/07/18 15:50:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "PREMIER SPORTS - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19",
-            "tokenApi": ""
-          },
-          {
-            "title": "Live 1",
-            "link": "https://live.vivo200.com/live/sd-1-4587780.m3u8?txSecret=1d6f9a6c324cb7b62cd7a4b5d810cd78&txTime=6A5B92D8|referer=https://player.online909.com/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "LOW SERVER ",
-            "link": "http://193.47.62.49/hls/YNNNQQQQQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
         "id": 10691,
         "title": "Manchester United vs Wrexham",
         "image": "",
@@ -1687,7 +1609,7 @@
         },
         "channels_data": [
           {
-            "title": "Live 1",
+            "title": "MU TV - AQ",
             "link": "https://fastly.live.brightcove.com/6374054671112/eu-west-1/6058004203001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiYXplMnp5LmVncmVzcy55ODN1ZWIiLCJhY2NvdW50X2lkIjoiNjA1ODAwNDIwMzAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MDU4MDA0MjAzMDAxIl0sImp0aSI6IjYzNzQwNTQ2NzExMTIifQ.3FmuTna3DAmY7xlhK5fk6LMrosrtrR5VsU2QOgYO5y4/playlist-hls.m3u8",
             "logo": "",
             "type": 0,
@@ -1695,7 +1617,15 @@
             "tokenApi": ""
           },
           {
-            "title": "HD SERVER",
+            "title": "SPORTSCAST - AQ",
+            "link": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/445db9eb-0ebc-4035-9598-e637f934abc8/master.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "MU TV HD",
             "link": "https://fastly.live.brightcove.com/6374054671112/eu-west-1/6058004203001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiYXplMnp5LmVncmVzcy55ODN1ZWIiLCJhY2NvdW50X2lkIjoiNjA1ODAwNDIwMzAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MDU4MDA0MjAzMDAxIl0sImp0aSI6IjYzNzQwNTQ2NzExMTIifQ.3FmuTna3DAmY7xlhK5fk6LMrosrtrR5VsU2QOgYO5y4/playlist-dash.mpd",
             "logo": "",
             "type": 0,
