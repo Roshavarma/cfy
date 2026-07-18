@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-18T09:21:01.344731",
-  "event_count": 38,
+  "last_updated": "2026-07-18T09:31:15.472769",
+  "event_count": 40,
   "events": {
     "events": [
       {
@@ -649,7 +649,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/369189/image",
           "eventName": "Cricket",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/07/18 09:30:00 +0000",
           "endTime": "2026/07/18 13:30:00 +0000"
         },
@@ -1416,6 +1416,68 @@
           "Status": "Upcoming",
           "startTime": "2026/07/19 02:07:00 +0000",
           "endTime": "2026/07/19 05:07:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 10687,
+        "title": "Northamptonshire vs Somerset",
+        "image": "",
+        "cat": "Cricket",
+        "eventInfo": {
+          "teamA": "Northamptonshire",
+          "teamB": "Somerset",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/187831/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/187832/image",
+          "eventName": "Cricket",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/07/18 10:00:00 +0000",
+          "endTime": "2026/07/18 14:00:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "SKY CRICKET - AQ",
+            "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "SKY SPORT NZ",
+            "link": "https://tmaxapp.site/8wirwjs76erftg/skysport6nz.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 10688,
+        "title": "Hampshire vs Nottinghamshire",
+        "image": "",
+        "cat": "Cricket",
+        "eventInfo": {
+          "teamA": "Hampshire",
+          "teamB": "Nottinghamshire",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/187821/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/187826/image",
+          "eventName": "Cricket",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/07/18 13:30:00 +0000",
+          "endTime": "2026/07/18 17:30:00 +0000"
         },
         "channels_data": [
           {
