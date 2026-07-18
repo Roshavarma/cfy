@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-18T10:41:06.619313",
-  "event_count": 40,
+  "last_updated": "2026-07-18T10:50:59.655282",
+  "event_count": 41,
   "events": {
     "events": [
       {
@@ -229,9 +229,9 @@
           "teamBFlag": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzZP7kZVz8XPUsapkhsNd-oO8yjHbAA2NXMRuEDPXZteAJRwIeIAUQo5U_6QA4mhPqXAeR5YPVY-Yu5hBVZcOIfWUUFvewgaC2bFmrSLu10iQgvBiLpB0vxEWz320Par_JDjKzTdCYYTcsA4dLb-TjD1fsXvMwGsb6XahN-Pq2ZsexcSsBITIxzXFRYEM/s1600/1000009833.jpg",
           "eventName": "WWE",
           "isHot": "0",
-          "Status": "Finish",
-          "startTime": "2026/07/18 00:00:27 +0000",
-          "endTime": "2026/07/18 03:00:30 +0000"
+          "Status": "Upcoming",
+          "startTime": "2026/07/25 00:00:11 +0000",
+          "endTime": "2026/07/25 03:00:15 +0000"
         },
         "channels_data": [
           {
@@ -320,6 +320,121 @@
           "endTime": "2026/07/16 03:00:31 +0000"
         },
         "channels_data": []
+      },
+      {
+        "id": 8963,
+        "title": "UFC LIVE",
+        "image": "null",
+        "cat": "Boxing",
+        "eventInfo": {
+          "teamA": "Dricus Du Plessis",
+          "teamB": "Kamaru Usman",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/461874/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/1243923/image",
+          "eventName": "Boxing",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/07/18 23:00:07 +0000",
+          "endTime": "2026/07/19 04:00:11 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "PARAMOUNT+ HD",
+            "link": "https://chatgpt.hereisman.net/playlist/53239/load-playlist?|Referer=https://gooz.aapmains.net",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "PARAMOUNT+ - AQ",
+            "link": "https://semijaunais.s3.eu-central-1.amazonaws.com/paramount.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "PARAMOUNT+ S2",
+            "link": "https://chatgpt.hereisman.net/playlist/53238/load-playlist?|Referer=https://gooz.aapmains.net",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "PARAMOUNT+ BR",
+            "link": "https://rdcstream.life/live/paramountplus/index.m3u8|referer=https://playerembed.xyz",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "SD SERVER",
+            "link": "http://193.47.62.41/hls/TBBBQQQQQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "HD SERVER",
+            "link": "https://edgestream2.pro/hls/zeuryuegn48.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "Live 1",
+            "link": "https://instreams.pro/live/NFLHD30/mono.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://instream.click/jwp-us.php?stream=NFLHD30&Origin=https://instream.click/jwp-us.php?stream=NFLHD30",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "SonyLiv English",
+            "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/20000293/UFC329_M1107/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:152.0) Gecko/20100101 Firefox/152.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "SonyLiv Hindi",
+            "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/20000293/UFC329_M1107/HIN/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:152.0) Gecko/20100101 Firefox/152.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "SonyLiv Tamil",
+            "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/20000293/UFC329_M1107/TAM/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:152.0) Gecko/20100101 Firefox/152.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "SonyLiv Telugu",
+            "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/20000293/UFC329_M1107/TEL/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:152.0) Gecko/20100101 Firefox/152.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "SonyLiv Kannada",
+            "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/20000293/UFC329_M1107/KAN/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:152.0) Gecko/20100101 Firefox/152.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
       },
       {
         "id": 10237,
