@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-18T17:41:02.368412",
-  "event_count": 41,
+  "last_updated": "2026-07-18T17:50:59.954399",
+  "event_count": 40,
   "events": {
     "events": [
       {
@@ -465,8 +465,8 @@
           "eventName": "Cricket",
           "isHot": "0",
           "Status": "Upcoming",
-          "startTime": "2026/07/19 01:30:59 +0000",
-          "endTime": "2026/07/19 05:55:03 +0000"
+          "startTime": "2026/07/18 23:30:28 +0000",
+          "endTime": "2026/07/19 04:30:32 +0000"
         },
         "channels_data": [
           {
@@ -745,57 +745,6 @@
           {
             "title": "LOW SERVER",
             "link": "http://193.47.62.53/hls/HYYYZQQQQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 10620,
-        "title": "Galle Gallants vs Colombo Kaps",
-        "image": "",
-        "cat": "Cricket",
-        "eventInfo": {
-          "teamA": "Galle Gallants",
-          "teamB": "Colombo Kaps",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/453389/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/453390/image",
-          "eventName": "Cricket",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/07/18 14:00:00 +0000",
-          "endTime": "2026/07/18 18:00:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "WILLOW - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/y87fzxvvvh/out/v1/ae2a7936a2d342b8913cc63b8781cab6/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "298a4628daaba71f86b9060520700539:ffccd30926b91d75e4a3aab097c64653",
-            "tokenApi": ""
-          },
-          {
-            "title": "WILLOW - ALT",
-            "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/y87fzxvvvh/out/v1/ae2a7936a2d342b8913cc63b8781cab6/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "298a4628daaba71f86b9060520700539:ffccd30926b91d75e4a3aab097c64653",
-            "tokenApi": ""
-          },
-          {
-            "title": "FANCODE - IN",
-            "link": "https://in-mc-pdlive.fancode.com/mumbai/4246711_english_hls_7ff0f5ba9394590_1ta-di_h264/index.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "FANCODE - BD",
-            "link": "https://bd-mc-pdlive.fancode.com/mumbai/4246711_english_hls_7ff0f5ba9394590_1ta-di_h264/index.m3u8",
             "logo": "",
             "type": 0,
             "api": "",
@@ -1223,6 +1172,14 @@
         },
         "channels_data": [
           {
+            "title": "Live 1",
+            "link": "https://chatgpt.hereisman.net/playlist/53478/load-playlist?|Referer=https://gooz.aapmains.net ",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
             "title": "HD SERVER ",
             "link": "https://edgestream3.pro/hls/16yuitzaerghbhc16.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
             "logo": "",
@@ -1231,7 +1188,7 @@
             "tokenApi": ""
           },
           {
-            "title": "Live 1",
+            "title": "Live 2",
             "link": "https://instreams.pro/live/MLB1/mono.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://instream.click/jwp2-us.php?stream=MLB1&Origin=https://instream.click/jwp2-us.php?stream=MLB1",
             "logo": "",
             "type": 0,
@@ -1608,7 +1565,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/187831/image",
           "eventName": "Cricket",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/07/18 17:45:34 +0000",
           "endTime": "2026/07/18 22:00:40 +0000"
         },
@@ -1654,16 +1611,16 @@
             "tokenApi": ""
           },
           {
-            "title": "SonyLiv",
-            "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/20000295/criclive1807/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:152.0) Gecko/20100101 Firefox/152.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=ddd957f2ac5534f4b94466bbcc9c4c88-1784368200117",
+            "title": "LOW SERVER ",
+            "link": "http://104.251.122.123:8089/crc4/index.m3u8",
             "logo": "",
             "type": 0,
             "api": "",
             "tokenApi": ""
           },
           {
-            "title": "LOW SERVER ",
-            "link": "http://104.251.122.123:8089/crc4/index.m3u8",
+            "title": "SonyLiv ",
+            "link": "https://sonydaimenew.akamaized.net/hls/live/20000295/criclive1807/ENG/std_lrh-800300010.m3u8?hdnea=exp=1784438951~acl=/*~id=06245431595480942132386956546622~hmac=3ee09aa002d87b8106b9e66a4317f17ff4f1e59e6140513d91873362542c9427",
             "logo": "",
             "type": 0,
             "api": "",
