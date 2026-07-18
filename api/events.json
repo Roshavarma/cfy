@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-18T20:41:07.565929",
+  "last_updated": "2026-07-18T20:51:06.128334",
   "event_count": 40,
   "events": {
     "events": [
@@ -837,11 +837,35 @@
             "tokenApi": ""
           },
           {
+            "title": "WC ENGLISH - AQ",
+            "link": "https://cdnec02.mediaquest.com.ph/bpk-token/2ab@w544wk5y111knxfbv2itg33nvw2xxxv0wx4e31ca/bpk-tv/fifa_ppv1/default/index.mpd?bkm-query",
+            "logo": "",
+            "type": 7,
+            "api": "603e4118f91f453282dc44850376aabd:be92f663ca1a10134a5b371ade386ccc",
+            "tokenApi": ""
+          },
+          {
             "title": "D SPORTS ES - AQ",
             "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
             "logo": "",
             "type": 7,
             "api": "f836853d8eac19446ed9535f5fc568b1:b3bc5ef00602b29abac7e482d3d9fbf3",
+            "tokenApi": ""
+          },
+          {
+            "title": "FOX SPORTS 4K",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/enc/xperu6ixu9/out/v1/31d30c91fc65458789b84209d3fa22e4/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+            "logo": "",
+            "type": 7,
+            "api": "1f68713028d439ec03be07f56c1d6213:20093db6455160fffed4c394def3193d",
+            "tokenApi": ""
+          },
+          {
+            "title": "VIX MUNDAL HD",
+            "link": "https://s2.bufaloweb.com/bufalo9/tracks-v4a1/mono.ts.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
             "tokenApi": ""
           },
           {
@@ -901,24 +925,16 @@
             "tokenApi": ""
           },
           {
-            "title": "Live 1",
-            "link": "https://instreams.pro/EU/HDWC1/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
             "title": "HD SERVER ENG",
-            "link": "https://edgestreams.pro/hls/24SDAZFcsqnj24.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+            "link": "https://instreams.pro/live/NFLHD1/mono.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://instream.click/jwp3-us.php?stream=NFLHD1&Origin=https://instream.click/jwp3-us.php?stream=NFLHD1",
             "logo": "",
             "type": 0,
             "api": "",
             "tokenApi": ""
           },
           {
-            "title": "HD SERVER AR",
-            "link": "https://edgestreams.pro/hls/24SDAZFcsqnj24.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+            "title": "HD SERVER FR",
+            "link": "https://instreams.pro/live/NFLHD3/mono.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://instream.click/jwp-us.php?stream=NFLHD3&Origin=https://instream.click/jwp-us.php?stream=NFLHD3",
             "logo": "",
             "type": 0,
             "api": "",
@@ -926,7 +942,7 @@
           },
           {
             "title": "HD SERVER ES",
-            "link": "Ok",
+            "link": "https://instreams.pro/live/NFLHD2/mono.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://instream.click/jwp-us.php?stream=NFLHD2&Origin=https://instream.click/jwp-us.php?stream=NFLHD2",
             "logo": "",
             "type": 0,
             "api": "",
@@ -934,7 +950,7 @@
           },
           {
             "title": "BBC SPORTS SD",
-            "link": "?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+            "link": "http://193.47.62.43/hls/XIIII.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
             "logo": "",
             "type": 0,
             "api": "",
@@ -942,15 +958,15 @@
           },
           {
             "title": "TV4 SPORTS SD",
-            "link": "?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+            "link": "http://193.47.62.43/hls/XIIIIFF.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
             "logo": "",
             "type": 0,
             "api": "",
             "tokenApi": ""
           },
           {
-            "title": "TELEMUNDO SD",
-            "link": "?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+            "title": "CCTV SPORTS HD",
+            "link": "https://pullsgp.yyzb456.top/live/stream-896956_lhd.m3u8",
             "logo": "",
             "type": 0,
             "api": "",
@@ -958,23 +974,7 @@
           },
           {
             "title": "beiN SPORTS FR",
-            "link": "?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "AZAM SPORTS SD",
-            "link": "?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "beiN ARABIC SD",
-            "link": "?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+            "link": "http://193.47.62.51/hls/XIIIIF.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
             "logo": "",
             "type": 0,
             "api": "",
@@ -1034,22 +1034,6 @@
             "logo": "",
             "type": 7,
             "api": "ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1",
-            "tokenApi": ""
-          },
-          {
-            "title": "VIX MUNDAL HD",
-            "link": "https://s2.bufaloweb.com/bufalo9/tracks-v4a1/mono.ts.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "FOX SPORTS 4K",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/enc/xperu6ixu9/out/v1/31d30c91fc65458789b84209d3fa22e4/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-            "logo": "",
-            "type": 7,
-            "api": "1f68713028d439ec03be07f56c1d6213:20093db6455160fffed4c394def3193d",
             "tokenApi": ""
           }
         ]
@@ -1126,6 +1110,14 @@
         },
         "channels_data": [
           {
+            "title": "Live 1",
+            "link": "https://chatgpt.hereisman.net/playlist/53472/load-playlist?|Referer=https://gooz.aapmains.net",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
             "title": "HD SERVER ",
             "link": "https://edgestream3.pro/hls/mlkijfezag65.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
             "logo": "",
@@ -1154,7 +1146,7 @@
         "channels_data": [
           {
             "title": "Live 1",
-            "link": "https://chatgpt.hereisman.net/playlist/53472/load-playlist?|Referer=https://gooz.aapmains.net",
+            "link": "https://chatgpt.hereisman.net/playlist/53501/load-playlist?|Referer=https://gooz.aapmains.net",
             "logo": "",
             "type": 0,
             "api": "",
