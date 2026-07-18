@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-18T00:51:06.281226",
+  "last_updated": "2026-07-18T01:01:25.996699",
   "event_count": 38,
   "events": {
     "events": [
@@ -1478,7 +1478,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/3413/image",
           "eventName": "Basketball",
           "isHot": "0",
-          "Status": "Live",
+          "Status": "Finish",
           "startTime": "2026/07/17 22:30:00 +0000",
           "endTime": "2026/07/18 01:00:00 +0000"
         },
@@ -1591,11 +1591,19 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/3424/image",
           "eventName": "Basketball",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/07/18 01:00:00 +0000",
           "endTime": "2026/07/18 03:30:00 +0000"
         },
         "channels_data": [
+          {
+            "title": "Live 1",
+            "link": "https://chatgpt.hereisman.net/playlist/53450/load-playlist?|Referer=https://gooz.aapmains.net",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
           {
             "title": "HD SERVER ",
             "link": "https://edgestream3.pro/hls/zayrtezafgvdv68.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
