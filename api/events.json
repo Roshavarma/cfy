@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-18T13:31:17.147881",
+  "last_updated": "2026-07-18T13:41:08.943871",
   "event_count": 41,
   "events": {
     "events": [
@@ -1510,6 +1510,14 @@
         },
         "channels_data": [
           {
+            "title": "WILLOW - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bfsnzvy7s3/out/v1/c2fcf46249134d43af165252bad98f5c/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "e3f90cc7280490c20a54405dfb0cf744:c5ef31239f2e9146de635ebf39f62466",
+            "tokenApi": ""
+          },
+          {
             "title": "SKY CRICKET - AQ",
             "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla",
             "logo": "",
@@ -1527,10 +1535,10 @@
           },
           {
             "title": "WILLOW - ALT",
-            "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/prn9i8ze4a/out/v1/2bda444a547e4c8787b962c1ba8ae551/cenc.mpd",
+            "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/bfsnzvy7s3/out/v1/c2fcf46249134d43af165252bad98f5c/cenc.mpd",
             "logo": "",
             "type": 7,
-            "api": "9a98a0ff617487177711ccd3529a79d5:9b42b490dc0075cf94f51b226a779045",
+            "api": "e3f90cc7280490c20a54405dfb0cf744:c5ef31239f2e9146de635ebf39f62466",
             "tokenApi": ""
           },
           {
@@ -1550,11 +1558,11 @@
             "tokenApi": ""
           },
           {
-            "title": "WILLOW - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/prn9i8ze4a/out/v1/2bda444a547e4c8787b962c1ba8ae551/cenc.mpd",
+            "title": "SonyLiv",
+            "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/20000295/criclive1807/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:152.0) Gecko/20100101 Firefox/152.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=ddd957f2ac5534f4b94466bbcc9c4c88-1784368200117",
             "logo": "",
-            "type": 7,
-            "api": "9a98a0ff617487177711ccd3529a79d5:9b42b490dc0075cf94f51b226a779045",
+            "type": 0,
+            "api": "",
             "tokenApi": ""
           }
         ]
