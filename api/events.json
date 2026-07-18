@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-18T22:21:03.331497",
-  "event_count": 39,
+  "last_updated": "2026-07-18T22:31:17.078919",
+  "event_count": 36,
   "events": {
     "events": [
       {
@@ -445,6 +445,73 @@
           {
             "title": "SonyLiv Kannada",
             "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/20000293/UFC329_M1107/KAN/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:152.0) Gecko/20100101 Firefox/152.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 9869,
+        "title": "WWE Saturday Nights Main Event",
+        "image": "null",
+        "cat": "Boxing",
+        "eventInfo": {
+          "teamA": "Saturday Nights",
+          "teamB": "Saturday Nights",
+          "teamAFlag": "https://www.wwe.com/f/styles/wwe_show_logo_sm/public/all/2024/09/SNME-presale-reg-logo--5b3c37e662fa172d6cc9b7c74d699987.png",
+          "teamBFlag": "https://www.wwe.com/f/styles/wwe_show_logo_sm/public/all/2024/09/SNME-presale-reg-logo--5b3c37e662fa172d6cc9b7c74d699987.png",
+          "eventName": "Boxing",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/07/19 00:00:29 +0000",
+          "endTime": "2026/07/19 03:00:34 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Live 1",
+            "link": "https://chatgpt.hereisman.net/playlist/51059/load-playlist?|Referer=https://gooz.aapmains.net",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "SonyLiv English",
+            "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2094588/WWE_Satu2305/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "SonyLiv Hindi",
+            "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2094588/WWE_Satu2305/HIN/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "Live 2",
+            "link": "https://26hrwgorfcmh.windows-devs.top/AccessLog2/83_FHD/apache.m3u8|Referer=https://26hrwgorfcmh.windows-devs.top/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "HD SERVER",
+            "link": "https://26hrwgorfcmh.windows-devs.top/AccessLog2/108085_HD/apache.m3u8|referer=https://26hrwgorfcmh.windows-devs.top/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "SD SERVER",
+            "link": "https://26hrwgorfcmh.windows-devs.top/AccessLog2/108085_LQ/apache.m3u8|referer=https://26hrwgorfcmh.windows-devs.top/",
             "logo": "",
             "type": 0,
             "api": "",
@@ -1198,14 +1265,30 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/3412/image",
           "eventName": "Basketball",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/07/18 22:30:00 +0000",
           "endTime": "2026/07/19 01:00:00 +0000"
         },
         "channels_data": [
           {
+            "title": "Live 1",
+            "link": "https://chatgpt.hereisman.net/playlist/53505/load-playlist?|Referer=https://gooz.aapmains.net ",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
             "title": "HD SERVER",
             "link": "https://edgestream3.pro/hls/hfsdqtaxvb67.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "LOW SERVER ",
+            "link": "http://193.47.62.41/hls/suuuQQq.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
             "logo": "",
             "type": 0,
             "api": "",
@@ -1230,6 +1313,14 @@
           "endTime": "2026/07/19 01:30:00 +0000"
         },
         "channels_data": [
+          {
+            "title": "Live 1",
+            "link": "https://chatgpt.hereisman.net/playlist/53508/load-playlist?|Referer=https://gooz.aapmains.net ",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
           {
             "title": "HD SERVER ",
             "link": "https://edgestream2.pro/hls/zayrtezafgvdv68.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
@@ -1368,151 +1459,6 @@
           {
             "title": "",
             "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 10674,
-        "title": "Chicago Cubs vs Minnesota Twins",
-        "image": "",
-        "cat": "Baseball",
-        "eventInfo": {
-          "teamA": "Chicago Cubs",
-          "teamB": "Minnesota Twins",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/3627/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/3649/image",
-          "eventName": "Baseball",
-          "isHot": "0",
-          "Status": "Finish",
-          "startTime": "2026/07/18 18:20:00 +0000",
-          "endTime": "2026/07/18 21:20:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "Live 1",
-            "link": "https://chatgpt.hereisman.net/playlist/53478/load-playlist?|Referer=https://gooz.aapmains.net ",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "HD SERVER ",
-            "link": "https://edgestream3.pro/hls/16yuitzaerghbhc16.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "Live 2",
-            "link": "https://instreams.pro/live/MLB1/mono.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://instream.click/jwp2-us.php?stream=MLB1&Origin=https://instream.click/jwp2-us.php?stream=MLB1",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 10675,
-        "title": "Toronto Blue Jays vs Chicago White Sox",
-        "image": "",
-        "cat": "Baseball",
-        "eventInfo": {
-          "teamA": "Toronto Blue Jays",
-          "teamB": "Chicago White Sox",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/3642/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/3644/image",
-          "eventName": "Baseball",
-          "isHot": "0",
-          "Status": "Finish",
-          "startTime": "2026/07/18 19:07:00 +0000",
-          "endTime": "2026/07/18 22:07:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "Live 1",
-            "link": "https://chatgpt.hereisman.net/playlist/53473/load-playlist?&.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://gooz.aapmains.net/new-stream-embed/53473?ad=111&Origin=https://gooz.aapmains.net/new-stream-embed/53473?ad=111",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "HD SERVER ",
-            "link": "https://edgestream2.pro/hls/ihfazugfyjcazich17.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "Live 2",
-            "link": "https://instreams.live/live/MLB2/mono.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://instream.click/jwp2-us.php?stream=MLB2&Origin=https://instream.click/jwp2-us.php?stream=MLB2",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "SD SERVER",
-            "link": "http://193.47.62.41/hls/GOOO.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 10676,
-        "title": "Colorado Rockies vs Cincinnati Reds",
-        "image": "",
-        "cat": "Baseball",
-        "eventInfo": {
-          "teamA": "Colorado Rockies",
-          "teamB": "Cincinnati Reds",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/3628/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/3633/image",
-          "eventName": "Baseball",
-          "isHot": "0",
-          "Status": "Finish",
-          "startTime": "2026/07/18 19:10:00 +0000",
-          "endTime": "2026/07/18 22:10:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "Live 1",
-            "link": "https://chatgpt.hereisman.net/playlist/53483/load-playlist?&.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://gooz.aapmains.net/new-stream-embed/53483?ad=111&Origin=https://gooz.aapmains.net/new-stream-embed/53483?ad=111",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "HD SERVER ",
-            "link": "https://edgestream1.pro/hls/Czajafjihafch18.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "Live 2",
-            "link": "https://instreams.live/live/MLB3/mono.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://instream.click/jwp2-us.php?stream=MLB3&Origin=https://instream.click/jwp2-us.php?stream=MLB3",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "SD SERVER",
-            "link": "http://193.47.62.41/hls/GOOOQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
             "logo": "",
             "type": 0,
             "api": "",
@@ -1855,81 +1801,6 @@
           {
             "title": "HD SERVER",
             "link": "https://edgestream3.pro/hls/JHDAJBDnjdna30.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 10688,
-        "title": "Hampshire vs Northamptonshire",
-        "image": "",
-        "cat": "Cricket",
-        "eventInfo": {
-          "teamA": "Hampshire",
-          "teamB": "Northamptonshire",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/187821/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/187831/image",
-          "eventName": "Cricket",
-          "isHot": "0",
-          "Status": "Finish",
-          "startTime": "2026/07/18 17:45:34 +0000",
-          "endTime": "2026/07/18 22:00:40 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "WILLOW - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/9uwi1u8pp4/out/v1/e3442a4252344b0493129c4db959dc06/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "c19c0062404ac30d42291fbfadba323e:6086d22b65e8e988f4b6da3e34a3e2c3",
-            "tokenApi": ""
-          },
-          {
-            "title": "SKY CRICKET - AQ",
-            "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "TAPMAD - AQ",
-            "link": "https://saseries.akamaized.net/hls/live/2110097/UFC-20-3827e1/master.m3u8 |referer=https://tapmad.com",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "WILLOW - ALT",
-            "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/9uwi1u8pp4/out/v1/e3442a4252344b0493129c4db959dc06/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "c19c0062404ac30d42291fbfadba323e:6086d22b65e8e988f4b6da3e34a3e2c3",
-            "tokenApi": ""
-          },
-          {
-            "title": "SKY SPORT NZ",
-            "link": "https://tmaxapp.site/8wirwjs76erftg/skysport6nz.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "LOW SERVER ",
-            "link": "http://104.251.122.123:8089/crc4/index.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "SonyLiv ",
-            "link": "https://sonydaimenew.akamaized.net/hls/live/20000295/criclive1807/ENG/std_lrh-800300010.m3u8?hdnea=exp=1784438951~acl=/*~id=06245431595480942132386956546622~hmac=3ee09aa002d87b8106b9e66a4317f17ff4f1e59e6140513d91873362542c9427",
             "logo": "",
             "type": 0,
             "api": "",
