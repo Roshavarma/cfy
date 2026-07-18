@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-18T23:11:03.157997",
+  "last_updated": "2026-07-18T23:21:02.696201",
   "event_count": 36,
   "events": {
     "events": [
@@ -798,7 +798,7 @@
           "teamAFlag": "https://img.sofascore.com/api/v1/team/4698/image",
           "teamBFlag": "https://img.sofascore.com/api/v1/team/4819/image",
           "eventName": "Football",
-          "isHot": "0",
+          "isHot": "1",
           "Status": "Upcoming",
           "startTime": "2026/07/19 19:00:00 +0000",
           "endTime": "2026/07/19 21:20:00 +0000"
@@ -826,7 +826,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/4713/image",
           "eventName": "Football",
           "isHot": "1",
-          "Status": "Live",
+          "Status": "Finish",
           "startTime": "2026/07/18 21:00:00 +0000",
           "endTime": "2026/07/18 23:20:00 +0000"
         },
@@ -1292,6 +1292,14 @@
           {
             "title": "HD SERVER ",
             "link": "https://edgestream2.pro/hls/zayrtezafgvdv68.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "LOW SERVER ",
+            "link": "http://193.47.62.47/hls/ggmmQQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
             "logo": "",
             "type": 0,
             "api": "",
