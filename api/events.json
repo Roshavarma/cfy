@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-18T16:11:05.238179",
-  "event_count": 40,
+  "last_updated": "2026-07-18T16:21:01.553055",
+  "event_count": 42,
   "events": {
     "events": [
       {
@@ -1651,6 +1651,60 @@
           {
             "title": "LOW SERVER ",
             "link": "http://193.47.62.42/hls/FNNNE.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 10692,
+        "title": "Colombo Kaps vs Kandy Royals",
+        "image": "",
+        "cat": "Cricket",
+        "eventInfo": {
+          "teamA": "Colombo Kaps",
+          "teamB": "Kandy Royals",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/453390/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/369187/image",
+          "eventName": "Cricket",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/07/19 14:00:00 +0000",
+          "endTime": "2026/07/19 18:00:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 10693,
+        "title": "Dambulla Sixers vs Jaffna Kings",
+        "image": "",
+        "cat": "Cricket",
+        "eventInfo": {
+          "teamA": "Dambulla Sixers",
+          "teamB": "Jaffna Kings",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/369189/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/453388/image",
+          "eventName": "Cricket",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/07/19 09:30:00 +0000",
+          "endTime": "2026/07/19 13:30:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
             "logo": "",
             "type": 0,
             "api": "",
