@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-19T18:01:14.657256",
-  "event_count": 30,
+  "last_updated": "2026-07-19T18:20:52.308360",
+  "event_count": 29,
   "events": {
     "events": [
       {
@@ -593,8 +593,8 @@
             "tokenApi": ""
           },
           {
-            "title": "TOFFEE BD - AQ",
-            "link": "https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-5/index.m3u8?edge-cache-token=Expires=1782031423~Starts=1781945023~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=ab86BO5xhFRJWIwd4hrKlygvpy5sg78MNR55Csko25L_ML0-XD8mAySh1eHNSfOtwQ0j31TIrz3ZyU4UY6WRCA",
+            "title": "ISCREEN BD - AQ",
+            "link": "https://lkjhgf-zxcvbnmq.rockstreamer.com/v1/019ed91616121ea540a8171c8e801f/019f7a7fea1b1ea557843549782f9b/main.m3u8|referer=https://iscreen.com.bd/",
             "logo": "",
             "type": 0,
             "api": "",
@@ -673,8 +673,8 @@
             "tokenApi": ""
           },
           {
-            "title": "BBC SPORTS HD",
-            "link": "https://chatgpt.hereisman.net/playlist/52271/load-playlist?|Referer=https://gooz.aapmains.net",
+            "title": "ITV SPORTS HD",
+            "link": "https://chatgpt.hereisman.net/playlist/53550/load-playlist?|Referer=https://gooz.aapmains.net",
             "logo": "",
             "type": 0,
             "api": "",
@@ -682,7 +682,7 @@
           },
           {
             "title": "TSN SPORTS HD",
-            "link": "https://chatgpt.hereisman.net/playlist/52273/load-playlist?|Referer=https://gooz.aapmains.net",
+            "link": "https://chatgpt.hereisman.net/playlist/53540/load-playlist?|Referer=https://gooz.aapmains.net",
             "logo": "",
             "type": 0,
             "api": "",
@@ -855,6 +855,22 @@
             "type": 7,
             "api": "ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1",
             "tokenApi": ""
+          },
+          {
+            "title": "beIN MAX HD",
+            "link": "https://3.simokora.com/my-hls/h9asfma10d5/source/index.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "Caz\u00e9TV BR HD",
+            "link": "https://rdcstream.life/live/cazetv/index.m3u8?|referer=https://playerembed.xyz/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
           }
         ]
       },
@@ -959,57 +975,6 @@
           {
             "title": "",
             "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 10692,
-        "title": "Colombo Kaps vs Kandy Royals",
-        "image": "",
-        "cat": "Cricket",
-        "eventInfo": {
-          "teamA": "Colombo Kaps",
-          "teamB": "Kandy Royals",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/453390/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/369187/image",
-          "eventName": "Cricket",
-          "isHot": "0",
-          "Status": "Finish",
-          "startTime": "2026/07/19 14:00:00 +0000",
-          "endTime": "2026/07/19 18:00:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "WILLOW - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/u3ilketteh/out/v1/1ea199d6caf04e81b0ecf7f589cd3c9f/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "c1781b18ef9a3a4455c4ada2bce6c670:c03d707bc916b280b457013dac5b2954",
-            "tokenApi": ""
-          },
-          {
-            "title": "WILLOW - ALT",
-            "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/u3ilketteh/out/v1/1ea199d6caf04e81b0ecf7f589cd3c9f/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "c1781b18ef9a3a4455c4ada2bce6c670:c03d707bc916b280b457013dac5b2954",
-            "tokenApi": ""
-          },
-          {
-            "title": "FANCODE - IN",
-            "link": "https://in-mc-pdlive.fancode.com/mumbai/4246712_english_hls_eeccc6729d52047_1ta-di_h264/index.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "FANCODE - BD",
-            "link": "https://bd-mc-pdlive.fancode.com/mumbai/4246712_english_hls_eeccc6729d52047_1ta-di_h264/index.m3u8",
             "logo": "",
             "type": 0,
             "api": "",
@@ -1298,7 +1263,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/3639/image",
           "eventName": "Baseball",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/07/19 18:10:00 +0000",
           "endTime": "2026/07/19 21:10:00 +0000"
         },
@@ -1318,6 +1283,14 @@
             "type": 0,
             "api": "",
             "tokenApi": ""
+          },
+          {
+            "title": "LOW SERVER ",
+            "link": "http://193.47.62.41/hls/KFFFQQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
           }
         ]
       },
@@ -1333,7 +1306,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/3652/image",
           "eventName": "Baseball",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/07/19 18:10:00 +0000",
           "endTime": "2026/07/19 21:10:00 +0000"
         },
@@ -1376,7 +1349,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/3636/image",
           "eventName": "Baseball",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/07/19 18:10:00 +0000",
           "endTime": "2026/07/19 21:10:00 +0000"
         },
@@ -1404,6 +1377,14 @@
             "type": 0,
             "api": "",
             "tokenApi": ""
+          },
+          {
+            "title": "LOW SERVER ",
+            "link": "http://193.47.62.41/hls/KFFFQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
           }
         ]
       },
@@ -1419,7 +1400,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/3649/image",
           "eventName": "Baseball",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/07/19 18:20:00 +0000",
           "endTime": "2026/07/19 21:20:00 +0000"
         },
@@ -1468,8 +1449,32 @@
         },
         "channels_data": [
           {
-            "title": "",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "title": "Live 1",
+            "link": "https://chatgpt.hereisman.net/playlist/53560/load-playlist?|Referer=https://gooz.aapmains.net ",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "HD SERVER ",
+            "link": "https://edgestream1.pro/hls/kjhfzua25.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "Live 2",
+            "link": "https://instreams.live/live/MLB9/mono.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://instream.click/jwp2-us.php?stream=MLB9&Origin=https://instream.click/jwp2-us.php?stream=MLB9",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "LOW SERVER ",
+            "link": "http://193.47.62.41/hls/KFFFQQQQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
             "logo": "",
             "type": 0,
             "api": "",
