@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-19T04:10:53.389109",
-  "event_count": 21,
+  "last_updated": "2026-07-19T04:20:51.886031",
+  "event_count": 18,
   "events": {
     "events": [
       {
@@ -338,148 +338,6 @@
         "channels_data": []
       },
       {
-        "id": 8963,
-        "title": "UFC LIVE",
-        "image": "null",
-        "cat": "Boxing",
-        "eventInfo": {
-          "teamA": "Dricus Du Plessis",
-          "teamB": "Kamaru Usman",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/461874/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/1243923/image",
-          "eventName": "Boxing",
-          "isHot": "0",
-          "Status": "Finish",
-          "startTime": "2026/07/18 23:00:07 +0000",
-          "endTime": "2026/07/19 04:00:11 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "PARAMOUNT+ - AQ",
-            "link": "https://dice-live-us.cdnfastly.endeavorstreaming.net/1784494043_tcDj8v6WrLmaN7IA_f2d956c5253c5772ad7ede6591ed7705e33f7770/id=5bc92133-343d-4519-aa73-f39309c4681c/data=dWlkPTdOb3VjWnw2YmRlYzY3Ni0xODhiLTQ4ZWItOTVlZS03YmFkZTIxN2U4N2Mmc3JjPWRnZSZpcD0xNzguMTcxLjIzLjIyMyZleHA9MTc4NDQ5NDA3MiZlaWQ9MzAzNDM5JmNpZD1kY2UudWZjJm9pZD0xNDgmdHlwZT1MSVZF/dash/live/2001824~/dash/live/2001824/303439-324894/manifest-d.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "6b34c74fcd9644148cd8343dc9ef937e:bf5ced215aeb47768554c266ceeec522",
-            "tokenApi": ""
-          },
-          {
-            "title": "SportsNet - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ccupb3gevq/out/v1/d9d54c61efab463981d1a7d04ceeb44c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-            "logo": "",
-            "type": 7,
-            "api": "60de674d9db66df9ba090e06871d3554:18071eac168232fc3d45549049c1de6b",
-            "tokenApi": ""
-          },
-          {
-            "title": "PARAMOUNT+ HD",
-            "link": "https://chatgpt.hereisman.net/playlist/53504/load-playlist?|Referer=https://gooz.aapmains.net ",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "PARAMOUNT+ S2",
-            "link": "https://chatgpt.hereisman.net/playlist/53504/load-playlist?|Referer=https://gooz.aapmains.net",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "PARAMOUNT+ BR",
-            "link": "https://rdcstream.life/live/paramountplus/index.m3u8|referer=https://playerembed.xyz",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "SD SERVER",
-            "link": "http://193.47.62.41/hls/suuu.m3u8?|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "HD SERVER",
-            "link": "https://edgestream2.pro/hls/zeuryuegn48.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online&user-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "Live 1",
-            "link": "https://instreams.pro/live/NFLHD30/mono.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://instream.click/jwp-us.php?stream=NFLHD30&Origin=https://instream.click/jwp-us.php?stream=NFLHD30",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 10237,
-        "title": "Major League Cricket",
-        "image": "null",
-        "cat": "Cricket",
-        "eventInfo": {
-          "teamA": "Major League",
-          "teamB": "Major League",
-          "teamAFlag": "https://img.sofascore.com/api/v1/unique-tournament/20583/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/unique-tournament/20583/image",
-          "eventName": "Cricket",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/07/18 23:30:28 +0000",
-          "endTime": "2026/07/19 04:30:32 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "WILLOW - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/owszcir0c3/out/v1/6d0979f92dd14691aba85bbe0ac4d449/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "613080a865a801eaf441ec5bc605b5e4:8ec1b70270472910e4aca31d16d1c5ea",
-            "tokenApi": ""
-          },
-          {
-            "title": "SKY CRICKET - AQ",
-            "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "WILLOW - ALT",
-            "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/owszcir0c3/out/v1/6d0979f92dd14691aba85bbe0ac4d449/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "613080a865a801eaf441ec5bc605b5e4:8ec1b70270472910e4aca31d16d1c5ea",
-            "tokenApi": ""
-          },
-          {
-            "title": "SKY MAIN EVENT",
-            "link": "https://tmaxapp.site/8wirwjs76erftg/skysportsmainevent.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "HOTSTAR - IN",
-            "link": "https://livetv.hotstar.com/mp2/gec-india-1540065785/a00717b1324f45eb814eec9e48a12db8/index.mpd?|Cookie=hdntl=exp=1783370022~acl=%2f*~id=b509ac94f4259648f90a3f8dca8765fb~data=hdntl~hmac=d1b272c895aeaf5110c4914913dc09cb8926dcecd31e5cb8d53255d009b9828c&User-agent=Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/11)&Referer=https://www.hotstar.com/&Origin=https://www.hotstar.com",
-            "logo": "",
-            "type": 7,
-            "api": "9dacc80134404c34ba184022c28d0000:982183fb4d9449c995859b7cff512092",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
         "id": 10262,
         "title": "Zimbabwe vs Bangladesh",
         "image": "null",
@@ -786,49 +644,6 @@
           {
             "title": "",
             "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 10669,
-        "title": "New Orleans Pelicans vs Indiana Pacers",
-        "image": "",
-        "cat": "Basketball",
-        "eventInfo": {
-          "teamA": "New Orleans Pelicans",
-          "teamB": "Indiana Pacers",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/5539/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/3419/image",
-          "eventName": "Basketball",
-          "isHot": "0",
-          "Status": "Finish",
-          "startTime": "2026/07/19 01:00:00 +0000",
-          "endTime": "2026/07/19 03:30:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "Live 1",
-            "link": "https://chatgpt.hereisman.net/playlist/53525/load-playlist?|Referer=https://gooz.aapmains.net ",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "HD SERVER",
-            "link": "https://edgestream2.pro/hls/bvnsqdfvgha70.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "LOW SERVER ",
-            "link": "http://193.47.62.50/hls/JWWWQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
             "logo": "",
             "type": 0,
             "api": "",
