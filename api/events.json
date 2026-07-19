@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-19T16:10:55.076452",
+  "last_updated": "2026-07-19T16:21:01.102248",
   "event_count": 30,
   "events": {
     "events": [
@@ -768,7 +768,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/3644/image",
           "eventName": "Baseball",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/07/19 16:15:00 +0000",
           "endTime": "2026/07/19 19:15:00 +0000"
         },
@@ -788,12 +788,20 @@
             "type": 0,
             "api": "",
             "tokenApi": ""
+          },
+          {
+            "title": "LOW SERVER ",
+            "link": "http://193.47.62.41/hls/FOOO.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
           }
         ]
       },
       {
         "id": 10696,
-        "title": "New York Yankees vs Los Angeles Dodgers",
+        "title": "2New York Yankees vs Los Angeles Dodgers",
         "image": "",
         "cat": "Baseball",
         "eventInfo": {
@@ -1171,7 +1179,7 @@
       },
       {
         "id": 10710,
-        "title": "New York Yankees vs Los Angeles Dodgers",
+        "title": "1New York Yankees vs Los Angeles Dodgers",
         "image": "",
         "cat": "Baseball",
         "eventInfo": {
@@ -1187,8 +1195,24 @@
         },
         "channels_data": [
           {
-            "title": "",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "title": "Live 1",
+            "link": "https://chatgpt.hereisman.net/playlist/53536/load-playlist?|Referer=https://gooz.aapmains.net ",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "HD SERVER ",
+            "link": "https://edgestream3.pro/hls/JHDAJBDnjdna30.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "LOW SERVER ",
+            "link": "http://193.47.62.41/hls/FOOOQQQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
             "logo": "",
             "type": 0,
             "api": "",
