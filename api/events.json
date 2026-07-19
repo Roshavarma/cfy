@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-19T09:21:04.191738",
+  "last_updated": "2026-07-19T09:31:12.638632",
   "event_count": 32,
   "events": {
     "events": [
@@ -415,10 +415,10 @@
         "channels_data": [
           {
             "title": "WILLOW - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/2hqonq2js6/out/v1/3204a1c65a534f6eb946841ead683f29/cenc.mpd",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/uttx59lzmo/out/v1/fe9c404839284110a46313354214c6cb/cenc.mpd",
             "logo": "",
             "type": 7,
-            "api": "78e4283951bfc5fe2065a15ed15bf491:7269b0331df2093fc091df0325e69b47",
+            "api": "5be2590ab12743d21a1d377d8b5e7900:ff08faff3b5d2c874b62ec09e2db888c",
             "tokenApi": ""
           },
           {
@@ -439,18 +439,10 @@
           },
           {
             "title": "WILLOW - ALT",
-            "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/2hqonq2js6/out/v1/3204a1c65a534f6eb946841ead683f29/cenc.mpd",
+            "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/uttx59lzmo/out/v1/fe9c404839284110a46313354214c6cb/cenc.mpd",
             "logo": "",
             "type": 7,
-            "api": "78e4283951bfc5fe2065a15ed15bf491:7269b0331df2093fc091df0325e69b47",
-            "tokenApi": ""
-          },
-          {
-            "title": "FOX CRICKET HD",
-            "link": "http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VCQ4ADX96VH4G8PY7URBWRQU/19146/index.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
+            "api": "5be2590ab12743d21a1d377d8b5e7900:ff08faff3b5d2c874b62ec09e2db888c",
             "tokenApi": ""
           },
           {
@@ -471,7 +463,7 @@
           },
           {
             "title": "SONY TEN 1 - IN",
-            "link": "https://dishmt.slivcdn.com/hls/live/2011747/TEN1HD/master.m3u8?hdnea=exp=1784240536~acl=/*~id=80163195619765322207249310502926~hmac=37ad3fc0695bf46401a42532ae037a3f6fa53fd7e61b9d56619908448e3641cf",
+            "link": "https://dishmt.slivcdn.com/hls/live/2011747-b/TEN1HD/master.m3u8?hdnea=exp=1784495890~acl=/*~id=1e03fe217581440690708a23c8a3a3ff-2008311105131851914~hmac=95aed93f7bf7e91363a1e0bfc310728563eb31fe943eb257fad43ebc84f55b9f|Origin=https://www.sonyliv.com&Referer=https://www.sonyliv.com/&x-playback-session-id=1e03fe217581440690708a23c8a3a3ff-1784452689983",
             "logo": "",
             "type": 0,
             "api": "",
@@ -479,7 +471,7 @@
           },
           {
             "title": "SONY TEN 3 - IN",
-            "link": "https://dishmt.slivcdn.com/hls/live/2020591/TEN3HD/master.m3u8?hdnea=exp=1784240536~acl=/*~id=80163195619765322207249310502926~hmac=37ad3fc0695bf46401a42532ae037a3f6fa53fd7e61b9d56619908448e3641cf",
+            "link": "https://dishmt.slivcdn.com/hls/live/2020591-b/TEN3HD/master.m3u8?hdnea=exp=1784495890~acl=/*~id=1e03fe217581440690708a23c8a3a3ff-2008311105131851914~hmac=95aed93f7bf7e91363a1e0bfc310728563eb31fe943eb257fad43ebc84f55b9f|Origin=https://www.sonyliv.com&Referer=https://www.sonyliv.com/&x-playback-session-id=1e03fe217581440690708a23c8a3a3ff-1784452689983",
             "logo": "",
             "type": 0,
             "api": "",
@@ -487,7 +479,7 @@
           },
           {
             "title": "SONY TEN 4 - IN",
-            "link": "https://dishmt.slivcdn.com/hls/live/2020589-b/ten4hd/master.m3u8?hdnea=exp=1784240536~acl=/*~id=80163195619765322207249310502926~hmac=37ad3fc0695bf46401a42532ae037a3f6fa53fd7e61b9d56619908448e3641cf",
+            "link": "https://dishmt.slivcdn.com/hls/live/2020589-b/ten4hd/master.m3u8?hdnea=exp=1784495890~acl=/*~id=1e03fe217581440690708a23c8a3a3ff-2008311105131851914~hmac=95aed93f7bf7e91363a1e0bfc310728563eb31fe943eb257fad43ebc84f55b9f|Origin=https://www.sonyliv.com&Referer=https://www.sonyliv.com/&x-playback-session-id=1e03fe217581440690708a23c8a3a3ff-1784452689983",
             "logo": "",
             "type": 0,
             "api": "",
@@ -744,7 +736,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/453388/image",
           "eventName": "Cricket",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/07/19 09:30:00 +0000",
           "endTime": "2026/07/19 13:30:00 +0000"
         },
