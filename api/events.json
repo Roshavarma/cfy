@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-19T13:50:58.953033",
+  "last_updated": "2026-07-19T14:01:23.600262",
   "event_count": 31,
   "events": {
     "events": [
@@ -555,7 +555,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/187755/image",
           "eventName": "Cricket",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/07/19 14:00:03 +0000",
           "endTime": "2026/07/19 22:30:09 +0000"
         },
@@ -566,14 +566,6 @@
             "logo": "",
             "type": 7,
             "api": "ecdf2f70c1d0df4187b2be76cce4e63d:38832d5c9796f7113fbd2ec6ba70f313",
-            "tokenApi": ""
-          },
-          {
-            "title": "TAPMAD - AQ",
-            "link": "https://saseries.akamaized.net/hls/live/2110097/UFC-20-3827e1/master.m3u8?|referer=https://tapmad.com",
-            "logo": "",
-            "type": 0,
-            "api": "",
             "tokenApi": ""
           },
           {
@@ -603,6 +595,14 @@
           {
             "title": "LOW SERVER",
             "link": "http://193.47.62.53/hls/HYYYZQQQQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "TAPMAD - AQ",
+            "link": "https://saseries.akamaized.net/hls/live/2110097/UFC-20-3827e1/master.m3u8?|referer=https://tapmad.com",
             "logo": "",
             "type": 0,
             "api": "",
@@ -765,7 +765,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/369187/image",
           "eventName": "Cricket",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/07/19 14:00:00 +0000",
           "endTime": "2026/07/19 18:00:00 +0000"
         },
