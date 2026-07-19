@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-19T20:50:56.141775",
-  "event_count": 31,
+  "last_updated": "2026-07-19T21:01:11.245389",
+  "event_count": 29,
   "events": {
     "events": [
       {
@@ -466,7 +466,7 @@
           "isHot": "1",
           "Status": "Live",
           "startTime": "2026/07/19 18:45:46 +0000",
-          "endTime": "2026/07/19 21:20:00 +0000"
+          "endTime": "2026/07/19 22:00:57 +0000"
         },
         "channels_data": [
           {
@@ -943,49 +943,6 @@
           {
             "title": "",
             "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 10695,
-        "title": "Toronto Blue Jays vs Chicago White Sox",
-        "image": "",
-        "cat": "Baseball",
-        "eventInfo": {
-          "teamA": "Toronto Blue Jays",
-          "teamB": "Chicago White Sox",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/3642/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/3644/image",
-          "eventName": "Baseball",
-          "isHot": "0",
-          "Status": "Finish",
-          "startTime": "2026/07/19 16:15:00 +0000",
-          "endTime": "2026/07/19 19:15:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "Live 1",
-            "link": "https://chatgpt.hereisman.net/playlist/53534/load-playlist?|Referer=https://gooz.aapmains.net ",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "HD SERVER ",
-            "link": "https://edgestream1.pro/hls/dazhfiach15.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "LOW SERVER ",
-            "link": "http://193.47.62.41/hls/FOOO.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
             "logo": "",
             "type": 0,
             "api": "",
@@ -1612,49 +1569,6 @@
           {
             "title": "LOW SERVER ",
             "link": "http://193.47.62.41/hls/KNNNQQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 10710,
-        "title": "1New York Yankees vs Los Angeles Dodgers",
-        "image": "",
-        "cat": "Baseball",
-        "eventInfo": {
-          "teamA": "New York Yankees",
-          "teamB": "Los Angeles Dodgers",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/3654/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/3638/image",
-          "eventName": "Baseball",
-          "isHot": "0",
-          "Status": "Finish",
-          "startTime": "2026/07/19 16:35:00 +0000",
-          "endTime": "2026/07/19 19:35:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "Live 1",
-            "link": "https://chatgpt.hereisman.net/playlist/53536/load-playlist?|Referer=https://gooz.aapmains.net ",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "HD SERVER ",
-            "link": "https://edgestream3.pro/hls/JHDAJBDnjdna30.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "LOW SERVER ",
-            "link": "http://193.47.62.41/hls/FOOOQQQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
             "logo": "",
             "type": 0,
             "api": "",
