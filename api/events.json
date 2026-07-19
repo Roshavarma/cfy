@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-19T19:20:58.081670",
-  "event_count": 32,
+  "last_updated": "2026-07-19T19:31:04.213786",
+  "event_count": 31,
   "events": {
     "events": [
       {
@@ -386,97 +386,6 @@
         "channels_data": []
       },
       {
-        "id": 10283,
-        "title": "England vs India",
-        "image": "null",
-        "cat": "Cricket",
-        "eventInfo": {
-          "teamA": "England",
-          "teamB": "India",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/187757/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/187765/image",
-          "eventName": "Cricket",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/07/19 10:00:19 +0000",
-          "endTime": "2026/07/19 20:30:26 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "WILLOW - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/uttx59lzmo/out/v1/fe9c404839284110a46313354214c6cb/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "5be2590ab12743d21a1d377d8b5e7900:ff08faff3b5d2c874b62ec09e2db888c",
-            "tokenApi": ""
-          },
-          {
-            "title": "SKY CRICKET - AQ",
-            "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "TAPMAD - AQ",
-            "link": "https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8|Referer=https://tapmad.com",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "WILLOW - ALT",
-            "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/uttx59lzmo/out/v1/fe9c404839284110a46313354214c6cb/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "5be2590ab12743d21a1d377d8b5e7900:ff08faff3b5d2c874b62ec09e2db888c",
-            "tokenApi": ""
-          },
-          {
-            "title": "SKY SPORT NZ",
-            "link": "https://tmaxapp.site/8wirwjs76erftg/skysport2nz.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "LOW SERVER ",
-            "link": "http://193.47.62.41/hls/XAXAXA.m3u8|referer=http://www.fawanews.sc/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "SONY TEN 1 - IN",
-            "link": "https://dishmt.slivcdn.com/hls/live/2011747-b/TEN1HD/master.m3u8?hdnea=exp=1784495890~acl=/*~id=1e03fe217581440690708a23c8a3a3ff-2008311105131851914~hmac=95aed93f7bf7e91363a1e0bfc310728563eb31fe943eb257fad43ebc84f55b9f|Origin=https://www.sonyliv.com&Referer=https://www.sonyliv.com/&x-playback-session-id=1e03fe217581440690708a23c8a3a3ff-1784452689983",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "SONY TEN 3 - IN",
-            "link": "https://dishmt.slivcdn.com/hls/live/2020591-b/TEN3HD/master.m3u8?hdnea=exp=1784495890~acl=/*~id=1e03fe217581440690708a23c8a3a3ff-2008311105131851914~hmac=95aed93f7bf7e91363a1e0bfc310728563eb31fe943eb257fad43ebc84f55b9f|Origin=https://www.sonyliv.com&Referer=https://www.sonyliv.com/&x-playback-session-id=1e03fe217581440690708a23c8a3a3ff-1784452689983",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "SONY TEN 4 - IN",
-            "link": "https://dishmt.slivcdn.com/hls/live/2020589-b/ten4hd/master.m3u8?hdnea=exp=1784495890~acl=/*~id=1e03fe217581440690708a23c8a3a3ff-2008311105131851914~hmac=95aed93f7bf7e91363a1e0bfc310728563eb31fe943eb257fad43ebc84f55b9f|Origin=https://www.sonyliv.com&Referer=https://www.sonyliv.com/&x-playback-session-id=1e03fe217581440690708a23c8a3a3ff-1784452689983",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
         "id": 10483,
         "title": "West Indies vs New Zealand",
         "image": "",
@@ -577,6 +486,30 @@
             "tokenApi": ""
           },
           {
+            "title": "ISCREEN BD - AQ",
+            "link": "https://lkjhgf-zxcvbnmq.rockstreamer.com/v1/019ed91616121ea540a8171c8e801f/019f7a7fea1b1ea557843549782f9b/main.m3u8|referer=https://iscreen.com.bd/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "KAN 11 - AQ",
+            "link": "https://n-121-7.il.cdn-redge.media/livedash/oil/freetv/live/kan11/live.livx?manifest.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "23fad97468a1338f973d192646df2d19:27fd56ffd7d70ec6aa9252e713c21190",
+            "tokenApi": ""
+          },
+          {
+            "title": "UNIFY TV - AQ",
+            "link": "https://anak-fifuck.donasi-dulu-colong-kemudian.workers.dev/Content/DASH/Live/channel(fifa1)/master.mpd?hdntl=st=1784480346~exp=1784570346~acl=/Content/DASH/Live/channel(fifa1)/*~id=feeywxgMAObNR5wIftrBt2PkP0I4nspAy0b2-z_bEQ8S~hmac=d5a4dad519e21881367b63417ca801a5007c3d726bbbe15b14825b65787c2c89",
+            "logo": "",
+            "type": 7,
+            "api": "10e2114398744f3880cc96653568da55:d6d40441f9fbebea03ec64c4aea7211f",
+            "tokenApi": ""
+          },
+          {
             "title": "ITV SPORTS HD",
             "link": "https://chatgpt.hereisman.net/playlist/53550/load-playlist?|Referer=https://gooz.aapmains.net",
             "logo": "",
@@ -601,16 +534,24 @@
             "tokenApi": ""
           },
           {
-            "title": "ISCREEN BD - AQ",
-            "link": "https://lkjhgf-zxcvbnmq.rockstreamer.com/v1/019ed91616121ea540a8171c8e801f/019f7a7fea1b1ea557843549782f9b/main.m3u8|referer=https://iscreen.com.bd/",
+            "title": "FOX SPORTS HD",
+            "link": "https://chatgpt.hereisman.net/playlist/53539/load-playlist?|Referer=https://gooz.aapmains.net",
             "logo": "",
             "type": 0,
             "api": "",
             "tokenApi": ""
           },
           {
-            "title": "FOX SPORTS HD",
-            "link": "https://chatgpt.hereisman.net/playlist/53539/load-playlist?|Referer=https://gooz.aapmains.net",
+            "title": "FAST SERVER 1",
+            "link": "https://tfxp1gr3uomttgr31hp3tfahdrmmcpf5gkce.100ycdn.com/live1.streambylivepulse.com/live/channel1/playlist.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "CCTV SPORTS HD",
+            "link": "https://pullsgp.yyzb456.top/live/stream-525132_lhd.m3u8",
             "logo": "",
             "type": 0,
             "api": "",
@@ -654,14 +595,6 @@
             "logo": "",
             "type": 0,
             "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "UNIFY TV - AQ",
-            "link": "https://anak-fifuck.donasi-dulu-colong-kemudian.workers.dev/Content/DASH/Live/channel(fifa1)/master.mpd?hdntl=st=1784480346~exp=1784570346~acl=/Content/DASH/Live/channel(fifa1)/*~id=feeywxgMAObNR5wIftrBt2PkP0I4nspAy0b2-z_bEQ8S~hmac=d5a4dad519e21881367b63417ca801a5007c3d726bbbe15b14825b65787c2c89",
-            "logo": "",
-            "type": 7,
-            "api": "10e2114398744f3880cc96653568da55:d6d40441f9fbebea03ec64c4aea7211f",
             "tokenApi": ""
           },
           {
@@ -745,8 +678,8 @@
             "tokenApi": ""
           },
           {
-            "title": "FAST SERVER",
-            "link": "Ok",
+            "title": "FAST SERVER 2",
+            "link": "https://pul-tenm.gkykp.com/live/hd-en-1-4459815.m3u8?txSecret=db42c47b651faffa0f768bb7431e06ce&txTime=6A5E4859",
             "logo": "",
             "type": 0,
             "api": "",
@@ -762,7 +695,7 @@
           },
           {
             "title": "HD SERVER ENG",
-            "link": "https://edgestreams.pro/hls/24SDAZFcsqnj24.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+            "link": "https://edgestream2.pro/hls/24SDAZFcsqnj24.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
             "logo": "",
             "type": 0,
             "api": "",
@@ -770,15 +703,7 @@
           },
           {
             "title": "HD SERVER AR",
-            "link": "https://edgestreams.pro/hls/24SDAZFcsqnj24.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "HD SERVER ES",
-            "link": "Ok",
+            "link": "https://edgestream3.pro/hls/griogoehvn2.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
             "logo": "",
             "type": 0,
             "api": "",
@@ -1500,8 +1425,24 @@
         },
         "channels_data": [
           {
-            "title": "",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "title": "Live 1",
+            "link": "https://chatgpt.hereisman.net/playlist/53564/load-playlist?|Referer=https://gooz.aapmains.net",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "Live 2",
+            "link": "https://instreams.pro/live/MLB10/mono.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://instream.click/jwp2-us.php?stream=MLB10&Origin=https://instream.click/jwp2-us.php?stream=MLB10",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "HD SERVER ",
+            "link": "https://edgestream2.pro/hls/dzjhkfazbka26.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
             "logo": "",
             "type": 0,
             "api": "",
@@ -1527,8 +1468,24 @@
         },
         "channels_data": [
           {
-            "title": "",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "title": "Live 1",
+            "link": "https://chatgpt.hereisman.net/playlist/53566/load-playlist?|Referer=https://gooz.aapmains.net ",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "HD SERVER",
+            "link": "https://edgestream2.pro/hls/jzabfazkbf27.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "Live 2",
+            "link": "https://instreams.pro/live/MLB11/mono.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://instream.click/jwp2-us.php?stream=MLB11&Origin=https://instream.click/jwp2-us.php?stream=MLB11",
             "logo": "",
             "type": 0,
             "api": "",
