@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-19T18:31:35.961232",
-  "event_count": 29,
+  "last_updated": "2026-07-19T18:40:51.725050",
+  "event_count": 32,
   "events": {
     "events": [
       {
@@ -556,7 +556,7 @@
           "eventName": "Football",
           "isHot": "1",
           "Status": "Upcoming",
-          "startTime": "2026/07/19 19:00:00 +0000",
+          "startTime": "2026/07/19 18:45:46 +0000",
           "endTime": "2026/07/19 21:20:00 +0000"
         },
         "channels_data": [
@@ -577,6 +577,22 @@
             "tokenApi": ""
           },
           {
+            "title": "ITV SPORTS HD",
+            "link": "https://chatgpt.hereisman.net/playlist/53550/load-playlist?|Referer=https://gooz.aapmains.net",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "TSN SPORTS HD",
+            "link": "https://chatgpt.hereisman.net/playlist/53540/load-playlist?|Referer=https://gooz.aapmains.net",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
             "title": "ITV SPORTS - AQ",
             "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/0eiyyz8qzm/out/v1/dd17af8835fe4bd087d1a4e359b635d7/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
             "logo": "",
@@ -585,19 +601,99 @@
             "tokenApi": ""
           },
           {
-            "title": "TSN SPORTS - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-            "logo": "",
-            "type": 7,
-            "api": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d",
-            "tokenApi": ""
-          },
-          {
             "title": "ISCREEN BD - AQ",
             "link": "https://lkjhgf-zxcvbnmq.rockstreamer.com/v1/019ed91616121ea540a8171c8e801f/019f7a7fea1b1ea557843549782f9b/main.m3u8|referer=https://iscreen.com.bd/",
             "logo": "",
             "type": 0,
             "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "FOX SPORTS HD",
+            "link": "https://chatgpt.hereisman.net/playlist/53539/load-playlist?|Referer=https://gooz.aapmains.net",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "KAN 11 - AQ",
+            "link": "https://n-121-7.il.cdn-redge.media/livedash/oil/freetv/live/kan11/live.livx?manifest.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "23fad97468a1338f973d192646df2d19:27fd56ffd7d70ec6aa9252e713c21190",
+            "tokenApi": ""
+          },
+          {
+            "title": "FAST SERVER 1",
+            "link": "https://tfxp1gr3uomttgr31hp3tfahdrmmcpf5gkce.100ycdn.com/live1.streambylivepulse.com/live/channel1/playlist.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "CCTV SPORTS HD",
+            "link": "https://pullsgp.yyzb456.top/live/stream-525132_lhd.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "VIX MUNIDAL HD",
+            "link": "https://s2.bufaloweb.com/bufalo9/tracks-v4a1/mono.ts.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "beIN MAX HD",
+            "link": "https://3.simokora.com/my-hls/h9asfma10d5/source/index.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "Caz\u00e9TV BR HD",
+            "link": "https://rdcstream.life/live/cazetv/index.m3u8?|referer=https://playerembed.xyz/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "QAZ SPORTS HD",
+            "link": "http://stream.mcquack.net/72/index.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "FUSSBALL TV HD",
+            "link": "https://cp11.adabmedia.com/hls2/sport.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "UNIFY TV - AQ",
+            "link": "https://anak-fifuck.donasi-dulu-colong-kemudian.workers.dev/Content/DASH/Live/channel(fifa1)/master.mpd?hdntl=st=1784480346~exp=1784570346~acl=/Content/DASH/Live/channel(fifa1)/*~id=feeywxgMAObNR5wIftrBt2PkP0I4nspAy0b2-z_bEQ8S~hmac=d5a4dad519e21881367b63417ca801a5007c3d726bbbe15b14825b65787c2c89",
+            "logo": "",
+            "type": 7,
+            "api": "10e2114398744f3880cc96653568da55:d6d40441f9fbebea03ec64c4aea7211f",
+            "tokenApi": ""
+          },
+          {
+            "title": "TSN SPORTS - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+            "logo": "",
+            "type": 7,
+            "api": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d",
             "tokenApi": ""
           },
           {
@@ -614,22 +710,6 @@
             "logo": "",
             "type": 7,
             "api": "1223d5105392cabf1bb9c2c1fdf6539a:340b409f4b8f78a343e0363a7938df38",
-            "tokenApi": ""
-          },
-          {
-            "title": "WC ENGLISH - AQ",
-            "link": "https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/fifa_ppv1/default/index.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "17bb9e12c9d844bb9d032a5399d61cc5:08c136b87678210bbac2224550f85c9e",
-            "tokenApi": ""
-          },
-          {
-            "title": "CTV SPORTS - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/enc/72sjo8hygl/out/v1/3079be34d72a4985852d299a02406a0c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-            "logo": "",
-            "type": 7,
-            "api": "d185684e2330de5bea436daa094a5e86:014f0116154f5bf0050e03a6b0a23157",
             "tokenApi": ""
           },
           {
@@ -673,30 +753,6 @@
             "tokenApi": ""
           },
           {
-            "title": "ITV SPORTS HD",
-            "link": "https://chatgpt.hereisman.net/playlist/53550/load-playlist?|Referer=https://gooz.aapmains.net",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "TSN SPORTS HD",
-            "link": "https://chatgpt.hereisman.net/playlist/53540/load-playlist?|Referer=https://gooz.aapmains.net",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "FOX SPORTS HD",
-            "link": "https://chatgpt.hereisman.net/playlist/52273/load-playlist?|Referer=https://gooz.aapmains.net",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
             "title": "IRIB SPORTS 4K",
             "link": "https://ncdn.telewebion.ir/faratar/live/playlist.m3u8",
             "logo": "",
@@ -706,15 +762,15 @@
           },
           {
             "title": "TELEMUNDO HD",
-            "link": "https://mainstreams.pro/hls/eJmauBDCIf.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+            "link": "https://edgestream3.pro/hls/b0h5fNwDKH.m3u8?|Referer=https://streame.center/&Origin=https://streame.center",
             "logo": "",
             "type": 0,
             "api": "",
             "tokenApi": ""
           },
           {
-            "title": "FAST SERVER",
-            "link": "Ok",
+            "title": "FAST SERVER 2",
+            "link": "https://pul-tenm.gkykp.com/live/hd-en-1-4459815.m3u8?txSecret=db42c47b651faffa0f768bb7431e06ce&txTime=6A5E4859",
             "logo": "",
             "type": 0,
             "api": "",
@@ -753,8 +809,8 @@
             "tokenApi": ""
           },
           {
-            "title": "BBC SPORTS SD",
-            "link": "?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+            "title": "ITV SPORTS SD",
+            "link": "http://193.47.62.59/hls/hhhh.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
             "logo": "",
             "type": 0,
             "api": "",
@@ -762,7 +818,7 @@
           },
           {
             "title": "TV4 SPORTS SD",
-            "link": "?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+            "link": "http://193.47.62.55/hls/hhhhsQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
             "logo": "",
             "type": 0,
             "api": "",
@@ -770,7 +826,7 @@
           },
           {
             "title": "TELEMUNDO SD",
-            "link": "?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+            "link": "http://193.47.62.47/hls/hhhhsQQq.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
             "logo": "",
             "type": 0,
             "api": "",
@@ -778,23 +834,7 @@
           },
           {
             "title": "beiN SPORTS FR",
-            "link": "?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "AZAM SPORTS SD",
-            "link": "?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "beiN ARABIC SD",
-            "link": "?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+            "link": "http://193.47.62.59/hls/hhhhs.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
             "logo": "",
             "type": 0,
             "api": "",
@@ -854,22 +894,6 @@
             "logo": "",
             "type": 7,
             "api": "ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1",
-            "tokenApi": ""
-          },
-          {
-            "title": "beIN MAX HD",
-            "link": "https://3.simokora.com/my-hls/h9asfma10d5/source/index.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "Caz\u00e9TV BR HD",
-            "link": "https://rdcstream.life/live/cazetv/index.m3u8?|referer=https://playerembed.xyz/",
-            "logo": "",
-            "type": 0,
-            "api": "",
             "tokenApi": ""
           }
         ]
@@ -1626,6 +1650,87 @@
           {
             "title": "LOW SERVER ",
             "link": "http://193.47.62.41/hls/FOOOQQQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 10711,
+        "title": "Dambulla Sixers vs Kandy Royals",
+        "image": "",
+        "cat": "Cricket",
+        "eventInfo": {
+          "teamA": "Dambulla Sixers",
+          "teamB": "Kandy Royals",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/369189/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/369187/image",
+          "eventName": "Cricket",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/07/21 14:00:00 +0000",
+          "endTime": "2026/07/21 18:00:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 10712,
+        "title": "Jaffna Kings vs Colombo Kaps",
+        "image": "",
+        "cat": "Cricket",
+        "eventInfo": {
+          "teamA": "Jaffna Kings",
+          "teamB": "Colombo Kaps",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/453388/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/453390/image",
+          "eventName": "Cricket",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/07/22 09:30:00 +0000",
+          "endTime": "2026/07/22 13:30:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 10713,
+        "title": "Dambulla Sixers vs Galle Gallants",
+        "image": "",
+        "cat": "Cricket",
+        "eventInfo": {
+          "teamA": "Dambulla Sixers",
+          "teamB": "Galle Gallants",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/369189/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/453389/image",
+          "eventName": "Cricket",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/07/22 14:00:00 +0000",
+          "endTime": "2026/07/22 18:00:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
             "logo": "",
             "type": 0,
             "api": "",
