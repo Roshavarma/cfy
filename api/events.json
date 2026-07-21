@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-21T17:20:54.180806",
-  "event_count": 35,
+  "last_updated": "2026-07-21T17:31:05.690280",
+  "event_count": 37,
   "events": {
     "events": [
       {
@@ -472,7 +472,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/377178/image",
           "eventName": "Cricket",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/07/21 17:30:00 +0000",
           "endTime": "2026/07/21 21:30:00 +0000"
         },
@@ -1367,6 +1367,76 @@
             "logo": "",
             "type": 0,
             "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 10753,
+        "title": "Universidad Central vs Santos",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Universidad Central",
+          "teamB": "Santos",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/249952/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/1968/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/07/22 00:30:00 +0000",
+          "endTime": "2026/07/22 02:50:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "beIN SPORTS - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
+            "tokenApi": ""
+          },
+          {
+            "title": "SportDigital Fussball",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 10754,
+        "title": "Nacional vs Tigre",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Nacional",
+          "teamB": "Tigre",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3230/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/7628/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/07/21 22:00:00 +0000",
+          "endTime": "2026/07/22 00:20:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "beIN SPORTS - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
+            "tokenApi": ""
+          },
+          {
+            "title": "SportDigital Fussball",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
             "tokenApi": ""
           }
         ]
