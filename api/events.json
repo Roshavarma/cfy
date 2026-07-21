@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-21T18:10:54.994063",
-  "event_count": 37,
+  "last_updated": "2026-07-21T18:20:52.100549",
+  "event_count": 36,
   "events": {
     "events": [
       {
@@ -411,22 +411,6 @@
         },
         "channels_data": [
           {
-            "title": "WILLOW - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rypwqp6z3f/out/v1/a10c4ad014a5422b84c91d98f51dd279/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "ecdf2f70c1d0df4187b2be76cce4e63d:38832d5c9796f7113fbd2ec6ba70f313",
-            "tokenApi": ""
-          },
-          {
-            "title": "CRICBUZZ - AQ",
-            "link": "https://livevideos.cricbuzz.com/hls/live/2110089/MENA-SEA/11957/162103/master.m3u8?hdntl=exp=1784542155~acl=/*~id=qa.team@cricbuzz.com~data=hdntl,flavour:CB,matchId:65907,country:IN~hmac=7816f883796edcfb07cf0300f9b256aa73da776a23442003c22bccb58011d853|user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
             "title": "FANCODE - AQ",
             "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
             "logo": "",
@@ -436,18 +420,18 @@
           },
           {
             "title": "TAPMAD - AQ",
-            "link": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8|referer=https://tapmad.com",
+            "link": "https://saseries.akamaized.net/hls/live/2110097/UFC-20-3827e1/master.m3u8|referer=https://tapmad.com",
             "logo": "",
             "type": 0,
             "api": "",
             "tokenApi": ""
           },
           {
-            "title": "WILLOW - ALT",
-            "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/rypwqp6z3f/out/v1/a10c4ad014a5422b84c91d98f51dd279/cenc.mpd",
+            "title": "TNT SPORTS HD",
+            "link": "https://tmaxapp.site/8wirwjs76erftg/tntsports1.m3u8",
             "logo": "",
-            "type": 7,
-            "api": "ecdf2f70c1d0df4187b2be76cce4e63d:38832d5c9796f7113fbd2ec6ba70f313",
+            "type": 0,
+            "api": "",
             "tokenApi": ""
           },
           {
@@ -456,6 +440,30 @@
             "logo": "",
             "type": 7,
             "api": "709c812e1b4174002605df1d17d34a4c:0bbee6c9c20a0f065bf8369d54cbf83e",
+            "tokenApi": ""
+          },
+          {
+            "title": "FANCODE - IN",
+            "link": "https://in-mc-pdlive.fancode.com/mumbai/143607_english_hls_4aaf721a353393_1ta-di_h264/index.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "FANCODE - BD",
+            "link": "https://bd-mc-pdlive.fancode.com/mumbai/143607_english_hls_4aaf721a353393_1ta-di_h264/index.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "WILLOW - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rypwqp6z3f/out/v1/a10c4ad014a5422b84c91d98f51dd279/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "ecdf2f70c1d0df4187b2be76cce4e63d:38832d5c9796f7113fbd2ec6ba70f313",
             "tokenApi": ""
           }
         ]
@@ -555,57 +563,6 @@
           {
             "title": "",
             "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 10711,
-        "title": "Dambulla Sixers vs Kandy Royals",
-        "image": "",
-        "cat": "Cricket",
-        "eventInfo": {
-          "teamA": "Dambulla Sixers",
-          "teamB": "Kandy Royals",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/369189/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/369187/image",
-          "eventName": "Cricket",
-          "isHot": "0",
-          "Status": "Finish",
-          "startTime": "2026/07/21 14:00:00 +0000",
-          "endTime": "2026/07/21 18:00:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "WILLOW - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/gjigreak4h/out/v1/3e2e635212094aa5802cf66c1601f8a5/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "70aa90cb5fbc9c681891ffadd144c764:3f9113c845f44f75058cc38db91cff2b",
-            "tokenApi": ""
-          },
-          {
-            "title": "WILLOW - ALT",
-            "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/gjigreak4h/out/v1/3e2e635212094aa5802cf66c1601f8a5/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "70aa90cb5fbc9c681891ffadd144c764:3f9113c845f44f75058cc38db91cff2b",
-            "tokenApi": ""
-          },
-          {
-            "title": "FANCODE - IN",
-            "link": "https://in-mc-pdlive.fancode.com/mumbai/4246724_english_hls_43e926f11914343_1ta-di_h264/index.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "FANCODE - BD",
-            "link": "https://bd-mc-pdlive.fancode.com/mumbai/4246724_english_hls_43e926f11914343_1ta-di_h264/index.m3u8",
             "logo": "",
             "type": 0,
             "api": "",
