@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-21T18:40:55.463856",
+  "last_updated": "2026-07-21T18:50:47.515992",
   "event_count": 36,
   "events": {
     "events": [
@@ -411,11 +411,27 @@
         },
         "channels_data": [
           {
+            "title": "WILLOW - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ltqjjbxxce/out/v1/2fcb6f3d2a8c4bc1b56b0fa422d344ea/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "b2fa1d303823d920e4f25ba0de9834f5:74152f2556ea42c3ecad079190e85630",
+            "tokenApi": ""
+          },
+          {
             "title": "FANCODE - AQ",
             "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
             "logo": "",
             "type": 7,
             "api": "7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe",
+            "tokenApi": ""
+          },
+          {
+            "title": "WILLOW - ALT",
+            "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ltqjjbxxce/out/v1/2fcb6f3d2a8c4bc1b56b0fa422d344ea/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "b2fa1d303823d920e4f25ba0de9834f5:74152f2556ea42c3ecad079190e85630",
             "tokenApi": ""
           },
           {
@@ -456,14 +472,6 @@
             "logo": "",
             "type": 0,
             "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "WILLOW - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rypwqp6z3f/out/v1/a10c4ad014a5422b84c91d98f51dd279/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "ecdf2f70c1d0df4187b2be76cce4e63d:38832d5c9796f7113fbd2ec6ba70f313",
             "tokenApi": ""
           }
         ]
