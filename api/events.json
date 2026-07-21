@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-21T13:31:09.445175",
+  "last_updated": "2026-07-21T13:40:51.436440",
   "event_count": 35,
   "events": {
     "events": [
@@ -532,11 +532,19 @@
         },
         "channels_data": [
           {
-            "title": "",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "title": "WILLOW - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/gjigreak4h/out/v1/3e2e635212094aa5802cf66c1601f8a5/cenc.mpd",
             "logo": "",
-            "type": 0,
-            "api": "",
+            "type": 7,
+            "api": "70aa90cb5fbc9c681891ffadd144c764:3f9113c845f44f75058cc38db91cff2b",
+            "tokenApi": ""
+          },
+          {
+            "title": "WILLOW - ALT",
+            "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/gjigreak4h/out/v1/3e2e635212094aa5802cf66c1601f8a5/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "70aa90cb5fbc9c681891ffadd144c764:3f9113c845f44f75058cc38db91cff2b",
             "tokenApi": ""
           }
         ]
@@ -702,16 +710,16 @@
             "tokenApi": ""
           },
           {
-            "title": "SKY CRICKET - AQ",
-            "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla",
+            "title": "BBC SPORTS - AQ",
+            "link": "https://tmaxapp.site/8wirwjs76erftg/bbctwo.m3u8",
             "logo": "",
             "type": 0,
             "api": "",
             "tokenApi": ""
           },
           {
-            "title": "TAPMAD - AQ",
-            "link": "https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8|referer=https://tapmad.com",
+            "title": "SKY CRICKET - AQ",
+            "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla",
             "logo": "",
             "type": 0,
             "api": "",
@@ -723,6 +731,22 @@
             "logo": "",
             "type": 7,
             "api": "453c4ba8f7c775a4ef534847bd33b184:4f14453aaf260377336bb0e6267da4f1",
+            "tokenApi": ""
+          },
+          {
+            "title": "TAPMAD - AQ",
+            "link": "https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8|referer=https://tapmad.com",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "SKY SPORT NZ",
+            "link": "https://tmaxapp.site/8wirwjs76erftg/skysport2nz.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
             "tokenApi": ""
           }
         ]
