@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-22T13:20:54.324196",
-  "event_count": 33,
+  "last_updated": "2026-07-22T13:31:02.991076",
+  "event_count": 32,
   "events": {
     "events": [
       {
@@ -403,73 +403,6 @@
         ]
       },
       {
-        "id": 10712,
-        "title": "Jaffna Kings vs Colombo Kaps",
-        "image": "",
-        "cat": "Cricket",
-        "eventInfo": {
-          "teamA": "Jaffna Kings",
-          "teamB": "Colombo Kaps",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/453388/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/453390/image",
-          "eventName": "Cricket",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/07/22 09:30:00 +0000",
-          "endTime": "2026/07/22 13:30:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "WILLOW - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rszozaxgyx/out/v1/7b88be9ba3fa4afda7f65bd4daae807e/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "b5afc6d1006a956ada4fe4a4399e2c21:9319efc57e5eb5d32a12a7a66a4fb2ae",
-            "tokenApi": ""
-          },
-          {
-            "title": "FANCODE - AQ",
-            "link": "https://a204aivottepl-a.akamaihd.net/sin-nitro/live/clients/dash/enc/h35gev6jft/out/v1/c64004e114c245a4ab84bb570275a4a9/cenc.mpd|Origin=https://amazon.com&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0",
-            "logo": "",
-            "type": 7,
-            "api": "065051b99bf5cf8d9a3bde5cbde6aaf9:214bd176832872339ce184338320f9a2",
-            "tokenApi": ""
-          },
-          {
-            "title": "WILLOW - ALT",
-            "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/rszozaxgyx/out/v1/7b88be9ba3fa4afda7f65bd4daae807e/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "b5afc6d1006a956ada4fe4a4399e2c21:9319efc57e5eb5d32a12a7a66a4fb2ae",
-            "tokenApi": ""
-          },
-          {
-            "title": "FANCODE - LQ",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash-sd/enc/v8g0dlo4z8/out/v1/946019f85dc64ae99ff9ce64a9727a62/cenc-sd.mpd|Origin=https://amazon.com&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0",
-            "logo": "",
-            "type": 7,
-            "api": "5689304538fa9f3bb3da99c939a2ad4f:6907c88ed8ebdd35a2fa80b9684715e1",
-            "tokenApi": ""
-          },
-          {
-            "title": "FANCODE - IN",
-            "link": "https://in-mc-pdlive.fancode.com/mumbai/4246715_english_hls_5e63e652d62937_1ta-di_h264/index.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "FANCODE - BD",
-            "link": "https://bd-mc-pdlive.fancode.com/mumbai/4246715_english_hls_5e63e652d62937_1ta-di_h264/index.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
         "id": 10713,
         "title": "Dambulla Sixers vs Galle Gallants",
         "image": "",
@@ -596,10 +529,10 @@
         "channels_data": [
           {
             "title": "WILLOW - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ynefhymijt/out/v1/02ab74a814ba405d8b749b3497c1b899/cenc.mpd",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/meajagcvub/out/v1/6e9362ccccc04fcca4e227e3bd09ecb6/cenc.mpd",
             "logo": "",
             "type": 7,
-            "api": "453c4ba8f7c775a4ef534847bd33b184:4f14453aaf260377336bb0e6267da4f1",
+            "api": "33aec023d44fdccb0fd93e81cfc01fb9:a39bf1d795cbfa140416aa77cc8a2156",
             "tokenApi": ""
           },
           {
@@ -620,10 +553,10 @@
           },
           {
             "title": "WILLOW - ALT",
-            "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ynefhymijt/out/v1/02ab74a814ba405d8b749b3497c1b899/cenc.mpd",
+            "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/meajagcvub/out/v1/6e9362ccccc04fcca4e227e3bd09ecb6/cenc.mpd",
             "logo": "",
             "type": 7,
-            "api": "453c4ba8f7c775a4ef534847bd33b184:4f14453aaf260377336bb0e6267da4f1",
+            "api": "33aec023d44fdccb0fd93e81cfc01fb9:a39bf1d795cbfa140416aa77cc8a2156",
             "tokenApi": ""
           },
           {
