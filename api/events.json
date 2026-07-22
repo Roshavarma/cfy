@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-22T17:50:44.756749",
-  "event_count": 31,
+  "last_updated": "2026-07-22T18:01:18.358748",
+  "event_count": 34,
   "events": {
     "events": [
       {
@@ -1385,6 +1385,87 @@
           {
             "title": "Live 1",
             "link": "https://instreams.pro/live/MLB15/mono.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://instream.click/jwp2-us.php?stream=MLB15&Origin=https://instream.click/jwp2-us.php?stream=MLB15",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 10776,
+        "title": "Kandy Royals vs Colombo Kaps",
+        "image": "",
+        "cat": "Cricket",
+        "eventInfo": {
+          "teamA": "Kandy Royals",
+          "teamB": "Colombo Kaps",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/369187/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/453390/image",
+          "eventName": "Cricket",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/07/23 09:30:00 +0000",
+          "endTime": "2026/07/23 13:30:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 10777,
+        "title": "Galle Gallants vs Jaffna Kings",
+        "image": "",
+        "cat": "Cricket",
+        "eventInfo": {
+          "teamA": "Galle Gallants",
+          "teamB": "Jaffna Kings",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/453389/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/453388/image",
+          "eventName": "Cricket",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/07/23 14:00:00 +0000",
+          "endTime": "2026/07/23 18:00:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 10778,
+        "title": "London Spirit vs Manchester Super Giants",
+        "image": "",
+        "cat": "Cricket",
+        "eventInfo": {
+          "teamA": "London Spirit",
+          "teamB": "Manchester Super Giants",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/377175/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/377173/image",
+          "eventName": "Cricket",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/07/23 17:30:00 +0000",
+          "endTime": "2026/07/23 21:30:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
             "logo": "",
             "type": 0,
             "api": "",
