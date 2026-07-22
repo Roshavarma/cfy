@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-22T18:20:47.395833",
-  "event_count": 34,
+  "last_updated": "2026-07-22T18:31:10.368220",
+  "event_count": 40,
   "events": {
     "events": [
       {
@@ -721,11 +721,11 @@
         },
         "channels_data": [
           {
-            "title": "",
-            "link": "ok",
+            "title": "PREMIERE BR - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/oy6rp0jwmf/out/v1/580ecf12bad24979baf8dd993dce053e/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
             "logo": "",
-            "type": 0,
-            "api": "",
+            "type": 7,
+            "api": "9dc40460c93087aea84d6315f08ecb64:f69c8d4624fddff4ca89bd0b31bdc4a7",
             "tokenApi": ""
           }
         ]
@@ -1469,6 +1469,192 @@
           "Status": "Upcoming",
           "startTime": "2026/07/23 17:30:00 +0000",
           "endTime": "2026/07/23 21:30:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 10779,
+        "title": "Los Angeles FC vs Real Salt Lake",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Los Angeles FC",
+          "teamB": "Real Salt Lake",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/274650/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/5133/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/07/23 02:30:00 +0000",
+          "endTime": "2026/07/23 04:50:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "TSN SPORTS - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+            "logo": "",
+            "type": 7,
+            "api": "abc5b2883121012850ebda05b528c5ec:e5250924f4b738905f7163a0134587a7",
+            "tokenApi": ""
+          },
+          {
+            "title": "TSN SPORTS 3 - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/lsibpqruq1/out/v1/748887d614a84913ba8bcdf3c82823e6/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+            "logo": "",
+            "type": 7,
+            "api": "d3250252765347a0c2603c6cb4869f8c:0c19319460da7e9ed816db46ce839b37",
+            "tokenApi": ""
+          },
+          {
+            "title": "FOX SPORTS - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+            "logo": "",
+            "type": 7,
+            "api": "5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16",
+            "tokenApi": ""
+          },
+          {
+            "title": "FOX DEPORTES - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+            "logo": "",
+            "type": 7,
+            "api": "d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 10780,
+        "title": "Club Sporting Cristal vs Red Bull Bragantino",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Club Sporting Cristal",
+          "teamB": "Red Bull Bragantino",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/2302/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/1999/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/07/23 00:30:00 +0000",
+          "endTime": "2026/07/23 02:50:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "beiN SPORTS - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+            "logo": "",
+            "type": 7,
+            "api": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 10781,
+        "title": "CA Lanus vs Cienciano",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "CA Lan\u00fas",
+          "teamB": "Cienciano",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3218/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/2301/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/07/23 00:30:00 +0000",
+          "endTime": "2026/07/23 02:50:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "beiN SPORTS - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+            "logo": "",
+            "type": 7,
+            "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 10782,
+        "title": "Charlotte FC vs Atlanta United",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Charlotte FC",
+          "teamB": "Atlanta United",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/404108/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/243211/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/07/23 00:15:00 +0000",
+          "endTime": "2026/07/23 02:35:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 10783,
+        "title": "New England Revolution vs Toronto FC",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "New England Revolution",
+          "teamB": "Toronto FC",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/2511/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/7080/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/07/22 23:30:00 +0000",
+          "endTime": "2026/07/23 01:50:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 10784,
+        "title": "Independiente Medellin vs Vasco da Gama",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Independiente Medell\u00edn",
+          "teamB": "Vasco da Gama",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/6115/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/1974/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/07/22 22:00:00 +0000",
+          "endTime": "2026/07/23 00:20:00 +0000"
         },
         "channels_data": [
           {
