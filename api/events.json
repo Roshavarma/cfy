@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-22T13:50:51.426798",
+  "last_updated": "2026-07-22T14:01:16.237540",
   "event_count": 32,
   "events": {
     "events": [
@@ -414,7 +414,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/453389/image",
           "eventName": "Cricket",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/07/22 14:00:00 +0000",
           "endTime": "2026/07/22 18:00:00 +0000"
         },
@@ -453,7 +453,7 @@
           },
           {
             "title": "FANCODE - IN",
-            "link": "https://in-mc-pdlive.fancode.com/mumbai/4246724_english_hls_43e926f11914343_1ta-di_h264/index.m3u8",
+            "link": "https://in-mc-pdlive.fancode.com/mumbai/4246714_english_hls_073cf4f34754904_1ta-di_h264/index.m3u8",
             "logo": "",
             "type": 0,
             "api": "",
@@ -461,7 +461,7 @@
           },
           {
             "title": "FANCODE - BD",
-            "link": "https://bd-mc-pdlive.fancode.com/mumbai/4246724_english_hls_43e926f11914343_1ta-di_h264/index.m3u8",
+            "link": "https://bd-mc-pdlive.fancode.com/mumbai/4246714_english_hls_073cf4f34754904_1ta-di_h264/index.m3u8",
             "logo": "",
             "type": 0,
             "api": "",
@@ -610,6 +610,22 @@
           {
             "title": "SKY SPORT NZ",
             "link": "https://tmaxapp.site/8wirwjs76erftg/skysport2nz.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "SonyLiv",
+            "link": "https://sonydaimenew.akamaized.net/hls/live/2022321/DAI17ME-V3/master.m3u8?hdnea=exp=1784756002~acl=/*~id=01d7cb8efe80bd31ab0c0ae6a6d3175b-1784712737570-180820105164192310~hmac=aabe24ba3b5f5ca6a2e1a7eb7337660c8811f71ad4562addd0f9ffdf1fbf3ab9",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "LOW SERVER",
+            "link": "http://tvsen5.aynascope.net/willowhd/index.m3u8",
             "logo": "",
             "type": 0,
             "api": "",
