@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-22T22:20:49.114828",
-  "event_count": 40,
+  "last_updated": "2026-07-22T22:31:05.741273",
+  "event_count": 38,
   "events": {
     "events": [
       {
@@ -634,7 +634,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/1963/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/07/22 22:30:00 +0000",
           "endTime": "2026/07/23 00:50:00 +0000"
         },
@@ -790,57 +790,6 @@
         ]
       },
       {
-        "id": 10756,
-        "title": "1New York Yankees vs Pittsburgh Pirates",
-        "image": "",
-        "cat": "Baseball",
-        "eventInfo": {
-          "teamA": "New York Yankees",
-          "teamB": "Pittsburgh Pirates",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/3654/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/3637/image",
-          "eventName": "Baseball",
-          "isHot": "0",
-          "Status": "Finish",
-          "startTime": "2026/07/22 17:35:00 +0000",
-          "endTime": "2026/07/22 20:35:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "Live 1",
-            "link": "https://chatgpt.hereisman.net/playlist/53654/load-playlist?|Referer=https://gooz.aapmains.net ",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "Live 2",
-            "link": "https://instreams.live/live/MLB1/mono.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://instream.click/jwp2-us.php?stream=MLB1&Origin=https://instream.click/jwp2-us.php?stream=MLB1",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "HD SERVER",
-            "link": "https://edgestream2.pro/hls/kjhfzua25.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "LOW SERVER ",
-            "link": "http://193.47.62.41/hls/OOOOQQQQQQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
         "id": 10757,
         "title": "New York Yankees vs Pittsburgh Pirates",
         "image": "",
@@ -858,6 +807,14 @@
         },
         "channels_data": [
           {
+            "title": "Live 1",
+            "link": "https://chatgpt.hereisman.net/playlist/53682/load-playlist?|Referer=https://gooz.aapmains.net",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
             "title": "HD QUALITY",
             "link": "https://edgestream2.pro/hls/kjhfzua25.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
             "logo": "",
@@ -866,51 +823,8 @@
             "tokenApi": ""
           },
           {
-            "title": "Live 1",
-            "link": "https://instreams.live/live/MLB1/mono.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://instream.click/jwp2-us.php?stream=MLB1&Origin=https://instream.click/jwp2-us.php?stream=MLB1",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 10758,
-        "title": "1Boston Red Sox vs Baltimore Orioles",
-        "image": "",
-        "cat": "Baseball",
-        "eventInfo": {
-          "teamA": "Boston Red Sox",
-          "teamB": "Baltimore Orioles",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/3646/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/3652/image",
-          "eventName": "Baseball",
-          "isHot": "0",
-          "Status": "Finish",
-          "startTime": "2026/07/22 17:35:00 +0000",
-          "endTime": "2026/07/22 20:35:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "Live 1",
-            "link": "https://chatgpt.hereisman.net/playlist/53656/load-playlist?|Referer=https://gooz.aapmains.net ",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
             "title": "Live 2",
-            "link": "https://instreams.live/live/MLB11/mono.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://instream.click/jwp2-us.php?stream=MLB11&Origin=https://instream.click/jwp2-us.php?stream=MLB11",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "HD SERVER",
-            "link": "https://edgestream3.pro/hls/jzabfazkbf27.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
+            "link": "https://instreams.live/live/MLB1/mono.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://instream.click/jwp2-us.php?stream=MLB1&Origin=https://instream.click/jwp2-us.php?stream=MLB1",
             "logo": "",
             "type": 0,
             "api": "",
@@ -1211,6 +1125,14 @@
         "channels_data": [
           {
             "title": "Live 1",
+            "link": "https://chatgpt.hereisman.net/playlist/53678/load-playlist?|Referer=https://gooz.aapmains.net",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "Live 2",
             "link": "https://instreams.live/live/MLB8/mono.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://instream.click/jwp2-us.php?stream=MLB8&Origin=https://instream.click/jwp2-us.php?stream=MLB8",
             "logo": "",
             "type": 0,
@@ -1246,6 +1168,14 @@
         "channels_data": [
           {
             "title": "Live 1",
+            "link": "https://chatgpt.hereisman.net/playlist/53676/load-playlist?|Referer=https://gooz.aapmains.net",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "Live 2",
             "link": "https://instreams.live/live/MLB9/mono.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://instream.click/jwp2-us.php?stream=MLB9&Origin=https://instream.click/jwp2-us.php?stream=MLB9",
             "logo": "",
             "type": 0,
@@ -1281,6 +1211,14 @@
         "channels_data": [
           {
             "title": "Live 1",
+            "link": "https://chatgpt.hereisman.net/playlist/53684/load-playlist?|Referer=https://gooz.aapmains.net",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "Live 2",
             "link": "https://instreams.pro/live/MLB10/mono.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://instream.click/jwp2-us.php?stream=MLB10&Origin=https://instream.click/jwp2-us.php?stream=MLB10",
             "logo": "",
             "type": 0,
@@ -1315,6 +1253,14 @@
         },
         "channels_data": [
           {
+            "title": "Live 1",
+            "link": "https://chatgpt.hereisman.net/playlist/53686/load-playlist?|Referer=https://gooz.aapmains.net",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
             "title": "HD QUALITY",
             "link": "https://edgestream3.pro/hls/jzabfazkbf27.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
             "logo": "",
@@ -1323,7 +1269,7 @@
             "tokenApi": ""
           },
           {
-            "title": "Live 1",
+            "title": "Live 2",
             "link": "https://instreams.live/live/MLB11/mono.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://instream.click/jwp2-us.php?stream=MLB11&Origin=https://instream.click/jwp2-us.php?stream=MLB11",
             "logo": "",
             "type": 0,
@@ -1360,6 +1306,14 @@
           {
             "title": "Live 1",
             "link": "https://instreams.live/live/MLB12/mono.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://instream.click/jwp2-us.php?stream=MLB12&Origin=https://instream.click/jwp2-us.php?stream=MLB12",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "Live 2",
+            "link": "https://chatgpt.hereisman.net/playlist/53688/load-playlist?|Referer=https://gooz.aapmains.net",
             "logo": "",
             "type": 0,
             "api": "",
