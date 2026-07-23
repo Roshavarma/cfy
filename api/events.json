@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-23T17:50:39.551551",
+  "last_updated": "2026-07-23T18:01:07.961058",
   "event_count": 17,
   "events": {
     "events": [
@@ -679,6 +679,14 @@
           {
             "title": "LOW SERVER",
             "link": "http://tvsen5.aynascope.net/willowhd/index.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "SonyLiv",
+            "link": "https://sonyeventsglobal.akamaized.net/hls/live/2022322/DAI18-HMEN/master.m3u8?hdnea=exp=1784848838~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=71a1218c18e195a3f99ede2d3fbe4541b78740b2f0b1e7a6c3c7ae663ec28feb",
             "logo": "",
             "type": 0,
             "api": "",
