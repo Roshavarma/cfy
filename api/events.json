@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-23T16:10:41.850691",
-  "event_count": 19,
+  "last_updated": "2026-07-23T16:20:42.374535",
+  "event_count": 18,
   "events": {
     "events": [
       {
@@ -556,9 +556,9 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/unique-tournament/16717/image",
           "eventName": "Cricket",
           "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/07/23 13:45:16 +0000",
-          "endTime": "2026/07/23 18:00:22 +0000"
+          "Status": "Upcoming",
+          "startTime": "2026/07/24 13:45:45 +0000",
+          "endTime": "2026/07/24 18:00:49 +0000"
         },
         "channels_data": [
           {
@@ -828,8 +828,24 @@
         },
         "channels_data": [
           {
-            "title": "",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "title": "Live 1",
+            "link": "https://chatgpt.hereisman.net/playlist/53717/load-playlist?|Referer=https://gooz.aapmains.net ",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "HD SERVER",
+            "link": "https://edgestream3.pro/hls/dazhfiach15.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "Live 2",
+            "link": "https://instreams.live/live/MLB2/mono.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://instream.click/jwp2-us.php?stream=MLB2&Origin=https://instream.click/jwp2-us.php?stream=MLB2",
             "logo": "",
             "type": 0,
             "api": "",
@@ -903,7 +919,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/3636/image",
           "eventName": "Baseball",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/07/23 16:15:00 +0000",
           "endTime": "2026/07/23 19:15:00 +0000"
         },
@@ -917,8 +933,8 @@
             "tokenApi": ""
           },
           {
-            "title": "Live 2",
-            "link": "https://instreams.live/live/MLB1/mono.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://instream.click/jwp2-us.php?stream=MLB1&Origin=https://instream.click/jwp2-us.php?stream=MLB1",
+            "title": "HD SERVER",
+            "link": "https://edgestream1.pro/hls/16yuitzaerghbhc16.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
             "logo": "",
             "type": 0,
             "api": "",
@@ -927,6 +943,14 @@
           {
             "title": "LOW SERVER ",
             "link": "http://193.47.62.46/hls/JIIIQQQQQQQQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "Live 2",
+            "link": "https://instreams.live/live/MLB1/mono.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://instream.click/jwp2-us.php?stream=MLB1&Origin=https://instream.click/jwp2-us.php?stream=MLB1",
             "logo": "",
             "type": 0,
             "api": "",
@@ -954,49 +978,6 @@
           {
             "title": "",
             "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 10793,
-        "title": "Netherlands vs Nepal",
-        "image": "",
-        "cat": "Cricket",
-        "eventInfo": {
-          "teamA": "Netherlands",
-          "teamB": "Nepal",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/187840/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/187772/image",
-          "eventName": "Cricket",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/07/23 09:00:00 +0000",
-          "endTime": "2026/07/23 17:00:08 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "ICC TV - AQ",
-            "link": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1784825128~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~data=hdntl~hmac=667d560ae33471b8b1896f1a4a685dc1f39586966624cc87fe905b1315de7658/manifest.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
-            "logo": "",
-            "type": 7,
-            "api": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
-            "tokenApi": ""
-          },
-          {
-            "title": "FANCODE - IN",
-            "link": "https://in-mc-pdlive.fancode.com/mumbai/4246704_english_hls_37559e4d8d64597_1ta-di_h264/index.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "FANCODE - BD",
-            "link": "https://bd-mc-pdlive.fancode.com/mumbai/4246704_english_hls_37559e4d8d64597_1ta-di_h264/index.m3u8",
             "logo": "",
             "type": 0,
             "api": "",
