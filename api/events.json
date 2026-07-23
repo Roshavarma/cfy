@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-23T13:50:39.104591",
+  "last_updated": "2026-07-23T14:01:10.764595",
   "event_count": 19,
   "events": {
     "events": [
@@ -401,6 +401,14 @@
             "tokenApi": ""
           },
           {
+            "title": "FANCODE - HINDI",
+            "link": "https://du63lhrf9y1yb.cloudfront.net/143351_hindi_dash_1596_1drmta-di_h264/index.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "b396d10488d746a9a03b30e90ae145b7:76a58c079cc1be5ec8432b5b35d411c8",
+            "tokenApi": ""
+          },
+          {
             "title": "UNITE8 HINDI - AQ",
             "link": "https://vsd262.okcdn.ru/cmaf/18148930357767/sig/eYwCA6mY9NA/expires/1784886855882/srcIp/66.78.59.15/urls/178.237.29.13/clientType/36/srcAg/CHROME/mid/15665985898247/get/hls_15665985898247.El4GwuQfJW0.m3u8",
             "logo": "",
@@ -615,7 +623,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/453388/image",
           "eventName": "Cricket",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/07/23 14:00:00 +0000",
           "endTime": "2026/07/23 18:00:00 +0000"
         },
@@ -629,11 +637,27 @@
             "tokenApi": ""
           },
           {
+            "title": "FANCODE - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe",
+            "tokenApi": ""
+          },
+          {
             "title": "WILLOW - ALT",
             "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/jpjzsonseg/out/v1/26eeb47cccd24e2d8e1975655a1f04e9/cenc.mpd",
             "logo": "",
             "type": 7,
             "api": "fe6dc83d53e08c5626b6aec2bb4a3afe:da58f6323d6388054bd316890f729f72",
+            "tokenApi": ""
+          },
+          {
+            "title": "WILLOW - LQ",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/qddnwqthpp/out/v1/6c25cddab58043a6ace0ac64d97983f0/cenc-sd.mpd|Origin=https://amazon.com&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0",
+            "logo": "",
+            "type": 7,
+            "api": "709c812e1b4174002605df1d17d34a4c:0bbee6c9c20a0f065bf8369d54cbf83e",
             "tokenApi": ""
           },
           {
@@ -693,7 +717,7 @@
           "teamBFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvZEkeGD-aTND_Umjxnkz5mM7UC7Yam3DQlA2FeQSTuw&s=10",
           "eventName": "Cricket",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/07/23 14:00:16 +0000",
           "endTime": "2026/07/23 18:15:21 +0000"
         },
@@ -712,6 +736,22 @@
             "logo": "",
             "type": 7,
             "api": "89191e6bfbd29dee4c593cb15c4925c3:ebcd78506f203fd0b3cf422d4a5ba0d4",
+            "tokenApi": ""
+          },
+          {
+            "title": "FANCODE - IN",
+            "link": "https://in-mc-pdlive.fancode.com/mumbai/4247434_english_hls_93200e1fa585360_1ta-di_h264/index.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "FANCODE - BD",
+            "link": "https://bd-mc-pdlive.fancode.com/mumbai/4247434_english_hls_93200e1fa585360_1ta-di_h264/index.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
             "tokenApi": ""
           }
         ]
