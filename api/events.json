@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-23T13:30:52.955095",
+  "last_updated": "2026-07-23T13:40:40.077028",
   "event_count": 19,
   "events": {
     "events": [
@@ -653,8 +653,32 @@
         },
         "channels_data": [
           {
-            "title": "",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "title": "WILLOW - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/jpjzsonseg/out/v1/26eeb47cccd24e2d8e1975655a1f04e9/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "fe6dc83d53e08c5626b6aec2bb4a3afe:da58f6323d6388054bd316890f729f72",
+            "tokenApi": ""
+          },
+          {
+            "title": "WILLOW - ALT",
+            "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/jpjzsonseg/out/v1/26eeb47cccd24e2d8e1975655a1f04e9/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "fe6dc83d53e08c5626b6aec2bb4a3afe:da58f6323d6388054bd316890f729f72",
+            "tokenApi": ""
+          },
+          {
+            "title": "FANCODE - IN",
+            "link": "https://in-mc-pdlive.fancode.com/mumbai/4246714_english_hls_073cf4f34754904_1ta-di_h264/index.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "FANCODE - BD",
+            "link": "https://bd-mc-pdlive.fancode.com/mumbai/4246714_english_hls_073cf4f34754904_1ta-di_h264/index.m3u8",
             "logo": "",
             "type": 0,
             "api": "",
