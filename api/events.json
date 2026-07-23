@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-23T13:40:40.077028",
+  "last_updated": "2026-07-23T13:50:39.104591",
   "event_count": 19,
   "events": {
     "events": [
@@ -447,22 +447,6 @@
             "type": 0,
             "api": "",
             "tokenApi": ""
-          },
-          {
-            "title": "UNITE8 ENG HD",
-            "link": "http://59.103.38.46:8000/play/a126/index.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "UNITE8 HIN HD",
-            "link": "http://59.103.38.46:8000/play/a125/index.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
           }
         ]
       },
@@ -564,7 +548,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/unique-tournament/16717/image",
           "eventName": "Cricket",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/07/23 13:45:16 +0000",
           "endTime": "2026/07/23 18:00:22 +0000"
         },
@@ -575,14 +559,6 @@
             "logo": "",
             "type": 7,
             "api": "edd5fb967a4e6c38a619569dcd317c5a:3d8bb28d3a01f6e8f377aca162619a47",
-            "tokenApi": ""
-          },
-          {
-            "title": "BBC SPORTS - AQ",
-            "link": "https://tmaxapp.site/8wirwjs76erftg/bbctwo.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
             "tokenApi": ""
           },
           {
@@ -612,14 +588,6 @@
           {
             "title": "SKY SPORT NZ",
             "link": "https://tmaxapp.site/8wirwjs76erftg/skysport2nz.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "SonyLiv",
-            "link": "https://sonydaimenew.akamaized.net/hls/live/2022321/DAI17ME-V3/master.m3u8?hdnea=exp=1784756002~acl=/*~id=01d7cb8efe80bd31ab0c0ae6a6d3175b-1784712737570-180820105164192310~hmac=aabe24ba3b5f5ca6a2e1a7eb7337660c8811f71ad4562addd0f9ffdf1fbf3ab9",
             "logo": "",
             "type": 0,
             "api": "",
