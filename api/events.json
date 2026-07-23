@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-23T13:20:45.739186",
-  "event_count": 20,
+  "last_updated": "2026-07-23T13:30:52.955095",
+  "event_count": 19,
   "events": {
     "events": [
       {
@@ -571,10 +571,10 @@
         "channels_data": [
           {
             "title": "WILLOW - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/meajagcvub/out/v1/6e9362ccccc04fcca4e227e3bd09ecb6/cenc.mpd",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/6okuxrru64/out/v1/2d2cf5a09acc49d68d844903696062b8/cenc.mpd",
             "logo": "",
             "type": 7,
-            "api": "33aec023d44fdccb0fd93e81cfc01fb9:a39bf1d795cbfa140416aa77cc8a2156",
+            "api": "edd5fb967a4e6c38a619569dcd317c5a:3d8bb28d3a01f6e8f377aca162619a47",
             "tokenApi": ""
           },
           {
@@ -595,10 +595,10 @@
           },
           {
             "title": "WILLOW - ALT",
-            "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/meajagcvub/out/v1/6e9362ccccc04fcca4e227e3bd09ecb6/cenc.mpd",
+            "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/6okuxrru64/out/v1/2d2cf5a09acc49d68d844903696062b8/cenc.mpd",
             "logo": "",
             "type": 7,
-            "api": "33aec023d44fdccb0fd93e81cfc01fb9:a39bf1d795cbfa140416aa77cc8a2156",
+            "api": "edd5fb967a4e6c38a619569dcd317c5a:3d8bb28d3a01f6e8f377aca162619a47",
             "tokenApi": ""
           },
           {
@@ -628,49 +628,6 @@
           {
             "title": "LOW SERVER",
             "link": "http://tvsen5.aynascope.net/willowhd/index.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 10776,
-        "title": "Kandy Royals vs Colombo Kaps",
-        "image": "",
-        "cat": "Cricket",
-        "eventInfo": {
-          "teamA": "Kandy Royals",
-          "teamB": "Colombo Kaps",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/369187/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/453390/image",
-          "eventName": "Cricket",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/07/23 09:30:00 +0000",
-          "endTime": "2026/07/23 13:30:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "WILLOW - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rpm5xf58oy/out/v1/7fde24af3de04b4c89f2caa3f024cc06/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "9f567bab672bd15dcbea0c8f29365ca1:9101126d4d41bca6ecc906e47d8fd143",
-            "tokenApi": ""
-          },
-          {
-            "title": "WILLOW - ALT",
-            "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/rpm5xf58oy/out/v1/7fde24af3de04b4c89f2caa3f024cc06/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "9f567bab672bd15dcbea0c8f29365ca1:9101126d4d41bca6ecc906e47d8fd143",
-            "tokenApi": ""
-          },
-          {
-            "title": "FANCODE - IN",
-            "link": "https://bd-mc-pdlive.fancode.com/mumbai/4246723_english_hls_315eea1bdd6419_1ta-di_h264/index.m3u8",
             "logo": "",
             "type": 0,
             "api": "",
@@ -750,11 +707,19 @@
         },
         "channels_data": [
           {
-            "title": "",
-            "link": "ok",
+            "title": "WILLOW - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/oakh3hb4vk/out/v1/a8493a8887bd47c8a40cea87ceef414f/cenc.mpd",
             "logo": "",
-            "type": 0,
-            "api": "",
+            "type": 7,
+            "api": "89191e6bfbd29dee4c593cb15c4925c3:ebcd78506f203fd0b3cf422d4a5ba0d4",
+            "tokenApi": ""
+          },
+          {
+            "title": "WILLOW - ALT",
+            "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/oakh3hb4vk/out/v1/a8493a8887bd47c8a40cea87ceef414f/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "89191e6bfbd29dee4c593cb15c4925c3:ebcd78506f203fd0b3cf422d4a5ba0d4",
             "tokenApi": ""
           }
         ]
