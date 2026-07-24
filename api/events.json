@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-24T15:50:51.113234",
+  "last_updated": "2026-07-24T16:01:14.458234",
   "event_count": 32,
   "events": {
     "events": [
@@ -1209,14 +1209,38 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/35/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/07/24 16:00:00 +0000",
           "endTime": "2026/07/24 18:20:00 +0000"
         },
         "channels_data": [
           {
+            "title": "MU TV - AQ",
+            "link": "https://fastly.live.brightcove.com/6374054671112/eu-west-1/6058004203001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiYXplMnp5LmVncmVzcy55ODN1ZWIiLCJhY2NvdW50X2lkIjoiNjA1ODAwNDIwMzAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MDU4MDA0MjAzMDAxIl0sImp0aSI6IjYzNzQwNTQ2NzExMTIifQ.3FmuTna3DAmY7xlhK5fk6LMrosrtrR5VsU2QOgYO5y4/playlist-dash.mpd",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
             "title": "Live 1",
             "link": "https://pul-tenm.gkykp.com/live/sd-1-4529441.m3u8?txSecret=2709b5e704ff7ddea49a8dff6518aa8b&txTime=6A64D1C9",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "HD SERVER",
+            "link": "https://live3.procdnlive.com/livecdn/channel5.m3u8?auth_key=3000001784907787-0-0-9900b8f35daf017efb2cea82facec729|Referer=https://soco.livepingscorex.com/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "Live 2",
+            "link": "https://live2.streambylivepulse.com/live/channel16.m3u8|Referer=https://soco.livepingscorex.com/",
             "logo": "",
             "type": 0,
             "api": "",
