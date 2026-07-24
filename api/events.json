@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-24T15:10:48.448171",
+  "last_updated": "2026-07-24T15:20:49.694710",
   "event_count": 32,
   "events": {
     "events": [
@@ -1215,8 +1215,16 @@
         },
         "channels_data": [
           {
-            "title": "",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "title": "Live 1",
+            "link": "https://pul-tenm.gkykp.com/live/sd-1-4529441.m3u8?txSecret=2709b5e704ff7ddea49a8dff6518aa8b&txTime=6A64D1C9",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "LOW SERVER",
+            "link": "http://193.47.62.48/hls/kkkk.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
             "logo": "",
             "type": 0,
             "api": "",
