@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-24T01:50:51.064211",
-  "event_count": 30,
+  "last_updated": "2026-07-24T02:01:10.380421",
+  "event_count": 32,
   "events": {
     "events": [
       {
@@ -1249,6 +1249,60 @@
           "Status": "Upcoming",
           "startTime": "2026/07/25 02:15:00 +0000",
           "endTime": "2026/07/25 05:15:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 10814,
+        "title": "FC Barcelona vs CE Europa",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "FC Barcelona",
+          "teamB": "CE Europa",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/2817/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/135672/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/07/24 12:00:00 +0000",
+          "endTime": "2026/07/24 14:20:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 10815,
+        "title": "Rosenborg BK vs Manchester United",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Rosenborg BK",
+          "teamB": "Manchester United",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/1161/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/35/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/07/24 16:00:00 +0000",
+          "endTime": "2026/07/24 18:20:00 +0000"
         },
         "channels_data": [
           {
