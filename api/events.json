@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-25T11:20:47.149127",
+  "last_updated": "2026-07-25T11:30:57.178111",
   "event_count": 30,
   "events": {
     "events": [
@@ -20,6 +20,14 @@
           "endTime": "2026/07/25 17:00:29 +0000"
         },
         "channels_data": [
+          {
+            "title": "SPORTSCAST - AQ",
+            "link": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/c5c5563f-7794-4a2f-85eb-bec3f734a2f4/master.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
           {
             "title": "Live 1",
             "link": "https://chatgpt.hereisman.net/playlist/53722/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
@@ -323,6 +331,14 @@
           {
             "title": "TAPMAD - AQ",
             "link": "https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8|referer=https://tapmad.com",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "HD SERVER",
+            "link": "https://hugh.cdn.rumble.cloud/live/hd37fm8g/slot-147/rb62-cgui/chunklist.m3u8",
             "logo": "",
             "type": 0,
             "api": "",
@@ -780,14 +796,14 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/39/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/07/25 11:30:00 +0000",
           "endTime": "2026/07/25 13:50:00 +0000"
         },
         "channels_data": [
           {
-            "title": "",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "title": "LOW QUALITY",
+            "link": "http://193.47.62.41/hls/EEGRGRQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
             "logo": "",
             "type": 0,
             "api": "",
