@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-25T04:20:41.531247",
-  "event_count": 30,
+  "last_updated": "2026-07-25T04:31:01.399249",
+  "event_count": 31,
   "events": {
     "events": [
       {
@@ -398,7 +398,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/187808/image",
           "eventName": "Cricket",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/07/25 04:30:16 +0000",
           "endTime": "2026/07/25 12:30:23 +0000"
         },
@@ -412,14 +412,6 @@
             "tokenApi": ""
           },
           {
-            "title": "TAPMAD - AQ",
-            "link": "https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8|referer=https://tapmad.com",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
             "title": "WILLOW - LQ",
             "link": "http://tvsen5.aynascope.net/willowhd/index.m3u8",
             "logo": "",
@@ -428,16 +420,8 @@
             "tokenApi": ""
           },
           {
-            "title": "FANCODE - IN",
-            "link": "https://in-mc-pdlive.fancode.com/mumbai/4247425_english_hls_c77d2adc1321506_1ta-di_h264/index.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "FANCODE - BD",
-            "link": "https://bd-mc-pdlive.fancode.com/mumbai/4247425_english_hls_c77d2adc1321506_1ta-di_h264/index.m3u8",
+            "title": "TAPMAD - AQ",
+            "link": "https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8|referer=https://tapmad.com",
             "logo": "",
             "type": 0,
             "api": "",
@@ -1185,6 +1169,33 @@
           "Status": "Upcoming",
           "startTime": "2026/07/25 23:30:00 +0000",
           "endTime": "2026/07/26 01:50:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 10833,
+        "title": "Namibia vs Netherlands",
+        "image": "",
+        "cat": "Cricket",
+        "eventInfo": {
+          "teamA": "Namibia",
+          "teamB": "Netherlands",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/199275/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/187840/image",
+          "eventName": "Cricket",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/07/25 09:00:00 +0000",
+          "endTime": "2026/07/25 13:00:00 +0000"
         },
         "channels_data": [
           {
