@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-25T11:10:47.150381",
+  "last_updated": "2026-07-25T11:20:47.149127",
   "event_count": 30,
   "events": {
     "events": [
@@ -305,6 +305,14 @@
             "tokenApi": ""
           },
           {
+            "title": "FANCODE HIN - AQ",
+            "link": "https://in-mc-flive.fancode.com/mumbai/143352_hindi_dash_45689_1drmta-di_h264/index.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "87e80af08df44d1184a37a449b814978:85633aaa416821e65278dcc980066447",
+            "tokenApi": ""
+          },
+          {
             "title": "UNITE8 HINDI - AQ",
             "link": "https://vsd128.okcdn.ru/cmaf/16975412333141/sig/_4LIaC4pCT8/expires/1785061251544/srcIp/66.78.59.15/urls/185.226.55.73/clientType/36/srcAg/CHROME_ANDROID/mid/15267412330325/get/hls_15267412330325.YQNfrjzxRZI.m3u8",
             "logo": "",
@@ -372,24 +380,8 @@
         },
         "channels_data": [
           {
-            "title": "WILLOW - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd|Origin=https://amazon.com&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0",
-            "logo": "",
-            "type": 7,
-            "api": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
-            "tokenApi": ""
-          },
-          {
             "title": "TAPMAD - AQ",
             "link": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8|referer=https://tapmad.com",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "WILLOW - LQ",
-            "link": "http://tvsen5.aynascope.net/willowhd/index.m3u8",
             "logo": "",
             "type": 0,
             "api": "",
@@ -406,6 +398,22 @@
           {
             "title": "FANCODE - BD",
             "link": "https://bd-mc-pdlive.fancode.com/mumbai/4247426_english_hls_65d82e3e4c86377_1ta-di_h264/index.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "WILLOW - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd|Origin=https://amazon.com&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0",
+            "logo": "",
+            "type": 7,
+            "api": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
+            "tokenApi": ""
+          },
+          {
+            "title": "WILLOW - LQ",
+            "link": "http://tvsen5.aynascope.net/willowhd/index.m3u8",
             "logo": "",
             "type": 0,
             "api": "",
