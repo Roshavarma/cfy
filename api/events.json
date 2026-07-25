@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-25T13:50:55.744758",
+  "last_updated": "2026-07-25T14:01:15.815289",
   "event_count": 41,
   "events": {
     "events": [
@@ -449,11 +449,27 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/187754/image",
           "eventName": "Cricket",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/07/25 14:00:00 +0000",
           "endTime": "2026/07/25 22:00:20 +0000"
         },
         "channels_data": [
+          {
+            "title": "WILLOW - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/balosrv5xe/out/v1/4a08fbcca65d48fcb324bd2205eb727e/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "b90a33753b53e16bf32dfa95ccf6f191:e57aae6516f9227f7c21e20b34266bb6",
+            "tokenApi": ""
+          },
+          {
+            "title": "WILLOW - ALT",
+            "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/balosrv5xe/out/v1/4a08fbcca65d48fcb324bd2205eb727e/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "b90a33753b53e16bf32dfa95ccf6f191:e57aae6516f9227f7c21e20b34266bb6",
+            "tokenApi": ""
+          },
           {
             "title": "TAPMAD - AQ",
             "link": "https://saseries.akamaized.net/hls/live/2110097/PAKvsWI-TesT-tapmad/master.m3u8|referer=https://tapmad.com",
@@ -463,7 +479,7 @@
             "tokenApi": ""
           },
           {
-            "title": "WILLOW - AQ",
+            "title": "WILLOW HD",
             "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd|Origin=https://amazon.com&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0",
             "logo": "",
             "type": 7,
@@ -473,6 +489,22 @@
           {
             "title": "LOW SERVER",
             "link": "http://tvsen5.aynascope.net/willowhd/index.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "FANCODE - IN",
+            "link": "https://in-mc-pdlive.fancode.com/mumbai/143633_english_hls_37959550fb58134_1ta-di_h264/index.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "FANCODE - BD",
+            "link": "https://bd-mc-pdlive.fancode.com/mumbai/143633_english_hls_37959550fb58134_1ta-di_h264/index.m3u8",
             "logo": "",
             "type": 0,
             "api": "",
@@ -578,14 +610,38 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/453390/image",
           "eventName": "Cricket",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/07/25 14:00:00 +0000",
           "endTime": "2026/07/25 18:00:00 +0000"
         },
         "channels_data": [
           {
-            "title": "",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "title": "WILLOW - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/h3hkvrrmw0/out/v1/366a44234c204fc58965a9cd34dda6a1/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "8e2d573946038ceb569cb35677d49a84:0a8523dd6f9e8539184efd8cab264b21",
+            "tokenApi": ""
+          },
+          {
+            "title": "WILLOW - ALT",
+            "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/h3hkvrrmw0/out/v1/366a44234c204fc58965a9cd34dda6a1/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "8e2d573946038ceb569cb35677d49a84:0a8523dd6f9e8539184efd8cab264b21",
+            "tokenApi": ""
+          },
+          {
+            "title": "FANCODE - IN",
+            "link": "https://in-mc-pdlive.fancode.com/mumbai/4246714_english_hls_073cf4f34754904_1ta-di_h264/index.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "FANCODE - BD",
+            "link": "https://in-mc-pdlive.fancode.com/mumbai/4246714_english_hls_073cf4f34754904_1ta-di_h264/index.m3u8",
             "logo": "",
             "type": 0,
             "api": "",
@@ -764,7 +820,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/48/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/07/25 14:00:00 +0000",
           "endTime": "2026/07/25 16:20:00 +0000"
         },
@@ -799,7 +855,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/2692/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/07/25 14:00:00 +0000",
           "endTime": "2026/07/25 16:20:00 +0000"
         },
