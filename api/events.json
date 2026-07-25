@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-25T16:31:07.425992",
-  "event_count": 36,
+  "last_updated": "2026-07-25T16:40:53.898274",
+  "event_count": 35,
   "events": {
     "events": [
       {
@@ -15,9 +15,9 @@
           "teamBFlag": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Formula_One_logo.svg/1280px-Formula_One_logo.svg.png",
           "eventName": "Motorsports",
           "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/07/25 10:30:24 +0000",
-          "endTime": "2026/07/25 17:00:29 +0000"
+          "Status": "Upcoming",
+          "startTime": "2026/07/26 12:45:08 +0000",
+          "endTime": "2026/07/26 17:55:15 +0000"
         },
         "channels_data": [
           {
@@ -508,9 +508,9 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/unique-tournament/16717/image",
           "eventName": "Cricket",
           "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/07/25 13:30:48 +0000",
-          "endTime": "2026/07/25 18:00:52 +0000"
+          "Status": "Upcoming",
+          "startTime": "2026/07/26 10:00:50 +0000",
+          "endTime": "2026/07/26 18:00:56 +0000"
         },
         "channels_data": [
           {
@@ -642,65 +642,6 @@
         ]
       },
       {
-        "id": 10797,
-        "title": "Sunrisers Leeds vs Southern Brave",
-        "image": "",
-        "cat": "Cricket",
-        "eventInfo": {
-          "teamA": "Sunrisers Leeds",
-          "teamB": "Southern Brave",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/377178/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/377177/image",
-          "eventName": "Cricket",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/07/25 13:30:00 +0000",
-          "endTime": "2026/07/25 17:30:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "WILLOW - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/6vbgnyq7tk/out/v1/ad1f664435bf4736adb9c94ffa2aada0/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "0ca745f55a0a0baab8fb2003248ab338:5d535450d386aa85f170b94bc1ae4529",
-            "tokenApi": ""
-          },
-          {
-            "title": "WILLOW - ALT",
-            "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/6vbgnyq7tk/out/v1/ad1f664435bf4736adb9c94ffa2aada0/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "0ca745f55a0a0baab8fb2003248ab338:5d535450d386aa85f170b94bc1ae4529",
-            "tokenApi": ""
-          },
-          {
-            "title": "TAPMAD - AQ",
-            "link": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8|referer=https://tapmad.com",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "FOX CRICKET HD",
-            "link": "http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=809389&extension=m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "SonyLiv",
-            "link": "https://sonydaimenew.akamaized.net/hls/live/2022322/DAI18-HMEN/master.m3u8?hdnea=exp=1785016306~acl=/*~id=40251018357536833046219295100176~hmac=cdad7241b6e35ac0bb5a2019fbc5101df6be787ee25de74745a3b78dbea8c557",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
         "id": 10798,
         "title": "Welsh Fire vs MI London",
         "image": "",
@@ -726,6 +667,14 @@
             "tokenApi": ""
           },
           {
+            "title": "SKY CRICKET - AQ",
+            "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
             "title": "WILLOW - ALT",
             "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/yfinvhk5he/out/v1/a2cc1989ec8a47a5b3a7ad0f7cb688e3/cenc.mpd",
             "logo": "",
@@ -735,7 +684,7 @@
           },
           {
             "title": "TAPMAD - AQ",
-            "link": "https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8|referer=https://tapmad.com",
+            "link": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8|referer=https://tapmad.com",
             "logo": "",
             "type": 0,
             "api": "",
