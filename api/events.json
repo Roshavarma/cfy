@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-25T16:20:54.062001",
-  "event_count": 38,
+  "last_updated": "2026-07-25T16:31:07.425992",
+  "event_count": 36,
   "events": {
     "events": [
       {
@@ -719,26 +719,18 @@
         "channels_data": [
           {
             "title": "WILLOW - AQ",
-            "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/meajagcvub/out/v1/6e9362ccccc04fcca4e227e3bd09ecb6/cenc.mpd",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/yfinvhk5he/out/v1/a2cc1989ec8a47a5b3a7ad0f7cb688e3/cenc.mpd",
             "logo": "",
             "type": 7,
-            "api": "33aec023d44fdccb0fd93e81cfc01fb9:a39bf1d795cbfa140416aa77cc8a2156",
-            "tokenApi": ""
-          },
-          {
-            "title": "SKY CRICKET - AQ",
-            "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla",
-            "logo": "",
-            "type": 0,
-            "api": "",
+            "api": "dd556956ecc559386bded0a96b25450c:d796fd9f63bd9676b575aa461fad6d35",
             "tokenApi": ""
           },
           {
             "title": "WILLOW - ALT",
-            "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/meajagcvub/out/v1/6e9362ccccc04fcca4e227e3bd09ecb6/cenc.mpd",
+            "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/yfinvhk5he/out/v1/a2cc1989ec8a47a5b3a7ad0f7cb688e3/cenc.mpd",
             "logo": "",
             "type": 7,
-            "api": "33aec023d44fdccb0fd93e81cfc01fb9:a39bf1d795cbfa140416aa77cc8a2156",
+            "api": "dd556956ecc559386bded0a96b25450c:d796fd9f63bd9676b575aa461fad6d35",
             "tokenApi": ""
           },
           {
@@ -795,84 +787,6 @@
           {
             "title": "",
             "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 10822,
-        "title": "Bolton Wanderers vs Everton",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Bolton Wanderers",
-          "teamB": "Everton",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/5/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/48/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Finish",
-          "startTime": "2026/07/25 14:00:00 +0000",
-          "endTime": "2026/07/25 16:20:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "beiN SPORTS - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|Origin=https://amazon.com&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0",
-            "logo": "",
-            "type": 7,
-            "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
-            "tokenApi": ""
-          },
-          {
-            "title": "Live 1",
-            "link": "https://pul-tenm.gkykp.com/live/sd-1-4594022.m3u8?txSecret=f0f76d442fcdda1d6a01e058b76911da&txTime=6A660E31",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "LOW SERVER",
-            "link": "http://193.47.62.193/hls/ZUUUAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 10823,
-        "title": "Celtic vs AC Milan",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Celtic",
-          "teamB": "AC Milan",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/2352/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/2692/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Finish",
-          "startTime": "2026/07/25 14:00:00 +0000",
-          "endTime": "2026/07/25 16:20:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "Live 1",
-            "link": "https://pul-tenm.gkykp.com/live/sd-1-4561577.m3u8?txSecret=4ef25d9800364e4cbcc997aec278e763&txTime=6A660E31",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "LOW SERVER",
-            "link": "http://193.47.62.194/hls/ZUUUAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
             "logo": "",
             "type": 0,
             "api": "",
