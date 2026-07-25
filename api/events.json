@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-25T10:50:47.396837",
+  "last_updated": "2026-07-25T11:01:13.301600",
   "event_count": 30,
   "events": {
     "events": [
@@ -291,30 +291,22 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/187765/image",
           "eventName": "Cricket",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/07/25 11:00:54 +0000",
           "endTime": "2026/07/25 15:00:59 +0000"
         },
         "channels_data": [
           {
-            "title": "FANCODE - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/h35gev6jft/out/v1/c64004e114c245a4ab84bb570275a4a9/cenc.mpd|Origin=https://www.primevideo.com&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0",
-            "logo": "",
-            "type": 7,
-            "api": "065051b99bf5cf8d9a3bde5cbde6aaf9:214bd176832872339ce184338320f9a2",
-            "tokenApi": ""
-          },
-          {
-            "title": "FANCODE - HINDI",
-            "link": "https://du63lhrf9y1yb.cloudfront.net/143351_hindi_dash_1596_1drmta-di_h264/index.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "b396d10488d746a9a03b30e90ae145b7:76a58c079cc1be5ec8432b5b35d411c8",
-            "tokenApi": ""
-          },
-          {
             "title": "UNITE8 HINDI - AQ",
             "link": "https://vsd128.okcdn.ru/cmaf/16975412333141/sig/_4LIaC4pCT8/expires/1785061251544/srcIp/66.78.59.15/urls/185.226.55.73/clientType/36/srcAg/CHROME_ANDROID/mid/15267412330325/get/hls_15267412330325.YQNfrjzxRZI.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "TAPMAD - AQ",
+            "link": "https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8|referer=https://tapmad.com",
             "logo": "",
             "type": 0,
             "api": "",
@@ -737,7 +729,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/2673/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/07/25 11:00:00 +0000",
           "endTime": "2026/07/25 13:20:00 +0000"
         },
