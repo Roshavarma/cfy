@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-26T03:00:55.060313",
-  "event_count": 9,
+  "last_updated": "2026-07-26T03:10:43.553055",
+  "event_count": 26,
   "events": {
     "events": [
       {
@@ -583,6 +583,465 @@
           {
             "title": "FANCODE - BD",
             "link": "https://bd-mc-pdlive.fancode.com/mumbai/4247437_english_hls_7d1a57b8d583030_1ta-di_h264/index.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 10850,
+        "title": "Kandy Royals vs Jaffna Kings",
+        "image": "",
+        "cat": "Cricket",
+        "eventInfo": {
+          "teamA": "Kandy Royals",
+          "teamB": "Jaffna Kings",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/369187/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/453388/image",
+          "eventName": "Cricket",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/07/26 09:30:00 +0000",
+          "endTime": "2026/07/26 13:30:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 10851,
+        "title": "Galle Gallants vs Dambulla Sixers",
+        "image": "",
+        "cat": "Cricket",
+        "eventInfo": {
+          "teamA": "Galle Gallants",
+          "teamB": "Dambulla Sixers",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/453389/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/369189/image",
+          "eventName": "Cricket",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/07/26 14:00:00 +0000",
+          "endTime": "2026/07/26 18:00:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 10852,
+        "title": "Manchester Super Giants vs Birmingham Phoenix",
+        "image": "",
+        "cat": "Cricket",
+        "eventInfo": {
+          "teamA": "Manchester Super Giants",
+          "teamB": "Birmingham Phoenix",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/377173/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/377174/image",
+          "eventName": "Cricket",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/07/26 13:30:00 +0000",
+          "endTime": "2026/07/26 17:30:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 10853,
+        "title": "Trent Rockets vs London Spirit",
+        "image": "",
+        "cat": "Cricket",
+        "eventInfo": {
+          "teamA": "Trent Rockets",
+          "teamB": "London Spirit",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/377176/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/377175/image",
+          "eventName": "Cricket",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/07/26 17:00:00 +0000",
+          "endTime": "2026/07/26 21:00:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 10854,
+        "title": "Bahia vs Corinthians",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Bahia",
+          "teamB": "Corinthians",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/1955/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/1957/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/07/26 19:00:00 +0000",
+          "endTime": "2026/07/26 21:20:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 10855,
+        "title": "Cruzeiro vs Botafogo",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Cruzeiro",
+          "teamB": "Botafogo",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/1954/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/1958/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/07/26 19:00:00 +0000",
+          "endTime": "2026/07/26 21:20:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 10856,
+        "title": "Flamengo vs Sao Paulo",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Flamengo",
+          "teamB": "S\u00e3o Paulo",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/5981/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/1981/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/07/26 21:30:00 +0000",
+          "endTime": "2026/07/26 23:50:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 10857,
+        "title": "Gremio vs Fluminense",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Gr\u00eamio",
+          "teamB": "Fluminense",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/5926/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/1961/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/07/26 21:30:00 +0000",
+          "endTime": "2026/07/26 23:50:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 10858,
+        "title": "Red Bull Bragantino vs Coritiba",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Red Bull Bragantino",
+          "teamB": "Coritiba",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/1999/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/1982/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/07/26 21:30:00 +0000",
+          "endTime": "2026/07/26 23:50:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 10859,
+        "title": "Palmeiras vs Atletico Mineiro",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Palmeiras",
+          "teamB": "Atl\u00e9tico Mineiro",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/1963/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/1977/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/07/26 22:30:00 +0000",
+          "endTime": "2026/07/27 00:50:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 10860,
+        "title": "Remo vs Vitoria",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Remo",
+          "teamB": "Vit\u00f3ria",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/2012/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/1962/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/07/26 22:30:00 +0000",
+          "endTime": "2026/07/27 00:50:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 10861,
+        "title": "SSC Napoli vs Carrarese",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "SSC Napoli",
+          "teamB": "Carrarese",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/2714/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/2745/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/07/26 16:00:00 +0000",
+          "endTime": "2026/07/26 18:20:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 10862,
+        "title": "Rangers vs West Ham United",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Rangers",
+          "teamB": "West Ham United",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/2351/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/37/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/07/26 15:00:00 +0000",
+          "endTime": "2026/07/26 17:20:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 10863,
+        "title": "Karlsruher SC vs Inter",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Karlsruher SC",
+          "teamB": "Inter",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/2553/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/2697/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/07/26 14:30:00 +0000",
+          "endTime": "2026/07/26 16:50:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 10864,
+        "title": "AFC Ajax vs Burnley",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "AFC Ajax",
+          "teamB": "Burnley",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/2953/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/6/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/07/26 12:00:00 +0000",
+          "endTime": "2026/07/26 14:20:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 10865,
+        "title": "Feyenoord vs Rayo Vallecano",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Feyenoord",
+          "teamB": "Rayo Vallecano",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/2959/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/2818/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/07/26 12:00:00 +0000",
+          "endTime": "2026/07/26 14:20:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 10866,
+        "title": "Nottingham Forest vs Vitoria SC",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Nottingham Forest",
+          "teamB": "Vit\u00f3ria SC",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/14/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3009/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/07/26 12:00:00 +0000",
+          "endTime": "2026/07/26 14:20:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
             "logo": "",
             "type": 0,
             "api": "",
