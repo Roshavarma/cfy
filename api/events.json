@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-26T16:01:16.195682",
-  "event_count": 39,
+  "last_updated": "2026-07-26T16:10:56.958569",
+  "event_count": 38,
   "events": {
     "events": [
       {
@@ -877,33 +877,6 @@
         ]
       },
       {
-        "id": 10862,
-        "title": "Rangers vs West Ham United",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Rangers",
-          "teamB": "West Ham United",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/2351/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/37/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/07/26 15:00:00 +0000",
-          "endTime": "2026/07/26 17:20:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "LOW SERVER",
-            "link": "http://193.47.62.194/hls/YMMMQQQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
         "id": 10863,
         "title": "Karlsruher SC vs Inter",
         "image": "",
@@ -982,6 +955,14 @@
           {
             "title": "HD SERVER",
             "link": "https://edgestream1.pro/hls/dazhfiach15.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "LOW SERVER",
+            "link": "http://193.47.62.193/hls/JUUUQQQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
             "logo": "",
             "type": 0,
             "api": "",
