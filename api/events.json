@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-26T18:10:51.571474",
-  "event_count": 33,
+  "last_updated": "2026-07-26T18:20:45.134769",
+  "event_count": 32,
   "events": {
     "events": [
       {
@@ -413,69 +413,10 @@
             "type": 0,
             "api": "",
             "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 10852,
-        "title": "Manchester Super Giants vs Birmingham Phoenix",
-        "image": "",
-        "cat": "Cricket",
-        "eventInfo": {
-          "teamA": "Manchester Super Giants",
-          "teamB": "Birmingham Phoenix",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/377173/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/377174/image",
-          "eventName": "Cricket",
-          "isHot": "0",
-          "Status": "Finish",
-          "startTime": "2026/07/26 13:30:00 +0000",
-          "endTime": "2026/07/26 17:30:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "WILLOW - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ur272zzea9/out/v1/84f2f611ffa148dda829270ccd07da32/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "da70398048e1a4f2e03db01697a4c892:f13c3a32946c57d5a4972303bc2d6472",
-            "tokenApi": ""
           },
           {
-            "title": "WILLOW - ALT",
-            "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ur272zzea9/out/v1/84f2f611ffa148dda829270ccd07da32/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "da70398048e1a4f2e03db01697a4c892:f13c3a32946c57d5a4972303bc2d6472",
-            "tokenApi": ""
-          },
-          {
-            "title": "TAPMAD - AQ",
-            "link": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8|referer=https://tapmad.com",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "SonyLiv",
-            "link": "https://sonyeventsglobal.akamaized.net/hls/live/2022322/DAI18-HMEN/master.m3u8?hdnea=exp=1785093647~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=77e8b2bb89df1e5833f317816f1a6edbf4f54c0c88d59c3e5d28cae2398bd46f",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "FOX CRICKET HD",
-            "link": "http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=809389&extension=m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "SKY SPORT NZ",
-            "link": "https://tmaxapp.site/8wirwjs76erftg/skysport2nz.m3u8",
+            "title": "LOW SERVER",
+            "link": "http://tvsen5.aynascope.net/willowhd/index.m3u8",
             "logo": "",
             "type": 0,
             "api": "",
@@ -1192,7 +1133,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/3633/image",
           "eventName": "Baseball",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/07/26 18:15:00 +0000",
           "endTime": "2026/07/26 21:15:00 +0000"
         },
@@ -1268,8 +1209,16 @@
         },
         "channels_data": [
           {
-            "title": "",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "title": "HD SERVER",
+            "link": "https://edgestream2.pro/hls/hfzljfahzcax29.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "Live 1",
+            "link": "https://tmaxapp.site/8wirwjs76erftg/tntsports1.m3u8",
             "logo": "",
             "type": 0,
             "api": "",
