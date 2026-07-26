@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-26T15:20:58.745895",
+  "last_updated": "2026-07-26T15:31:02.206137",
   "event_count": 40,
   "events": {
     "events": [
@@ -307,7 +307,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/187765/image",
           "eventName": "Cricket",
           "isHot": "0",
-          "Status": "Live",
+          "Status": "Finish",
           "startTime": "2026/07/26 11:00:39 +0000",
           "endTime": "2026/07/26 15:30:42 +0000"
         },
@@ -1020,7 +1020,23 @@
             "tokenApi": ""
           },
           {
+            "title": "Live 1",
+            "link": "https://pul-tenm.gkykp.com/live/sd-1-4561578.m3u8?txSecret=5c9cb72025635dfa302f399a0fe7c240&txTime=6A676C59",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
             "title": "LOW SERVER",
+            "link": "http://162.251.160.53:8089/SUNFOT1/index.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "LOW QUALITY",
             "link": "http://162.251.160.53:8089/SUNFOT1/index.m3u8",
             "logo": "",
             "type": 0,
