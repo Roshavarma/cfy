@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-26T12:40:57.336073",
-  "event_count": 39,
+  "last_updated": "2026-07-26T12:50:56.576447",
+  "event_count": 42,
   "events": {
     "events": [
       {
@@ -15,7 +15,7 @@
           "teamBFlag": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Formula_One_logo.svg/1280px-Formula_One_logo.svg.png",
           "eventName": "Motorsports",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/07/26 12:45:08 +0000",
           "endTime": "2026/07/26 17:55:15 +0000"
         },
@@ -1452,6 +1452,78 @@
           "Status": "Upcoming",
           "startTime": "2026/07/26 23:20:00 +0000",
           "endTime": "2026/07/27 02:20:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 10882,
+        "title": "Algeria vs Senegal",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Algeria",
+          "teamB": "Senegal",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/180004/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/316945/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/07/26 17:00:00 +0000",
+          "endTime": "2026/07/26 19:20:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 10883,
+        "title": "Morocco vs Kenya",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Morocco",
+          "teamB": "Kenya",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/261908/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/237894/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/07/26 20:00:00 +0000",
+          "endTime": "2026/07/26 22:20:00 +0000"
+        },
+        "channels_data": []
+      },
+      {
+        "id": 10884,
+        "title": "South Africa vs Tanzania",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "South Africa",
+          "teamB": "Tanzania",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/65336/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/291680/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/07/27 17:00:00 +0000",
+          "endTime": "2026/07/27 19:20:00 +0000"
         },
         "channels_data": [
           {
