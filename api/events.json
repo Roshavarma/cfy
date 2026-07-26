@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-26T12:01:11.408039",
-  "event_count": 41,
+  "last_updated": "2026-07-26T12:10:50.510375",
+  "event_count": 39,
   "events": {
     "events": [
       {
@@ -21,6 +21,14 @@
         },
         "channels_data": [
           {
+            "title": "SKY via APPLE - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/x6oqpug9mu/out/v1/502432e8607547b4a6278d3cc64d5b78/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "73c6218fa797bce56ec12bf5cc7e2dae:ec14e4df9b165a3631251246242f0e91",
+            "tokenApi": ""
+          },
+          {
             "title": "TSN SPORTS - AQ",
             "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
             "logo": "",
@@ -37,6 +45,14 @@
             "tokenApi": ""
           },
           {
+            "title": "SKY SPORTS F1",
+            "link": "http://193.47.62.194/hls/UJJJAAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
             "title": "SKY SPORT NZ",
             "link": "https://tmaxapp.site/8wirwjs76erftg/tntsports3.m3u8",
             "logo": "",
@@ -46,7 +62,15 @@
           },
           {
             "title": "LOW SERVER",
-            "link": "http://193.47.62.50/hls/ZLLLQQQQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+            "link": "http://193.47.62.193/hls/ZLLLQQQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "LOW QUALITY",
+            "link": "http://193.47.62.194/hls/UJJJAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
             "logo": "",
             "type": 0,
             "api": "",
@@ -1028,60 +1052,6 @@
           {
             "title": "LOW SERVER",
             "link": "http://193.47.62.190/hls/FFKKKQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 10865,
-        "title": "Feyenoord vs Rayo Vallecano",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Feyenoord",
-          "teamB": "Rayo Vallecano",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/2959/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/2818/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/07/26 12:00:00 +0000",
-          "endTime": "2026/07/26 14:20:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "LOW SERVER",
-            "link": "http://193.47.62.190/hls/FFKKK.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 10866,
-        "title": "Nottingham Forest vs Vitoria SC",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Nottingham Forest",
-          "teamB": "Vit\u00f3ria SC",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/14/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/3009/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/07/26 12:00:00 +0000",
-          "endTime": "2026/07/26 14:20:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "LOW SERVER",
-            "link": "http://193.47.62.190/hls/FFKKKQ.m3u8|referer=http://www.fawanews.sc/",
             "logo": "",
             "type": 0,
             "api": "",
