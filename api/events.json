@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-27T13:40:49.746490",
-  "event_count": 31,
+  "last_updated": "2026-07-27T13:50:47.281796",
+  "event_count": 32,
   "events": {
     "events": [
       {
@@ -307,6 +307,14 @@
           {
             "title": "FANCODE - BD",
             "link": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/west_indies_vs_pakistan_143633_english.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "LOW SERVER",
+            "link": "http://193.47.62.192/hls/SOOOQQQQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
             "logo": "",
             "type": 0,
             "api": "",
@@ -1089,6 +1097,41 @@
           {
             "title": "",
             "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 10910,
+        "title": "Indonesia vs Cambodia",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Indonesia",
+          "teamB": "Cambodia",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/4829/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/7929/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Live",
+          "startTime": "2026/07/27 13:30:00 +0000",
+          "endTime": "2026/07/27 15:50:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "M LIVE - AQ",
+            "link": "https://tglmp02.akamaized.net/out/v1/cc0fc82e76cb4e0093e81695284af443/manifest.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "d418f733ed224f9bb9c2b1589db22a20:6ed6fe26daa4b926810869ff60254ebb",
+            "tokenApi": ""
+          },
+          {
+            "title": "LOW SERVER",
+            "link": "http://193.47.62.192/hls/GGGGGQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
             "logo": "",
             "type": 0,
             "api": "",
