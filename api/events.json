@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-27T13:50:47.281796",
-  "event_count": 32,
+  "last_updated": "2026-07-27T14:01:27.544190",
+  "event_count": 34,
   "events": {
     "events": [
       {
@@ -267,25 +267,25 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/187754/image",
           "eventName": "Cricket",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/07/27 14:00:41 +0000",
           "endTime": "2026/07/27 22:00:48 +0000"
         },
         "channels_data": [
           {
             "title": "WILLOW - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tpsqlx4rhv/out/v1/1e46878c774c406a9fccb34af17fbc33/cenc.mpd",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lgp77wdjaw/out/v1/9d70bc2c2c054c19a091dc3550ab5a1f/cenc.mpd",
             "logo": "",
             "type": 7,
-            "api": "ff2d3d8ee3f01ca0186ab372d834a305:20554e3b2bb2a251be086a589087820a",
+            "api": "93e1e62b680676bd8ab5ad7ae3314cce:8af74962ecdff746cd019ba90935b215",
             "tokenApi": ""
           },
           {
             "title": "WILLOW - ALT",
-            "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/tpsqlx4rhv/out/v1/1e46878c774c406a9fccb34af17fbc33/cenc.mpd",
+            "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/lgp77wdjaw/out/v1/9d70bc2c2c054c19a091dc3550ab5a1f/cenc.mpd",
             "logo": "",
             "type": 7,
-            "api": "ff2d3d8ee3f01ca0186ab372d834a305:20554e3b2bb2a251be086a589087820a",
+            "api": "93e1e62b680676bd8ab5ad7ae3314cce:8af74962ecdff746cd019ba90935b215",
             "tokenApi": ""
           },
           {
@@ -298,7 +298,7 @@
           },
           {
             "title": "FANCODE - IN",
-            "link": "https://livecf.fancode.com/143633_english_hls_37959550fb90160_1ta-di_h264/index.m3u8",
+            "link": "https://livecf.fancode.com/143633_english_hls_37959550fb21080_1ta-di_h264/index.m3u8",
             "logo": "",
             "type": 0,
             "api": "",
@@ -334,7 +334,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/unique-tournament/16717/image",
           "eventName": "Cricket",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/07/27 14:00:56 +0000",
           "endTime": "2026/07/27 18:00:01 +0000"
         },
@@ -1132,6 +1132,60 @@
           {
             "title": "LOW SERVER",
             "link": "http://193.47.62.192/hls/GGGGGQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 10911,
+        "title": "Philippines vs Myanmar",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Philippines",
+          "teamB": "Myanmar",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/4791/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/23484/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/07/28 10:00:00 +0000",
+          "endTime": "2026/07/28 12:20:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 10912,
+        "title": "Malaysia vs Laos",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Malaysia",
+          "teamB": "Laos",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/6912/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/23486/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/07/28 13:00:00 +0000",
+          "endTime": "2026/07/28 15:20:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
             "logo": "",
             "type": 0,
             "api": "",
