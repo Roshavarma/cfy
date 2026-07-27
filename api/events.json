@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-27T03:01:11.998444",
-  "event_count": 29,
+  "last_updated": "2026-07-27T03:10:49.582660",
+  "event_count": 32,
   "events": {
     "events": [
       {
@@ -1006,6 +1006,87 @@
           "Status": "Upcoming",
           "startTime": "2026/07/28 01:45:00 +0000",
           "endTime": "2026/07/28 04:45:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 10907,
+        "title": "Cote dIvoire vs Burkina Faso",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "C\u00f4te d'Ivoire",
+          "teamB": "Burkina Faso",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/186328/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/316668/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/07/27 20:00:00 +0000",
+          "endTime": "2026/07/27 22:20:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 10908,
+        "title": "Zambia vs Egypt",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Zambia",
+          "teamB": "Egypt",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/288601/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/132930/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/07/28 17:00:00 +0000",
+          "endTime": "2026/07/28 19:20:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 10909,
+        "title": "Nigeria vs Malawi",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Nigeria",
+          "teamB": "Malawi",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/7420/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/298498/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/07/28 20:00:00 +0000",
+          "endTime": "2026/07/28 22:20:00 +0000"
         },
         "channels_data": [
           {
