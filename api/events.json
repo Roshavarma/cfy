@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-27T17:10:51.793765",
-  "event_count": 33,
+  "last_updated": "2026-07-27T17:20:51.038945",
+  "event_count": 34,
   "events": {
     "events": [
       {
@@ -1226,6 +1226,33 @@
             "logo": "",
             "type": 7,
             "api": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 10914,
+        "title": "Real Madrid vs Leganes",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Real Madrid",
+          "teamB": "Legan\u00e9s",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/2829/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/2845/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/07/28 16:00:00 +0000",
+          "endTime": "2026/07/28 18:20:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
             "tokenApi": ""
           }
         ]
