@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-28T14:50:54.266773",
+  "last_updated": "2026-07-28T15:01:33.639198",
   "event_count": 34,
   "events": {
     "events": [
@@ -698,8 +698,16 @@
         },
         "channels_data": [
           {
-            "title": "",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "title": "RMA TV - AQ",
+            "link": "https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/master.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "LOW SERVER",
+            "link": "http://193.47.62.46/hls/THTRHRTQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
             "logo": "",
             "type": 0,
             "api": "",
