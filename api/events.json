@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-28T04:10:48.586227",
+  "last_updated": "2026-07-28T04:20:41.659980",
   "event_count": 23,
   "events": {
     "events": [
@@ -216,6 +216,14 @@
           {
             "title": "TAPMAD - AQ",
             "link": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8|referer=https://tapmad.com",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "WILLOW HD",
+            "link": "http://tvsen5.aynascope.net/willowhd/index.m3u8",
             "logo": "",
             "type": 0,
             "api": "",
