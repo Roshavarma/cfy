@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-28T10:31:13.509812",
-  "event_count": 35,
+  "last_updated": "2026-07-28T10:40:52.804260",
+  "event_count": 36,
   "events": {
     "events": [
       {
@@ -1197,6 +1197,41 @@
           {
             "title": "",
             "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 10933,
+        "title": "Philippines vs Myanmar",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Philippines",
+          "teamB": "Myanmar",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/4791/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/23484/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Live",
+          "startTime": "2026/07/28 10:00:00 +0000",
+          "endTime": "2026/07/28 12:20:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "M LIVE - AQ",
+            "link": "https://tglmp04.akamaized.net/out/v1/400fc0702dee453bb33ebcc29466e58a/manifest.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "91b9592c819246c68b3b08a1fe08ba22:fa0d80dfd865b34077bae44cd4a0c5e6",
+            "tokenApi": ""
+          },
+          {
+            "title": "LOW SERVER",
+            "link": "http://193.47.62.190/hls/VVVV.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
             "logo": "",
             "type": 0,
             "api": "",
