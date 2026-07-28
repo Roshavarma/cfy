@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-28T13:31:08.068940",
+  "last_updated": "2026-07-28T13:40:54.083874",
   "event_count": 34,
   "events": {
     "events": [
@@ -266,18 +266,18 @@
         "channels_data": [
           {
             "title": "WILLOW - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lgp77wdjaw/out/v1/9d70bc2c2c054c19a091dc3550ab5a1f/cenc.mpd",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/cse2joomlh/out/v1/b5d5b79c707f431682623bc0bba523a4/cenc.mpd",
             "logo": "",
             "type": 7,
-            "api": "93e1e62b680676bd8ab5ad7ae3314cce:8af74962ecdff746cd019ba90935b215",
+            "api": "5a9710ee8a56086e0656c1522e763ac6:052e21ca664464ffe790a761a034862f",
             "tokenApi": ""
           },
           {
             "title": "WILLOW - ALT",
-            "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/lgp77wdjaw/out/v1/9d70bc2c2c054c19a091dc3550ab5a1f/cenc.mpd",
+            "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/cse2joomlh/out/v1/b5d5b79c707f431682623bc0bba523a4/cenc.mpd",
             "logo": "",
             "type": 7,
-            "api": "93e1e62b680676bd8ab5ad7ae3314cce:8af74962ecdff746cd019ba90935b215",
+            "api": "5a9710ee8a56086e0656c1522e763ac6:052e21ca664464ffe790a761a034862f",
             "tokenApi": ""
           },
           {
@@ -333,10 +333,10 @@
         "channels_data": [
           {
             "title": "WILLOW - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/s0j8uhosdr/out/v1/75c45443b2ad43a6833b3c9b3aeb526a/cenc.mpd",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/9qzz3zu84c/out/v1/72ca874e2c774b0ba038cd7a3d33dde6/cenc.mpd",
             "logo": "",
             "type": 7,
-            "api": "ed6ee371165b4b461e3731c3f43cfc65:5ecfb640507e9965abe4e68657a158ed",
+            "api": "494d082382d3ef41b1857619bbe27fd7:f5722629661ef2b645d7f87aa46dac3f",
             "tokenApi": ""
           },
           {
@@ -349,10 +349,10 @@
           },
           {
             "title": "WILLOW - ALT",
-            "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/s0j8uhosdr/out/v1/75c45443b2ad43a6833b3c9b3aeb526a/cenc.mpd",
+            "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/9qzz3zu84c/out/v1/72ca874e2c774b0ba038cd7a3d33dde6/cenc.mpd",
             "logo": "",
             "type": 7,
-            "api": "ed6ee371165b4b461e3731c3f43cfc65:5ecfb640507e9965abe4e68657a158ed",
+            "api": "494d082382d3ef41b1857619bbe27fd7:f5722629661ef2b645d7f87aa46dac3f",
             "tokenApi": ""
           },
           {
@@ -450,8 +450,32 @@
         },
         "channels_data": [
           {
-            "title": "",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "title": "WILLOW - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/efdkd1x3jo/out/v1/d04063e0c3ba4e63a6efa8c62a940bf7/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "0c9eb696a9eb04a3ff57e9d982b80d3e:24acd92a160f3e8cc26514b9696daa84",
+            "tokenApi": ""
+          },
+          {
+            "title": "WILLOW - ALT",
+            "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/efdkd1x3jo/out/v1/d04063e0c3ba4e63a6efa8c62a940bf7/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "0c9eb696a9eb04a3ff57e9d982b80d3e:24acd92a160f3e8cc26514b9696daa84",
+            "tokenApi": ""
+          },
+          {
+            "title": "FANCODE - IN",
+            "link": "https://in-mc-pdlive.fancode.com/mumbai/4246714_english_hls_073cf4f34754904_1ta-di_h264/index.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "FANCODE - BD",
+            "link": "https://in-mc-pdlive.fancode.com/mumbai/4246714_english_hls_073cf4f34754904_1ta-di_h264/index.m3u8",
             "logo": "",
             "type": 0,
             "api": "",
