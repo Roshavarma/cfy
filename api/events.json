@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-28T17:10:48.344691",
-  "event_count": 34,
+  "last_updated": "2026-07-28T17:21:06.099121",
+  "event_count": 32,
   "events": {
     "events": [
       {
@@ -509,35 +509,56 @@
         },
         "channels_data": [
           {
-            "title": "",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "title": "WILLOW - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/kh6uiu6upv/out/v1/29112f3b523f413bad078505dfc67250/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "6615ff061d534480dfcc882d7d109368:ddd6d8d903e12981d3b18801c9adc188",
+            "tokenApi": ""
+          },
+          {
+            "title": "WILLOW - ALT",
+            "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/kh6uiu6upv/out/v1/29112f3b523f413bad078505dfc67250/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "6615ff061d534480dfcc882d7d109368:ddd6d8d903e12981d3b18801c9adc188",
+            "tokenApi": ""
+          },
+          {
+            "title": "TAPMAD - AQ",
+            "link": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8|referer=https://tapmad.com",
             "logo": "",
             "type": 0,
             "api": "",
             "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 10892,
-        "title": "Crystal Palace vs RC Lens",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Crystal Palace",
-          "teamB": "RC Lens",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/7/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/1648/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/07/28 17:00:00 +0000",
-          "endTime": "2026/07/28 19:20:00 +0000"
-        },
-        "channels_data": [
+          },
+          {
+            "title": "SKY SPORT NZ",
+            "link": "https://tmaxapp.site/8wirwjs76erftg/skysport2nz.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "FOX CRICKET HD",
+            "link": "http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=809389&extension=m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "SKY CRICKET - AQ",
+            "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
           {
             "title": "LOW SERVER",
-            "link": "http://193.47.62.42/hls/kccc.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+            "link": "http://tvsen5.aynascope.net/willowhd/index.m3u8",
             "logo": "",
             "type": 0,
             "api": "",
@@ -1255,33 +1276,6 @@
           {
             "title": "HD QUALITY",
             "link": "https://edgestream3.pro/hls/JHDAJBDnjdna30.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 10934,
-        "title": "Al-Ahli vs Fulham",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Al-Ahli",
-          "teamB": "Fulham",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/34469/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/43/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/07/28 17:00:00 +0000",
-          "endTime": "2026/07/28 19:20:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "LOW SERVER",
-            "link": "http://193.47.62.42/hls/kcccqqqq.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
             "logo": "",
             "type": 0,
             "api": "",
