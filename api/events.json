@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-28T15:51:02.019437",
+  "last_updated": "2026-07-28T16:01:19.979497",
   "event_count": 34,
   "events": {
     "events": [
@@ -665,14 +665,22 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/2845/image",
           "eventName": "Football",
           "isHot": "1",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/07/28 16:00:00 +0000",
           "endTime": "2026/07/28 18:20:00 +0000"
         },
         "channels_data": [
           {
-            "title": "RMA TV - AQ",
+            "title": "RMA TV ENG - AQ",
             "link": "https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/master.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "RMA TV ES - AQ",
+            "link": "https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8",
             "logo": "",
             "type": 0,
             "api": "",
