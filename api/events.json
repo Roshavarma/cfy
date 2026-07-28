@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-28T13:51:00.608816",
+  "last_updated": "2026-07-28T14:01:26.075139",
   "event_count": 34,
   "events": {
     "events": [
@@ -259,7 +259,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/187754/image",
           "eventName": "Cricket",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/07/28 14:00:32 +0000",
           "endTime": "2026/07/28 22:00:39 +0000"
         },
@@ -326,7 +326,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/unique-tournament/16717/image",
           "eventName": "Cricket",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/07/28 14:00:33 +0000",
           "endTime": "2026/07/28 18:00:39 +0000"
         },
@@ -337,14 +337,6 @@
             "logo": "",
             "type": 7,
             "api": "494d082382d3ef41b1857619bbe27fd7:f5722629661ef2b645d7f87aa46dac3f",
-            "tokenApi": ""
-          },
-          {
-            "title": "SKY CRICKET - AQ",
-            "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla",
-            "logo": "",
-            "type": 0,
-            "api": "",
             "tokenApi": ""
           },
           {
@@ -364,14 +356,6 @@
             "tokenApi": ""
           },
           {
-            "title": "SKY SPORT NZ",
-            "link": "https://tmaxapp.site/8wirwjs76erftg/skysport2nz.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
             "title": "FOX CRICKET HD",
             "link": "http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=809389&extension=m3u8",
             "logo": "",
@@ -380,8 +364,24 @@
             "tokenApi": ""
           },
           {
+            "title": "SKY SPORT NZ",
+            "link": "https://tmaxapp.site/8wirwjs76erftg/skysport2nz.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "SKY CRICKET - AQ",
+            "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
             "title": "LOW SERVER",
-            "link": "http://193.47.62.192/hls/GGGGGQQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+            "link": "http://193.47.62.42/hls/HFFF.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
             "logo": "",
             "type": 0,
             "api": "",
@@ -444,7 +444,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/453388/image",
           "eventName": "Cricket",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/07/28 14:00:00 +0000",
           "endTime": "2026/07/28 18:00:00 +0000"
         },
