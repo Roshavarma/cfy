@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-28T18:31:20.188733",
-  "event_count": 32,
+  "last_updated": "2026-07-28T18:40:58.119126",
+  "event_count": 35,
   "events": {
     "events": [
       {
@@ -261,7 +261,7 @@
           "isHot": "0",
           "Status": "Live",
           "startTime": "2026/07/28 14:00:32 +0000",
-          "endTime": "2026/07/28 22:00:39 +0000"
+          "endTime": "2026/07/28 20:00:01 +0000"
         },
         "channels_data": [
           {
@@ -1225,20 +1225,101 @@
         ]
       },
       {
-        "id": 10936,
-        "title": "Colombo Kaps vs Jaffna Kings",
+        "id": 10937,
+        "title": "Welsh Fire vs Trent Rockets",
+        "image": "",
+        "cat": "Cricket",
+        "eventInfo": {
+          "teamA": "Welsh Fire",
+          "teamB": "Trent Rockets",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/377179/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/377176/image",
+          "eventName": "Cricket",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/07/29 14:00:00 +0000",
+          "endTime": "2026/07/29 18:00:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 10938,
+        "title": "MI London vs London Spirit",
+        "image": "",
+        "cat": "Cricket",
+        "eventInfo": {
+          "teamA": "MI London",
+          "teamB": "London Spirit",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/377172/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/377175/image",
+          "eventName": "Cricket",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/07/29 17:30:00 +0000",
+          "endTime": "2026/07/29 21:30:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 10939,
+        "title": "Nepal vs Netherlands",
+        "image": "",
+        "cat": "Cricket",
+        "eventInfo": {
+          "teamA": "Nepal",
+          "teamB": "Netherlands",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/187772/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/187840/image",
+          "eventName": "Cricket",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/07/29 09:00:00 +0000",
+          "endTime": "2026/07/29 13:00:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 10940,
+        "title": "Colombo Kaps vs Dambulla Sixers",
         "image": "",
         "cat": "Cricket",
         "eventInfo": {
           "teamA": "Colombo Kaps",
-          "teamB": "Jaffna Kings",
+          "teamB": "Dambulla Sixers",
           "teamAFlag": "https://img.sofascore.com/api/v1/team/453390/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/453388/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/369189/image",
           "eventName": "Cricket",
           "isHot": "0",
-          "Status": "Finish",
-          "startTime": "2026/07/28 14:00:00 +0000",
-          "endTime": "2026/07/28 18:00:00 +0000"
+          "Status": "Upcoming",
+          "startTime": "2026/07/29 14:00:00 +0000",
+          "endTime": "2026/07/29 18:00:00 +0000"
         },
         "channels_data": [
           {
