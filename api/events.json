@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-28T15:21:01.629144",
-  "event_count": 35,
+  "last_updated": "2026-07-28T15:31:08.056365",
+  "event_count": 34,
   "events": {
     "events": [
       {
@@ -466,6 +466,14 @@
             "tokenApi": ""
           },
           {
+            "title": "T SPORTS HD",
+            "link": "https://s1.itcnbd.live/T-Sports-HD/tracks-v1a1/mono.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
             "title": "FANCODE - IN",
             "link": "https://livecf.fancode.com/4246727_english_hls_1455c8dfec73022_1ta-di_h264/index.m3u8",
             "logo": "",
@@ -638,41 +646,6 @@
           {
             "title": "",
             "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 10912,
-        "title": "Malaysia vs Laos",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Malaysia",
-          "teamB": "Laos",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/6912/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/23486/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Finish",
-          "startTime": "2026/07/28 13:00:00 +0000",
-          "endTime": "2026/07/28 15:20:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "M LIVE - AQ",
-            "link": "https://tglmp02.akamaized.net/out/v1/cc0fc82e76cb4e0093e81695284af443/manifest.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "d418f733ed224f9bb9c2b1589db22a20:6ed6fe26daa4b926810869ff60254ebb",
-            "tokenApi": ""
-          },
-          {
-            "title": "LOW SERVER",
-            "link": "http://193.47.62.190/hls/JJJJA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
             "logo": "",
             "type": 0,
             "api": "",
