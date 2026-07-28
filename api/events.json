@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-28T12:01:26.157735",
-  "event_count": 36,
+  "last_updated": "2026-07-28T12:10:52.398220",
+  "event_count": 34,
   "events": {
     "events": [
       {
@@ -200,9 +200,9 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/187808/image",
           "eventName": "Cricket",
           "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/07/28 04:30:15 +0000",
-          "endTime": "2026/07/28 12:30:21 +0000"
+          "Status": "Upcoming",
+          "startTime": "2026/07/31 05:30:45 +0000",
+          "endTime": "2026/07/31 10:00:30 +0000"
         },
         "channels_data": [
           {
@@ -479,49 +479,6 @@
           {
             "title": "",
             "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 10890,
-        "title": "Chelsea vs Western Sydney Wanderers",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Chelsea",
-          "teamB": "Western Sydney Wanderers",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/38/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/72926/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/07/28 09:45:00 +0000",
-          "endTime": "2026/07/28 12:05:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "CBS SPORTS - AQ",
-            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd|Origin=https://amazon.com&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0|Origin=https://amazon.com&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0",
-            "logo": "",
-            "type": 7,
-            "api": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
-            "tokenApi": ""
-          },
-          {
-            "title": "Live 1",
-            "link": "https://pul-tenm.gkykp.com/live/sd-1-4541773.m3u8?txSecret=98973c9a9a91489648084f425b763fbd&txTime=6A69BA80",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "LOW SERVER",
-            "link": "http://193.47.62.193/hls/FKKK.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
             "logo": "",
             "type": 0,
             "api": "",
@@ -1197,41 +1154,6 @@
           {
             "title": "",
             "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 10933,
-        "title": "Philippines vs Myanmar",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Philippines",
-          "teamB": "Myanmar",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/4791/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/23484/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/07/28 10:00:00 +0000",
-          "endTime": "2026/07/28 12:20:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "M LIVE - AQ",
-            "link": "https://tglmp04.akamaized.net/out/v1/400fc0702dee453bb33ebcc29466e58a/manifest.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "91b9592c819246c68b3b08a1fe08ba22:fa0d80dfd865b34077bae44cd4a0c5e6",
-            "tokenApi": ""
-          },
-          {
-            "title": "LOW SERVER",
-            "link": "http://193.47.62.190/hls/VVVV.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
             "logo": "",
             "type": 0,
             "api": "",
