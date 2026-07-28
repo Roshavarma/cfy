@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-28T15:01:33.639198",
-  "event_count": 34,
+  "last_updated": "2026-07-28T15:10:56.120562",
+  "event_count": 35,
   "events": {
     "events": [
       {
@@ -691,7 +691,7 @@
           "teamAFlag": "https://img.sofascore.com/api/v1/team/2829/image",
           "teamBFlag": "https://img.sofascore.com/api/v1/team/2845/image",
           "eventName": "Football",
-          "isHot": "0",
+          "isHot": "1",
           "Status": "Upcoming",
           "startTime": "2026/07/28 16:00:00 +0000",
           "endTime": "2026/07/28 18:20:00 +0000"
@@ -700,6 +700,14 @@
           {
             "title": "RMA TV - AQ",
             "link": "https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/master.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "Live 1",
+            "link": "https://edgestream1.pro/hls/24SDAZFcsqnj24.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
             "logo": "",
             "type": 0,
             "api": "",
@@ -1189,6 +1197,33 @@
           "Status": "Upcoming",
           "startTime": "2026/07/29 02:10:00 +0000",
           "endTime": "2026/07/29 05:10:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 10934,
+        "title": "Al-Ahli vs Fulham",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Al-Ahli",
+          "teamB": "Fulham",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/34469/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/43/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/07/28 17:00:00 +0000",
+          "endTime": "2026/07/28 19:20:00 +0000"
         },
         "channels_data": [
           {
