@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-28T09:40:55.242117",
+  "last_updated": "2026-07-28T09:50:51.629742",
   "event_count": 36,
   "events": {
     "events": [
@@ -498,7 +498,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/72926/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/07/28 09:45:00 +0000",
           "endTime": "2026/07/28 12:05:00 +0000"
         },
@@ -687,6 +687,14 @@
             "logo": "",
             "type": 7,
             "api": "d418f733ed224f9bb9c2b1589db22a20:6ed6fe26daa4b926810869ff60254ebb",
+            "tokenApi": ""
+          },
+          {
+            "title": "LOW SERVER",
+            "link": "http://193.47.62.190/hls/VVVV.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+            "logo": "",
+            "type": 0,
+            "api": "",
             "tokenApi": ""
           }
         ]
