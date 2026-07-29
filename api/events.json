@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-29T15:31:20.009127",
-  "event_count": 43,
+  "last_updated": "2026-07-29T15:40:57.155465",
+  "event_count": 40,
   "events": {
     "events": [
       {
@@ -710,68 +710,6 @@
         ]
       },
       {
-        "id": 10946,
-        "title": "Bayer 04 Leverkusen vs KRC Genk",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Bayer 04 Leverkusen",
-          "teamB": "KRC Genk",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/2681/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/2890/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Finish",
-          "startTime": "2026/07/29 13:00:00 +0000",
-          "endTime": "2026/07/29 15:20:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "Live 1",
-            "link": "https://pul-tenm.gkykp.com/live/sd-1-4596075.m3u8?txSecret=432865de6def7954df48543307e6fcff&txTime=6A6B3720",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "LOW SERVER",
-            "link": "http://193.47.62.192/hls/eeeeaaaaAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 10947,
-        "title": "TSG Hoffenheim vs Holstein Kiel",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "TSG Hoffenheim",
-          "teamB": "Holstein Kiel",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/2569/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/2573/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Upcoming",
-          "startTime": "2026/07/29 16:00:00 +0000",
-          "endTime": "2026/07/29 18:20:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
         "id": 10948,
         "title": "Real Betis vs Olympique Lyonnais",
         "image": "",
@@ -786,33 +724,6 @@
           "Status": "Upcoming",
           "startTime": "2026/07/29 18:00:00 +0000",
           "endTime": "2026/07/29 20:20:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 10949,
-        "title": "Atletico Madrid vs Getafe",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Atl\u00e9tico Madrid",
-          "teamB": "Getafe",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/2836/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/2859/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/07/29 15:30:00 +0000",
-          "endTime": "2026/07/29 17:50:00 +0000"
         },
         "channels_data": [
           {
@@ -1086,8 +997,16 @@
         },
         "channels_data": [
           {
-            "title": "",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "title": "Live 1",
+            "link": "https://chatgpt.hereisman.net/playlist/53940/load-playlist?|Referer=https://gooz.aapmains.net ",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "HD SERVER",
+            "link": "https://edgestream1.pro/hls/dazhfiach15.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
             "logo": "",
             "type": 0,
             "api": "",
