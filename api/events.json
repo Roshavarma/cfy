@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-29T04:40:36.340311",
-  "event_count": 17,
+  "last_updated": "2026-07-29T04:50:46.400503",
+  "event_count": 20,
   "events": {
     "events": [
       {
@@ -565,7 +565,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/3630/image",
           "eventName": "Baseball",
           "isHot": "0",
-          "Status": "Live",
+          "Status": "Finish",
           "startTime": "2026/07/29 01:45:00 +0000",
           "endTime": "2026/07/29 04:45:00 +0000"
         },
@@ -746,6 +746,87 @@
           "Status": "Upcoming",
           "startTime": "2026/07/29 14:00:00 +0000",
           "endTime": "2026/07/29 18:00:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 10941,
+        "title": "Cameroon vs Mali",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Cameroon",
+          "teamB": "Mali",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/69218/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/132944/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/07/29 20:00:00 +0000",
+          "endTime": "2026/07/29 22:20:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 10942,
+        "title": "Senegal vs Kenya",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Senegal",
+          "teamB": "Kenya",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/316945/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/237894/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/07/30 17:00:00 +0000",
+          "endTime": "2026/07/30 19:20:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 10943,
+        "title": "Morocco vs Algeria",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Morocco",
+          "teamB": "Algeria",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/261908/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/180004/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/07/30 20:00:00 +0000",
+          "endTime": "2026/07/30 22:20:00 +0000"
         },
         "channels_data": [
           {
