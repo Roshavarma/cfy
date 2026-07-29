@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-29T18:11:05.065480",
-  "event_count": 37,
+  "last_updated": "2026-07-29T18:20:57.752822",
+  "event_count": 38,
   "events": {
     "events": [
       {
@@ -1403,6 +1403,33 @@
           {
             "title": "LOW SERVER",
             "link": "http://193.47.62.192/hls/UDDD.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 10976,
+        "title": "Bristol City vs Newcastle United",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Bristol City",
+          "teamB": "Newcastle United",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/58/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/39/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/07/29 18:30:00 +0000",
+          "endTime": "2026/07/29 20:50:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "LOW SERVER",
+            "link": "http://193.47.62.191/hls/YYYHAAAA.m3u8|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
             "logo": "",
             "type": 0,
             "api": "",
