@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-29T16:51:02.926272",
+  "last_updated": "2026-07-29T17:01:17.963138",
   "event_count": 40,
   "events": {
     "events": [
@@ -543,33 +543,6 @@
         ]
       },
       {
-        "id": 10939,
-        "title": "Nepal vs Netherlands",
-        "image": "",
-        "cat": "Cricket",
-        "eventInfo": {
-          "teamA": "Nepal",
-          "teamB": "Netherlands",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/187772/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/187840/image",
-          "eventName": "Cricket",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/07/29 09:00:00 +0000",
-          "endTime": "2026/07/29 17:00:10 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "ICC TV - AQ",
-            "link": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-07)/hdntl=exp=1785343593~acl=/variant/v1blackout/vcg-01-d/*~id=a826bf36-d614-40db-9aa8-6387bdd2ef3b~data=hdntl~hmac=8670013769c73afb21dcbc3dd8fdda95ef216ba200666f438d7804162ac39022/manifest.mpd|User-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36",
-            "logo": "",
-            "type": 7,
-            "api": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
         "id": 10940,
         "title": "Colombo Kaps vs Dambulla Sixers",
         "image": "",
@@ -1083,8 +1056,16 @@
         },
         "channels_data": [
           {
-            "title": "",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "title": "Live 1",
+            "link": "https://chatgpt.hereisman.net/playlist/53943/load-playlist?|Referer=https://gooz.aapmains.net ",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "HD QUALITY",
+            "link": "https://edgestream2.pro/hls/ihfazugfyjcazich17.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
             "logo": "",
             "type": 0,
             "api": "",
@@ -1436,6 +1417,41 @@
           {
             "title": "",
             "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 10975,
+        "title": "Ghana vs Cabo Verde",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Ghana",
+          "teamB": "Cabo Verde",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/7417/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/419432/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Live",
+          "startTime": "2026/07/29 17:00:00 +0000",
+          "endTime": "2026/07/29 19:20:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "beiN ENGLISH - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd|Origin=https://amazon.com&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0",
+            "logo": "",
+            "type": 7,
+            "api": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
+            "tokenApi": ""
+          },
+          {
+            "title": "LOW SERVER",
+            "link": "http://193.47.62.192/hls/UDDD.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
             "logo": "",
             "type": 0,
             "api": "",
