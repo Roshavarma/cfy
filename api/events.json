@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-30T02:01:01.462901",
-  "event_count": 21,
+  "last_updated": "2026-07-30T02:10:50.018836",
+  "event_count": 24,
   "events": {
     "events": [
       {
@@ -614,7 +614,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/3656/image",
           "eventName": "Baseball",
           "isHot": "0",
-          "Status": "Live",
+          "Status": "Finish",
           "startTime": "2026/07/29 23:10:00 +0000",
           "endTime": "2026/07/30 02:10:00 +0000"
         },
@@ -649,7 +649,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/3650/image",
           "eventName": "Baseball",
           "isHot": "0",
-          "Status": "Live",
+          "Status": "Finish",
           "startTime": "2026/07/29 23:10:00 +0000",
           "endTime": "2026/07/30 02:10:00 +0000"
         },
@@ -875,7 +875,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/3641/image",
           "eventName": "Baseball",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/07/30 02:10:00 +0000",
           "endTime": "2026/07/30 05:10:00 +0000"
         },
@@ -899,6 +899,87 @@
           {
             "title": "LOW QUALITY",
             "link": "http://193.47.62.41/hls/JPPPAAAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 10977,
+        "title": "Southern Brave vs Birmingham Phoenix",
+        "image": "",
+        "cat": "Cricket",
+        "eventInfo": {
+          "teamA": "Southern Brave",
+          "teamB": "Birmingham Phoenix",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/377177/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/377174/image",
+          "eventName": "Cricket",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/07/30 17:30:00 +0000",
+          "endTime": "2026/07/30 21:30:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 10978,
+        "title": "Jaffna Kings vs Kandy Royals",
+        "image": "",
+        "cat": "Cricket",
+        "eventInfo": {
+          "teamA": "Jaffna Kings",
+          "teamB": "Kandy Royals",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/453388/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/369187/image",
+          "eventName": "Cricket",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/07/30 14:00:00 +0000",
+          "endTime": "2026/07/30 18:00:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 10979,
+        "title": "Manchester Super Giants vs Trent Rockets",
+        "image": "",
+        "cat": "Cricket",
+        "eventInfo": {
+          "teamA": "Manchester Super Giants",
+          "teamB": "Trent Rockets",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/377173/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/377176/image",
+          "eventName": "Cricket",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/07/31 17:30:00 +0000",
+          "endTime": "2026/07/31 21:30:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
             "logo": "",
             "type": 0,
             "api": "",
