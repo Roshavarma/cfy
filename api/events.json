@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-30T13:31:12.784157",
+  "last_updated": "2026-07-30T13:40:48.369703",
   "event_count": 30,
   "events": {
     "events": [
@@ -333,23 +333,31 @@
         "channels_data": [
           {
             "title": "WILLOW - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/zgpswvdaoe/out/v1/0bd8dedeae694dc99fe580f034af7e93/cenc.mpd",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ywkoiqsp0p/out/v1/300859b3aec14d98a9b66beb95f8955b/cenc.mpd",
             "logo": "",
             "type": 7,
-            "api": "b287bc41366b6728bff53fc4e586b5d4:3b6622efc525d86e9fe69f2fb6f54367",
+            "api": "943458a8f73e10e31fdc85a2ded6c185:64a44f3738bd54c360aafb8c9acfa959",
+            "tokenApi": ""
+          },
+          {
+            "title": "SKY CRICKET - AQ",
+            "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla",
+            "logo": "",
+            "type": 0,
+            "api": "",
             "tokenApi": ""
           },
           {
             "title": "WILLOW - ALT",
-            "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/zgpswvdaoe/out/v1/0bd8dedeae694dc99fe580f034af7e93/cenc.mpd",
+            "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ywkoiqsp0p/out/v1/300859b3aec14d98a9b66beb95f8955b/cenc.mpd",
             "logo": "",
             "type": 7,
-            "api": "b287bc41366b6728bff53fc4e586b5d4:3b6622efc525d86e9fe69f2fb6f54367",
+            "api": "943458a8f73e10e31fdc85a2ded6c185:64a44f3738bd54c360aafb8c9acfa959",
             "tokenApi": ""
           },
           {
             "title": "TAPMAD - AQ",
-            "link": "https://saseries.akamaized.net/hls/live/2110097/D2PAKvsWI-TesT-tapmad/master.m3u8|referer=https://tapmad.com",
+            "link": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8|referer=https://tapmad.com",
             "logo": "",
             "type": 0,
             "api": "",
@@ -357,7 +365,15 @@
           },
           {
             "title": "SKY SPORT NZ",
-            "link": "https://tmaxapp.site/8wirwjs76erftg/skysport3nz.m3u8",
+            "link": "https://tmaxapp.site/8wirwjs76erftg/skysport1nz.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "FOX CRICKET HD",
+            "link": "http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=809389&extension=m3u8",
             "logo": "",
             "type": 0,
             "api": "",
@@ -365,7 +381,7 @@
           },
           {
             "title": "SonyLiv",
-            "link": "https://sonydaimenew.akamaized.net/hls/live/2022321/DAI17-HWOM/master.m3u8?hdnea=exp=1785349231~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=d4f7b471c0816bf7f53e291292432dae4961285a8872b8ddf37261c006ed0f96",
+            "link": "https://sonydaimenew.akamaized.net/hls/live/2022321/DAI17-HWOM/master.m3u8?hdnea=exp=1785460559~acl=/*~id=37426982447636458455477290224253~hmac=b13459e51a79e0c3487460c569705ec816d391ef771d0c66c3b2aa762aa7098a",
             "logo": "",
             "type": 0,
             "api": "",
@@ -373,7 +389,7 @@
           },
           {
             "title": "LOW SERVER",
-            "link": "http://193.47.62.190/hls/yyyy.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+            "link": "http://tvsen5.aynascope.net/willowhd/index.m3u8",
             "logo": "",
             "type": 0,
             "api": "",
@@ -548,7 +564,7 @@
           },
           {
             "title": "FANCODE - IN",
-            "link": "https://in-mc-pdlive.fancode.com/mumbai/4246714_english_hls_073cf4f34754904_1ta-di_h264/index.m3u8",
+            "link": "https://dai-fancode.pages.dev/mumbai/4246720_english_hls_e5254c82f165480_1ta-di_h264/index.m3u8",
             "logo": "",
             "type": 0,
             "api": "",
@@ -556,7 +572,7 @@
           },
           {
             "title": "FANCODE - BD",
-            "link": "https://in-mc-pdlive.fancode.com/mumbai/4246714_english_hls_073cf4f34754904_1ta-di_h264/index.m3u8",
+            "link": "https://bd-mc-pdlive.fancode.com/mumbai/4246720_english_hls_e5254c82f165480_1ta-di_h264/index.m3u8",
             "logo": "",
             "type": 0,
             "api": "",
