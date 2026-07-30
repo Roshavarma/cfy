@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-30T17:31:03.172360",
-  "event_count": 29,
+  "last_updated": "2026-07-30T17:40:51.533720",
+  "event_count": 28,
   "events": {
     "events": [
       {
@@ -544,14 +544,6 @@
             "tokenApi": ""
           },
           {
-            "title": "SKY SPORT NZ",
-            "link": "https://tmaxapp.site/8wirwjs76erftg/skysport1nz.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
             "title": "FOX CRICKET HD",
             "link": "http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=809389&extension=m3u8",
             "logo": "",
@@ -560,8 +552,16 @@
             "tokenApi": ""
           },
           {
+            "title": "SonyLiv",
+            "link": "https://sonydaimenew.akamaized.net/hls/live/2022322/DAI18-HMEN/master.m3u8?hdnea=exp=1785473374~acl=/*~id=38107044013505683038267999103615~hmac=92c8a26a829865144f4842448bb16424e11cae99cff5d2fc97ceccce27c23722",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
             "title": "LOW SERVER",
-            "link": "http://tvsen5.aynascope.net/willowhd/index.m3u8",
+            "link": "http://193.47.62.190/hls/BBBB.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
             "logo": "",
             "type": 0,
             "api": "",
@@ -675,33 +675,6 @@
           {
             "title": "",
             "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 10982,
-        "title": "Malaga CF vs Al-Ittihad",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "M\u00e1laga CF",
-          "teamB": "Al-Ittihad",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/2830/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/34315/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/07/30 17:00:00 +0000",
-          "endTime": "2026/07/30 19:20:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "LOW SERVER",
-            "link": "http://193.47.62.192/hls/ZTTT.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
             "logo": "",
             "type": 0,
             "api": "",
@@ -899,7 +872,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/3651/image",
           "eventName": "Baseball",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/07/30 17:40:00 +0000",
           "endTime": "2026/07/30 20:40:00 +0000"
         },
