@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-31T08:20:41.849851",
-  "event_count": 19,
+  "last_updated": "2026-07-31T08:30:50.408879",
+  "event_count": 21,
   "events": {
     "events": [
       {
@@ -200,9 +200,9 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/187808/image",
           "eventName": "Cricket",
           "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/07/31 05:30:45 +0000",
-          "endTime": "2026/07/31 10:00:30 +0000"
+          "Status": "Upcoming",
+          "startTime": "2026/08/02 04:30:53 +0000",
+          "endTime": "2026/08/02 09:00:02 +0000"
         },
         "channels_data": [
           {
@@ -768,6 +768,60 @@
           "Status": "Upcoming",
           "startTime": "2026/07/31 10:00:00 +0000",
           "endTime": "2026/07/31 12:20:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "M LIVE - AQ",
+            "link": "https://tglmp04.akamaized.net/out/v1/400fc0702dee453bb33ebcc29466e58a/manifest.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "91b9592c819246c68b3b08a1fe08ba22:fa0d80dfd865b34077bae44cd4a0c5e6",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 11007,
+        "title": "Netherlands vs Namibia",
+        "image": "",
+        "cat": "Cricket",
+        "eventInfo": {
+          "teamA": "Netherlands",
+          "teamB": "Namibia",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/187840/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/199275/image",
+          "eventName": "Cricket",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/07/31 09:00:00 +0000",
+          "endTime": "2026/07/31 13:00:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 11008,
+        "title": "Colombo Kaps vs Galle Gallants",
+        "image": "",
+        "cat": "Cricket",
+        "eventInfo": {
+          "teamA": "Colombo Kaps",
+          "teamB": "Galle Gallants",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/453390/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/453389/image",
+          "eventName": "Cricket",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/08/01 14:00:00 +0000",
+          "endTime": "2026/08/01 18:00:00 +0000"
         },
         "channels_data": [
           {
