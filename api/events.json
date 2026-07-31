@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-31T19:01:30.512615",
-  "event_count": 47,
+  "last_updated": "2026-07-31T19:10:57.785464",
+  "event_count": 45,
   "events": {
     "events": [
       {
@@ -527,33 +527,6 @@
         ]
       },
       {
-        "id": 10998,
-        "title": "South Africa vs Cote dIvoire",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "South Africa",
-          "teamB": "C\u00f4te d'Ivoire",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/65336/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/186328/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/07/31 17:00:00 +0000",
-          "endTime": "2026/07/31 19:20:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "LOW SERVER",
-            "link": "http://193.47.62.191/hls/PCCCA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
         "id": 10999,
         "title": "Burkina Faso vs Tanzania",
         "image": "",
@@ -664,33 +637,6 @@
           {
             "title": "LOW SERVER",
             "link": "http://162.251.160.53:8089/FRIdFOT4/index.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 11004,
-        "title": "Toulouse vs Real Sociedad",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Toulouse",
-          "teamB": "Real Sociedad",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/1681/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/2824/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/07/31 17:00:00 +0000",
-          "endTime": "2026/07/31 19:20:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "LOW SERVER",
-            "link": "http://193.47.62.191/hls/OCCCQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
             "logo": "",
             "type": 0,
             "api": "",
@@ -1461,7 +1407,7 @@
         },
         "channels_data": [
           {
-            "title": "",
+            "title": "LOW QUALITY",
             "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
             "logo": "",
             "type": 0,
