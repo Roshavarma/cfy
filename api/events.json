@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-31T16:50:50.500587",
-  "event_count": 32,
+  "last_updated": "2026-07-31T17:01:15.449844",
+  "event_count": 31,
   "events": {
     "events": [
       {
@@ -541,19 +541,11 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/186328/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/07/31 17:00:00 +0000",
           "endTime": "2026/07/31 19:20:00 +0000"
         },
         "channels_data": [
-          {
-            "title": "beiN SPORTS 2 - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
-            "tokenApi": ""
-          },
           {
             "title": "beiN SPORTS 3 - AQ",
             "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
@@ -694,33 +686,6 @@
         ]
       },
       {
-        "id": 11003,
-        "title": "Sassuolo vs Folgore Caratese",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Sassuolo",
-          "teamB": "Folgore Caratese",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/2793/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/117230/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Upcoming",
-          "startTime": "2026/07/31 17:00:00 +0000",
-          "endTime": "2026/07/31 19:20:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
         "id": 11004,
         "title": "Toulouse vs Real Sociedad",
         "image": "",
@@ -732,7 +697,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/2824/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/07/31 17:00:00 +0000",
           "endTime": "2026/07/31 19:20:00 +0000"
         },
