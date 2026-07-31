@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-31T09:30:51.505296",
-  "event_count": 21,
+  "last_updated": "2026-07-31T09:40:42.075927",
+  "event_count": 20,
   "events": {
     "events": [
       {
@@ -776,33 +776,6 @@
             "logo": "",
             "type": 7,
             "api": "91b9592c819246c68b3b08a1fe08ba22:fa0d80dfd865b34077bae44cd4a0c5e6",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 11007,
-        "title": "Netherlands vs Namibia",
-        "image": "",
-        "cat": "Cricket",
-        "eventInfo": {
-          "teamA": "Netherlands",
-          "teamB": "Namibia",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/187840/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/199275/image",
-          "eventName": "Cricket",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/07/31 09:00:00 +0000",
-          "endTime": "2026/07/31 13:00:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
             "tokenApi": ""
           }
         ]
