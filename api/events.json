@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-01T17:50:47.194839",
-  "event_count": 33,
+  "last_updated": "2026-08-01T18:01:09.075539",
+  "event_count": 31,
   "events": {
     "events": [
       {
@@ -460,124 +460,6 @@
         ]
       },
       {
-        "id": 11008,
-        "title": "Colombo Kaps vs Galle Gallants",
-        "image": "",
-        "cat": "Cricket",
-        "eventInfo": {
-          "teamA": "Colombo Kaps",
-          "teamB": "Galle Gallants",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/453390/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/453389/image",
-          "eventName": "Cricket",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/08/01 14:00:00 +0000",
-          "endTime": "2026/08/01 18:00:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "WILLOW - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/qnibsr61zt/out/v1/65d00769fa804b1c8b2b6832dd6ea171/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "d1f70173042301b032487392b35ca8b1:adfc1365758a8afc5f1c4b627474e915",
-            "tokenApi": ""
-          },
-          {
-            "title": "WILLOW - ALT",
-            "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/qnibsr61zt/out/v1/65d00769fa804b1c8b2b6832dd6ea171/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "d1f70173042301b032487392b35ca8b1:adfc1365758a8afc5f1c4b627474e915",
-            "tokenApi": ""
-          },
-          {
-            "title": "T SPORTS HD",
-            "link": "https://s1.itcnbd.live/T-Sports-HD/tracks-v1a1/mono.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "FANCODE - IN",
-            "link": "https://livecf.fancode.com/4246729_english_hls_5446b7db6477233_1ta-di_h264/index.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 11031,
-        "title": "Real Madrid vs Fiorentina",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Real Madrid",
-          "teamB": "Fiorentina",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/2829/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/2693/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/08/01 16:00:00 +0000",
-          "endTime": "2026/08/01 18:20:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "FOX DEPORTES - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811",
-            "tokenApi": ""
-          },
-          {
-            "title": "RMA TV SPANISH",
-            "link": "https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "FOX SPORTS HD",
-            "link": "https://chatgpt.hereisman.net/playlist/54052/load-playlist?|Referer=https://gooz.aapmains.net",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "FOX DEPORTES HD",
-            "link": "https://admin2.formaturamaxi.com.br/foxd.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "Live 1",
-            "link": "https://live.vivo200.com/live/sd-1-4581646.m3u8?txSecret=4325a6064b5bd562134321c9fd022320&txTime=6A6E295B|Referer=https://player.online909.com/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "LOW SERVER",
-            "link": "http://193.47.62.194/hls/jaaaFFF.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
         "id": 11034,
         "title": "Girona FC vs Arsenal",
         "image": "",
@@ -589,7 +471,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/42/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/08/01 18:00:00 +0000",
           "endTime": "2026/08/01 20:20:00 +0000"
         },
@@ -608,6 +490,14 @@
             "logo": "",
             "type": 7,
             "api": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
+            "tokenApi": ""
+          },
+          {
+            "title": "Live 1",
+            "link": "https://admin2.formaturamaxi.com.br/bein.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
             "tokenApi": ""
           },
           {
@@ -1218,8 +1108,8 @@
         },
         "channels_data": [
           {
-            "title": "",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "title": "HD QUALITY",
+            "link": "https://edgestream3.pro/hls/hfzljfahzcax29.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
             "logo": "",
             "type": 0,
             "api": "",
