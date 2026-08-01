@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-01T15:51:15.878584",
+  "last_updated": "2026-08-01T16:01:14.766714",
   "event_count": 37,
   "events": {
     "events": [
@@ -522,7 +522,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/2693/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/08/01 16:00:00 +0000",
           "endTime": "2026/08/01 18:20:00 +0000"
         },
@@ -546,6 +546,22 @@
           {
             "title": "RM TV ENGLISH",
             "link": "https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/master.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "FOX SPORTS HD",
+            "link": "https://chatgpt.hereisman.net/playlist/54052/load-playlist?|Referer=https://gooz.aapmains.net",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "Live 1",
+            "link": "https://live.vivo200.com/live/sd-1-4581646.m3u8?txSecret=4325a6064b5bd562134321c9fd022320&txTime=6A6E295B|Referer=https://player.online909.com/",
             "logo": "",
             "type": 0,
             "api": "",
