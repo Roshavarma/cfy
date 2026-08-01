@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-01T13:01:12.470525",
+  "last_updated": "2026-08-01T13:10:55.857004",
   "event_count": 42,
   "events": {
     "events": [
@@ -326,8 +326,8 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/unique-tournament/16717/image",
           "eventName": "Cricket",
           "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/08/01 10:00:05 +0000",
+          "Status": "Upcoming",
+          "startTime": "2026/08/01 13:30:03 +0000",
           "endTime": "2026/08/01 18:00:10 +0000"
         },
         "channels_data": [
@@ -345,14 +345,6 @@
             "logo": "",
             "type": 7,
             "api": "71913f8a2f2dd309414f0e0254f801fe:24793adebaab2515c63635a56ca8ad97",
-            "tokenApi": ""
-          },
-          {
-            "title": "SKY CRICKET - AQ",
-            "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla",
-            "logo": "",
-            "type": 0,
-            "api": "",
             "tokenApi": ""
           },
           {
@@ -943,8 +935,56 @@
         },
         "channels_data": [
           {
-            "title": "",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "title": "WILLOW - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/m0d543o5wv/out/v1/52a921583f1e4a57b620e8435d15f164/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "57e2cbf56a418b8dd25fb41a5fd73c40:05d87ed2bacb50ec4312ee5f53d5363b",
+            "tokenApi": ""
+          },
+          {
+            "title": "SKY CRICKET - AQ",
+            "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "WILLOW - ALT",
+            "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/m0d543o5wv/out/v1/52a921583f1e4a57b620e8435d15f164/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "57e2cbf56a418b8dd25fb41a5fd73c40:05d87ed2bacb50ec4312ee5f53d5363b",
+            "tokenApi": ""
+          },
+          {
+            "title": "TAPMAD - AQ",
+            "link": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8|referer=https://tapmad.com",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "SKY SPORT NZ",
+            "link": "https://tmaxapp.site/8wirwjs76erftg/skysport1nz.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "FOX CRICKET HD",
+            "link": "http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=809389&extension=m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "LOW SERVER",
+            "link": "http://tvsen5.aynascope.net/willowhd/index.m3u8",
             "logo": "",
             "type": 0,
             "api": "",
