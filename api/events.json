@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-01T17:20:49.604626",
-  "event_count": 35,
+  "last_updated": "2026-08-01T17:31:00.851600",
+  "event_count": 34,
   "events": {
     "events": [
       {
@@ -595,8 +595,24 @@
         },
         "channels_data": [
           {
-            "title": "",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "title": "FOX DEPORTES - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811",
+            "tokenApi": ""
+          },
+          {
+            "title": "beiN SPORTS - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
+            "tokenApi": ""
+          },
+          {
+            "title": "LOW SERVER",
+            "link": "http://162.251.160.53:8089/SATFOT4/index.m3u8",
             "logo": "",
             "type": 0,
             "api": "",
@@ -623,33 +639,6 @@
         "channels_data": [
           {
             "title": "LOW QUALITY",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 11036,
-        "title": "Leicester City vs Genoa",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Leicester City",
-          "teamB": "Genoa",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/31/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/2713/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Upcoming",
-          "startTime": "2026/08/01 18:30:00 +0000",
-          "endTime": "2026/08/01 20:50:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "",
             "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
             "logo": "",
             "type": 0,
