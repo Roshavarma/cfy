@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-01T12:40:44.906671",
-  "event_count": 29,
+  "last_updated": "2026-08-01T12:50:52.226704",
+  "event_count": 27,
   "events": {
     "events": [
       {
@@ -495,49 +495,6 @@
         ]
       },
       {
-        "id": 11026,
-        "title": "FC Tokyo vs Borussia Dortmund",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "FC Tokyo",
-          "teamB": "Borussia Dortmund",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/3147/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/2673/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Finish",
-          "startTime": "2026/08/01 10:00:00 +0000",
-          "endTime": "2026/08/01 12:20:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "beIN SPORTS - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-            "logo": "",
-            "type": 7,
-            "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
-            "tokenApi": ""
-          },
-          {
-            "title": "Live 1",
-            "link": "https://live2.jxa76.com/live/sd-6MwdLFVLcLqZenLHYP.m3u8?txSecret=be30395960a75c9101eb2c7a5a285537&txTime=19FBE11FAB7",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "LOW SERVER",
-            "link": "http://193.47.62.190/hls/YQQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
         "id": 11028,
         "title": "Manchester City vs Inter",
         "image": "",
@@ -621,6 +578,14 @@
           "endTime": "2026/08/01 14:50:00 +0000"
         },
         "channels_data": [
+          {
+            "title": "Live 1",
+            "link": "https://live2.jxa76.com/live/sd-6MxiZgqTbVF5uUZbUo.m3u8?txSecret=4a9799a6adb2757c2056388190463ffe&txTime=19FBE9C8FA8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
           {
             "title": "LOW SERVER",
             "link": "http://193.47.62.191/hls/OHFFAaaa.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
@@ -883,33 +848,6 @@
           {
             "title": "",
             "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 11039,
-        "title": "Laos vs Philippines",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Laos",
-          "teamB": "Philippines",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/23486/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/4791/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Finish",
-          "startTime": "2026/08/01 10:00:00 +0000",
-          "endTime": "2026/08/01 12:20:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "LOW SERVER",
-            "link": "http://193.47.62.190/hls/YQQQAAA.m3u8|origin=http://www.fawanews.sc&referer=http://www.fawanews.sc/",
             "logo": "",
             "type": 0,
             "api": "",
