@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-01T22:31:02.337590",
+  "last_updated": "2026-08-01T22:40:53.144256",
   "event_count": 28,
   "events": {
     "events": [
@@ -485,8 +485,16 @@
         },
         "channels_data": [
           {
-            "title": "",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "title": "Live 1",
+            "link": "https://chatgpt.hereisman.net/playlist/54091/load-playlist?|Referer=https://gooz.aapmains.net ",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "HD SERVER",
+            "link": "https://hls.live123.fans/live/4460408.m3u8",
             "logo": "",
             "type": 0,
             "api": "",
@@ -716,7 +724,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/3637/image",
           "eventName": "Baseball",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/08/01 22:40:00 +0000",
           "endTime": "2026/08/02 01:40:00 +0000"
         },
