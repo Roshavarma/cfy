@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-01T14:21:08.810150",
-  "event_count": 42,
+  "last_updated": "2026-08-01T14:31:02.903763",
+  "event_count": 41,
   "events": {
     "events": [
       {
@@ -511,73 +511,6 @@
         ]
       },
       {
-        "id": 11028,
-        "title": "Manchester City vs Inter",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Manchester City",
-          "teamB": "Inter",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/17/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/2697/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Finish",
-          "startTime": "2026/08/01 11:30:00 +0000",
-          "endTime": "2026/08/01 13:50:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "FOX DEPORTES - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811",
-            "tokenApi": ""
-          },
-          {
-            "title": "CBS NETWORK - AQ",
-            "link": "https://tedesco.formaturamaxi.com.br/cbssn.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "Live 1",
-            "link": "https://live2.jxa76.com/live/sd-6Mwe5Hawq1WZSVaoN3.m3u8?txSecret=d1e75a5cd245fede50beb95319849151&txTime=19FBE578277",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "CBS SPORTS HD",
-            "link": "https://tedesco.paradilux.store/cbssn.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "LOW SERVER",
-            "link": "http://193.47.62.193/hls/jaaaF.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "FANCODE - IN",
-            "link": "https://dai-fancode.pages.dev/mumbai/4248014_english_hls_f31f9db7ea17108_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
         "id": 11029,
         "title": "1. FC Magdeburg vs West Ham United",
         "image": "",
@@ -729,6 +662,14 @@
             "logo": "",
             "type": 7,
             "api": "335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281",
+            "tokenApi": ""
+          },
+          {
+            "title": "Live 1",
+            "link": "https://admin2.formaturamaxi.com.br/bein.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
             "tokenApi": ""
           },
           {
