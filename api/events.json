@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-01T09:50:47.961056",
-  "event_count": 32,
+  "last_updated": "2026-08-01T10:01:17.673460",
+  "event_count": 31,
   "events": {
     "events": [
       {
@@ -326,17 +326,17 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/unique-tournament/16717/image",
           "eventName": "Cricket",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/08/01 10:00:05 +0000",
           "endTime": "2026/08/01 18:00:10 +0000"
         },
         "channels_data": [
           {
             "title": "WILLOW - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/j5m5cvi1mw/out/v1/33c2ad2bd0754ee79571bd2c98e86460/cenc.mpd",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/nrxnkti5i2/out/v1/090a5573464f43a08e94a5e2652cd304/cenc.mpd",
             "logo": "",
             "type": 7,
-            "api": "9a4840bd49eee42a5b329fc118714116:ee49bab3b57ba19d205e69758c8d67a8",
+            "api": "71913f8a2f2dd309414f0e0254f801fe:24793adebaab2515c63635a56ca8ad97",
             "tokenApi": ""
           },
           {
@@ -349,10 +349,10 @@
           },
           {
             "title": "WILLOW - ALT",
-            "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/j5m5cvi1mw/out/v1/33c2ad2bd0754ee79571bd2c98e86460/cenc.mpd",
+            "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/nrxnkti5i2/out/v1/090a5573464f43a08e94a5e2652cd304/cenc.mpd",
             "logo": "",
             "type": 7,
-            "api": "9a4840bd49eee42a5b329fc118714116:ee49bab3b57ba19d205e69758c8d67a8",
+            "api": "71913f8a2f2dd309414f0e0254f801fe:24793adebaab2515c63635a56ca8ad97",
             "tokenApi": ""
           },
           {
@@ -373,7 +373,7 @@
           },
           {
             "title": "LOW SERVER",
-            "link": "http://193.47.62.190/hls/KKKKA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+            "link": "http://193.47.62.190/hls/YQQQA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
             "logo": "",
             "type": 0,
             "api": "",
@@ -495,33 +495,6 @@
         ]
       },
       {
-        "id": 11024,
-        "title": "Bayer 04 Leverkusen vs Rot-Weiss Essen",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Bayer 04 Leverkusen",
-          "teamB": "Rot-Weiss Essen",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/2681/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/2562/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/08/01 09:00:00 +0000",
-          "endTime": "2026/08/01 11:20:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
         "id": 11025,
         "title": "Chelsea vs Tottenham Hotspur",
         "image": "",
@@ -568,7 +541,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/2673/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/08/01 10:00:00 +0000",
           "endTime": "2026/08/01 12:20:00 +0000"
         },
@@ -919,7 +892,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/4791/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/08/01 10:00:00 +0000",
           "endTime": "2026/08/01 12:20:00 +0000"
         },
