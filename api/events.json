@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-01T10:01:17.673460",
-  "event_count": 31,
+  "last_updated": "2026-08-01T10:10:43.866700",
+  "event_count": 30,
   "events": {
     "events": [
       {
@@ -340,14 +340,6 @@
             "tokenApi": ""
           },
           {
-            "title": "SKY CRICKET - AQ",
-            "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
             "title": "WILLOW - ALT",
             "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/nrxnkti5i2/out/v1/090a5573464f43a08e94a5e2652cd304/cenc.mpd",
             "logo": "",
@@ -356,8 +348,16 @@
             "tokenApi": ""
           },
           {
+            "title": "SKY CRICKET - AQ",
+            "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
             "title": "TAPMAD - AQ",
-            "link": "https://saseries.akamaized.net/hls/live/2110097/D2PAKvsWI-TesT-tapmad/master.m3u8|referer=https://tapmad.com",
+            "link": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8|referer=https://tapmad.com",
             "logo": "",
             "type": 0,
             "api": "",
@@ -520,6 +520,14 @@
             "tokenApi": ""
           },
           {
+            "title": "Live 1",
+            "link": "https://live2.jxa76.com/live/sd-6Mwe5Hawq5uXBTEdfq.m3u8?txSecret=383ee8feeacceb6de118272ec9c97cb3&txTime=19FBE035F1C",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
             "title": "LOW SERVER",
             "link": "http://193.47.62.194/hls/jaaa.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
             "logo": "",
@@ -552,33 +560,6 @@
             "logo": "",
             "type": 7,
             "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 11027,
-        "title": "Oxford United vs Ipswich Town",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Oxford United",
-          "teamB": "Ipswich Town",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/95/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/32/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Upcoming",
-          "startTime": "2026/08/01 11:00:00 +0000",
-          "endTime": "2026/08/01 13:20:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
             "tokenApi": ""
           }
         ]
@@ -898,8 +879,8 @@
         },
         "channels_data": [
           {
-            "title": "",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "title": "LOW SERVER",
+            "link": "http://193.47.62.190/hls/YQQQAAA.m3u8|origin=http://www.fawanews.sc&referer=http://www.fawanews.sc/",
             "logo": "",
             "type": 0,
             "api": "",
