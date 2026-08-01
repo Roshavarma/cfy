@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-01T15:31:02.574825",
-  "event_count": 41,
+  "last_updated": "2026-08-01T15:41:01.198526",
+  "event_count": 37,
   "events": {
     "events": [
       {
@@ -511,108 +511,6 @@
         ]
       },
       {
-        "id": 11029,
-        "title": "1. FC Magdeburg vs West Ham United",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "1. FC Magdeburg",
-          "teamB": "West Ham United",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/2591/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/37/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Finish",
-          "startTime": "2026/08/01 12:30:00 +0000",
-          "endTime": "2026/08/01 14:50:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "Live 1",
-            "link": "https://live2.jxa76.com/live/sd-6MxiZgqTbVF5uUZbUo.m3u8?txSecret=4a9799a6adb2757c2056388190463ffe&txTime=19FBE9C8FA8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "LOW SERVER",
-            "link": "http://193.47.62.191/hls/OHFFAaaa.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 11030,
-        "title": "Manchester United vs Atletico Madrid",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Manchester United",
-          "teamB": "Atl\u00e9tico Madrid",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/35/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/2836/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Finish",
-          "startTime": "2026/08/01 13:00:00 +0000",
-          "endTime": "2026/08/01 15:20:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "MU TV - AQ",
-            "link": "https://tedesco.formaturamaxi.com.br/mutv.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "MU TV - ATL",
-            "link": "https://fastly.live.brightcove.com/6374054671112/eu-west-1/6058004203001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiYXplMnp5LmVncmVzcy55ODN1ZWIiLCJhY2NvdW50X2lkIjoiNjA1ODAwNDIwMzAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MDU4MDA0MjAzMDAxIl0sImp0aSI6IjYzNzQwNTQ2NzExMTIifQ.3FmuTna3DAmY7xlhK5fk6LMrosrtrR5VsU2QOgYO5y4/playlist-hls.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "MU TV HD",
-            "link": "https://fastly.live.brightcove.com/6374054671112/eu-west-1/6058004203001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiYXplMnp5LmVncmVzcy55ODN1ZWIiLCJhY2NvdW50X2lkIjoiNjA1ODAwNDIwMzAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MDU4MDA0MjAzMDAxIl0sImp0aSI6IjYzNzQwNTQ2NzExMTIifQ.3FmuTna3DAmY7xlhK5fk6LMrosrtrR5VsU2QOgYO5y4/playlist-dash.mpd",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "Live 1",
-            "link": "https://live2.jxa76.com/live/sd-6Mwe5HawVikySJ5LHh.m3u8?txSecret=789539eceaf8d9892c14ee4ae01daf6b&txTime=19FBEB0A432",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "Live 2",
-            "link": "https://chatgpt.hereisman.net/playlist/54050/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "LOW SERVER",
-            "link": "http://193.47.62.193/hls/jaaaFF.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
         "id": 11031,
         "title": "Real Madrid vs Fiorentina",
         "image": "",
@@ -630,8 +528,24 @@
         },
         "channels_data": [
           {
-            "title": "",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "title": "FOX DEPORTES - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811",
+            "tokenApi": ""
+          },
+          {
+            "title": "RM TV SPANISH",
+            "link": "https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "RM TV ENGLISH",
+            "link": "https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/master.m3u8",
             "logo": "",
             "type": 0,
             "api": "",
@@ -675,33 +589,6 @@
           {
             "title": "LOW SERVER",
             "link": "http://193.47.62.191/hls/TFFF.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 11033,
-        "title": "Hamburger SV vs Everton",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Hamburger SV",
-          "teamB": "Everton",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/2676/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/48/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/08/01 15:00:00 +0000",
-          "endTime": "2026/08/01 17:20:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
             "logo": "",
             "type": 0,
             "api": "",
@@ -837,33 +724,6 @@
           {
             "title": "",
             "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 11040,
-        "title": "Thailand vs Malaysia",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Thailand",
-          "teamB": "Malaysia",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/4730/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/6912/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Finish",
-          "startTime": "2026/08/01 13:00:00 +0000",
-          "endTime": "2026/08/01 15:20:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "LOW SERVER",
-            "link": "http://193.47.62.190/hls/NTTTTAAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
             "logo": "",
             "type": 0,
             "api": "",
