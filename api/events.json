@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-02T09:30:51.966646",
+  "last_updated": "2026-08-02T09:40:54.186758",
   "event_count": 30,
   "events": {
     "events": [
@@ -200,9 +200,9 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/187808/image",
           "eventName": "Cricket",
           "isHot": "0",
-          "Status": "Finish",
-          "startTime": "2026/08/02 04:30:53 +0000",
-          "endTime": "2026/08/02 09:00:02 +0000"
+          "Status": "Upcoming",
+          "startTime": "2026/08/04 04:30:38 +0000",
+          "endTime": "2026/08/04 09:00:48 +0000"
         },
         "channels_data": [
           {
@@ -317,31 +317,47 @@
         "channels_data": [
           {
             "title": "WILLOW - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ayjnmiw5wy/out/v1/3070c1e4d0a74cedb09630e4cd6c4ad8/cenc.mpd",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/qsp8wdw6zx/out/v1/8ec8b80ae2894df596d5f8458985ac07/cenc.mpd",
             "logo": "",
             "type": 7,
-            "api": "7f6a671206b136a87c3e6281e3d045de:14be50a9fb175661c2b4f60532cea100",
+            "api": "4233ee682178bef890187634568d759e:f285de0fb1c915abb65e94bec8e1b823",
             "tokenApi": ""
           },
           {
-            "title": "WILLOW - ALT",
-            "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ayjnmiw5wy/out/v1/3070c1e4d0a74cedb09630e4cd6c4ad8/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "7f6a671206b136a87c3e6281e3d045de:14be50a9fb175661c2b4f60532cea100",
-            "tokenApi": ""
-          },
-          {
-            "title": "TAPMAD - AQ",
-            "link": "https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8|referer=https://tapmad.com",
+            "title": "SKY CRICKET - AQ",
+            "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla",
             "logo": "",
             "type": 0,
             "api": "",
             "tokenApi": ""
           },
           {
-            "title": "SonyLiv",
-            "link": "https://sonydaimenew.akamaized.net/hls/live/2022321/DAI17-HWOM/master.m3u8?hdnea=exp=1785601231~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=b4bb1f37b01e2cf27775a96353ab7f725df994e7562f6dd2cc555713dfc5f302",
+            "title": "WILLOW - ALT",
+            "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/qsp8wdw6zx/out/v1/8ec8b80ae2894df596d5f8458985ac07/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "4233ee682178bef890187634568d759e:f285de0fb1c915abb65e94bec8e1b823",
+            "tokenApi": ""
+          },
+          {
+            "title": "TAPMAD - AQ",
+            "link": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8|referer=https://tapmad.com",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "SKY SPORT NZ",
+            "link": "https://tmaxapp.site/8wirwjs76erftg/skysport1nz.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "FOX CRICKET HD",
+            "link": "http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=809389&extension=m3u8",
             "logo": "",
             "type": 0,
             "api": "",
@@ -349,7 +365,7 @@
           },
           {
             "title": "LOW SERVER",
-            "link": "http://193.47.62.190/hls/YQQQA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+            "link": "http://tvsen5.aynascope.net/willowhd/index.m3u8",
             "logo": "",
             "type": 0,
             "api": "",
@@ -369,7 +385,7 @@
           "teamBFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsmI6wJ4yPbXIxh54q--_GIsNlzJrQdSmUBQWfjNvBLw&s=10",
           "eventName": "Cricket",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/08/02 09:30:55 +0000",
           "endTime": "2026/08/02 14:00:59 +0000"
         },
