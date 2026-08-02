@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-02T04:01:05.384936",
-  "event_count": 28,
+  "last_updated": "2026-08-02T04:10:47.002488",
+  "event_count": 20,
   "events": {
     "events": [
       {
@@ -215,15 +215,7 @@
           },
           {
             "title": "TAPMAD - AQ",
-            "link": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8|referer=https://tapmad.com",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "WILLOW HD",
-            "link": "http://tvsen5.aynascope.net/willowhd/index.m3u8",
+            "link": "https://saseries.akamaized.net/hls/live/2110097/D2PAKvsWI-TesT-tapmad/master.m3u8|referer=https://tapmad.com",
             "logo": "",
             "type": 0,
             "api": "",
@@ -232,14 +224,6 @@
           {
             "title": "FANCODE - IN",
             "link": "https://dai-fancode.pages.dev/mumbai/4247427_english_hls_abc2cd096315047_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.7.0 (Linux;Android 10)",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "FANCODE - BD",
-            "link": "https://bd-mc-pdlive.fancode.com/mumbai/4247427_english_hls_abc2cd096315047_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.7.0 (Linux;Android 10)",
             "logo": "",
             "type": 0,
             "api": "",
@@ -374,65 +358,6 @@
         ]
       },
       {
-        "id": 10780,
-        "title": "Global Super League",
-        "image": "null",
-        "cat": "Cricket",
-        "eventInfo": {
-          "teamA": "Global Super League",
-          "teamB": "Global Super League",
-          "teamAFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvZEkeGD-aTND_Umjxnkz5mM7UC7Yam3DQlA2FeQSTuw&s=10",
-          "teamBFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvZEkeGD-aTND_Umjxnkz5mM7UC7Yam3DQlA2FeQSTuw&s=10",
-          "eventName": "Cricket",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/08/01 23:00:02 +0000",
-          "endTime": "2026/08/02 04:00:56 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "WILLOW - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/906wxs4bc5/out/v1/70f815efba1f4a909d07b92a66b6f493/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "07f2640f8a3856c0fdcadfbff1e7eb10:873e8c27c02047309afc3ad23748b6cc",
-            "tokenApi": ""
-          },
-          {
-            "title": "WILLOW - ALT",
-            "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/906wxs4bc5/out/v1/70f815efba1f4a909d07b92a66b6f493/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "07f2640f8a3856c0fdcadfbff1e7eb10:873e8c27c02047309afc3ad23748b6cc",
-            "tokenApi": ""
-          },
-          {
-            "title": "SKY SPORT NZ",
-            "link": "https://tmaxapp.site/8wirwjs76erftg/skysport2nz.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "WILLOW HD",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd|Origin=https://amazon.com&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0",
-            "logo": "",
-            "type": 7,
-            "api": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
-            "tokenApi": ""
-          },
-          {
-            "title": "FOX SPORTS HD",
-            "link": "http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=809389&extension=m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
         "id": 10997,
         "title": "Asian Legends League T20",
         "image": "null",
@@ -460,41 +385,6 @@
           {
             "title": "FANCODE - IN",
             "link": "https://dai-fancode.pages.dev/mumbai/4248193_english_hls_4f8bd291d112318_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 11041,
-        "title": "Inter Miami CF vs Columbus Crew",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Inter Miami CF",
-          "teamB": "Columbus Crew",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/337602/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/2504/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Finish",
-          "startTime": "2026/08/01 23:30:00 +0000",
-          "endTime": "2026/08/02 01:50:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "Live 1",
-            "link": "https://chatgpt.hereisman.net/playlist/54091/load-playlist?|Referer=https://gooz.aapmains.net ",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "HD SERVER",
-            "link": "https://hls.live123.fans/live/4460408.m3u8",
             "logo": "",
             "type": 0,
             "api": "",
@@ -584,380 +474,6 @@
         ]
       },
       {
-        "id": 11048,
-        "title": "Tampa Bay Rays vs Chicago White Sox",
-        "image": "",
-        "cat": "Baseball",
-        "eventInfo": {
-          "teamA": "Tampa Bay Rays",
-          "teamB": "Chicago White Sox",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/3653/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/3644/image",
-          "eventName": "Baseball",
-          "isHot": "0",
-          "Status": "Finish",
-          "startTime": "2026/08/01 20:10:00 +0000",
-          "endTime": "2026/08/01 23:10:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "Live 1",
-            "link": "https://chatgpt.hereisman.net/playlist/54072/load-playlist?&.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://gooz.aapmains.net/new-stream-embed/54072?ad=111&Origin=https://gooz.aapmains.net/new-stream-embed/54072?ad=111",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "HD QUALITY",
-            "link": "https://edgestream2.pro/hls/16yuitzaerghbhc16.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "LOW QUALITY",
-            "link": "http://193.47.62.190/hls/ioooaaAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 11049,
-        "title": "New York Mets vs Miami Marlins",
-        "image": "",
-        "cat": "Baseball",
-        "eventInfo": {
-          "teamA": "New York Mets",
-          "teamB": "Miami Marlins",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/3629/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/3639/image",
-          "eventName": "Baseball",
-          "isHot": "0",
-          "Status": "Finish",
-          "startTime": "2026/08/01 20:10:00 +0000",
-          "endTime": "2026/08/01 23:10:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "Live 1",
-            "link": "https://chatgpt.hereisman.net/playlist/54075/load-playlist?&.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://gooz.aapmains.net/new-stream-embed/54075?ad=111&Origin=https://gooz.aapmains.net/new-stream-embed/54075?ad=111",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "LOW QUALITY",
-            "link": "http://193.47.62.190/hls/ioooaa.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "HD QUALITY",
-            "link": "https://edgestream2.pro/hls/ihfazugfyjcazich17.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 11050,
-        "title": "Seattle Mariners vs Minnesota Twins",
-        "image": "",
-        "cat": "Baseball",
-        "eventInfo": {
-          "teamA": "Seattle Mariners",
-          "teamB": "Minnesota Twins",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/3641/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/3649/image",
-          "eventName": "Baseball",
-          "isHot": "0",
-          "Status": "Finish",
-          "startTime": "2026/08/01 20:10:00 +0000",
-          "endTime": "2026/08/01 23:10:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "Live 1",
-            "link": "https://chatgpt.hereisman.net/playlist/54071/load-playlist?&.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://gooz.aapmains.net/new-stream-embed/54071?ad=111&Origin=https://gooz.aapmains.net/new-stream-embed/54071?ad=111",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "HD QUALITY",
-            "link": "https://edgestream1.pro/hls/Czajafjihafch18.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "LOW QUALITY",
-            "link": "http://193.47.62.190/hls/ioooaaA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 11051,
-        "title": "Cincinnati Reds vs Pittsburgh Pirates",
-        "image": "",
-        "cat": "Baseball",
-        "eventInfo": {
-          "teamA": "Cincinnati Reds",
-          "teamB": "Pittsburgh Pirates",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/3633/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/3637/image",
-          "eventName": "Baseball",
-          "isHot": "0",
-          "Status": "Finish",
-          "startTime": "2026/08/01 22:40:00 +0000",
-          "endTime": "2026/08/02 01:40:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "Live 1",
-            "link": "https://chatgpt.hereisman.net/playlist/54076/load-playlist?|Referer=https://gooz.aapmains.net ",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "HD QUALITY",
-            "link": "https://edgestream1.pro/hls/bzagLHzach19.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "LOW QUALITY",
-            "link": "http://193.47.62.190/hls/KVVVAAAAAAAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 11052,
-        "title": "Houston Astros vs Texas Rangers",
-        "image": "",
-        "cat": "Baseball",
-        "eventInfo": {
-          "teamA": "Houston Astros",
-          "teamB": "Texas Rangers",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/3655/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/3647/image",
-          "eventName": "Baseball",
-          "isHot": "0",
-          "Status": "Finish",
-          "startTime": "2026/08/01 23:10:00 +0000",
-          "endTime": "2026/08/02 02:10:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "Live 1",
-            "link": "https://chatgpt.hereisman.net/playlist/54080/load-playlist?|Referer=https://gooz.aapmains.net ",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "HD QUALITY",
-            "link": "https://edgestream1.pro/hls/ojzkajnach21.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 11053,
-        "title": "Baltimore Orioles vs Philadelphia Phillies",
-        "image": "",
-        "cat": "Baseball",
-        "eventInfo": {
-          "teamA": "Baltimore Orioles",
-          "teamB": "Philadelphia Phillies",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/3652/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/3635/image",
-          "eventName": "Baseball",
-          "isHot": "0",
-          "Status": "Finish",
-          "startTime": "2026/08/01 23:05:00 +0000",
-          "endTime": "2026/08/02 02:05:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "Live 1",
-            "link": "https://chatgpt.hereisman.net/playlist/54079/load-playlist?|Referer=https://gooz.aapmains.net ",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "HD QUALITY",
-            "link": "https://edgestream2.pro/hls/jkzahzadach20.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 11054,
-        "title": "Chicago Cubs vs New York Yankees",
-        "image": "",
-        "cat": "Baseball",
-        "eventInfo": {
-          "teamA": "Chicago Cubs",
-          "teamB": "New York Yankees",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/3627/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/3654/image",
-          "eventName": "Baseball",
-          "isHot": "0",
-          "Status": "Finish",
-          "startTime": "2026/08/01 23:15:00 +0000",
-          "endTime": "2026/08/02 02:15:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "Live 1",
-            "link": "https://chatgpt.hereisman.net/playlist/54084/load-playlist?|Referer=https://gooz.aapmains.net ",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "HD QUALITY",
-            "link": "https://edgestream3.pro/hls/jnzkdzjfanch23.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 11055,
-        "title": "Atlanta Braves vs Washington Nationals",
-        "image": "",
-        "cat": "Baseball",
-        "eventInfo": {
-          "teamA": "Atlanta Braves",
-          "teamB": "Washington Nationals",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/3656/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/5930/image",
-          "eventName": "Baseball",
-          "isHot": "0",
-          "Status": "Finish",
-          "startTime": "2026/08/01 23:15:00 +0000",
-          "endTime": "2026/08/02 02:15:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "Live 1",
-            "link": "https://chatgpt.hereisman.net/playlist/54083/load-playlist?|Referer=https://gooz.aapmains.net ",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "HD QUALITY",
-            "link": "https://edgestream1.pro/hls/fskjanach24.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 11056,
-        "title": "Cleveland Guardians vs Arizona Diamondbacks",
-        "image": "",
-        "cat": "Baseball",
-        "eventInfo": {
-          "teamA": "Cleveland Guardians",
-          "teamB": "Arizona Diamondbacks",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/3650/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/3640/image",
-          "eventName": "Baseball",
-          "isHot": "0",
-          "Status": "Finish",
-          "startTime": "2026/08/01 23:15:00 +0000",
-          "endTime": "2026/08/02 02:15:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "Live 1",
-            "link": "https://chatgpt.hereisman.net/playlist/54085/load-playlist?|Referer=https://gooz.aapmains.net ",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "HD QUALITY",
-            "link": "https://edgestream3.pro/hls/ijfnakfidch22.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 11057,
-        "title": "Colorado Rockies vs Kansas City Royals",
-        "image": "",
-        "cat": "Baseball",
-        "eventInfo": {
-          "teamA": "Colorado Rockies",
-          "teamB": "Kansas City Royals",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/3628/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/3651/image",
-          "eventName": "Baseball",
-          "isHot": "0",
-          "Status": "Finish",
-          "startTime": "2026/08/02 00:10:00 +0000",
-          "endTime": "2026/08/02 03:10:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "HD QUALITY",
-            "link": "https://edgestream1.pro/hls/kjhfzua25.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
         "id": 11058,
         "title": "San Diego Padres vs San Francisco Giants",
         "image": "",
@@ -996,7 +512,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/3646/image",
           "eventName": "Baseball",
           "isHot": "0",
-          "Status": "Live",
+          "Status": "Finish",
           "startTime": "2026/08/02 01:10:00 +0000",
           "endTime": "2026/08/02 04:10:00 +0000"
         },
@@ -1066,87 +582,163 @@
         ]
       },
       {
-        "id": 11062,
-        "title": "Vasco da Gama vs Fluminense",
-        "image": "null",
+        "id": 11064,
+        "title": "Ghana vs Cameroon",
+        "image": "",
         "cat": "Football",
         "eventInfo": {
-          "teamA": "Vasco da Gama",
-          "teamB": "Fluminense",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/1974/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/1961/image",
+          "teamA": "Ghana",
+          "teamB": "Cameroon",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/7417/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/69218/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Finish",
-          "startTime": "2026/08/01 20:30:56 +0000",
-          "endTime": "2026/08/01 22:45:00 +0000"
+          "Status": "Upcoming",
+          "startTime": "2026/08/02 17:00:00 +0000",
+          "endTime": "2026/08/02 19:20:00 +0000"
         },
         "channels_data": [
           {
-            "title": "PREMIER SPORTS - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
+            "title": "",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
             "logo": "",
-            "type": 7,
-            "api": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19",
-            "tokenApi": ""
-          },
-          {
-            "title": "PREMIERE BR - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "56b79c1782b30e6b6fc973b0e8fd4104:fa38aaa865a57eda7c77444697ba8ed3",
-            "tokenApi": ""
-          },
-          {
-            "title": "SporTV BR - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-            "logo": "",
-            "type": 7,
-            "api": "51c0ef23b17297e5c01cd7f36dd0a6ce:8823f713ba6fdb9bbe0a2ad82d309a4b",
+            "type": 0,
+            "api": "",
             "tokenApi": ""
           }
         ]
       },
       {
-        "id": 11063,
-        "title": "Santos vs Remo",
-        "image": "null",
+        "id": 11065,
+        "title": "Mali vs Cabo Verde",
+        "image": "",
         "cat": "Football",
         "eventInfo": {
-          "teamA": "Santos",
-          "teamB": "Remo",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/1968/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/2012/image",
+          "teamA": "Mali",
+          "teamB": "Cabo Verde",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/132944/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/419432/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Finish",
-          "startTime": "2026/08/02 00:00:43 +0000",
-          "endTime": "2026/08/02 02:15:46 +0000"
+          "Status": "Upcoming",
+          "startTime": "2026/08/02 20:00:00 +0000",
+          "endTime": "2026/08/02 22:20:00 +0000"
         },
         "channels_data": [
           {
-            "title": "PREMIER SPORTS - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd",
+            "title": "",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
             "logo": "",
-            "type": 7,
-            "api": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19",
+            "type": 0,
+            "api": "",
             "tokenApi": ""
-          },
+          }
+        ]
+      },
+      {
+        "id": 11066,
+        "title": "Galatasaray vs Stade Rennais",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Galatasaray",
+          "teamB": "Stade Rennais",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3061/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/1658/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/08/02 18:00:00 +0000",
+          "endTime": "2026/08/02 20:20:00 +0000"
+        },
+        "channels_data": [
           {
-            "title": "PREMIERE BR - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd",
+            "title": "",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
             "logo": "",
-            "type": 7,
-            "api": "56b79c1782b30e6b6fc973b0e8fd4104:fa38aaa865a57eda7c77444697ba8ed3",
+            "type": 0,
+            "api": "",
             "tokenApi": ""
-          },
+          }
+        ]
+      },
+      {
+        "id": 11067,
+        "title": "Liverpool FC vs Leeds United",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Liverpool FC",
+          "teamB": "Leeds United",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/44/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/34/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/08/02 20:00:00 +0000",
+          "endTime": "2026/08/02 22:20:00 +0000"
+        },
+        "channels_data": [
           {
-            "title": "SporTV BR - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+            "title": "",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
             "logo": "",
-            "type": 7,
-            "api": "51c0ef23b17297e5c01cd7f36dd0a6ce:8823f713ba6fdb9bbe0a2ad82d309a4b",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 11068,
+        "title": "FC Volendam vs AFC Ajax",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "FC Volendam",
+          "teamB": "AFC Ajax",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/2968/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/2953/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/08/02 12:30:00 +0000",
+          "endTime": "2026/08/02 14:50:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 11069,
+        "title": "Sunderland vs Wrexham",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Sunderland",
+          "teamB": "Wrexham",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/41/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/64/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/08/02 16:00:00 +0000",
+          "endTime": "2026/08/02 18:20:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
             "tokenApi": ""
           }
         ]
