@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-02T18:10:46.710472",
-  "event_count": 28,
+  "last_updated": "2026-08-02T18:20:50.552554",
+  "event_count": 27,
   "events": {
     "events": [
       {
@@ -568,57 +568,6 @@
         ]
       },
       {
-        "id": 11069,
-        "title": "Sunderland vs Wrexham",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Sunderland",
-          "teamB": "Wrexham",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/41/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/64/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/08/02 16:00:00 +0000",
-          "endTime": "2026/08/02 18:20:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "PREMIER SPORTS - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-            "logo": "",
-            "type": 7,
-            "api": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f",
-            "tokenApi": ""
-          },
-          {
-            "title": "HD SERVER",
-            "link": "https://edgestream3.pro/hls/24SDAZFcsqnj24.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "TV PASS HD",
-            "link": "http://162.251.160.53:8089/SUNFOT6/index.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "LOW SERVER",
-            "link": "http://193.47.62.194/hls/BJJJA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
         "id": 11070,
         "title": "Atlanta Braves vs Washington Nationals",
         "image": "",
@@ -910,7 +859,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/3654/image",
           "eventName": "Baseball",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/08/02 18:20:00 +0000",
           "endTime": "2026/08/02 21:20:00 +0000"
         },
@@ -1085,6 +1034,14 @@
           "endTime": "2026/08/02 22:10:00 +0000"
         },
         "channels_data": [
+          {
+            "title": "Live 1",
+            "link": "https://chatgpt.hereisman.net/playlist/54133/load-playlist?|Referer=https://gooz.aapmains.net ",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
           {
             "title": "HD QUALITY",
             "link": "https://edgestream3.pro/hls/fskjanach24.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
