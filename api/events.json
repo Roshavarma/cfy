@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-02T13:30:56.481592",
+  "last_updated": "2026-08-02T13:40:46.462378",
   "event_count": 31,
   "events": {
     "events": [
@@ -250,18 +250,18 @@
         "channels_data": [
           {
             "title": "WILLOW - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/cse2joomlh/out/v1/b5d5b79c707f431682623bc0bba523a4/cenc.mpd",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/gwki82s2bi/out/v1/dae92d65465c4a8da6354123c9ae1b85/cenc.mpd",
             "logo": "",
             "type": 7,
-            "api": "5a9710ee8a56086e0656c1522e763ac6:052e21ca664464ffe790a761a034862f",
+            "api": "073f49c98b014fac6bdc28613f2db606:cd379c5766086df20eb674d073e1d4cd",
             "tokenApi": ""
           },
           {
             "title": "WILLOW - ALT",
-            "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/cse2joomlh/out/v1/b5d5b79c707f431682623bc0bba523a4/cenc.mpd",
+            "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/gwki82s2bi/out/v1/dae92d65465c4a8da6354123c9ae1b85/cenc.mpd",
             "logo": "",
             "type": 7,
-            "api": "5a9710ee8a56086e0656c1522e763ac6:052e21ca664464ffe790a761a034862f",
+            "api": "073f49c98b014fac6bdc28613f2db606:cd379c5766086df20eb674d073e1d4cd",
             "tokenApi": ""
           },
           {
@@ -275,14 +275,6 @@
           {
             "title": "FANCODE - IN",
             "link": "https://livecf.fancode.com/143633_english_hls_37959550fb58378_1ta-di_h264/index.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "FANCODE - BD",
-            "link": "https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/west_indies_vs_pakistan_143633_english.m3u8",
             "logo": "",
             "type": 0,
             "api": "",
@@ -310,7 +302,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/unique-tournament/16717/image",
           "eventName": "Cricket",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/08/02 13:30:41 +0000",
           "endTime": "2026/08/02 18:00:44 +0000"
         },
@@ -332,8 +324,8 @@
             "tokenApi": ""
           },
           {
-            "title": "TAPMAD - AQ",
-            "link": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8|referer=https://tapmad.com",
+            "title": "SonyLiv",
+            "link": "https://sonydaimenew.akamaized.net/hls/live/2022321/DAI17-HWOM/master.m3u8?hdnea=exp=1785700667~acl=/*~id=13573232039797740448193093055663~hmac=12736d13be76fcce2ba622fe0e4a7b89ed4a7a9cf8fc2992838d2c9e4c816926",
             "logo": "",
             "type": 0,
             "api": "",
@@ -402,8 +394,32 @@
         },
         "channels_data": [
           {
-            "title": "",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "title": "WILLOW - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/2cfg2bnfy2/out/v1/e04f7be270f345f7b9712c6d619c9cc5/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "54bfa3c834811c007885354912593547:65cabf948613b32d83d14179670f7a13",
+            "tokenApi": ""
+          },
+          {
+            "title": "WILLOW - ALT",
+            "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/2cfg2bnfy2/out/v1/e04f7be270f345f7b9712c6d619c9cc5/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "54bfa3c834811c007885354912593547:65cabf948613b32d83d14179670f7a13",
+            "tokenApi": ""
+          },
+          {
+            "title": "T SPORTS HD",
+            "link": "https://s1.itcnbd.live/T-Sports-HD/tracks-v1a1/mono.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "FANCODE - IN",
+            "link": "https://dai-fancode.pages.dev/mumbai/4246719_english_hls_21c3a47cef57337_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/",
             "logo": "",
             "type": 0,
             "api": "",
@@ -471,6 +487,14 @@
           {
             "title": "FOX CRICKET HD",
             "link": "http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=809389&extension=m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "SonyLiv",
+            "link": "https://sonydaimenew.akamaized.net/hls/live/2022322/DAI18-HMEN/master.m3u8?hdnea=exp=1785700667~acl=/*~id=13573232039797740448193093055663~hmac=12736d13be76fcce2ba622fe0e4a7b89ed4a7a9cf8fc2992838d2c9e4c816926",
             "logo": "",
             "type": 0,
             "api": "",
