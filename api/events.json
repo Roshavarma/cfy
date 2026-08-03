@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-03T13:30:58.897533",
+  "last_updated": "2026-08-03T13:40:52.384709",
   "event_count": 25,
   "events": {
     "events": [
@@ -250,18 +250,18 @@
         "channels_data": [
           {
             "title": "WILLOW - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/gwki82s2bi/out/v1/dae92d65465c4a8da6354123c9ae1b85/cenc.mpd",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/54xvj77jse/out/v1/3a5f4414cdd545839f98cc93b790af70/cenc.mpd",
             "logo": "",
             "type": 7,
-            "api": "073f49c98b014fac6bdc28613f2db606:cd379c5766086df20eb674d073e1d4cd",
+            "api": "ac2311e52a567706a77f5e2eeb75e707:518aff73a8da4c8b84fbe711505aabc8",
             "tokenApi": ""
           },
           {
             "title": "WILLOW - ALT",
-            "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/gwki82s2bi/out/v1/dae92d65465c4a8da6354123c9ae1b85/cenc.mpd",
+            "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/54xvj77jse/out/v1/3a5f4414cdd545839f98cc93b790af70/cenc.mpd",
             "logo": "",
             "type": 7,
-            "api": "073f49c98b014fac6bdc28613f2db606:cd379c5766086df20eb674d073e1d4cd",
+            "api": "ac2311e52a567706a77f5e2eeb75e707:518aff73a8da4c8b84fbe711505aabc8",
             "tokenApi": ""
           },
           {
@@ -282,7 +282,7 @@
           },
           {
             "title": "FANCODE - IN",
-            "link": "https://dai-fancode.pages.dev/mumbai/143634_english_hls_3a8752838659262_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/",
+            "link": "https://dai-fancode.pages.dev/mumbai/143634_english_hls_3a8752838638691_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/",
             "logo": "",
             "type": 0,
             "api": "",
@@ -309,23 +309,39 @@
         "channels_data": [
           {
             "title": "WILLOW - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/pl1ezqchyz/out/v1/605ef67735e2486abc1ba548e9ce0f7f/cenc.mpd",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/jxu8h3g1qm/out/v1/eef0cc6bfe96430896fb3dd56e8f0dff/cenc.mpd",
             "logo": "",
             "type": 7,
-            "api": "1edc619d2a59d202df46cf44697b09a1:c4621d2644854c372c6ef1c3dbd2532a",
+            "api": "5bf7ba08dbcbb5de11b183fe281c46ec:aaa3a81ae3d7c0c1b23e81decc61a788",
+            "tokenApi": ""
+          },
+          {
+            "title": "SKY CRICKET - AQ",
+            "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla",
+            "logo": "",
+            "type": 0,
+            "api": "",
             "tokenApi": ""
           },
           {
             "title": "WILLOW - ALT",
-            "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/pl1ezqchyz/out/v1/605ef67735e2486abc1ba548e9ce0f7f/cenc.mpd",
+            "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/jxu8h3g1qm/out/v1/eef0cc6bfe96430896fb3dd56e8f0dff/cenc.mpd",
             "logo": "",
             "type": 7,
-            "api": "1edc619d2a59d202df46cf44697b09a1:c4621d2644854c372c6ef1c3dbd2532a",
+            "api": "5bf7ba08dbcbb5de11b183fe281c46ec:aaa3a81ae3d7c0c1b23e81decc61a788",
             "tokenApi": ""
           },
           {
-            "title": "SonyLiv",
-            "link": "https://sonydaimenew.akamaized.net/hls/live/2022321/DAI17-HWOM/master.m3u8?hdnea=exp=1785700667~acl=/*~id=13573232039797740448193093055663~hmac=12736d13be76fcce2ba622fe0e4a7b89ed4a7a9cf8fc2992838d2c9e4c816926",
+            "title": "SKY SPORT NZ",
+            "link": "https://tmaxapp.site/8wirwjs76erftg/skysport1nz.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "FOX CRICKET HD",
+            "link": "http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=809389&extension=m3u8",
             "logo": "",
             "type": 0,
             "api": "",
@@ -333,7 +349,7 @@
           },
           {
             "title": "LOW SERVER",
-            "link": "http://193.47.62.193/hls/WOOOAAAa.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+            "link": "http://193.47.62.190/hls/NNNNAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
             "logo": "",
             "type": 0,
             "api": "",
