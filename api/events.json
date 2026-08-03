@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-03T13:40:52.384709",
+  "last_updated": "2026-08-03T13:50:48.990288",
   "event_count": 25,
   "events": {
     "events": [
@@ -243,8 +243,8 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/187754/image",
           "eventName": "Cricket",
           "isHot": "0",
-          "Status": "Upcoming",
-          "startTime": "2026/08/03 14:00:31 +0000",
+          "Status": "Live",
+          "startTime": "2026/08/03 13:30:24 +0000",
           "endTime": "2026/08/03 22:00:39 +0000"
         },
         "channels_data": [
@@ -329,6 +329,14 @@
             "logo": "",
             "type": 7,
             "api": "5bf7ba08dbcbb5de11b183fe281c46ec:aaa3a81ae3d7c0c1b23e81decc61a788",
+            "tokenApi": ""
+          },
+          {
+            "title": "TAPMAD - AQ",
+            "link": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8|referer=https://tapmad.com",
+            "logo": "",
+            "type": 0,
+            "api": "",
             "tokenApi": ""
           },
           {
