@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-03T18:20:47.906545",
+  "last_updated": "2026-08-03T18:31:01.252208",
   "event_count": 24,
   "events": {
     "events": [
@@ -916,11 +916,19 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/4875/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/08/03 18:30:00 +0000",
           "endTime": "2026/08/03 20:50:00 +0000"
         },
         "channels_data": [
+          {
+            "title": "Live 1",
+            "link": "https://live.vivo200.com/live/sd-1-4550486.m3u8?txSecret=86c5d4697010836b54808a97bd849624&txTime=6A70F0C4|Referer=https://player.online909.com/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
           {
             "title": "LOW QUALITY",
             "link": "http://193.47.62.190/hls/GBBBDDDDD.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
