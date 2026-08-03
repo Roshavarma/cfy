@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-03T12:40:43.611370",
-  "event_count": 24,
+  "last_updated": "2026-08-03T12:50:49.655637",
+  "event_count": 25,
   "events": {
     "events": [
       {
@@ -566,33 +566,6 @@
         ]
       },
       {
-        "id": 11093,
-        "title": "Cambodia vs East Timor",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Cambodia",
-          "teamB": "East Timor",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/7929/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/23497/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/08/03 10:30:00 +0000",
-          "endTime": "2026/08/03 12:50:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "LOW SERVER",
-            "link": "http://193.47.62.190/hls/NNNN.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
         "id": 11094,
         "title": "Indonesia vs Vietnam",
         "image": "",
@@ -823,6 +796,68 @@
           "Status": "Upcoming",
           "startTime": "2026/08/04 01:40:00 +0000",
           "endTime": "2026/08/04 04:40:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 11103,
+        "title": "Athletico vs Vitoria",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Athletico",
+          "teamB": "Vit\u00f3ria",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/1967/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/1962/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/08/04 00:00:00 +0000",
+          "endTime": "2026/08/04 02:20:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "PREMIERE BR - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "56b79c1782b30e6b6fc973b0e8fd4104:fa38aaa865a57eda7c77444697ba8ed3",
+            "tokenApi": ""
+          },
+          {
+            "title": "SporTV BR - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+            "logo": "",
+            "type": 7,
+            "api": "51c0ef23b17297e5c01cd7f36dd0a6ce:8823f713ba6fdb9bbe0a2ad82d309a4b",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 11104,
+        "title": "Woking vs Crawley Town",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Woking",
+          "teamB": "Crawley Town",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/128/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/4875/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/08/04 18:45:00 +0000",
+          "endTime": "2026/08/04 21:05:00 +0000"
         },
         "channels_data": [
           {
