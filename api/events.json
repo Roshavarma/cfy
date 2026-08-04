@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-04T13:50:57.523494",
-  "event_count": 38,
+  "last_updated": "2026-08-04T14:01:17.550662",
+  "event_count": 37,
   "events": {
     "events": [
       {
@@ -329,14 +329,6 @@
             "tokenApi": ""
           },
           {
-            "title": "LOW SERVER",
-            "link": "http://193.47.62.193/hls/YOOOAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
             "title": "FANCODE - IN",
             "link": "https://dai-fancode.pages.dev/mumbai/143634_english_hls_3a8752838620186_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/",
             "logo": "",
@@ -358,17 +350,17 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/unique-tournament/16717/image",
           "eventName": "Cricket",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/08/04 14:00:13 +0000",
           "endTime": "2026/08/04 17:55:16 +0000"
         },
         "channels_data": [
           {
             "title": "WILLOW - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/jxu8h3g1qm/out/v1/eef0cc6bfe96430896fb3dd56e8f0dff/cenc.mpd",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/y33nu8ijh3/out/v1/321e553de76e47a193740a2f81ea515f/cenc.mpd",
             "logo": "",
             "type": 7,
-            "api": "5bf7ba08dbcbb5de11b183fe281c46ec:aaa3a81ae3d7c0c1b23e81decc61a788",
+            "api": "b4342bb871ce6a48b5cb27583003d838:337b1b0f5b2ec3f1180742c0f09f098f",
             "tokenApi": ""
           },
           {
@@ -381,10 +373,10 @@
           },
           {
             "title": "WILLOW - ALT",
-            "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/jxu8h3g1qm/out/v1/eef0cc6bfe96430896fb3dd56e8f0dff/cenc.mpd",
+            "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/y33nu8ijh3/out/v1/321e553de76e47a193740a2f81ea515f/cenc.mpd",
             "logo": "",
             "type": 7,
-            "api": "5bf7ba08dbcbb5de11b183fe281c46ec:aaa3a81ae3d7c0c1b23e81decc61a788",
+            "api": "b4342bb871ce6a48b5cb27583003d838:337b1b0f5b2ec3f1180742c0f09f098f",
             "tokenApi": ""
           },
           {
@@ -406,14 +398,6 @@
           {
             "title": "FOX CRICKET HD",
             "link": "http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=809389&extension=m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "LOW SERVER",
-            "link": "http://193.47.62.190/hls/NNNNAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
             "logo": "",
             "type": 0,
             "api": "",
@@ -468,65 +452,6 @@
           {
             "title": "",
             "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 11089,
-        "title": "Jeju SK vs FC Bayern Munchen",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Jeju SK",
-          "teamB": "FC Bayern M\u00fcnchen",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/7649/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/2672/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Finish",
-          "startTime": "2026/08/04 11:00:00 +0000",
-          "endTime": "2026/08/04 13:20:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "Sport TV HD",
-            "link": "https://cast.zlive.st/p/auto-sport-tv1-0/index.m3u8|referer=https://zlive.st/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "Live 1",
-            "link": "https://play.aarray.cn/rrty/sd-1-4541783_gqzm.m3u8?auth_key=1785844621-0-0-88dd3d149d68388e23abedb0655ae4c2&token=db2f19d4f863b7ac&device=4&platform=rrty",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "HD SERVER",
-            "link": "https://live2.streambylivepulse.com/live/channel16.m3u8|Referer=https://soco.livebytexscorez.com/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "Live 2",
-            "link": "https://pul-tenm.gkykp.com/live/sd-1-4541783.m3u8?txSecret=cac8ecffba330f284047fe452cbcd94e&txTime=6A7316C0",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "LOW SERVER",
-            "link": "http://193.47.62.190/hls/IOOOA.m3u8|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
             "logo": "",
             "type": 0,
             "api": "",
