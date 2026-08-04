@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-04T17:20:49.951696",
-  "event_count": 34,
+  "last_updated": "2026-08-04T17:31:06.835411",
+  "event_count": 36,
   "events": {
     "events": [
       {
@@ -471,7 +471,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/377175/image",
           "eventName": "Cricket",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/08/04 17:30:00 +0000",
           "endTime": "2026/08/04 21:30:00 +0000"
         },
@@ -511,6 +511,14 @@
           {
             "title": "FOX CRICKET HD",
             "link": "http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=809389&extension=m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "SonyLiv",
+            "link": "https://sonydaimenew.akamaized.net/hls/live/2022322/DAI18-HMEN/master.m3u8?hdnea=exp=1785873047~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=55d04982c4e5201688218f9b7c26b1540df19a25e187d3004a8a214aed750d79|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:153.0) Gecko/20100101 Firefox/153.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com",
             "logo": "",
             "type": 0,
             "api": "",
@@ -1208,8 +1216,70 @@
         },
         "channels_data": [
           {
+            "title": "Live 1",
+            "link": "https://live2.streambylivepulse.com/live/channel20.m3u8|Referer=https://soco.livepingscorex.com ",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
             "title": "LOW SERVER",
             "link": "http://193.47.62.190/hls/IOOO.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 11137,
+        "title": "Newport County vs AS Roma",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Newport County",
+          "teamB": "AS Roma",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/79/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/2702/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/08/04 18:00:00 +0000",
+          "endTime": "2026/08/04 20:20:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "LOW SERVER",
+            "link": "http://193.47.62.194/hls/NNNN.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 11138,
+        "title": "Ipswich Town vs Le Havre",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Ipswich Town",
+          "teamB": "Le Havre",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/32/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/1662/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/08/04 18:45:00 +0000",
+          "endTime": "2026/08/04 21:05:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "LOW SERVER",
+            "link": "http://193.47.62.194/hls/NNNNA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
             "logo": "",
             "type": 0,
             "api": "",
