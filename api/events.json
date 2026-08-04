@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-04T11:20:56.971454",
+  "last_updated": "2026-08-04T11:31:15.018890",
   "event_count": 40,
   "events": {
     "events": [
@@ -492,6 +492,22 @@
           "endTime": "2026/08/04 13:20:00 +0000"
         },
         "channels_data": [
+          {
+            "title": "Sport TV HD",
+            "link": "https://cast.zlive.st/p/auto-sport-tv1-0/index.m3u8|referer=https://zlive.st/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "Live 1",
+            "link": "https://play.aarray.cn/rrty/sd-1-4541783_gqzm.m3u8?auth_key=1785844621-0-0-88dd3d149d68388e23abedb0655ae4c2&token=db2f19d4f863b7ac&device=4&platform=rrty",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
           {
             "title": "HD SERVER",
             "link": "https://live2.streambylivepulse.com/live/channel16.m3u8|Referer=https://soco.livebytexscorez.com/",
