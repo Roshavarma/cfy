@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-04T15:50:51.555575",
-  "event_count": 37,
+  "last_updated": "2026-08-04T16:01:26.274855",
+  "event_count": 35,
   "events": {
     "events": [
       {
@@ -595,41 +595,6 @@
         ]
       },
       {
-        "id": 11111,
-        "title": "BG Pathum United vs Aston Villa",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "BG Pathum United",
-          "teamB": "Aston Villa",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/35607/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/40/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Finish",
-          "startTime": "2026/08/04 12:30:00 +0000",
-          "endTime": "2026/08/04 14:50:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "Live 1",
-            "link": "https://live2.streambylivepulse.com/live/channel14.m3u8|Referer=https://soco.livebytexscorez.com/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "LOW SERVER",
-            "link": "http://193.47.62.190/hls/IOOOAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
         "id": 11112,
         "title": "Newport County vs AS Roma",
         "image": "",
@@ -695,14 +660,14 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/2598/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/08/04 16:00:00 +0000",
           "endTime": "2026/08/04 18:20:00 +0000"
         },
         "channels_data": [
           {
-            "title": "",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "title": "LOW SERVER",
+            "link": "http://193.47.62.190/hls/FPPPAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
             "logo": "",
             "type": 0,
             "api": "",
@@ -1224,41 +1189,6 @@
           {
             "title": "",
             "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 11135,
-        "title": "Philippines vs Thailand",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Philippines",
-          "teamB": "Thailand",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/4791/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/4730/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Finish",
-          "startTime": "2026/08/04 13:00:00 +0000",
-          "endTime": "2026/08/04 15:20:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "Live 1",
-            "link": "https://live2.streambylivepulse.com/live/channel15.m3u8|Referer=https://soco.livepingscorex.com ",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "LOW SERVER",
-            "link": "http://193.47.62.190/hls/IOOOAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
             "logo": "",
             "type": 0,
             "api": "",
