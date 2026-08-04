@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-04T08:50:52.042786",
-  "event_count": 33,
+  "last_updated": "2026-08-04T09:01:20.184535",
+  "event_count": 39,
   "events": {
     "events": [
       {
@@ -1074,6 +1074,168 @@
           "Status": "Upcoming",
           "startTime": "2026/08/04 23:10:00 +0000",
           "endTime": "2026/08/05 02:10:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 11130,
+        "title": "Remo vs Santos",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Remo",
+          "teamB": "Santos",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/2012/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/1968/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/08/05 00:30:00 +0000",
+          "endTime": "2026/08/05 02:50:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 11131,
+        "title": "Juventude vs Atletico Mineiro",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Juventude",
+          "teamB": "Atl\u00e9tico Mineiro",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/1980/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/1977/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/08/04 22:30:00 +0000",
+          "endTime": "2026/08/05 00:50:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 11132,
+        "title": "Burkina Faso vs South Africa",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Burkina Faso",
+          "teamB": "South Africa",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/316668/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/65336/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/08/04 20:00:00 +0000",
+          "endTime": "2026/08/04 22:20:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 11133,
+        "title": "Tanzania vs Cote dIvoire",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Tanzania",
+          "teamB": "C\u00f4te d'Ivoire",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/291680/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/186328/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/08/04 20:00:00 +0000",
+          "endTime": "2026/08/04 22:20:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 11134,
+        "title": "Myanmar vs Laos",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Myanmar",
+          "teamB": "Laos",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/23484/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/23486/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/08/04 10:00:00 +0000",
+          "endTime": "2026/08/04 12:20:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 11135,
+        "title": "Philippines vs Thailand",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Philippines",
+          "teamB": "Thailand",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/4791/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/4730/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/08/04 13:00:00 +0000",
+          "endTime": "2026/08/04 15:20:00 +0000"
         },
         "channels_data": [
           {
