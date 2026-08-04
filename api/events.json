@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-04T03:50:35.593335",
-  "event_count": 13,
+  "last_updated": "2026-08-04T04:01:03.614183",
+  "event_count": 17,
   "events": {
     "events": [
       {
@@ -517,41 +517,6 @@
         ]
       },
       {
-        "id": 11101,
-        "title": "Colorado Rockies vs Tampa Bay Rays",
-        "image": "",
-        "cat": "Baseball",
-        "eventInfo": {
-          "teamA": "Colorado Rockies",
-          "teamB": "Tampa Bay Rays",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/3628/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/3653/image",
-          "eventName": "Baseball",
-          "isHot": "0",
-          "Status": "Finish",
-          "startTime": "2026/08/04 00:40:00 +0000",
-          "endTime": "2026/08/04 03:40:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "Live 1",
-            "link": "https://chatgpt.hereisman.net/playlist/54169/load-playlist?|Referer=https://gooz.aapmains.net",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "HD QUALITY",
-            "link": "https://edgestream3.pro/hls/ojzkajnach21.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
         "id": 11102,
         "title": "Arizona Diamondbacks vs San Diego Padres",
         "image": "",
@@ -587,6 +552,141 @@
           {
             "title": "HD QUALITY",
             "link": "https://edgestream2.pro/hls/ijfnakfidch22.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 11106,
+        "title": "Sunrisers Leeds vs London Spirit",
+        "image": "",
+        "cat": "Cricket",
+        "eventInfo": {
+          "teamA": "Sunrisers Leeds",
+          "teamB": "London Spirit",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/377178/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/377175/image",
+          "eventName": "Cricket",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/08/04 17:30:00 +0000",
+          "endTime": "2026/08/04 21:30:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 11107,
+        "title": "Manchester Super Giants vs Welsh Fire",
+        "image": "",
+        "cat": "Cricket",
+        "eventInfo": {
+          "teamA": "Manchester Super Giants",
+          "teamB": "Welsh Fire",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/377173/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/377179/image",
+          "eventName": "Cricket",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/08/05 14:00:00 +0000",
+          "endTime": "2026/08/05 18:00:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 11108,
+        "title": "Trent Rockets vs Birmingham Phoenix",
+        "image": "",
+        "cat": "Cricket",
+        "eventInfo": {
+          "teamA": "Trent Rockets",
+          "teamB": "Birmingham Phoenix",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/377176/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/377174/image",
+          "eventName": "Cricket",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/08/05 17:30:00 +0000",
+          "endTime": "2026/08/05 21:30:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 11109,
+        "title": "Australia vs Bangladesh",
+        "image": "",
+        "cat": "Cricket",
+        "eventInfo": {
+          "teamA": "Australia",
+          "teamB": "Bangladesh",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/187746/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/187744/image",
+          "eventName": "Cricket",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/08/13 00:30:00 +0000",
+          "endTime": "2026/08/13 04:30:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 11110,
+        "title": "Ireland vs Afghanistan",
+        "image": "",
+        "cat": "Cricket",
+        "eventInfo": {
+          "teamA": "Ireland",
+          "teamB": "Afghanistan",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/187766/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/187575/image",
+          "eventName": "Cricket",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/08/05 09:45:00 +0000",
+          "endTime": "2026/08/05 13:45:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
             "logo": "",
             "type": 0,
             "api": "",
