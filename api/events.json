@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-04T11:01:13.779622",
+  "last_updated": "2026-08-04T11:11:00.513770",
   "event_count": 40,
   "events": {
     "events": [
@@ -493,8 +493,16 @@
         },
         "channels_data": [
           {
-            "title": "",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "title": "HD SERVER",
+            "link": "https://live2.streambylivepulse.com/live/channel16.m3u8|Referer=https://soco.livebytexscorez.com/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "LOW SERVER",
+            "link": "http://193.47.62.190/hls/IOOOA.m3u8|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
             "logo": "",
             "type": 0,
             "api": "",
