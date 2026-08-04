@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-04T17:10:50.169669",
-  "event_count": 35,
+  "last_updated": "2026-08-04T17:20:49.951696",
+  "event_count": 34,
   "events": {
     "events": [
       {
@@ -350,9 +350,9 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/unique-tournament/16717/image",
           "eventName": "Cricket",
           "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/08/04 14:00:13 +0000",
-          "endTime": "2026/08/04 17:55:16 +0000"
+          "Status": "Upcoming",
+          "startTime": "2026/08/05 10:30:14 +0000",
+          "endTime": "2026/08/05 17:55:18 +0000"
         },
         "channels_data": [
           {
@@ -477,8 +477,48 @@
         },
         "channels_data": [
           {
-            "title": "",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "title": "WILLOW - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/g4qsi8y3ym/out/v1/47a24c50844d41b6a7e47101d2b38811/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "0c9c4eb9d787e021bc477fc1108716c9:e74a9fd58f3950317920fe21fb823109",
+            "tokenApi": ""
+          },
+          {
+            "title": "SKY CRICKET - AQ",
+            "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "WILLOW - ALT",
+            "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/g4qsi8y3ym/out/v1/47a24c50844d41b6a7e47101d2b38811/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "0c9c4eb9d787e021bc477fc1108716c9:e74a9fd58f3950317920fe21fb823109",
+            "tokenApi": ""
+          },
+          {
+            "title": "TAPMAD - AQ",
+            "link": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8|referer=https://tapmad.com",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "FOX CRICKET HD",
+            "link": "http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=809389&extension=m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "LOW SERVER",
+            "link": "http://193.47.62.190/hls/NNNNAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
             "logo": "",
             "type": 0,
             "api": "",
@@ -582,33 +622,6 @@
           "Status": "Upcoming",
           "startTime": "2026/08/05 09:45:00 +0000",
           "endTime": "2026/08/05 13:45:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 11112,
-        "title": "Newport County vs AS Roma",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Newport County",
-          "teamB": "AS Roma",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/79/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/2702/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Upcoming",
-          "startTime": "2026/08/04 18:00:00 +0000",
-          "endTime": "2026/08/04 20:20:00 +0000"
         },
         "channels_data": [
           {
