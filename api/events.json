@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-04T12:31:16.107710",
-  "event_count": 40,
+  "last_updated": "2026-08-04T12:40:57.901108",
+  "event_count": 39,
   "events": {
     "events": [
       {
@@ -714,6 +714,14 @@
         },
         "channels_data": [
           {
+            "title": "Live 1",
+            "link": "https://live2.streambylivepulse.com/live/channel14.m3u8|Referer=https://soco.livebytexscorez.com/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
             "title": "LOW SERVER",
             "link": "http://193.47.62.190/hls/IOOOAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
             "logo": "",
@@ -1318,33 +1326,6 @@
           {
             "title": "",
             "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 11134,
-        "title": "Myanmar vs Laos",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Myanmar",
-          "teamB": "Laos",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/23484/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/23486/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Finish",
-          "startTime": "2026/08/04 10:00:00 +0000",
-          "endTime": "2026/08/04 12:20:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "LOW SERVER",
-            "link": "http://193.47.62.190/hls/IOOO.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
             "logo": "",
             "type": 0,
             "api": "",
