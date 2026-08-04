@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-04T17:01:22.316726",
-  "event_count": 34,
+  "last_updated": "2026-08-04T17:10:50.169669",
+  "event_count": 35,
   "events": {
     "events": [
       {
@@ -1173,6 +1173,33 @@
             "logo": "",
             "type": 7,
             "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 11136,
+        "title": "Al-Nassr vs Almeria",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Al-Nassr",
+          "teamB": "Almer\u00eda",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/23400/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/2858/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Live",
+          "startTime": "2026/08/04 17:00:00 +0000",
+          "endTime": "2026/08/04 19:20:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "LOW SERVER",
+            "link": "http://193.47.62.190/hls/IOOO.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+            "logo": "",
+            "type": 0,
+            "api": "",
             "tokenApi": ""
           }
         ]
