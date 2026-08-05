@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-05T13:11:01.590171",
-  "event_count": 41,
+  "last_updated": "2026-08-05T13:20:53.949364",
+  "event_count": 37,
   "events": {
     "events": [
       {
@@ -414,36 +414,36 @@
         ]
       },
       {
-        "id": 11086,
-        "title": "Jaffna Kings vs Galle Gallants",
+        "id": 11087,
+        "title": "Colombo Kaps vs Kandy Royals",
         "image": "",
         "cat": "Cricket",
         "eventInfo": {
-          "teamA": "Jaffna Kings",
-          "teamB": "Galle Gallants",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/453388/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/453389/image",
+          "teamA": "Colombo Kaps",
+          "teamB": "Kandy Royals",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/453390/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/369187/image",
           "eventName": "Cricket",
           "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/08/05 09:30:00 +0000",
-          "endTime": "2026/08/05 13:30:00 +0000"
+          "Status": "Upcoming",
+          "startTime": "2026/08/05 14:00:00 +0000",
+          "endTime": "2026/08/05 18:00:00 +0000"
         },
         "channels_data": [
           {
             "title": "WILLOW - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/4ubunq88zf/out/v1/284fa0dc93c34624b2f7edf36c7a8b3c/cenc.mpd",
+            "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wx8qp3mtj9/out/v1/e5a1e6f869a04a89a8fbf5d00b60cb72/cenc.mpd",
             "logo": "",
             "type": 7,
-            "api": "595932d92efbd8423ac32fbffcc78dca:adea3202c6154d11faad1d54b363763c",
+            "api": "2bd8f61e29e4e73e1d44ce0a55a1981e:35e79af4972a7265ad6a220740905e3b",
             "tokenApi": ""
           },
           {
             "title": "WILLOW - ALT",
-            "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/4ubunq88zf/out/v1/284fa0dc93c34624b2f7edf36c7a8b3c/cenc.mpd",
+            "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wx8qp3mtj9/out/v1/e5a1e6f869a04a89a8fbf5d00b60cb72/cenc.mpd",
             "logo": "",
             "type": 7,
-            "api": "595932d92efbd8423ac32fbffcc78dca:adea3202c6154d11faad1d54b363763c",
+            "api": "2bd8f61e29e4e73e1d44ce0a55a1981e:35e79af4972a7265ad6a220740905e3b",
             "tokenApi": ""
           },
           {
@@ -480,34 +480,7 @@
           },
           {
             "title": "FANCODE - IN",
-            "link": "https://dai-fancode.pages.dev/mumbai/4246730_english_hls_2cd3c7f2c483767_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 11087,
-        "title": "Colombo Kaps vs Kandy Royals",
-        "image": "",
-        "cat": "Cricket",
-        "eventInfo": {
-          "teamA": "Colombo Kaps",
-          "teamB": "Kandy Royals",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/453390/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/369187/image",
-          "eventName": "Cricket",
-          "isHot": "0",
-          "Status": "Upcoming",
-          "startTime": "2026/08/05 14:00:00 +0000",
-          "endTime": "2026/08/05 18:00:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "link": "https://in-mc-pdlive.fancode.com/mumbai/4246714_english_hls_073cf4f34754904_1ta-di_h264/index.m3u8",
             "logo": "",
             "type": 0,
             "api": "",
@@ -627,124 +600,6 @@
             "logo": "",
             "type": 7,
             "api": "6bba14af87d4c612d2374935291b33bd:6ac0fef8b7181dac3862a82bc491cc1a",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 11140,
-        "title": "AC Milan vs Inter",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "AC Milan",
-          "teamB": "Inter",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/2692/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/2697/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/08/05 11:00:00 +0000",
-          "endTime": "2026/08/05 13:20:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "FOX DEPORTES - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-            "logo": "",
-            "type": 7,
-            "api": "d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811",
-            "tokenApi": ""
-          },
-          {
-            "title": "DAZN SPORTS - AQ",
-            "link": "https://messi.damitv.st/papi/tv/dlhd/877/playlist.m3u8?|Referer=https://ondemand.st/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "Live 1",
-            "link": "https://live.vivo200.com/live/sd-1-4541781.m3u8?txSecret=2714b76bd67b88e0140131fddc7f39c4&txTime=6A732824|Referer=https://player.online909.com/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "HD SERVER",
-            "link": "https://live2.jxa76.com/live/sd-6Mwe5HavzPZ3nxe1Zm_540p.m3u8?txSecret=0dc36ca8888e0b75c8f70a6e9b2b4373&txTime=19FD2DD99CF",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "LOW SERVER",
-            "link": "http://193.47.62.191/hls/RRRRAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 11141,
-        "title": "K-League Allstars vs Manchester City",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "K-League Allstars",
-          "teamB": "Manchester City",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/421734/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/17/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/08/05 11:00:00 +0000",
-          "endTime": "2026/08/05 13:20:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "ESPN SPORTS HD",
-            "link": "https://rdcstream.life/live/espn/index.m3u8?|Referer=https://bolodechocolate.fit/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "SPORT TV HD",
-            "link": "https://cast.zlive.st/p/auto-sport-tv1-0/index.m3u8|referer=https://zlive.st/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "HD SERVER",
-            "link": "https://live2.jxa76.com/live/sd-6Mwea3wEYAxUeqdgN7_540p.m3u8?txSecret=5339cb71479b7b69f4496549e8a3b64e&txTime=19FD2DE8379",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "CBS NETWORK",
-            "link": "https://cast.zlive.st/p/auto-cbs-sports-network-0/index.m3u8?|referer=https://zlive.st/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "LOW SERVER",
-            "link": "http://193.47.62.192/hls/RRRRAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-            "logo": "",
-            "type": 0,
-            "api": "",
             "tokenApi": ""
           }
         ]
@@ -1479,33 +1334,6 @@
             "logo": "",
             "type": 0,
             "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 11168,
-        "title": "United Arab Emirates vs Canada",
-        "image": "",
-        "cat": "Cricket",
-        "eventInfo": {
-          "teamA": "United Arab Emirates",
-          "teamB": "Canada",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/187771/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/189195/image",
-          "eventName": "Cricket",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/08/05 10:00:00 +0000",
-          "endTime": "2026/08/05 17:55:07 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "ICC TV - AQ",
-            "link": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-08)/hdntl=exp=1785951934~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~data=hdntl~hmac=9902401fefd8b556eb89db260a104dd0e68cad623200a31a019c48a9606db4d1/manifest.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
-            "logo": "",
-            "type": 7,
-            "api": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
             "tokenApi": ""
           }
         ]
