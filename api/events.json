@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-05T11:20:53.791342",
+  "last_updated": "2026-08-05T11:31:15.530158",
   "event_count": 41,
   "events": {
     "events": [
@@ -732,6 +732,14 @@
             "tokenApi": ""
           },
           {
+            "title": "HD SERVER",
+            "link": "https://live2.jxa76.com/live/sd-6Mwea3wEYAxUeqdgN7_540p.m3u8?txSecret=5339cb71479b7b69f4496549e8a3b64e&txTime=19FD2DE8379",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
             "title": "LOW SERVER",
             "link": "http://193.47.62.192/hls/RRRRAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
             "logo": "",
@@ -753,14 +761,38 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/2687/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/08/05 11:30:00 +0000",
           "endTime": "2026/08/05 13:50:00 +0000"
         },
         "channels_data": [
           {
-            "title": "",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "title": "CBS SPORTS - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+            "logo": "",
+            "type": 7,
+            "api": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
+            "tokenApi": ""
+          },
+          {
+            "title": "Live 1",
+            "link": "https://messi.damitv.st/live-hls/channel/club-friendly/2026-08-05/che-juv/playlist.m3u8?|Referer=https://ondemand.st/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "HD SERVER",
+            "link": "https://live.vivo200.com/live/sd-1-4541775.m3u8?txSecret=8d0f31e5a047b0b14617d165c5652fb0&txTime=6A732960|Referer=https://player.online909.com/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "LOW SERVER",
+            "link": "http://193.47.62.193/hls/RRRRAAAA.m3u8?|Referer=http://www.fawanews.sc/",
             "logo": "",
             "type": 0,
             "api": "",
