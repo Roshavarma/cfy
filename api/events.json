@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-05T09:01:29.348904",
+  "last_updated": "2026-08-05T09:11:00.646204",
   "event_count": 41,
   "events": {
     "events": [
@@ -423,8 +423,32 @@
         },
         "channels_data": [
           {
-            "title": "",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "title": "WILLOW - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/4ubunq88zf/out/v1/284fa0dc93c34624b2f7edf36c7a8b3c/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "595932d92efbd8423ac32fbffcc78dca:adea3202c6154d11faad1d54b363763c",
+            "tokenApi": ""
+          },
+          {
+            "title": "WILLOW - ALT",
+            "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/4ubunq88zf/out/v1/284fa0dc93c34624b2f7edf36c7a8b3c/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "595932d92efbd8423ac32fbffcc78dca:adea3202c6154d11faad1d54b363763c",
+            "tokenApi": ""
+          },
+          {
+            "title": "T SPORTS HD",
+            "link": "https://s1.itcnbd.live/T-Sports-HD/tracks-v1a1/mono.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "FANCODE - IN",
+            "link": "https://in-mc-pdlive.fancode.com/mumbai/4246714_english_hls_073cf4f34754904_1ta-di_h264/index.m3u8",
             "logo": "",
             "type": 0,
             "api": "",
