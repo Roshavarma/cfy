@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-05T14:10:55.714965",
-  "event_count": 36,
+  "last_updated": "2026-08-05T14:20:49.435539",
+  "event_count": 37,
   "events": {
     "events": [
       {
@@ -380,6 +380,22 @@
             "tokenApi": ""
           },
           {
+            "title": "SKY SPORT NZ",
+            "link": "https://tmaxapp.site/8wirwjs76erftg/skysport1nz.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "SonyLiv",
+            "link": "https://sonyeventsglobal.akamaized.net/hls/live/2022321/DAI17-WTRBP/master.m3u8?hdnea=exp=1785959443~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=7ffbe6cfab971f6029245425d5346c824aa886db04b4faf53d83da2462fb874a",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
             "title": "LOW SERVER",
             "link": "http://193.47.62.190/hls/AIIIAAAAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
             "logo": "",
@@ -515,7 +531,7 @@
           },
           {
             "title": "SKY SPORT NZ",
-            "link": "https://tmaxapp.site/8wirwjs76erftg/skysport1nz.m3u8",
+            "link": "https://tmaxapp.site/8wirwjs76erftg/skysport3nz.m3u8",
             "logo": "",
             "type": 0,
             "api": "",
@@ -1304,6 +1320,33 @@
           {
             "title": "",
             "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 11168,
+        "title": "Inter Miami CF vs Atletico San Luis",
+        "image": "null",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Inter Miami CF",
+          "teamB": "Atl\u00e9tico San Luis",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/337602/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/1950/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/08/05 23:30:18 +0000",
+          "endTime": "2026/08/06 01:45:22 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Live 1",
+            "link": "https://messi.damitv.st/live-hls/channel/leagues-cup/2026-08-05/mia-asl/playlist.m3u8?|Referer=https://ondemand.st/",
             "logo": "",
             "type": 0,
             "api": "",
