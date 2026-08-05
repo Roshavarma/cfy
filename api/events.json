@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-05T10:40:50.917274",
+  "last_updated": "2026-08-05T10:50:50.830940",
   "event_count": 41,
   "events": {
     "events": [
@@ -676,8 +676,32 @@
         },
         "channels_data": [
           {
+            "title": "CBS NETWORK HD",
+            "link": "https://cast.zlive.st/p/auto-cbs-sports-network-0/index.m3u8?|referer=https://zlive.st/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
             "title": "ESPN SPORTS HD",
             "link": "https://rdcstream.life/live/espn/index.m3u8?|Referer=https://bolodechocolate.fit/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "SPORT TV HD",
+            "link": "https://cast.zlive.st/p/auto-sport-tv1-0/index.m3u8|referer=https://zlive.st/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "LOW SERVER",
+            "link": "http://193.47.62.192/hls/RRRRAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
             "logo": "",
             "type": 0,
             "api": "",
