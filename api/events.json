@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-05T18:40:48.290738",
-  "event_count": 33,
+  "last_updated": "2026-08-05T18:50:48.408067",
+  "event_count": 32,
   "events": {
     "events": [
       {
@@ -476,33 +476,6 @@
         ]
       },
       {
-        "id": 11143,
-        "title": "SSC Napoli vs Osasuna",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "SSC Napoli",
-          "teamB": "Osasuna",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/2714/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/2820/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/08/05 16:30:00 +0000",
-          "endTime": "2026/08/05 18:50:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "LOW SERVER",
-            "link": "http://193.47.62.190/hls/ttttaaa.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
         "id": 11144,
         "title": "Mallorca vs Paris Saint-Germain",
         "image": "",
@@ -528,8 +501,24 @@
             "tokenApi": ""
           },
           {
+            "title": "D SPORTS - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+            "logo": "",
+            "type": 7,
+            "api": "f836853d8eac19446ed9535f5fc568b1:b3bc5ef00602b29abac7e482d3d9fbf3",
+            "tokenApi": ""
+          },
+          {
             "title": "Live 1",
             "link": "https://messi.damitv.st/live-hls/channel/club-friendly/2026-08-05/mll-psg/playlist.m3u8?|Referer=https://ondemand.st/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "HD SERVER",
+            "link": "https://hls.live123.fans/live/4594021.m3u8",
             "logo": "",
             "type": 0,
             "api": "",
@@ -571,8 +560,8 @@
             "tokenApi": ""
           },
           {
-            "title": "Live 1",
-            "link": "https://messi.damitv.st/live-hls/channel/club-friendly/2026-08-05/ars-bet/playlist.m3u8?|Referer=https://ondemand.st/",
+            "title": "DAZN SPORTS HD",
+            "link": "https://pul-tenm.gkykp.com/live/sd-1-4541770.m3u8?txSecret=e160996731a0e5b954fd35ab191c0b23&txTime=6A749DB0",
             "logo": "",
             "type": 0,
             "api": "",
@@ -581,6 +570,22 @@
           {
             "title": "HD SERVER",
             "link": "https://chatgpt.hereisman.net/playlist/54218/load-playlist?|Referer=https://gooz.aapmains.net ",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "Live 1",
+            "link": "https://hls.live123.fans/live/4541770.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "Live 2",
+            "link": "https://messi.damitv.st/live-hls/channel/club-friendly/2026-08-05/ars-bet/playlist.m3u8?|Referer=https://ondemand.st/",
             "logo": "",
             "type": 0,
             "api": "",
