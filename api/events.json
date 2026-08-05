@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-05T18:50:48.408067",
+  "last_updated": "2026-08-05T19:01:19.595861",
   "event_count": 32,
   "events": {
     "events": [
@@ -487,7 +487,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/1644/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/08/05 19:00:00 +0000",
           "endTime": "2026/08/05 21:20:00 +0000"
         },
@@ -585,7 +585,15 @@
           },
           {
             "title": "Live 2",
-            "link": "https://messi.damitv.st/live-hls/channel/club-friendly/2026-08-05/ars-bet/playlist.m3u8?|Referer=https://ondemand.st/",
+            "link": "https://hls.streamhub.media/hls/thesport-api-7fb275049f499f0aff1a/master.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "HD QUALITY",
+            "link": "https://live.vivo200.com/live/sd-1-4541770.m3u8?txSecret=c9e4c92c4265bd2a1a2d3fde62a20f4e&txTime=6A739771|Referer=https://player.online909.com/",
             "logo": "",
             "type": 0,
             "api": "",
