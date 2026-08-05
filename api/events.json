@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-05T10:50:50.830940",
+  "last_updated": "2026-08-05T11:01:18.007913",
   "event_count": 41,
   "events": {
     "events": [
@@ -643,14 +643,46 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/2697/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/08/05 11:00:00 +0000",
           "endTime": "2026/08/05 13:20:00 +0000"
         },
         "channels_data": [
           {
-            "title": "",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "title": "FOX DEPORTES - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+            "logo": "",
+            "type": 7,
+            "api": "d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811",
+            "tokenApi": ""
+          },
+          {
+            "title": "DAZN SPORTS IT",
+            "link": "https://messi.damitv.st/papi/tv/dlhd/877/playlist.m3u8?|Referer=https://ondemand.st/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "DAZN SPORTS FHD",
+            "link": "https://messi.damitv.st/live-hls/channel/club-friendly/2026-08-05/mil-int/playlist.m3u8?|Referer=https://ondemand.st/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "Live 1",
+            "link": "https://live.vivo200.com/live/sd-1-4541781.m3u8?txSecret=2714b76bd67b88e0140131fddc7f39c4&txTime=6A732824|Referer=https://player.online909.com/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "LOW SERVER",
+            "link": "http://193.47.62.191/hls/RRRRAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
             "logo": "",
             "type": 0,
             "api": "",
@@ -670,7 +702,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/17/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/08/05 11:00:00 +0000",
           "endTime": "2026/08/05 13:20:00 +0000"
         },
