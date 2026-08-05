@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-05T11:01:18.007913",
+  "last_updated": "2026-08-05T11:10:58.966979",
   "event_count": 41,
   "events": {
     "events": [
@@ -708,14 +708,6 @@
         },
         "channels_data": [
           {
-            "title": "CBS NETWORK HD",
-            "link": "https://cast.zlive.st/p/auto-cbs-sports-network-0/index.m3u8?|referer=https://zlive.st/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
             "title": "ESPN SPORTS HD",
             "link": "https://rdcstream.life/live/espn/index.m3u8?|Referer=https://bolodechocolate.fit/",
             "logo": "",
@@ -726,6 +718,14 @@
           {
             "title": "SPORT TV HD",
             "link": "https://cast.zlive.st/p/auto-sport-tv1-0/index.m3u8|referer=https://zlive.st/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "CBS NETWORK",
+            "link": "https://cast.zlive.st/p/auto-cbs-sports-network-0/index.m3u8?|referer=https://zlive.st/",
             "logo": "",
             "type": 0,
             "api": "",
