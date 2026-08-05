@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-05T18:31:07.891836",
+  "last_updated": "2026-08-05T18:40:48.290738",
   "event_count": 33,
   "events": {
     "events": [
@@ -614,8 +614,24 @@
         },
         "channels_data": [
           {
-            "title": "",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "title": "SportTV BR - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+            "logo": "",
+            "type": 7,
+            "api": "51c0ef23b17297e5c01cd7f36dd0a6ce:8823f713ba6fdb9bbe0a2ad82d309a4b",
+            "tokenApi": ""
+          },
+          {
+            "title": "PREMIERE BR - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "56b79c1782b30e6b6fc973b0e8fd4104:fa38aaa865a57eda7c77444697ba8ed3",
+            "tokenApi": ""
+          },
+          {
+            "title": "HD SERVER",
+            "link": "https://hls.live123.fans/live/4546336.m3u8",
             "logo": "",
             "type": 0,
             "api": "",
@@ -641,8 +657,8 @@
         },
         "channels_data": [
           {
-            "title": "",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "title": "Live 1",
+            "link": "https://hls.live123.fans/live/4546339.m3u8",
             "logo": "",
             "type": 0,
             "api": "",
@@ -692,7 +708,7 @@
             "tokenApi": ""
           },
           {
-            "title": "SPORT TV - AQ",
+            "title": "SporTV BR - AQ",
             "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
             "logo": "",
             "type": 7,
@@ -727,7 +743,7 @@
         },
         "channels_data": [
           {
-            "title": "SPORT TV BR FHD",
+            "title": "SporTV BR FHD",
             "link": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/4yiko4it8k/out/v1/b77dd424c745443aba2f3f88d418f797/cenc-sd.mpd",
             "logo": "",
             "type": 7,
@@ -853,7 +869,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/3634/image",
           "eventName": "Baseball",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/08/05 18:35:00 +0000",
           "endTime": "2026/08/05 21:35:00 +0000"
         },
