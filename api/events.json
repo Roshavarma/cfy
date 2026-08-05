@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-05T16:50:48.052292",
-  "event_count": 37,
+  "last_updated": "2026-08-05T17:01:16.791353",
+  "event_count": 36,
   "events": {
     "events": [
       {
@@ -358,9 +358,9 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/unique-tournament/16717/image",
           "eventName": "Cricket",
           "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/08/05 14:00:33 +0000",
-          "endTime": "2026/08/05 17:55:18 +0000"
+          "Status": "Upcoming",
+          "startTime": "2026/08/06 14:00:45 +0000",
+          "endTime": "2026/08/06 17:55:48 +0000"
         },
         "channels_data": [
           {
@@ -481,28 +481,28 @@
         ]
       },
       {
-        "id": 11107,
-        "title": "Manchester Super Giants vs Welsh Fire",
+        "id": 11108,
+        "title": "Trent Rockets vs Birmingham Phoenix",
         "image": "",
         "cat": "Cricket",
         "eventInfo": {
-          "teamA": "Manchester Super Giants",
-          "teamB": "Welsh Fire",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/377173/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/377179/image",
+          "teamA": "Trent Rockets",
+          "teamB": "Birmingham Phoenix",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/377176/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/377174/image",
           "eventName": "Cricket",
           "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/08/05 14:00:00 +0000",
-          "endTime": "2026/08/05 18:00:00 +0000"
+          "Status": "Upcoming",
+          "startTime": "2026/08/05 17:30:00 +0000",
+          "endTime": "2026/08/05 21:30:00 +0000"
         },
         "channels_data": [
           {
             "title": "WILLOW - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rr2bvlgfda/out/v1/d1ee1f03673145d29d1e4a403288787f/cenc.mpd",
+            "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/meajagcvub/out/v1/6e9362ccccc04fcca4e227e3bd09ecb6/cenc.mpd",
             "logo": "",
             "type": 7,
-            "api": "78ec9284132de7187cc62a368550a8b5:a0dc714d18448877d9664df9e34962ab",
+            "api": "33aec023d44fdccb0fd93e81cfc01fb9:a39bf1d795cbfa140416aa77cc8a2156",
             "tokenApi": ""
           },
           {
@@ -515,10 +515,10 @@
           },
           {
             "title": "WILLOW - ALT",
-            "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/rr2bvlgfda/out/v1/d1ee1f03673145d29d1e4a403288787f/cenc.mpd",
+            "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/meajagcvub/out/v1/6e9362ccccc04fcca4e227e3bd09ecb6/cenc.mpd",
             "logo": "",
             "type": 7,
-            "api": "78ec9284132de7187cc62a368550a8b5:a0dc714d18448877d9664df9e34962ab",
+            "api": "33aec023d44fdccb0fd93e81cfc01fb9:a39bf1d795cbfa140416aa77cc8a2156",
             "tokenApi": ""
           },
           {
@@ -546,43 +546,8 @@
             "tokenApi": ""
           },
           {
-            "title": "SonyLiv",
-            "link": "https://sonydaimenew.akamaized.net/hls/live/2022322/DAI18-HMEN/master.m3u8?hdnea=exp=1785957645~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=bb4f7fc241f16140e4dd1030531bc668fe6a8fb128ee1574b16f96f294540405|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:153.0) Gecko/20100101 Firefox/153.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
             "title": "LOW SERVER",
             "link": "http://193.47.62.190/hls/AIIIAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 11108,
-        "title": "Trent Rockets vs Birmingham Phoenix",
-        "image": "",
-        "cat": "Cricket",
-        "eventInfo": {
-          "teamA": "Trent Rockets",
-          "teamB": "Birmingham Phoenix",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/377176/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/377174/image",
-          "eventName": "Cricket",
-          "isHot": "0",
-          "Status": "Upcoming",
-          "startTime": "2026/08/05 17:30:00 +0000",
-          "endTime": "2026/08/05 21:30:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
             "logo": "",
             "type": 0,
             "api": "",
