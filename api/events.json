@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-05T13:31:02.603992",
+  "last_updated": "2026-08-05T13:40:50.084742",
   "event_count": 36,
   "events": {
     "events": [
@@ -291,7 +291,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/187754/image",
           "eventName": "Cricket",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/08/05 13:30:51 +0000",
           "endTime": "2026/08/05 22:00:57 +0000"
         },
@@ -335,6 +335,14 @@
             "type": 0,
             "api": "",
             "tokenApi": ""
+          },
+          {
+            "title": "LOW SERVER",
+            "link": "http://193.47.62.193/hls/YOOOAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
           }
         ]
       },
@@ -357,55 +365,23 @@
         "channels_data": [
           {
             "title": "WILLOW - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/2w3nxw16vx/out/v1/3afccdb73040451ba7269bd9a524dd7f/cenc.mpd",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/letejy2yfh/out/v1/d6e600aaeb0e4aeb8333a01e8f96a715/cenc.mpd",
             "logo": "",
             "type": 7,
-            "api": "a9b18820a750297ec2ba8755b7c3c118:929d7e9e7a87228f7020e12129c5318f",
-            "tokenApi": ""
-          },
-          {
-            "title": "SKY CRICKET - AQ",
-            "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla",
-            "logo": "",
-            "type": 0,
-            "api": "",
+            "api": "58773419ece0390ef34c7380b9dd71cd:7942050a4989357553266d7886b8c5d4",
             "tokenApi": ""
           },
           {
             "title": "WILLOW - ALT",
-            "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/2w3nxw16vx/out/v1/3afccdb73040451ba7269bd9a524dd7f/cenc.mpd",
+            "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/letejy2yfh/out/v1/d6e600aaeb0e4aeb8333a01e8f96a715/cenc.mpd",
             "logo": "",
             "type": 7,
-            "api": "a9b18820a750297ec2ba8755b7c3c118:929d7e9e7a87228f7020e12129c5318f",
-            "tokenApi": ""
-          },
-          {
-            "title": "SKY SPORT NZ",
-            "link": "https://tmaxapp.site/8wirwjs76erftg/skysport3nz.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "FOX CRICKET HD",
-            "link": "http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=809389&extension=m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "SonyLiv",
-            "link": "https://sonydaimenew.akamaized.net/hls/live/2022321/DAI17-HWOM/master.m3u8?hdnea=exp=1785945032~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=a233729c3ca21ad3132478cf8754d1866ab2819a2fa3c61c7ed5c6945e0f1288|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:153.0) Gecko/20100101 Firefox/153.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com",
-            "logo": "",
-            "type": 0,
-            "api": "",
+            "api": "58773419ece0390ef34c7380b9dd71cd:7942050a4989357553266d7886b8c5d4",
             "tokenApi": ""
           },
           {
             "title": "LOW SERVER",
-            "link": "http://193.47.62.190/hls/AIIIAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+            "link": "http://193.47.62.190/hls/AIIIAAAAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
             "logo": "",
             "type": 0,
             "api": "",
@@ -506,8 +482,48 @@
         },
         "channels_data": [
           {
-            "title": "",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "title": "WILLOW - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rr2bvlgfda/out/v1/d1ee1f03673145d29d1e4a403288787f/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "78ec9284132de7187cc62a368550a8b5:a0dc714d18448877d9664df9e34962ab",
+            "tokenApi": ""
+          },
+          {
+            "title": "SKY CRICKET - AQ",
+            "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "WILLOW - ALT",
+            "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/rr2bvlgfda/out/v1/d1ee1f03673145d29d1e4a403288787f/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "78ec9284132de7187cc62a368550a8b5:a0dc714d18448877d9664df9e34962ab",
+            "tokenApi": ""
+          },
+          {
+            "title": "TAPMAD - AQ",
+            "link": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8|referer=https://tapmad.com",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "SKY SPORT NZ",
+            "link": "https://tmaxapp.site/8wirwjs76erftg/skysport1nz.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "FOX CRICKET HD",
+            "link": "http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=809389&extension=m3u8",
             "logo": "",
             "type": 0,
             "api": "",
