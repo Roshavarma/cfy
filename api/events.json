@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-06T13:50:50.934220",
+  "last_updated": "2026-08-06T14:01:12.930553",
   "event_count": 33,
   "events": {
     "events": [
@@ -291,38 +291,54 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/unique-tournament/16717/image",
           "eventName": "Cricket",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/08/06 14:00:45 +0000",
           "endTime": "2026/08/06 17:55:48 +0000"
         },
         "channels_data": [
           {
             "title": "WILLOW - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/letejy2yfh/out/v1/d6e600aaeb0e4aeb8333a01e8f96a715/cenc.mpd",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/aom5odkfja/out/v1/6ee7883d26b84be3b4a1f79a8dbff0bf/cenc.mpd",
             "logo": "",
             "type": 7,
-            "api": "58773419ece0390ef34c7380b9dd71cd:7942050a4989357553266d7886b8c5d4",
+            "api": "6818868b06409ee7869850f878c30665:4766f05f2c1de3cd0896ccd99f662fd1",
             "tokenApi": ""
           },
           {
-            "title": "WILLOW - ALT",
-            "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/letejy2yfh/out/v1/d6e600aaeb0e4aeb8333a01e8f96a715/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "58773419ece0390ef34c7380b9dd71cd:7942050a4989357553266d7886b8c5d4",
-            "tokenApi": ""
-          },
-          {
-            "title": "SKY SPORT NZ",
-            "link": "https://tmaxapp.site/8wirwjs76erftg/skysport1nz.m3u8",
+            "title": "SKY CRICKET - AQ",
+            "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla",
             "logo": "",
             "type": 0,
             "api": "",
             "tokenApi": ""
           },
           {
-            "title": "SonyLiv",
-            "link": "https://sonyeventsglobal.akamaized.net/hls/live/2022321/DAI17-WTRBP/master.m3u8?hdnea=exp=1785959443~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=7ffbe6cfab971f6029245425d5346c824aa886db04b4faf53d83da2462fb874a",
+            "title": "WILLOW - ALT",
+            "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/aom5odkfja/out/v1/6ee7883d26b84be3b4a1f79a8dbff0bf/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "6818868b06409ee7869850f878c30665:4766f05f2c1de3cd0896ccd99f662fd1",
+            "tokenApi": ""
+          },
+          {
+            "title": "TAPMAD - AQ",
+            "link": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8|referer=https://tapmad.com",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "SKY SPORT NZ",
+            "link": "https://tmaxapp.site/8wirwjs76erftg/skysport2nz.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "FOX CRICKET HD",
+            "link": "http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=809389&extension=m3u8",
             "logo": "",
             "type": 0,
             "api": "",
@@ -330,7 +346,7 @@
           },
           {
             "title": "LOW SERVER",
-            "link": "http://193.47.62.190/hls/AIIIAAAAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+            "link": "http://193.47.62.190/hls/BBBB.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
             "logo": "",
             "type": 0,
             "api": "",
