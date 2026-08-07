@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-07T08:31:00.241863",
+  "last_updated": "2026-08-07T08:40:52.663155",
   "event_count": 35,
   "events": {
     "events": [
@@ -112,6 +112,22 @@
         },
         "channels_data": [
           {
+            "title": "TNT SPORTS - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+            "logo": "",
+            "type": 7,
+            "api": "f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b",
+            "tokenApi": ""
+          },
+          {
+            "title": "SPOTV - AQ",
+            "link": "https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed",
+            "tokenApi": ""
+          },
+          {
             "title": "MotoGP - AQ",
             "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/wjeweupwyc/out/v1/8197c8e055c94a868623653ac55c10bf/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
             "logo": "",
@@ -120,56 +136,8 @@
             "tokenApi": ""
           },
           {
-            "title": "SPOTV - AQ",
-            "link": "https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/dr_spotv2hd/default/index.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "b2d8f6315c494e07a8129f6a3d5c2048:6b4247def21bbd0d08629a3cb4c62ee9",
-            "tokenApi": ""
-          },
-          {
-            "title": "AUVIO SPORTS - AQ",
-            "link": "https://C9851Ec-rbm-hilv-fsly.cdn.redbee.live/L17/683e43d0/f4d8a9c3.isml/.mpd?dvr_window_length=7200",
-            "logo": "",
-            "type": 7,
-            "api": "e00f3c011f634ec5880c50761d302fcd:ba78b08b3f41ba8fd060cc8492983cae",
-            "tokenApi": ""
-          },
-          {
-            "title": "NOW SPORTS - AQ",
-            "link": "https://g001.sadhoofiton.shop/out/v2/9f7de4da3380a8bdd485461bfe8b3aa4/index.m3u8?|referer=https://pushembdz.store/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "TNT SPORTS - AQ",
-            "link": "https://g001.sadhoofiton.shop/out/v2/e7095fa5d96b97acc6e111123eb62aab/index.m3u8?|referer=https://pushembdz.store/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "SKY SPORTS IT",
-            "link": "https://g001.sadhoofiton.shop/out/v2/bf9cd03d47d1a459856e25bc8349de8c/index.m3u8?|referer=https://pushembdz.store/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
             "title": "Live 1",
-            "link": "https://edge2caster.pro/hls/oeenzgezcz47.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "DAZN SPORTS HD",
-            "link": "https://instreams.pro/bil1/motogpfr/tracks-v1a1/mono.m3u8?|referer=https://instream.click/&origin=https://instream.click",
+            "link": "https://edgestream1.pro/hls/hbfkazbkaznc49.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
             "logo": "",
             "type": 0,
             "api": "",
