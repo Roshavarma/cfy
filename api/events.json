@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-07T16:50:45.323092",
+  "last_updated": "2026-08-07T17:01:28.235831",
   "event_count": 31,
   "events": {
     "events": [
@@ -267,9 +267,9 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/unique-tournament/16717/image",
           "eventName": "Cricket",
           "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/08/07 14:00:43 +0000",
-          "endTime": "2026/08/07 17:55:50 +0000"
+          "Status": "Upcoming",
+          "startTime": "2026/08/08 14:00:39 +0000",
+          "endTime": "2026/08/08 17:56:45 +0000"
         },
         "channels_data": [
           {
@@ -420,14 +420,22 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/7/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/08/07 17:00:00 +0000",
           "endTime": "2026/08/07 19:20:00 +0000"
         },
         "channels_data": [
           {
+            "title": "Live 1",
+            "link": "https://chatgpt.hereisman.net/playlist/54297/load-playlist?|Referer=https://gooz.aapmains.net ",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
             "title": "LOW SERVER",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "link": "http://193.47.62.191/hls/ABBB.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
             "logo": "",
             "type": 0,
             "api": "",
