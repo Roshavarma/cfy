@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-07T18:40:45.980046",
-  "event_count": 29,
+  "last_updated": "2026-08-07T18:50:45.038410",
+  "event_count": 30,
   "events": {
     "events": [
       {
@@ -672,7 +672,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/55/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/08/07 18:45:00 +0000",
           "endTime": "2026/08/07 21:05:00 +0000"
         },
@@ -691,6 +691,14 @@
             "logo": "",
             "type": 7,
             "api": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
+            "tokenApi": ""
+          },
+          {
+            "title": "Live 1",
+            "link": "https://chatgpt.hereisman.net/playlist/54298/load-playlist?|Referer=https://gooz.aapmains.net ",
+            "logo": "",
+            "type": 0,
+            "api": "",
             "tokenApi": ""
           },
           {
@@ -1182,6 +1190,33 @@
           "Status": "Upcoming",
           "startTime": "2026/08/08 17:00:00 +0000",
           "endTime": "2026/08/08 21:00:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 11221,
+        "title": "Jaffna Kings vs Galle Gallants",
+        "image": "",
+        "cat": "Cricket",
+        "eventInfo": {
+          "teamA": "Jaffna Kings",
+          "teamB": "Galle Gallants",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/453388/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/453389/image",
+          "eventName": "Cricket",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/08/08 14:00:00 +0000",
+          "endTime": "2026/08/08 18:00:00 +0000"
         },
         "channels_data": [
           {
