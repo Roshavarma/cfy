@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-08T08:41:39.013063",
-  "event_count": 50,
+  "last_updated": "2026-08-08T08:51:00.200120",
+  "event_count": 55,
   "events": {
     "events": [
       {
@@ -316,7 +316,7 @@
           "eventName": "Cricket",
           "isHot": "0",
           "Status": "Upcoming",
-          "startTime": "2026/08/08 14:00:39 +0000",
+          "startTime": "2026/08/08 10:00:38 +0000",
           "endTime": "2026/08/08 17:56:45 +0000"
         },
         "channels_data": [
@@ -1658,6 +1658,141 @@
           {
             "title": "",
             "link": "kk",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 11261,
+        "title": "Gremio vs Sao Paulo",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Gr\u00eamio",
+          "teamB": "S\u00e3o Paulo",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/5926/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/1981/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/08/08 19:00:00 +0000",
+          "endTime": "2026/08/08 21:20:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 11262,
+        "title": "Remo vs Atletico Mineiro",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Remo",
+          "teamB": "Atl\u00e9tico Mineiro",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/2012/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/1977/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/08/08 21:30:00 +0000",
+          "endTime": "2026/08/08 23:50:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 11263,
+        "title": "Coritiba vs Chapecoense",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Coritiba",
+          "teamB": "Chapecoense",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/1982/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/21845/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/08/08 23:30:00 +0000",
+          "endTime": "2026/08/09 01:50:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 11264,
+        "title": "Botafogo vs Fluminense",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Botafogo",
+          "teamB": "Fluminense",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/1958/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/1961/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/08/09 00:00:00 +0000",
+          "endTime": "2026/08/09 02:20:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 11265,
+        "title": "Cruzeiro vs Mirassol",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Cruzeiro",
+          "teamB": "Mirassol",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/1954/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/21982/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/08/09 14:00:00 +0000",
+          "endTime": "2026/08/09 16:20:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
             "logo": "",
             "type": 0,
             "api": "",
