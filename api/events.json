@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-08T18:50:52.298591",
-  "event_count": 38,
+  "last_updated": "2026-08-08T19:01:08.815653",
+  "event_count": 37,
   "events": {
     "events": [
       {
@@ -567,73 +567,6 @@
         ]
       },
       {
-        "id": 11228,
-        "title": "Ferencvaros TC vs Real Madrid",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Ferencv\u00e1ros TC",
-          "teamB": "Real Madrid",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/1925/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/2829/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/08/08 17:00:00 +0000",
-          "endTime": "2026/08/08 19:20:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "CBS NETWORK HD",
-            "link": "https://chatgpt.hereisman.net/playlist/54354/load-playlist?|Referer=https://gooz.aapmains.net ",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "RM TV SPANISH",
-            "link": "https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "Live 1",
-            "link": "https://hls.live123.fans/live/4595159.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "HD SERVER",
-            "link": "https://edgestream1.pro/hls/griogoehvn2.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "Live 2",
-            "link": "https://live2.jxa76.com/live/sd-6MwarY73PiAy3Uv3hu_540p.m3u8?txSecret=5bab2cb3f57b671da0c7e675dee3a024&txTime=19FE39FBF10",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "LOW SERVER",
-            "link": "http://193.47.62.192/hls/AMMMQAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
         "id": 11230,
         "title": "Real Betis vs Bournemouth",
         "image": "",
@@ -672,7 +605,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/14/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/08/08 19:00:12 +0000",
           "endTime": "2026/08/08 21:15:18 +0000"
         },
@@ -702,62 +635,16 @@
             "tokenApi": ""
           },
           {
-            "title": "Sport TV HD",
+            "title": "SportTV HD",
             "link": "https://rdcstream.life/live/sport-tv-4-pt/index.m3u8?|Referer=https://bolodechocolate.fit/",
             "logo": "",
             "type": 0,
             "api": "",
             "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 11232,
-        "title": "Valencia vs Newcastle United",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Valencia",
-          "teamB": "Newcastle United",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/2828/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/39/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Upcoming",
-          "startTime": "2026/08/08 19:00:00 +0000",
-          "endTime": "2026/08/08 21:20:00 +0000"
-        },
-        "channels_data": [
+          },
           {
-            "title": "",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 11233,
-        "title": "SSC Napoli vs Celta Vigo",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "SSC Napoli",
-          "teamB": "Celta Vigo",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/2714/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/2821/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Upcoming",
-          "startTime": "2026/08/08 19:00:00 +0000",
-          "endTime": "2026/08/08 21:20:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "title": "LOW QUALITY",
+            "link": "http://193.47.62.192/hls/EIIIIAAAAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
             "logo": "",
             "type": 0,
             "api": "",
@@ -1287,7 +1174,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/1981/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/08/08 19:00:00 +0000",
           "endTime": "2026/08/08 21:20:00 +0000"
         },
@@ -1436,8 +1323,86 @@
         },
         "channels_data": [
           {
-            "title": "",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "title": "CBS NETWORK - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+            "logo": "",
+            "type": 7,
+            "api": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
+            "tokenApi": ""
+          },
+          {
+            "title": "FOREST TV HD",
+            "link": "https://chatgpt.hereisman.net/playlist/54356/load-playlist?|Referer=https://gooz.aapmains.net",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "SportTV HD",
+            "link": "https://rdcstream.life/live/sport-tv-4-pt/index.m3u8?|Referer=https://bolodechocolate.fit/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "HD SERVER",
+            "link": "https://edgestream2.pro/hls/377qj1h2727.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 11269,
+        "title": "Valencia vs Newcastle United",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Valencia",
+          "teamB": "Newcastle United",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/2828/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/39/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Live",
+          "startTime": "2026/08/08 19:00:00 +0000",
+          "endTime": "2026/08/08 21:20:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "LOW SERVER",
+            "link": "http://193.47.62.191/hls/QHHHQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 11270,
+        "title": "SSC Napoli vs Celta Vigo",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "SSC Napoli",
+          "teamB": "Celta Vigo",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/2714/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/2821/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Live",
+          "startTime": "2026/08/08 19:00:00 +0000",
+          "endTime": "2026/08/08 21:20:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "LOW SERVER",
+            "link": "http://193.47.62.191/hls/QHHHQQQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
             "logo": "",
             "type": 0,
             "api": "",
