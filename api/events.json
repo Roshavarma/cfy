@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-08T17:01:21.029097",
+  "last_updated": "2026-08-08T17:10:51.104134",
   "event_count": 42,
   "events": {
     "events": [
@@ -761,23 +761,7 @@
             "tokenApi": ""
           },
           {
-            "title": "D SPORTS - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-            "logo": "",
-            "type": 7,
-            "api": "f836853d8eac19446ed9535f5fc568b1:b3bc5ef00602b29abac7e482d3d9fbf3",
-            "tokenApi": ""
-          },
-          {
-            "title": "CBS SPORTS HD",
-            "link": "https://saka.kpores.ru/live/cbs-sports-network.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "HD SERVER",
+            "title": "Live 1",
             "link": "https://hls.live123.fans/live/4595159.m3u8",
             "logo": "",
             "type": 0,
@@ -785,7 +769,7 @@
             "tokenApi": ""
           },
           {
-            "title": "Live 1",
+            "title": "HD SERVER",
             "link": "https://edgestream1.pro/hls/griogoehvn2.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
             "logo": "",
             "type": 0,
@@ -954,6 +938,22 @@
           "endTime": "2026/08/08 19:20:00 +0000"
         },
         "channels_data": [
+          {
+            "title": "beiN SPORTS - AQ",
+            "link": "https://bein-esp-xumo.amagi.tv/playlist.m3u8|Referer=https://roxiestreams.info/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "HD SERVER",
+            "link": "https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
           {
             "title": "LOW SERVER",
             "link": "http://193.47.62.192/hls/AMMMQA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
