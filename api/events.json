@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-08T23:40:45.486843",
+  "last_updated": "2026-08-08T23:50:53.048068",
   "event_count": 36,
   "events": {
     "events": [
@@ -449,6 +449,14 @@
           "endTime": "2026/08/09 03:15:05 +0000"
         },
         "channels_data": [
+          {
+            "title": "WILLOW - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/4ojxdfbnbm/out/v1/54ab8ec44e64451dbb2b61a2846ef9c9/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "25cc7ef8a1d473f5efe28b3814739761:c7c71ec098f7d6c73d54f83b51d733ea",
+            "tokenApi": ""
+          },
           {
             "title": "TNT SPORTS - AQ",
             "link": "https://tmaxapp.site/8wirwjs76erftg/tntsports2.m3u8",
@@ -945,8 +953,8 @@
         },
         "channels_data": [
           {
-            "title": "",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "title": "Live 1",
+            "link": "https://edgestream1.pro/hls/jnzkdzjfanch23.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
             "logo": "",
             "type": 0,
             "api": "",
@@ -1182,7 +1190,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/1977/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Live",
+          "Status": "Finish",
           "startTime": "2026/08/08 21:30:00 +0000",
           "endTime": "2026/08/08 23:50:00 +0000"
         },
