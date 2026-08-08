@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-08T16:20:53.604318",
-  "event_count": 43,
+  "last_updated": "2026-08-08T16:31:31.799595",
+  "event_count": 42,
   "events": {
     "events": [
       {
@@ -315,9 +315,9 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/unique-tournament/16717/image",
           "eventName": "Cricket",
           "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/08/08 13:30:42 +0000",
-          "endTime": "2026/08/08 17:56:45 +0000"
+          "Status": "Upcoming",
+          "startTime": "2026/08/09 10:00:37 +0000",
+          "endTime": "2026/08/09 17:00:42 +0000"
         },
         "channels_data": [
           {
@@ -425,81 +425,6 @@
           {
             "title": "FANCODE - IN",
             "link": "https://dai-fancode.pages.dev/mumbai/4248052_english_hls_b0c389fd9173072_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 11177,
-        "title": "MI London vs Trent Rockets",
-        "image": "",
-        "cat": "Cricket",
-        "eventInfo": {
-          "teamA": "MI London",
-          "teamB": "Trent Rockets",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/377172/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/377176/image",
-          "eventName": "Cricket",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/08/08 13:30:00 +0000",
-          "endTime": "2026/08/08 17:30:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "WILLOW - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5evskgy7ci/out/v1/8397c22a3e4644e48812bd16fceb53ae/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "bd27c0daf95e9ed5d3b720578137c1f6:b564de023ff9e1564f89aabb5a9742f7",
-            "tokenApi": ""
-          },
-          {
-            "title": "SKY CRICKET - AQ",
-            "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "WILLOW - ALT",
-            "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/5evskgy7ci/out/v1/8397c22a3e4644e48812bd16fceb53ae/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "bd27c0daf95e9ed5d3b720578137c1f6:b564de023ff9e1564f89aabb5a9742f7",
-            "tokenApi": ""
-          },
-          {
-            "title": "TAPMAD - AQ",
-            "link": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8|referer=https://tapmad.com",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "FOX CRICKET HD",
-            "link": "http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=809389&extension=m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "SonyLiv",
-            "link": "https://sonydaimenew.akamaized.net/hls/live/2022322/DAI18-HMEN/master.m3u8?hdnea=exp=1786238394~acl=/*~id=36161476322864763690439894919989~hmac=5fdfac0ac497ad3f425d2812897a3d0474c68fd89db0de9eaca2a8a07e17ce78|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:153.0) Gecko/20100101 Firefox/153.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "LOW SERVER",
-            "link": "http://193.47.62.190/hls/HLLLAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
             "logo": "",
             "type": 0,
             "api": "",
@@ -990,7 +915,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/45/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/08/08 16:30:00 +0000",
           "endTime": "2026/08/08 18:50:00 +0000"
         },
