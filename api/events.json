@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-08T18:20:57.912764",
+  "last_updated": "2026-08-08T18:31:06.457141",
   "event_count": 39,
   "events": {
     "events": [
@@ -704,14 +704,14 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/60/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/08/08 18:30:00 +0000",
           "endTime": "2026/08/08 20:50:00 +0000"
         },
         "channels_data": [
           {
-            "title": "",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "title": "LOW SERVER",
+            "link": "http://193.47.62.190/hls/AZZZAAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
             "logo": "",
             "type": 0,
             "api": "",
