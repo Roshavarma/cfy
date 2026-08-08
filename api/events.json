@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-08T13:01:15.305717",
-  "event_count": 55,
+  "last_updated": "2026-08-08T13:11:03.488495",
+  "event_count": 54,
   "events": {
     "events": [
       {
@@ -613,73 +613,6 @@
         ]
       },
       {
-        "id": 11222,
-        "title": "Juventus vs Inter",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Juventus",
-          "teamB": "Inter",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/2687/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/2697/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/08/08 11:00:00 +0000",
-          "endTime": "2026/08/08 13:20:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "CBS SPORTS - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-            "logo": "",
-            "type": 7,
-            "api": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
-            "tokenApi": ""
-          },
-          {
-            "title": "D SPORTS - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-            "logo": "",
-            "type": 7,
-            "api": "f836853d8eac19446ed9535f5fc568b1:b3bc5ef00602b29abac7e482d3d9fbf3",
-            "tokenApi": ""
-          },
-          {
-            "title": "Live 1",
-            "link": "https://chatgpt.hereisman.net/playlist/54335/load-playlist?|Referer=https://gooz.aapmains.net ",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "SPORTSCAST HD",
-            "link": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/3ea62e4c-d750-4919-9fe8-42b03c59ef72/master.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "HD SERVER",
-            "link": "https://live2.jxa76.com/live/sd-6Mwe5HawpbLGsDVigB_540p.m3u8?txSecret=3220d8270478cbc5dc7901a43c7ba58d&txTime=19FE25B7739",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "LOW SERVER",
-            "link": "http://193.47.62.191/hls/GGGG.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
         "id": 11223,
         "title": "Chelsea vs AC Milan",
         "image": "",
@@ -1179,6 +1112,14 @@
             "logo": "",
             "type": 7,
             "api": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
+            "tokenApi": ""
+          },
+          {
+            "title": "Live 1",
+            "link": "https://live2.jxa76.com/live/sd-6MweaAR1uSz6yrn1eB_540p.m3u8?txSecret=0ef7e712a627cb8694b1df6637fc3192&txTime=19FE2BDE2B9",
+            "logo": "",
+            "type": 0,
+            "api": "",
             "tokenApi": ""
           },
           {
