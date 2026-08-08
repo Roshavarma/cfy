@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-08T14:10:58.519411",
-  "event_count": 56,
+  "last_updated": "2026-08-08T14:21:12.534861",
+  "event_count": 54,
   "events": {
     "events": [
       {
@@ -669,89 +669,6 @@
         ]
       },
       {
-        "id": 11223,
-        "title": "Chelsea vs AC Milan",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Chelsea",
-          "teamB": "AC Milan",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/38/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/2692/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/08/08 12:00:00 +0000",
-          "endTime": "2026/08/08 14:20:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "FOX DEPORTES - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-            "logo": "",
-            "type": 7,
-            "api": "d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811",
-            "tokenApi": ""
-          },
-          {
-            "title": "CBS SPORTS - AQ",
-            "link": "https://tedesco.paradilux.store/cbssn.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "Live 1",
-            "link": "https://chatgpt.hereisman.net/playlist/54347/load-playlist?|Referer=https://gooz.aapmains.net ",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "FOX SPORTS HD",
-            "link": "https://admin2.paradilux.store/foxd.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "SportTV HD",
-            "link": "https://rdcstream.life/live/sport-tv-2-pt/index.m3u8?|Referer=https://bolodechocolate.fit/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "SportyNET HD",
-            "link": "https://rdcstream.life/live/sportynet/index.m3u8?|Referer=https://bolodechocolate.fit/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "HD SERVER",
-            "link": "https://live2.jxa76.com/live/sd-6MwdLFVM7Qf8CkzCC3_540p.m3u8?txSecret=4ddc2063cd8a7484ea6f6998dd5a877b&txTime=19FE28B4C05",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "LOW SERVER",
-            "link": "http://193.47.62.192/hls/ijjjaaa.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
         "id": 11224,
         "title": "Bayer 04 Leverkusen vs Sevilla",
         "image": "",
@@ -1221,33 +1138,6 @@
         ]
       },
       {
-        "id": 11239,
-        "title": "Burnley vs Notts County",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Burnley",
-          "teamB": "Notts County",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/6/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/56/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/08/08 14:00:00 +0000",
-          "endTime": "2026/08/08 16:20:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "LOW SERVER",
-            "link": "http://193.47.62.192/hls/FAFAFAZ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
         "id": 11240,
         "title": "Derby County vs Lincoln City",
         "image": "",
@@ -1372,6 +1262,14 @@
           {
             "title": "SporTV HD",
             "link": "https://rdcstream.life/live/sport-tv-2-pt/index.m3u8?|Referer=https://bolodechocolate.fit/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "Live 2",
+            "link": "https://live2.jxa76.com/live/sd-6MweaAR1ji7cJZTVDm_540p.m3u8?txSecret=1c1d3d19af303582373100d1028719d1&txTime=19FE2F73C01",
             "logo": "",
             "type": 0,
             "api": "",
