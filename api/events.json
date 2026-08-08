@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-08T16:10:58.540117",
-  "event_count": 50,
+  "last_updated": "2026-08-08T16:20:53.604318",
+  "event_count": 43,
   "events": {
     "events": [
       {
@@ -669,100 +669,6 @@
         ]
       },
       {
-        "id": 11224,
-        "title": "Bayer 04 Leverkusen vs Sevilla",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Bayer 04 Leverkusen",
-          "teamB": "Sevilla",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/2681/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/2833/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Finish",
-          "startTime": "2026/08/08 13:30:00 +0000",
-          "endTime": "2026/08/08 15:50:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "PREMIER SPORTS - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-            "logo": "",
-            "type": 7,
-            "api": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f",
-            "tokenApi": ""
-          },
-          {
-            "title": "beiN ENGLISH - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-            "logo": "",
-            "type": 7,
-            "api": "335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281",
-            "tokenApi": ""
-          },
-          {
-            "title": "Live 1",
-            "link": "https://ssl-images-cdn.site/live/xsports/index.m3u8?|Referer=https://bolodechocolate.fit/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "HD SERVER",
-            "link": "https://live.vivo200.com/live/sd-1-4609927.m3u8?txSecret=219bf53b282642543a58010597d99f6b&txTime=6A773C92|Referer=https://player.online909.com/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "LOW SERVER",
-            "link": "http://193.47.62.190/hls/roooaaaaaaa.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 11225,
-        "title": "Brighton Hove Albion vs AS Roma",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Brighton & Hove Albion",
-          "teamB": "AS Roma",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/30/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/2702/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/08/08 14:00:00 +0000",
-          "endTime": "2026/08/08 16:20:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "CBS SPORTS - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-            "logo": "",
-            "type": 7,
-            "api": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
-            "tokenApi": ""
-          },
-          {
-            "title": "LOW SERVER",
-            "link": "http://193.47.62.193/hls/LLLLAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
         "id": 11226,
         "title": "Paris Saint-Germain vs Manchester United",
         "image": "",
@@ -1073,154 +979,6 @@
         ]
       },
       {
-        "id": 11240,
-        "title": "Derby County vs Lincoln City",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Derby County",
-          "teamB": "Lincoln City",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/27/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/92/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/08/08 14:00:00 +0000",
-          "endTime": "2026/08/08 16:20:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "LOW SERVER",
-            "link": "http://193.47.62.193/hls/SIIIA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 11241,
-        "title": "Leicester City vs Northampton Town",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Leicester City",
-          "teamB": "Northampton Town",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/31/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/57/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/08/08 14:00:00 +0000",
-          "endTime": "2026/08/08 16:20:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "LOW SERVER",
-            "link": "http://193.47.62.191/hls/hrrraaaa.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 11242,
-        "title": "Swansea City vs Birmingham City",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Swansea City",
-          "teamB": "Birmingham City",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/74/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/9/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/08/08 14:00:00 +0000",
-          "endTime": "2026/08/08 16:20:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "LOW SERVER",
-            "link": "http://193.47.62.191/hls/tpppa.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 11243,
-        "title": "West Ham United vs Portsmouth",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "West Ham United",
-          "teamB": "Portsmouth",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/37/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/2/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/08/08 14:00:00 +0000",
-          "endTime": "2026/08/08 16:20:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "beiN ENGLISH - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-            "logo": "",
-            "type": 7,
-            "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
-            "tokenApi": ""
-          },
-          {
-            "title": "Live 1",
-            "link": "https://pul-tenm.gkykp.com/live/sd-1-4567210.m3u8?txSecret=848af7d6ac421c31a25401e2c1eba440&txTime=6A788421",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "HD SERVER",
-            "link": "https://hls.live123.fans/live/4567210.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "SporTV HD",
-            "link": "https://rdcstream.life/live/sport-tv-2-pt/index.m3u8?|Referer=https://bolodechocolate.fit/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "Live 2",
-            "link": "https://live2.jxa76.com/live/sd-6MweaAR1ji7cJZTVDm_540p.m3u8?txSecret=1c1d3d19af303582373100d1028719d1&txTime=19FE2F73C01",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "LOW SERVER",
-            "link": "http://193.47.62.192/hls/DDDDAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
         "id": 11244,
         "title": "Colchester United vs Southampton",
         "image": "",
@@ -1243,6 +1001,14 @@
             "logo": "",
             "type": 7,
             "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
+            "tokenApi": ""
+          },
+          {
+            "title": "LOW SERVER",
+            "link": "http://193.47.62.191/hls/KJJJA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+            "logo": "",
+            "type": 0,
+            "api": "",
             "tokenApi": ""
           }
         ]
@@ -1807,57 +1573,6 @@
           {
             "title": "",
             "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 11266,
-        "title": "Tottenham Hotspur vs Getafe",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Tottenham Hotspur",
-          "teamB": "Getafe",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/33/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/2859/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/08/08 14:00:00 +0000",
-          "endTime": "2026/08/08 16:20:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "Live 1",
-            "link": "https://edgestream1.pro/hls/b0h5fNwDKH.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "HD SERVER",
-            "link": "https://pul-tenm.gkykp.com/live/sd-1-4578494.m3u8?txSecret=70e4896f292f4191010ae0efc46721fa&txTime=6A788421",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "SD SERVER",
-            "link": "https://hls.live123.fans/live/4578494.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "LOW SERVER",
-            "link": "http://193.47.62.192/hls/bnnnAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
             "logo": "",
             "type": 0,
             "api": "",
