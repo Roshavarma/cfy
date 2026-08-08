@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-08T17:50:49.125234",
-  "event_count": 40,
+  "last_updated": "2026-08-08T18:01:20.584334",
+  "event_count": 39,
   "events": {
     "events": [
       {
@@ -106,7 +106,7 @@
           "teamBFlag": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHudrhyphenhyphenOGNuEpCmd8k8vfTaJ7hTqEb6GemloDedieYFrvM5MJz639vioDvQnlHGBhvxsNBHSLg2ICSGot7LWGA2PDZqoc3W_A3Yu002I5JGUeQgTCG_UFhDRPSJr2E1blnBokZvTYkB6B2nJVeeUy6s28sW-XHRZzCW_J6SOGpaoXx0LB-CH-9iTf1ebc/s1600/1000009837.jpg",
           "eventName": "Motorsport",
           "isHot": "0",
-          "Status": "Live",
+          "Status": "Finish",
           "startTime": "2026/08/08 10:00:11 +0000",
           "endTime": "2026/08/08 17:55:15 +0000"
         },
@@ -450,32 +450,8 @@
         },
         "channels_data": [
           {
-            "title": "WILLOW - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rpbktoimpn/out/v1/37b2c6133804491186aff2febea42f0e/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "12b02d4beb3c9e98acaca0233a05b91b:498f083b126ee50aaff547940d883724",
-            "tokenApi": ""
-          },
-          {
-            "title": "WILLOW - ALT",
-            "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/rpbktoimpn/out/v1/37b2c6133804491186aff2febea42f0e/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "12b02d4beb3c9e98acaca0233a05b91b:498f083b126ee50aaff547940d883724",
-            "tokenApi": ""
-          },
-          {
             "title": "TNT SPORTS - AQ",
             "link": "https://tmaxapp.site/8wirwjs76erftg/tntsports2.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "TAPMAD - AQ",
-            "link": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8|referer=https://tapmad.com",
             "logo": "",
             "type": 0,
             "api": "",
@@ -492,6 +468,14 @@
           {
             "title": "WILLOW HD",
             "link": "http://tvsen5.aynascope.net/willowhd/index.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "TAPMAD - AQ",
+            "link": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8|referer=https://tapmad.com",
             "logo": "",
             "type": 0,
             "api": "",
@@ -594,7 +578,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/453389/image",
           "eventName": "Cricket",
           "isHot": "0",
-          "Status": "Live",
+          "Status": "Finish",
           "startTime": "2026/08/08 14:00:00 +0000",
           "endTime": "2026/08/08 18:00:00 +0000"
         },
@@ -709,33 +693,6 @@
         ]
       },
       {
-        "id": 11229,
-        "title": "Galatasaray vs Villarreal",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Galatasaray",
-          "teamB": "Villarreal",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/3061/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/2819/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Upcoming",
-          "startTime": "2026/08/08 18:00:00 +0000",
-          "endTime": "2026/08/08 20:20:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
         "id": 11230,
         "title": "Real Betis vs Bournemouth",
         "image": "",
@@ -775,8 +732,8 @@
           "eventName": "Football",
           "isHot": "0",
           "Status": "Upcoming",
-          "startTime": "2026/08/08 18:00:00 +0000",
-          "endTime": "2026/08/08 20:20:00 +0000"
+          "startTime": "2026/08/08 19:00:12 +0000",
+          "endTime": "2026/08/08 21:15:18 +0000"
         },
         "channels_data": [
           {
@@ -785,6 +742,22 @@
             "logo": "",
             "type": 7,
             "api": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
+            "tokenApi": ""
+          },
+          {
+            "title": "Live 1",
+            "link": "https://chatgpt.hereisman.net/playlist/54356/load-playlist?|Referer=https://gooz.aapmains.net",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "HD SERVER",
+            "link": "https://edgestream2.pro/hls/377qj1h2727.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
+            "logo": "",
+            "type": 0,
+            "api": "",
             "tokenApi": ""
           }
         ]
