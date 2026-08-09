@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-09T15:40:49.199802",
-  "event_count": 42,
+  "last_updated": "2026-08-09T15:50:55.304761",
+  "event_count": 41,
   "events": {
     "events": [
       {
@@ -546,65 +546,6 @@
         ]
       },
       {
-        "id": 11273,
-        "title": "Liverpool FC vs AS Monaco",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Liverpool FC",
-          "teamB": "AS Monaco",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/44/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/1653/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/08/09 13:30:00 +0000",
-          "endTime": "2026/08/09 15:50:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "FOX DEPORTES - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811",
-            "tokenApi": ""
-          },
-          {
-            "title": "LFC TV HD",
-            "link": "https://chatgpt.hereisman.net/playlist/54403/load-playlist?|Referer=https://gooz.aapmains.net",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "Live 1",
-            "link": "https://live.vivo200.com/live/sd-1-4561575.m3u8?txSecret=802b2517d20a8cb8f745975c75935c7d&txTime=6A78908E|Referer=https://player.online909.com/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "HD SERVER",
-            "link": "https://live2.jxa76.com/live/sd-6Mwea3wENPtW74VEno_540p.m3u8?txSecret=bed8f8ee11ced93cc6b18855567212e5&txTime=19FE80000F5",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "LOW SERVER",
-            "link": "http://193.47.62.58/hls/JSSSSAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
         "id": 11274,
         "title": "Olympique de Marseille vs Athletic Club",
         "image": "",
@@ -1126,8 +1067,16 @@
         },
         "channels_data": [
           {
-            "title": "",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "title": "Live 1",
+            "link": "https://chatgpt.hereisman.net/playlist/54413/load-playlist?|Referer=https://gooz.aapmains.net",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "HD QUALITY",
+            "link": "https://edgestream3.pro/hls/dazhfiach15.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
             "logo": "",
             "type": 0,
             "api": "",
