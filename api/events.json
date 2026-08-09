@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-09T18:10:54.347250",
+  "last_updated": "2026-08-09T18:20:48.917857",
   "event_count": 37,
   "events": {
     "events": [
@@ -630,8 +630,24 @@
             "tokenApi": ""
           },
           {
+            "title": "Live 1",
+            "link": "https://rdcstream.life/live/sport-tv-2-pt/index.m3u8?|Referer=https://bolodechocolate.fit/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
             "title": "HD SERVER",
             "link": "http://162.251.160.53:8089/SUNfot7/index.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "Live 2",
+            "link": "https://cast.zlive.st/p/auto-sport-tv2-0/index.m3u8|referer=https://zlive.st/",
             "logo": "",
             "type": 0,
             "api": "",
@@ -831,6 +847,14 @@
           "endTime": "2026/08/09 23:50:00 +0000"
         },
         "channels_data": [
+          {
+            "title": "PREMIERE BR - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/6onrfniyry/out/v1/f23069c61dbf4e00890a40b705a84079/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+            "logo": "",
+            "type": 7,
+            "api": "d23f7433798a652a7d4f6791d9e1036c:4942eebd598b5727c5cc484cc62b52e8",
+            "tokenApi": ""
+          },
           {
             "title": "SportDigital Fussball",
             "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd",
@@ -1372,7 +1396,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/3628/image",
           "eventName": "Baseball",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/08/09 18:15:00 +0000",
           "endTime": "2026/08/09 21:15:00 +0000"
         },
