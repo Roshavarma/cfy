@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-09T14:50:59.527216",
-  "event_count": 47,
+  "last_updated": "2026-08-09T15:01:20.136967",
+  "event_count": 43,
   "events": {
     "events": [
       {
@@ -546,73 +546,6 @@
         ]
       },
       {
-        "id": 11272,
-        "title": "Johor Darul Tazim vs Chelsea",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Johor Darul Ta'zim",
-          "teamB": "Chelsea",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/3327/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/38/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Finish",
-          "startTime": "2026/08/09 12:00:00 +0000",
-          "endTime": "2026/08/09 14:20:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "HUB SPORTS - AQ",
-            "link": "https://admin2.paradilux.store/hub.m3u8?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "CHELSEA TV HD",
-            "link": "https://chatgpt.hereisman.net/playlist/54401/load-playlist?|Referer=https://gooz.aapmains.net",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "SportyNET HD",
-            "link": "https://rdcstream.life/live/sportynet/index.m3u8?|Referer=https://bolodechocolate.fit/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "HD SERVER",
-            "link": "https://live2.jxa76.com/live/sd-6MwarCdWqameKTHh15_540p.m3u8?txSecret=1ed4291524c10c61ba376495cd3983ad&txTime=19FE7AA7BB2",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "SPORT TV HD",
-            "link": "https://cast.zlive.st/p/auto-sport-tv5-0/index.m3u8|referer=https://zlive.st/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "LOW SERVER",
-            "link": "http://193.47.62.192/hls/RRRRRRRR.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
         "id": 11273,
         "title": "Liverpool FC vs AS Monaco",
         "image": "",
@@ -686,111 +619,6 @@
           "Status": "Upcoming",
           "startTime": "2026/08/09 15:30:00 +0000",
           "endTime": "2026/08/09 17:50:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 11276,
-        "title": "FC Groningen vs FC Utrecht",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "FC Groningen",
-          "teamB": "FC Utrecht",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/2951/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/2948/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Finish",
-          "startTime": "2026/08/09 12:30:00 +0000",
-          "endTime": "2026/08/09 14:50:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "Live 1",
-            "link": "https://live2.jxa76.com/live/sd-6Mwdpr4djxSmwsCshM_540p.m3u8?txSecret=d891cf9b1872921f9a043b0ab4abebd7&txTime=19FE7C5AB1A",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "LOW SERVER",
-            "link": "http://193.47.62.190/hls/CCCCFF.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 11277,
-        "title": "PEC Zwolle vs AFC Ajax",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "PEC Zwolle",
-          "teamB": "AFC Ajax",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/2971/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/2953/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Finish",
-          "startTime": "2026/08/09 12:30:00 +0000",
-          "endTime": "2026/08/09 14:50:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "SportDigital Fussball",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
-            "tokenApi": ""
-          },
-          {
-            "title": "Live 1",
-            "link": "https://live.vivo200.com/live/sd-1-4552154.m3u8?txSecret=83e00a1b0ec7aa748823c921240e64e7&txTime=6A788307|Referer=https://player.online909.com/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "LOW SERVER",
-            "link": "http://193.47.62.190/hls/CCCCFFF.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 11278,
-        "title": "SC Heerenveen vs FC Twente",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "SC Heerenveen",
-          "teamB": "FC Twente",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/2964/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/2955/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/08/09 14:45:00 +0000",
-          "endTime": "2026/08/09 17:05:00 +0000"
         },
         "channels_data": [
           {
@@ -923,7 +751,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/15/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/08/09 15:00:00 +0000",
           "endTime": "2026/08/09 17:20:00 +0000"
         },
@@ -934,6 +762,22 @@
             "logo": "",
             "type": 7,
             "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
+            "tokenApi": ""
+          },
+          {
+            "title": "Live 1",
+            "link": "https://chatgpt.hereisman.net/playlist/54404/load-playlist?|Referer=https://gooz.aapmains.net",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "LOW SERVER",
+            "link": "http://193.47.62.40/hls/attt.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+            "logo": "",
+            "type": 0,
+            "api": "",
             "tokenApi": ""
           }
         ]
