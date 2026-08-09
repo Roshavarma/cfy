@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-09T13:10:54.371599",
+  "last_updated": "2026-08-09T13:20:58.587271",
   "event_count": 47,
   "events": {
     "events": [
@@ -622,8 +622,40 @@
         },
         "channels_data": [
           {
-            "title": "",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "title": "FOX DEPORTES - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811",
+            "tokenApi": ""
+          },
+          {
+            "title": "Live 1",
+            "link": "https://live.vivo200.com/live/sd-1-4561575.m3u8?txSecret=802b2517d20a8cb8f745975c75935c7d&txTime=6A78908E|Referer=https://player.online909.com/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "CBS NETWORK HD",
+            "link": "https://saka.kpores.ru/live/cbs-sports-network.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "FUBO SPORTS",
+            "link": "https://aegis-cloudfront-1.tubi.video/c2ac89da-5c69-439e-b85d-d87de0548b54/playlist.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "SPORT TV HD",
+            "link": "https://cast.zlive.st/p/auto-sport-tv1-0/index.m3u8|referer=https://zlive.st/",
             "logo": "",
             "type": 0,
             "api": "",
@@ -1070,8 +1102,48 @@
         },
         "channels_data": [
           {
-            "title": "",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "title": "WILLOW - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/xnxbvyjlzb/out/v1/c5c78730d5cf4206aba342b24a00c3be/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "a9e55845e8eb687548fa6346e4a8972e:133a091bd544fccdd89614b2edc7bce7",
+            "tokenApi": ""
+          },
+          {
+            "title": "SKY CRICKET - AQ",
+            "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "WILLOW - ALT",
+            "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/xnxbvyjlzb/out/v1/c5c78730d5cf4206aba342b24a00c3be/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "a9e55845e8eb687548fa6346e4a8972e:133a091bd544fccdd89614b2edc7bce7",
+            "tokenApi": ""
+          },
+          {
+            "title": "FOX CRICKET HD",
+            "link": "http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=809389&extension=m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "SKY SPORT NZ",
+            "link": "https://tmaxapp.site/8wirwjs76erftg/skysport3nz78xgv5.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "LOW SERVER",
+            "link": "http://193.47.62.41/hls/GGGGGAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
             "logo": "",
             "type": 0,
             "api": "",
