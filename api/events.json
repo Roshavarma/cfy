@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-09T16:31:01.446955",
-  "event_count": 41,
+  "last_updated": "2026-08-09T16:40:54.586147",
+  "event_count": 39,
   "events": {
     "events": [
       {
@@ -315,9 +315,9 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/unique-tournament/16717/image",
           "eventName": "Cricket",
           "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/08/09 13:30:04 +0000",
-          "endTime": "2026/08/09 17:00:42 +0000"
+          "Status": "Upcoming",
+          "startTime": "2026/08/10 14:00:27 +0000",
+          "endTime": "2026/08/10 17:55:31 +0000"
         },
         "channels_data": [
           {
@@ -503,41 +503,6 @@
           {
             "title": "",
             "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 11265,
-        "title": "Cruzeiro vs Mirassol",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Cruzeiro",
-          "teamB": "Mirassol",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/1954/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/21982/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Finish",
-          "startTime": "2026/08/09 14:00:00 +0000",
-          "endTime": "2026/08/09 16:20:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "HD SERVER",
-            "link": "http://31.148.48.15/Match_Futbol_3_HD/index.m3u8?token=test",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "LOW SERVER",
-            "link": "http://193.47.62.41/hls/GPPPAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
             "logo": "",
             "type": 0,
             "api": "",
@@ -894,81 +859,6 @@
         ]
       },
       {
-        "id": 11291,
-        "title": "Sunrisers Leeds vs Welsh Fire",
-        "image": "",
-        "cat": "Cricket",
-        "eventInfo": {
-          "teamA": "Sunrisers Leeds",
-          "teamB": "Welsh Fire",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/377178/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/377179/image",
-          "eventName": "Cricket",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/08/09 13:30:00 +0000",
-          "endTime": "2026/08/09 17:30:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "WILLOW - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/xnxbvyjlzb/out/v1/c5c78730d5cf4206aba342b24a00c3be/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "a9e55845e8eb687548fa6346e4a8972e:133a091bd544fccdd89614b2edc7bce7",
-            "tokenApi": ""
-          },
-          {
-            "title": "SKY CRICKET - AQ",
-            "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "WILLOW - ALT",
-            "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/xnxbvyjlzb/out/v1/c5c78730d5cf4206aba342b24a00c3be/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "a9e55845e8eb687548fa6346e4a8972e:133a091bd544fccdd89614b2edc7bce7",
-            "tokenApi": ""
-          },
-          {
-            "title": "FOX CRICKET HD",
-            "link": "http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=809389&extension=m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "SKY SPORT NZ",
-            "link": "https://tmaxapp.site/8wirwjs76erftg/skysport3nz78xgv5.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "SonyLiv",
-            "link": "https://sonydaimenew.akamaized.net/hls/live/2022322/DAI18-HMEN/master.m3u8?hdnea=exp=1786290644~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=9a8cffb4b41acde17baa7159e6de52e8ad8e7e0692cc2362d376e4a6a0a8ed6e|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:153.0) Gecko/20100101 Firefox/153.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "LOW SERVER",
-            "link": "http://193.47.62.41/hls/GGGGGAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
         "id": 11292,
         "title": "London Spirit vs Birmingham Phoenix",
         "image": "",
@@ -986,8 +876,40 @@
         },
         "channels_data": [
           {
-            "title": "",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "title": "WILLOW - AQ",
+            "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/meajagcvub/out/v1/6e9362ccccc04fcca4e227e3bd09ecb6/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "33aec023d44fdccb0fd93e81cfc01fb9:a39bf1d795cbfa140416aa77cc8a2156",
+            "tokenApi": ""
+          },
+          {
+            "title": "SKY CRICKET - AQ",
+            "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "WILLOW - ALT",
+            "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/meajagcvub/out/v1/6e9362ccccc04fcca4e227e3bd09ecb6/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "33aec023d44fdccb0fd93e81cfc01fb9:a39bf1d795cbfa140416aa77cc8a2156",
+            "tokenApi": ""
+          },
+          {
+            "title": "FOX CRICKET HD",
+            "link": "http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=809389&extension=m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "LOW SERVER",
+            "link": "http://tvsen5.aynascope.net/willowhd/index.m3u8",
             "logo": "",
             "type": 0,
             "api": "",
@@ -1077,6 +999,14 @@
           {
             "title": "HD QUALITY",
             "link": "https://edgestream3.pro/hls/dazhfiach15.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "LOW QUALITY",
+            "link": "http://193.47.62.42/hls/YHHHQQQQQQQQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
             "logo": "",
             "type": 0,
             "api": "",
