@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-09T17:31:02.880386",
-  "event_count": 38,
+  "last_updated": "2026-08-09T17:45:56.231351",
+  "event_count": 37,
   "events": {
     "events": [
       {
@@ -519,33 +519,6 @@
           {
             "title": "LOW SERVER",
             "link": "http://193.47.62.44/hls/BYYYQQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 11274,
-        "title": "Olympique de Marseille vs Athletic Club",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Olympique de Marseille",
-          "teamB": "Athletic Club",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/1641/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/2825/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/08/09 15:30:00 +0000",
-          "endTime": "2026/08/09 17:50:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "LOW SERVER",
-            "link": "http://193.47.62.41/hls/FGGGAAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
             "logo": "",
             "type": 0,
             "api": "",
@@ -1079,7 +1052,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/3656/image",
           "eventName": "Baseball",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/08/09 17:35:00 +0000",
           "endTime": "2026/08/09 20:35:00 +0000"
         },
@@ -1099,6 +1072,14 @@
             "type": 0,
             "api": "",
             "tokenApi": ""
+          },
+          {
+            "title": "LOW QUALITY",
+            "link": "http://193.47.62.40/hls/FSFFFQQQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
           }
         ]
       },
@@ -1114,7 +1095,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/3642/image",
           "eventName": "Baseball",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/08/09 17:35:00 +0000",
           "endTime": "2026/08/09 20:35:00 +0000"
         },
@@ -1149,7 +1130,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/3645/image",
           "eventName": "Baseball",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/08/09 17:35:00 +0000",
           "endTime": "2026/08/09 20:35:00 +0000"
         },
@@ -1169,6 +1150,14 @@
             "type": 0,
             "api": "",
             "tokenApi": ""
+          },
+          {
+            "title": "LOW QUALITY",
+            "link": "http://193.47.62.40/hls/FSFFFQQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
           }
         ]
       },
@@ -1184,7 +1173,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/5929/image",
           "eventName": "Baseball",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/08/09 17:40:00 +0000",
           "endTime": "2026/08/09 20:40:00 +0000"
         },
@@ -1204,6 +1193,14 @@
             "type": 0,
             "api": "",
             "tokenApi": ""
+          },
+          {
+            "title": "LOW QUALITY",
+            "link": "http://193.47.62.40/hls/FSFFFQQQQQQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
           }
         ]
       },
@@ -1219,7 +1216,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/3629/image",
           "eventName": "Baseball",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/08/09 17:35:00 +0000",
           "endTime": "2026/08/09 20:35:00 +0000"
         },
@@ -1260,8 +1257,16 @@
         },
         "channels_data": [
           {
-            "title": "",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "title": "Live 1",
+            "link": "https://chatgpt.hereisman.net/playlist/54428/load-playlist?|Referer=https://gooz.aapmains.net ",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "HD QUALITY",
+            "link": "https://edgestream3.pro/hls/jnzkdzjfanch23.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
             "logo": "",
             "type": 0,
             "api": "",
@@ -1322,8 +1327,16 @@
         },
         "channels_data": [
           {
-            "title": "",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "title": "Live 1",
+            "link": "https://chatgpt.hereisman.net/playlist/54430/load-playlist?|Referer=https://gooz.aapmains.net ",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "HD QUALITY",
+            "link": "https://edgestream3.pro/hls/ijfnakfidch22.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
             "logo": "",
             "type": 0,
             "api": "",
@@ -1349,8 +1362,16 @@
         },
         "channels_data": [
           {
-            "title": "",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "title": "Live 1",
+            "link": "https://chatgpt.hereisman.net/playlist/54432/load-playlist?|Referer=https://gooz.aapmains.net ",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "HD QUALITY",
+            "link": "https://edgestream3.pro/hls/fskjanach24.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
             "logo": "",
             "type": 0,
             "api": "",
@@ -1403,8 +1424,16 @@
         },
         "channels_data": [
           {
-            "title": "",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "title": "Live 1",
+            "link": "https://chatgpt.hereisman.net/playlist/54434/load-playlist?|Referer=https://gooz.aapmains.net ",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "HD QUALITY",
+            "link": "https://edgestream3.pro/hls/kjhfzua25.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
             "logo": "",
             "type": 0,
             "api": "",
