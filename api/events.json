@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-10T14:01:07.123135",
+  "last_updated": "2026-08-10T14:10:45.960081",
   "event_count": 27,
   "events": {
     "events": [
@@ -355,6 +355,14 @@
           {
             "title": "FOX CRICKET HD",
             "link": "http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=809389&extension=m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "SonyLiv",
+            "link": "https://sonydaimenew.akamaized.net/hls/live/2022321/DAI17-HWOM/master.m3u8?hdnea=exp=1786412591~acl=/*~id=12579889621972382403476932783583~hmac=6a92c5018cb7d4bd71efb7a7da945b7f9d9d9a29547a8ac1fda53f68fe18a0e5|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:153.0) Gecko/20100101 Firefox/153.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com",
             "logo": "",
             "type": 0,
             "api": "",
@@ -984,11 +992,11 @@
         },
         "channels_data": [
           {
-            "title": "",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "title": "beiN ENGLISH - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
             "logo": "",
-            "type": 0,
-            "api": "",
+            "type": 7,
+            "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
             "tokenApi": ""
           }
         ]
