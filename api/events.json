@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-10T17:01:03.754670",
+  "last_updated": "2026-08-10T17:11:02.160365",
   "event_count": 27,
   "events": {
     "events": [
@@ -568,8 +568,56 @@
         },
         "channels_data": [
           {
-            "title": "",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "title": "WILLOW - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/mnu4onrfab/out/v1/64f6785b3c5f4e829052ba381a41e4f0/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "2d90b5d203600947dca7edb4422a2b51:aa30b2d1feaf767f5b000356d5ea62ee",
+            "tokenApi": ""
+          },
+          {
+            "title": "SKY CRICKET - AQ",
+            "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "WILLOW - ALT",
+            "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/mnu4onrfab/out/v1/64f6785b3c5f4e829052ba381a41e4f0/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "2d90b5d203600947dca7edb4422a2b51:aa30b2d1feaf767f5b000356d5ea62ee",
+            "tokenApi": ""
+          },
+          {
+            "title": "SKY SPORT NZ",
+            "link": "https://tmaxapp.site/8wirwjs76erftg/skysport1nz15866.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "FOX CRICKET HD",
+            "link": "http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=809389&extension=m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "SonyLiv",
+            "link": "https://sonydaimenew.akamaized.net/hls/live/2022322/DAI18-HMEN/master.m3u8?hdnea=exp=1786412591~acl=/*~id=12579889621972382403476932783583~hmac=6a92c5018cb7d4bd71efb7a7da945b7f9d9d9a29547a8ac1fda53f68fe18a0e5|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:153.0) Gecko/20100101 Firefox/153.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "LOW SERVER",
+            "link": "http://193.47.62.41/hls/EVVVAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
             "logo": "",
             "type": 0,
             "api": "",
@@ -1005,6 +1053,14 @@
             "logo": "",
             "type": 7,
             "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
+            "tokenApi": ""
+          },
+          {
+            "title": "LOW SERVER",
+            "link": "http://193.47.62.58/hls/FYYY.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+            "logo": "",
+            "type": 0,
+            "api": "",
             "tokenApi": ""
           }
         ]
