@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-11T10:01:24.167168",
-  "event_count": 47,
+  "last_updated": "2026-08-11T10:10:56.608543",
+  "event_count": 46,
   "events": {
     "events": [
       {
@@ -595,8 +595,8 @@
         },
         "channels_data": [
           {
-            "title": "",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "title": "LOW SERVER",
+            "link": "http://193.47.62.40/hls/GVVVDDDDDD.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
             "logo": "",
             "type": 0,
             "api": "",
@@ -694,6 +694,14 @@
           {
             "title": "SKY SPORT NZ",
             "link": "https://tmaxapp.site/8wirwjs76erftg/skysport2nzf5az.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "Live 1",
+            "link": "https://chatgpt.hereisman.net/playlist/54460/load-playlist?|Referer=https://gooz.aapmains.net",
             "logo": "",
             "type": 0,
             "api": "",
@@ -1137,33 +1145,6 @@
             "logo": "",
             "type": 0,
             "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 11345,
-        "title": "United Arab Emirates vs Canada",
-        "image": "",
-        "cat": "Cricket",
-        "eventInfo": {
-          "teamA": "United Arab Emirates",
-          "teamB": "Canada",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/187771/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/189195/image",
-          "eventName": "Cricket",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/08/11 10:00:00 +0000",
-          "endTime": "2026/08/11 17:55:21 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "ICC TV - AQ",
-            "link": "https://live-d-01-icc-we.akamaized.net/variant/v1blackout/vcg-01-d/DASH_DASH/Live/channel(vcg-01-ch-hd-08)/hdntl=exp=1786297879~acl=%2fvariant%2fv1blackout%2fvcg-01-d%2f*~id=a826bf36-d614-40db-9aa8-6387bdd2ef3b~data=hdntl~hmac=6f6c6d7c40bf0a9916d0b6760064acc81cbedc8f370b43210db92ba9a467c336/manifest.mpd?e=28985800150+28986026400&vcfilter=3ee6699e-b208-4e60-9389-74f048a23ab5|user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Mobile Safari/537.36",
-            "logo": "",
-            "type": 7,
-            "api": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
             "tokenApi": ""
           }
         ]
