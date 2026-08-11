@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-11T13:31:13.993627",
-  "event_count": 46,
+  "last_updated": "2026-08-11T13:40:57.676777",
+  "event_count": 43,
   "events": {
     "events": [
       {
@@ -322,10 +322,10 @@
         "channels_data": [
           {
             "title": "WILLOW - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/h5k5laylkq/out/v1/004d46ce4fdf49eb83725eaf74240aeb/cenc.mpd",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vpz6pbmrnq/out/v1/6d35db6b0a4b48cb8bc2d4e4694d4b7f/cenc.mpd",
             "logo": "",
             "type": 7,
-            "api": "1688ed99b5ab9098b129cd74f3865614:58411d610b2d8fbb7d711f36d2b6ea4e",
+            "api": "5e14d68597500d2dac47ca32284ee6c4:6f8f55ebbfbeea238d6c8d170b0357d1",
             "tokenApi": ""
           },
           {
@@ -338,10 +338,10 @@
           },
           {
             "title": "WILLOW - ALT",
-            "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/h5k5laylkq/out/v1/004d46ce4fdf49eb83725eaf74240aeb/cenc.mpd",
+            "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/vpz6pbmrnq/out/v1/6d35db6b0a4b48cb8bc2d4e4694d4b7f/cenc.mpd",
             "logo": "",
             "type": 7,
-            "api": "1688ed99b5ab9098b129cd74f3865614:58411d610b2d8fbb7d711f36d2b6ea4e",
+            "api": "5e14d68597500d2dac47ca32284ee6c4:6f8f55ebbfbeea238d6c8d170b0357d1",
             "tokenApi": ""
           },
           {
@@ -361,16 +361,8 @@
             "tokenApi": ""
           },
           {
-            "title": "SonyLiv",
-            "link": "https://sonydaimenew.akamaized.net/hls/live/2022321/DAI17-HWOM/master.m3u8?hdnea=exp=1786412591~acl=/*~id=12579889621972382403476932783583~hmac=6a92c5018cb7d4bd71efb7a7da945b7f9d9d9a29547a8ac1fda53f68fe18a0e5|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:153.0) Gecko/20100101 Firefox/153.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
             "title": "LOW SERVER",
-            "link": "http://193.47.62.41/hls/EVVVAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+            "link": "http://193.47.62.40/hls/UZZZA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
             "logo": "",
             "type": 0,
             "api": "",
@@ -551,60 +543,6 @@
         ]
       },
       {
-        "id": 11322,
-        "title": "Adelaide United vs Cong An Ha Noi",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Adelaide United",
-          "teamB": "C\u00f4ng An H\u00e0 N\u1ed9i",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/2946/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/193616/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Finish",
-          "startTime": "2026/08/11 09:30:00 +0000",
-          "endTime": "2026/08/11 11:50:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "LOW SERVER",
-            "link": "http://193.47.62.40/hls/GVVVDDDD.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 11323,
-        "title": "Gangwon FC vs Gamba Osaka",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Gangwon FC",
-          "teamB": "Gamba Osaka",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/34220/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/3138/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Finish",
-          "startTime": "2026/08/11 10:30:00 +0000",
-          "endTime": "2026/08/11 12:50:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "LOW SERVER",
-            "link": "http://193.47.62.40/hls/GVVVDDDDDD.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
         "id": 11324,
         "title": "Pakhtakor Tashkent vs Al-Hussein Irbid",
         "image": "",
@@ -651,65 +589,6 @@
           {
             "title": "",
             "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 11326,
-        "title": "Palermo vs Juventus",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Palermo",
-          "teamB": "Juventus",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/2715/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/2687/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Finish",
-          "startTime": "2026/08/11 10:00:00 +0000",
-          "endTime": "2026/08/11 12:20:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "CBS SPORTS - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd|Origin=https://amazon.com&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0",
-            "logo": "",
-            "type": 7,
-            "api": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
-            "tokenApi": ""
-          },
-          {
-            "title": "D SPORTS - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-            "logo": "",
-            "type": 7,
-            "api": "f836853d8eac19446ed9535f5fc568b1:b3bc5ef00602b29abac7e482d3d9fbf3",
-            "tokenApi": ""
-          },
-          {
-            "title": "SKY SPORT NZ",
-            "link": "https://tmaxapp.site/8wirwjs76erftg/skysport2nzf5az.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "Live 1",
-            "link": "https://chatgpt.hereisman.net/playlist/54460/load-playlist?|Referer=https://gooz.aapmains.net",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "LOW SERVER",
-            "link": "http://193.47.62.40/hls/GVVVDDDDD.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
             "logo": "",
             "type": 0,
             "api": "",
