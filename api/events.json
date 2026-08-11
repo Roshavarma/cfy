@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-11T23:31:14.182280",
+  "last_updated": "2026-08-11T23:40:56.360493",
   "event_count": 44,
   "events": {
     "events": [
@@ -465,6 +465,14 @@
           "endTime": "2026/08/12 04:00:17 +0000"
         },
         "channels_data": [
+          {
+            "title": "WILLOW - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/czkwnnswjy/out/v1/54eed4288aca4015affefa8c577b7d48/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "9a5303694c4dc20c936059d016bd7f4c:8c2b391cb032b3b5554fad86e86d34d8",
+            "tokenApi": ""
+          },
           {
             "title": "TNT SPORTS - AQ",
             "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
@@ -1244,7 +1252,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/3633/image",
           "eventName": "Baseball",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/08/11 23:40:00 +0000",
           "endTime": "2026/08/12 02:40:00 +0000"
         },
@@ -1298,7 +1306,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/3652/image",
           "eventName": "Baseball",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/08/11 23:40:00 +0000",
           "endTime": "2026/08/12 02:40:00 +0000"
         },
