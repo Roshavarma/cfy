@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-12T13:31:11.275558",
+  "last_updated": "2026-08-12T13:40:51.131822",
   "event_count": 44,
   "events": {
     "events": [
@@ -315,57 +315,25 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/unique-tournament/16717/image",
           "eventName": "Cricket",
           "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/08/12 10:30:05 +0000",
+          "Status": "Upcoming",
+          "startTime": "2026/08/12 14:00:04 +0000",
           "endTime": "2026/08/12 17:55:57 +0000"
         },
         "channels_data": [
           {
             "title": "WILLOW - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/uboilohtga/out/v1/c4ad81c73eed49b8a85ba0a36aa76583/cenc.mpd",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5hqyskmg9y/out/v1/84dba1bff3be4096bbb0aed04af0099f/cenc.mpd",
             "logo": "",
             "type": 7,
-            "api": "3a6b9c70be7c5360d0d3280e9fe1fa9c:3bf2808053ddf9d664ff3d13498588ac",
-            "tokenApi": ""
-          },
-          {
-            "title": "SKY CRICKET - AQ",
-            "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla",
-            "logo": "",
-            "type": 0,
-            "api": "",
+            "api": "2bcb40778a4f249ca839de8e6ff54814:c7ea7f7b641534d5cffc858eea927561",
             "tokenApi": ""
           },
           {
             "title": "WILLOW - ALT",
-            "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/uboilohtga/out/v1/c4ad81c73eed49b8a85ba0a36aa76583/cenc.mpd",
+            "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/5hqyskmg9y/out/v1/84dba1bff3be4096bbb0aed04af0099f/cenc.mpd",
             "logo": "",
             "type": 7,
-            "api": "3a6b9c70be7c5360d0d3280e9fe1fa9c:3bf2808053ddf9d664ff3d13498588ac",
-            "tokenApi": ""
-          },
-          {
-            "title": "SKY SPORT NZ",
-            "link": "https://tmaxapp.site/8wirwjs76erftg/skysport1nz15866.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "FOX CRICKET HD",
-            "link": "http://line.tvdsz.cc/play/live.php?mac=00:1A:79:B5:AD:FB&stream=809389&extension=m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "LOW SERVER",
-            "link": "http://193.47.62.190/hls/UZZZddA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-            "logo": "",
-            "type": 0,
-            "api": "",
+            "api": "2bcb40778a4f249ca839de8e6ff54814:c7ea7f7b641534d5cffc858eea927561",
             "tokenApi": ""
           }
         ]
@@ -1467,6 +1435,14 @@
         },
         "channels_data": [
           {
+            "title": "FANCODE - AQ",
+            "link": "https://stream.sports3.win/iptv/live/signal-4565883-34900.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
             "title": "Live 1",
             "link": "https://hls.live123.fans/live/4565883.m3u8",
             "logo": "",
@@ -1475,16 +1451,16 @@
             "tokenApi": ""
           },
           {
-            "title": "HD SERVER",
-            "link": "https://stream.sports3.win/iptv/live/signal-4565883-34900.m3u8",
+            "title": "LOW SERVER",
+            "link": "http://193.47.62.190/hls/DSSSSD.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
             "logo": "",
             "type": 0,
             "api": "",
             "tokenApi": ""
           },
           {
-            "title": "LOW SERVER",
-            "link": "http://193.47.62.190/hls/DSSSSD.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+            "title": "FANCODE - IN",
+            "link": "https://dai-fancode.pages.dev/mumbai/4248401_english_hls_52b431dfcf39500_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/",
             "logo": "",
             "type": 0,
             "api": "",
