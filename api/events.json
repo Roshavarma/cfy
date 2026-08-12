@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-12T15:20:58.737922",
-  "event_count": 43,
+  "last_updated": "2026-08-12T15:31:19.423388",
+  "event_count": 42,
   "events": {
     "events": [
       {
@@ -735,6 +735,14 @@
             "logo": "",
             "type": 7,
             "api": "d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811",
+            "tokenApi": ""
+          },
+          {
+            "title": "LOW SERVER",
+            "link": "http://193.47.62.190/hls/TATATATAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+            "logo": "",
+            "type": 0,
+            "api": "",
             "tokenApi": ""
           }
         ]
@@ -1514,33 +1522,6 @@
           {
             "title": "FANCODE - IN",
             "link": "https://dai-fancode.pages.dev/mumbai/4248401_english_hls_52b431dfcf39500_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 11386,
-        "title": "Arkadag FK vs FC Goa",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Arkadag FK",
-          "teamB": "FC Goa",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/469420/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/174594/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/08/12 15:00:00 +0000",
-          "endTime": "2026/08/12 17:20:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "LOW SERVER",
-            "link": "http://193.47.62.190/hls/DSSSSDA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
             "logo": "",
             "type": 0,
             "api": "",
