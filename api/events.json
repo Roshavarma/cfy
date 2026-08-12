@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-12T19:01:15.558844",
+  "last_updated": "2026-08-12T19:10:51.338083",
   "event_count": 40,
   "events": {
     "events": [
@@ -630,24 +630,8 @@
         },
         "channels_data": [
           {
-            "title": "D SPORTS - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-            "logo": "",
-            "type": 7,
-            "api": "f836853d8eac19446ed9535f5fc568b1:b3bc5ef00602b29abac7e482d3d9fbf3",
-            "tokenApi": ""
-          },
-          {
-            "title": "SportDigital Fussball",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
-            "tokenApi": ""
-          },
-          {
             "title": "FOX DEPORTES - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
             "logo": "",
             "type": 7,
             "api": "d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811",
@@ -659,6 +643,22 @@
             "logo": "",
             "type": 7,
             "api": "e78769d87a41e15036a4fb8bfdf1371e:37be0375dc9fe544c3c6de6a105f7c0a",
+            "tokenApi": ""
+          },
+          {
+            "title": "RMA TV HD",
+            "link": "https://chatgpt.hereisman.net/playlist/54532/load-playlist?|Referer=https://gooz.aapmains.net",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "Live 1",
+            "link": "https://live.vivo200.com/live/sd-1-4581647.m3u8?txSecret=3ec5043ee745c703b96209f49f194a7e&txTime=6A7CCCF4|Referer=https://player.online909.com/",
+            "logo": "",
+            "type": 0,
+            "api": "",
             "tokenApi": ""
           },
           {
@@ -1113,8 +1113,32 @@
             "tokenApi": ""
           },
           {
-            "title": "SPORT TV HD",
-            "link": "https://rdcstream.life/live/sport-tv-5-pt/index.m3u8?|Referer=https://bolodechocolate.fit/",
+            "title": "CBS NETWORK HD",
+            "link": "https://chatgpt.hereisman.net/playlist/54529/load-playlist?|Referer=https://gooz.aapmains.net",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "TNT SPORTS HD",
+            "link": "https://chatgpt.hereisman.net/playlist/54520/load-playlist?|Referer=https://gooz.aapmains.net",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "HBO MAX BR HD",
+            "link": "https://rdcstream.life/live/psg-x-aston-villa/index.m3u8?|Referer=https://bolodechocolate.fit/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "Live 1",
+            "link": "https://live.vivo200.com/live/sd-1-4547510.m3u8?txSecret=f05f338d72f29bab51e8f0500da32dfe&txTime=6A7CCF5B|Referer=https://player.online909.com/",
             "logo": "",
             "type": 0,
             "api": "",
@@ -1122,7 +1146,7 @@
           },
           {
             "title": "HD SERVER",
-            "link": "https://cast.zlive.st/p/auto-sport-tv5-0/index.m3u8|referer=https://zlive.st/",
+            "link": "https://live2.jxa76.com/live/sd-6Mwe5Q5U1t8iA6edSK_540p.m3u8?txSecret=98954a7a051ab902ba0476c9a4c80fd9&txTime=19FF89AE437",
             "logo": "",
             "type": 0,
             "api": "",
@@ -1130,7 +1154,7 @@
           },
           {
             "title": "LOW QUALITY",
-            "link": "http://193.47.62.191/hls/BJJJXAAAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+            "link": "http://193.47.62.190/hls/BJJJXAAAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
             "logo": "",
             "type": 0,
             "api": "",
@@ -1681,7 +1705,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/3653/image",
           "eventName": "Baseball",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/08/12 19:05:00 +0000",
           "endTime": "2026/08/12 22:05:00 +0000"
         },
