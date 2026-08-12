@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-12T10:10:56.936615",
-  "event_count": 42,
+  "last_updated": "2026-08-12T10:21:00.649772",
+  "event_count": 45,
   "events": {
     "events": [
       {
@@ -1437,6 +1437,87 @@
           "Status": "Upcoming",
           "startTime": "2026/08/12 19:05:00 +0000",
           "endTime": "2026/08/12 22:05:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 11384,
+        "title": "Persib Bandung vs Manila Digger FC",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Persib Bandung",
+          "teamB": "Manila Digger FC",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/64289/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/512469/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/08/12 12:00:00 +0000",
+          "endTime": "2026/08/12 14:20:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 11385,
+        "title": "East Bengal FC vs Al Arabi SC Kuwait",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "East Bengal FC",
+          "teamB": "Al Arabi SC Kuwait",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/40655/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/35892/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/08/12 13:30:00 +0000",
+          "endTime": "2026/08/12 15:50:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 11386,
+        "title": "Arkadag FK vs FC Goa",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Arkadag FK",
+          "teamB": "FC Goa",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/469420/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/174594/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/08/12 15:00:00 +0000",
+          "endTime": "2026/08/12 17:20:00 +0000"
         },
         "channels_data": [
           {
