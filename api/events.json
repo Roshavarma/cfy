@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-12T11:50:58.635570",
-  "event_count": 45,
+  "last_updated": "2026-08-12T12:01:20.581347",
+  "event_count": 44,
   "events": {
     "events": [
       {
@@ -1450,33 +1450,6 @@
         ]
       },
       {
-        "id": 11384,
-        "title": "Persib Bandung vs Manila Digger FC",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Persib Bandung",
-          "teamB": "Manila Digger FC",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/64289/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/512469/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Upcoming",
-          "startTime": "2026/08/12 12:00:00 +0000",
-          "endTime": "2026/08/12 14:20:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "Live 1",
-            "link": "https://edgestream1.pro/hls/.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
         "id": 11385,
         "title": "East Bengal FC vs Al Arabi SC Kuwait",
         "image": "",
@@ -1494,7 +1467,7 @@
         },
         "channels_data": [
           {
-            "title": "",
+            "title": "Live 1",
             "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
             "logo": "",
             "type": 0,
