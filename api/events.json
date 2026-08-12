@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-12T17:40:51.196882",
+  "last_updated": "2026-08-12T17:50:50.351205",
   "event_count": 40,
   "events": {
     "events": [
@@ -450,14 +450,6 @@
         },
         "channels_data": [
           {
-            "title": "WILLOW - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/czkwnnswjy/out/v1/54eed4288aca4015affefa8c577b7d48/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "9a5303694c4dc20c936059d016bd7f4c:8c2b391cb032b3b5554fad86e86d34d8",
-            "tokenApi": ""
-          },
-          {
             "title": "TNT SPORTS - AQ",
             "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
             "logo": "",
@@ -552,8 +544,16 @@
         },
         "channels_data": [
           {
-            "title": "",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "title": "D SPORTS - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+            "logo": "",
+            "type": 7,
+            "api": "f836853d8eac19446ed9535f5fc568b1:b3bc5ef00602b29abac7e482d3d9fbf3",
+            "tokenApi": ""
+          },
+          {
+            "title": "HD SERVER",
+            "link": "https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8",
             "logo": "",
             "type": 0,
             "api": "",
@@ -1026,8 +1026,32 @@
         },
         "channels_data": [
           {
-            "title": "",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "title": "beiN ENGLISH - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+            "logo": "",
+            "type": 7,
+            "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
+            "tokenApi": ""
+          },
+          {
+            "title": "beiN SPORTS ES",
+            "link": "https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "SPORT TV HD",
+            "link": "https://rdcstream.life/live/sport-tv-1-pt/index.m3u8?|Referer=https://bolodechocolate.fit/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "HD SERVER",
+            "link": "https://cast.zlive.st/p/auto-sport-tv1-0/index.m3u8|referer=https://zlive.st/",
             "logo": "",
             "type": 0,
             "api": "",
