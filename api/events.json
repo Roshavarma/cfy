@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-12T18:40:57.701921",
+  "last_updated": "2026-08-12T18:50:54.262810",
   "event_count": 40,
   "events": {
     "events": [
@@ -699,7 +699,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/2681/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/08/12 18:45:00 +0000",
           "endTime": "2026/08/12 21:05:00 +0000"
         },
@@ -841,6 +841,14 @@
           {
             "title": "ESPN SPORTS HD",
             "link": "https://rdcstream.life/live/espn/index.m3u8?|Referer=https://bolodechocolate.fit/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "Live 2",
+            "link": "https://hls.live123.fans/live/4565097.m3u8",
             "logo": "",
             "type": 0,
             "api": "",
