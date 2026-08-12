@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-12T23:31:06.185645",
+  "last_updated": "2026-08-12T23:40:56.359841",
   "event_count": 39,
   "events": {
     "events": [
@@ -1068,7 +1068,7 @@
         "channels_data": [
           {
             "title": "Live 1",
-            "link": "https://chatgpt.hereisman.net/playlist/54543/load-playlist?&.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://gooz.aapmains.net/new-stream-embed/54543?ad=111&Origin=https://gooz.aapmains.net/new-stream-embed/54543?ad=111",
+            "link": "https://chatgpt.hereisman.net/playlist/54543/load-playlist?|Referer=https://gooz.aapmains.net",
             "logo": "",
             "type": 0,
             "api": "",
@@ -1083,8 +1083,16 @@
             "tokenApi": ""
           },
           {
+            "title": "HD SERVER",
+            "link": "https://live2.jxa76.com/live/sd-6MwcqbgY3AgzChMpZh_540p.m3u8?txSecret=5097f7b4df6247667856449d0dfdb059&txTime=19FF99B834A",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
             "title": "LOW SERVER",
-            "link": "http://193.47.62.191/hls/OOOO.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+            "link": "http://193.47.62.191/hls/OOOO.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
             "logo": "",
             "type": 0,
             "api": "",
@@ -1749,7 +1757,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/3633/image",
           "eventName": "Baseball",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/08/12 23:40:00 +0000",
           "endTime": "2026/08/13 02:40:00 +0000"
         },
