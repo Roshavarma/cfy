@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-13T02:10:48.241025",
+  "last_updated": "2026-08-13T02:20:53.769039",
   "event_count": 39,
   "events": {
     "events": [
@@ -357,7 +357,7 @@
           "teamAFlag": "https://img.sofascore.com/api/v1/team/187746/image",
           "teamBFlag": "https://img.sofascore.com/api/v1/team/187744/image",
           "eventName": "Cricket",
-          "isHot": "0",
+          "isHot": "1",
           "Status": "Live",
           "startTime": "2026/08/13 00:30:00 +0000",
           "endTime": "2026/08/13 04:30:00 +0000"
@@ -372,6 +372,14 @@
             "tokenApi": ""
           },
           {
+            "title": "TAPMAD - AQ",
+            "link": "https://saseries.akamaized.net/hls/live/2110097/D2PAKvsWI-TesT-tapmad/master.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
             "title": "WILLOW - ALT",
             "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/rxcjfnbuxt/out/v1/241044fb0e6c415192410432c2c825d0/cenc.mpd",
             "logo": "",
@@ -382,6 +390,22 @@
           {
             "title": "LOW SERVER",
             "link": "http://193.47.62.192/hls/NNNND.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "SKY SPORTS HD",
+            "link": "https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809394.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "TEN SPORTS HD",
+            "link": "https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809396.m3u8",
             "logo": "",
             "type": 0,
             "api": "",
@@ -1714,7 +1738,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/3629/image",
           "eventName": "Baseball",
           "isHot": "0",
-          "Status": "Live",
+          "Status": "Finish",
           "startTime": "2026/08/12 23:15:00 +0000",
           "endTime": "2026/08/13 02:15:00 +0000"
         },
