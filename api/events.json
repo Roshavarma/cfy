@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-14T15:51:09.416147",
+  "last_updated": "2026-08-14T16:01:33.848384",
   "event_count": 60,
   "events": {
     "events": [
@@ -315,9 +315,9 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/unique-tournament/16717/image",
           "eventName": "Cricket",
           "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/08/14 13:00:29 +0000",
-          "endTime": "2026/08/14 17:00:33 +0000"
+          "Status": "Upcoming",
+          "startTime": "2026/08/16 13:00:47 +0000",
+          "endTime": "2026/08/16 17:55:51 +0000"
         },
         "channels_data": [
           {
@@ -815,7 +815,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/2725/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/08/14 16:00:00 +0000",
           "endTime": "2026/08/14 18:20:00 +0000"
         },
@@ -837,14 +837,6 @@
             "tokenApi": ""
           },
           {
-            "title": "Live 1",
-            "link": "https://hls.live123.fans/live/4613092.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
             "title": "SPORT TV HD",
             "link": "https://cast.zlive.st/p/auto-sport-tv2-0/index.m3u8|referer=https://zlive.st/",
             "logo": "",
@@ -853,8 +845,24 @@
             "tokenApi": ""
           },
           {
+            "title": "Live 1",
+            "link": "https://hls.live123.fans/live/4613092.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
             "title": "HD SERVER",
             "link": "https://rdcstream.life/live/sport-tv-2-pt/index.m3u8?|Referer=https://bolodechocolate.fit/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "LOW SERVER",
+            "link": "http://193.47.62.191/hls/FUUU.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
             "logo": "",
             "type": 0,
             "api": "",
