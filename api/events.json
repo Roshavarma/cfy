@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-14T18:51:05.313019",
-  "event_count": 56,
+  "last_updated": "2026-08-14T19:01:23.132363",
+  "event_count": 55,
   "events": {
     "events": [
       {
@@ -669,49 +669,6 @@
         ]
       },
       {
-        "id": 11415,
-        "title": "Neom SC vs Al-Fayha",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Neom SC",
-          "teamB": "Al-Fayha",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/530631/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/168094/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/08/14 16:50:00 +0000",
-          "endTime": "2026/08/14 19:10:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "Live 1",
-            "link": "https://hls.live123.fans/live/4599543.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "HD SERVER",
-            "link": "https://pul-tenm.gkykp.com/live/sd-1-4599543.m3u8?txSecret=efb1b760b45fef0cf4f199d88d910b3c&txTime=6A8071D0",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "LOW SERVER",
-            "link": "http://193.47.62.191/hls/FFSSSAAAAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
         "id": 11416,
         "title": "Al-Hilal vs Al Faisaly",
         "image": "",
@@ -943,7 +900,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/46/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/08/14 19:00:00 +0000",
           "endTime": "2026/08/14 21:20:00 +0000"
         },
@@ -1622,6 +1579,14 @@
           {
             "title": "beiN SPORTS HD",
             "link": "https://tmaxapp.site/8wirwjs76erftg/beinsports1tr.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "HD SERVER",
+            "link": "https://live2.jxa76.com/live/hd-en-6Mwb6hGgf53DeLXPPq_540p.m3u8?txSecret=1dc144dc1738d569bb3550a0536e17d8&txTime=1A002D65F74",
             "logo": "",
             "type": 0,
             "api": "",
