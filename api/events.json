@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-14T17:51:11.292950",
-  "event_count": 60,
+  "last_updated": "2026-08-14T18:01:22.777402",
+  "event_count": 58,
   "events": {
     "events": [
       {
@@ -642,68 +642,6 @@
         ]
       },
       {
-        "id": 11394,
-        "title": "Olympique de Marseille vs Atletico Madrid",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Olympique de Marseille",
-          "teamB": "Atl\u00e9tico Madrid",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/1641/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/2836/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Finish",
-          "startTime": "2026/08/14 15:30:00 +0000",
-          "endTime": "2026/08/14 17:50:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "Live 1",
-            "link": "https://hls.live123.fans/live/4611427.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "LOW SERVER",
-            "link": "http://193.47.62.190/hls/AIIIZZZ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 11395,
-        "title": "Coventry City vs AS Monaco",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Coventry City",
-          "teamB": "AS Monaco",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/11/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/1653/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Upcoming",
-          "startTime": "2026/08/14 18:00:00 +0000",
-          "endTime": "2026/08/14 20:20:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
         "id": 11396,
         "title": "Atalanta vs Athletic Club",
         "image": "",
@@ -785,7 +723,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/56035/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/08/14 18:00:00 +0000",
           "endTime": "2026/08/14 20:20:00 +0000"
         },
@@ -829,6 +767,14 @@
             "type": 0,
             "api": "",
             "tokenApi": ""
+          },
+          {
+            "title": "SD SERVER",
+            "link": "http://193.47.62.193/hls/ITTTA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
           }
         ]
       },
@@ -844,7 +790,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/168088/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/08/14 18:00:00 +0000",
           "endTime": "2026/08/14 20:20:00 +0000"
         },
@@ -852,6 +798,22 @@
           {
             "title": "Live 1",
             "link": "https://hls.live123.fans/live/4599544.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "HD SERVER",
+            "link": "https://live.vivo200.com/live/sd-1-4599544.m3u8?txSecret=a9c71d0bc2840ee2084dd3e6827e3d69&txTime=6A7F6B92|Referer=https://player.online909.com/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "LOW SERVER",
+            "link": "http://193.47.62.193/hls/ITTT.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
             "logo": "",
             "type": 0,
             "api": "",
@@ -1209,11 +1171,27 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/2960/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/08/14 18:00:00 +0000",
           "endTime": "2026/08/14 20:20:00 +0000"
         },
         "channels_data": [
+          {
+            "title": "Live 1",
+            "link": "https://live.vivo200.com/live/sd-1-4552156.m3u8?txSecret=9126fa4f43d5d562b10b9445fb68fb64&txTime=6A7F6AF3|Referer=https://player.online909.com/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "SD SERVER",
+            "link": "http://193.47.62.193/hls/IPPPAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
           {
             "title": "LOW SERVER",
             "link": "http://162.251.160.53:8089/321/index.m3u8",
