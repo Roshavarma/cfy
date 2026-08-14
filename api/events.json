@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-14T19:11:01.966444",
+  "last_updated": "2026-08-14T19:31:17.714079",
   "event_count": 55,
   "events": {
     "events": [
@@ -774,7 +774,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/2759/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/08/14 19:15:00 +0000",
           "endTime": "2026/08/14 21:35:00 +0000"
         },
@@ -959,7 +959,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/3009/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/08/14 19:15:00 +0000",
           "endTime": "2026/08/14 21:35:00 +0000"
         },
@@ -981,16 +981,8 @@
             "tokenApi": ""
           },
           {
-            "title": "SD SERVER",
-            "link": "http://193.47.62.194/hls/siiiiaaaaAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
             "title": "LOW SERVER",
-            "link": "http://162.251.160.53:8089/899/index.m3u8",
+            "link": "http://193.47.62.194/hls/siiiiaaaaAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
             "logo": "",
             "type": 0,
             "api": "",
