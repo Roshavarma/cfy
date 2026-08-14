@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-14T05:40:37.010305",
-  "event_count": 13,
+  "last_updated": "2026-08-14T05:50:43.784595",
+  "event_count": 24,
   "events": {
     "events": [
       {
@@ -646,6 +646,303 @@
           "Status": "Upcoming",
           "startTime": "2026/08/14 18:45:00 +0000",
           "endTime": "2026/08/14 21:05:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 11415,
+        "title": "Neom SC vs Al-Fayha",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Neom SC",
+          "teamB": "Al-Fayha",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/530631/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/168094/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/08/14 16:50:00 +0000",
+          "endTime": "2026/08/14 19:10:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 11416,
+        "title": "Al-Hilal vs Al Faisaly",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Al-Hilal",
+          "teamB": "Al Faisaly",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/21895/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/56035/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/08/14 18:00:00 +0000",
+          "endTime": "2026/08/14 20:20:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 11417,
+        "title": "Al-Ettifaq vs Al-Riyadh",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Al-Ettifaq",
+          "teamB": "Al-Riyadh",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/34318/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/168088/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/08/14 18:00:00 +0000",
+          "endTime": "2026/08/14 20:20:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 11418,
+        "title": "Parma vs Catania",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Parma",
+          "teamB": "Catania",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/2690/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/2725/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/08/14 16:00:00 +0000",
+          "endTime": "2026/08/14 18:20:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 11419,
+        "title": "Cagliari vs Arezzo",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Cagliari",
+          "teamB": "Arezzo",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/2719/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/2731/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/08/14 16:30:00 +0000",
+          "endTime": "2026/08/14 18:50:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 11420,
+        "title": "Fiorentina vs Benevento",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Fiorentina",
+          "teamB": "Benevento",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/2693/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/2759/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/08/14 19:15:00 +0000",
+          "endTime": "2026/08/14 21:35:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 11421,
+        "title": "Monza vs US Avellino 1912",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Monza",
+          "teamB": "US Avellino 1912",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/2729/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/2730/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/08/14 18:45:00 +0000",
+          "endTime": "2026/08/14 21:05:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 11422,
+        "title": "Wolverhampton vs Blackburn Rovers",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Wolverhampton",
+          "teamB": "Blackburn Rovers",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/46/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/08/14 19:00:00 +0000",
+          "endTime": "2026/08/14 21:20:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 11423,
+        "title": "Sporting CP vs Vitoria SC",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Sporting CP",
+          "teamB": "Vit\u00f3ria SC",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3001/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3009/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/08/14 19:15:00 +0000",
+          "endTime": "2026/08/14 21:35:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 11424,
+        "title": "SC Telstar vs Sparta Rotterdam",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "SC Telstar",
+          "teamB": "Sparta Rotterdam",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/2972/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/2960/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/08/14 18:00:00 +0000",
+          "endTime": "2026/08/14 20:20:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 11425,
+        "title": "Real Sociedad B vs CD Castellon",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Real Sociedad B",
+          "teamB": "CD Castell\u00f3n",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/24360/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/5067/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/08/14 18:30:00 +0000",
+          "endTime": "2026/08/14 20:50:00 +0000"
         },
         "channels_data": [
           {
