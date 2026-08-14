@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-14T14:01:28.767679",
-  "event_count": 41,
+  "last_updated": "2026-08-14T14:10:58.728178",
+  "event_count": 42,
   "events": {
     "events": [
       {
@@ -1426,6 +1426,33 @@
           "Status": "Upcoming",
           "startTime": "2026/08/15 02:15:00 +0000",
           "endTime": "2026/08/15 05:15:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 11443,
+        "title": "Galatasaray vs Corum FK",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Galatasaray",
+          "teamB": "\u00c7orum FK",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3061/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/77629/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/08/14 18:30:00 +0000",
+          "endTime": "2026/08/14 20:50:00 +0000"
         },
         "channels_data": [
           {
