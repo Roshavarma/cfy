@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-14T02:30:53.481746",
-  "event_count": 22,
+  "last_updated": "2026-08-14T02:40:36.936770",
+  "event_count": 20,
   "events": {
     "events": [
       {
@@ -365,7 +365,7 @@
         "channels_data": [
           {
             "title": "WILLOW - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8pgf2bl9ys/out/v1/52ec2605c0cd4a34b57b44d47be7ea9f/cenc.mpd",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/8pgf2bl9ys/out/v1/52ec2605c0cd4a34b57b44d47be7ea9f/cenc.mpd",
             "logo": "",
             "type": 0,
             "api": "39940cfcd0fe9b262d3cf16a58cc23cf:790f0f14a81197fb17f31518cc23992e",
@@ -373,7 +373,7 @@
           },
           {
             "title": "WILLOW - ALT",
-            "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/8pgf2bl9ys/out/v1/52ec2605c0cd4a34b57b44d47be7ea9f/cenc.mpd",
+            "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/8pgf2bl9ys/out/v1/52ec2605c0cd4a34b57b44d47be7ea9f/cenc.mpd",
             "logo": "",
             "type": 7,
             "api": "39940cfcd0fe9b262d3cf16a58cc23cf:790f0f14a81197fb17f31518cc23992e",
@@ -483,10 +483,10 @@
           },
           {
             "title": "TNT SPORTS - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
             "logo": "",
             "type": 7,
-            "api": "f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b",
+            "api": "69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749",
             "tokenApi": ""
           },
           {
@@ -507,18 +507,10 @@
           },
           {
             "title": "WILLOW HD",
-            "link": "http://tvsen5.aynascope.net/willowhd/index.m3u8",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
             "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "TAPMAD - AQ",
-            "link": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8|referer=https://tapmad.com",
-            "logo": "",
-            "type": 0,
-            "api": "",
+            "type": 7,
+            "api": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
             "tokenApi": ""
           },
           {
@@ -573,33 +565,6 @@
           "Status": "Upcoming",
           "startTime": "2026/08/14 17:00:00 +0000",
           "endTime": "2026/08/14 21:00:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 11392,
-        "title": "Cote dIvoire vs Ghana",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "C\u00f4te d'Ivoire",
-          "teamB": "Ghana",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/186328/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/7417/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Finish",
-          "startTime": "2026/08/13 17:00:00 +0000",
-          "endTime": "2026/08/13 19:20:00 +0000"
         },
         "channels_data": [
           {
@@ -681,33 +646,6 @@
           "Status": "Upcoming",
           "startTime": "2026/08/14 18:45:00 +0000",
           "endTime": "2026/08/14 21:05:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 11399,
-        "title": "Cienciano vs Botafogo",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Cienciano",
-          "teamB": "Botafogo",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/2301/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/1958/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/08/14 00:30:00 +0000",
-          "endTime": "2026/08/14 02:50:00 +0000"
         },
         "channels_data": [
           {
