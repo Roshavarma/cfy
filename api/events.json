@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-14T15:21:11.737761",
+  "last_updated": "2026-08-14T15:31:22.137008",
   "event_count": 60,
   "events": {
     "events": [
@@ -613,14 +613,14 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/2836/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/08/14 15:30:00 +0000",
           "endTime": "2026/08/14 17:50:00 +0000"
         },
         "channels_data": [
           {
             "title": "Live 1",
-            "link": "https://chatgpt.hereisman.net/playlist/54621/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+            "link": "https://chatgpt.hereisman.net/playlist/54621/load-playlist?|Referer=https://gooz.aapmains.net",
             "logo": "",
             "type": 0,
             "api": "",
@@ -939,8 +939,40 @@
         },
         "channels_data": [
           {
-            "title": "",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "title": "ITALIA 1 - AQ",
+            "link": "https://live03p-seg.msf.cdn.mediaset.net/live/ch-i1/i1-dash-widevine.isml/manifest.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "00f9f3c0783536b8ee91704e23b78016:bfd04d6f544c9cc4d35cb13ab6778587",
+            "tokenApi": ""
+          },
+          {
+            "title": "SPORT 1 CZ - AQ",
+            "link": "https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
+            "tokenApi": ""
+          },
+          {
+            "title": "D SPORTS - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+            "logo": "",
+            "type": 7,
+            "api": "f836853d8eac19446ed9535f5fc568b1:b3bc5ef00602b29abac7e482d3d9fbf3",
+            "tokenApi": ""
+          },
+          {
+            "title": "Live 1",
+            "link": "https://cast.zlive.st/p/auto-sport-tv2-0/index.m3u8|referer=https://zlive.st/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "HD SERVER",
+            "link": "https://rdcstream.life/live/sport-tv-2-pt/index.m3u8?|Referer=https://bolodechocolate.fit/",
             "logo": "",
             "type": 0,
             "api": "",
@@ -1074,11 +1106,19 @@
         },
         "channels_data": [
           {
-            "title": "",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "title": "LaLiga TV - AQ",
+            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd",
             "logo": "",
-            "type": 0,
-            "api": "",
+            "type": 7,
+            "api": "620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a",
+            "tokenApi": ""
+          },
+          {
+            "title": "LaLiga Hypermotion ES",
+            "link": "https://cache07.zapitv.com/live/eds_c2/HYPERMOTION1/dash_live_ez/HYPERMOTION1.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "a88617e904504ee291f49f0e60a51d49:17f92d59fde3b6d2bf4ffb48e8ca720a",
             "tokenApi": ""
           }
         ]
@@ -1560,8 +1600,16 @@
         },
         "channels_data": [
           {
-            "title": "",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "title": "beiN SPORTS HD",
+            "link": "https://tmaxapp.site/8wirwjs76erftg/beinsports1tr.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "HD SERVER",
+            "link": "https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8",
             "logo": "",
             "type": 0,
             "api": "",
