@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-14T18:11:06.093074",
-  "event_count": 57,
+  "last_updated": "2026-08-14T18:51:05.313019",
+  "event_count": 56,
   "events": {
     "events": [
       {
@@ -498,14 +498,6 @@
         },
         "channels_data": [
           {
-            "title": "WILLOW - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dgly6ezivq/out/v1/e1748eea04034eb688b927e4ed47438c/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "674390473f712ac5c75e5d3ea67277c2:aca500cdee918538beeb65b1c458fd67",
-            "tokenApi": ""
-          },
-          {
             "title": "TNT SPORTS - AQ",
             "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
             "logo": "",
@@ -653,14 +645,22 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/2825/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/08/14 18:45:00 +0000",
           "endTime": "2026/08/14 21:05:00 +0000"
         },
         "channels_data": [
           {
-            "title": "",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "title": "Live 1",
+            "link": "https://live.vivo200.com/live/sd-1-4611488.m3u8?txSecret=21070d7bd64a63e741b13adf64b88479&txTime=6A7F6C0C|Referer=https://player.online909.com/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "LOW SERVER",
+            "link": "http://193.47.62.191/hls/DMMMAAAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
             "logo": "",
             "type": 0,
             "api": "",
@@ -806,65 +806,6 @@
         ]
       },
       {
-        "id": 11419,
-        "title": "Cagliari vs Arezzo",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Cagliari",
-          "teamB": "Arezzo",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/2719/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/2731/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/08/14 16:30:00 +0000",
-          "endTime": "2026/08/14 18:50:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "ITALIA 1 - AQ",
-            "link": "https://live03p-seg.msf.cdn.mediaset.net/live/ch-i1/i1-dash-widevine.isml/manifest.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "00f9f3c0783536b8ee91704e23b78016:bfd04d6f544c9cc4d35cb13ab6778587",
-            "tokenApi": ""
-          },
-          {
-            "title": "D SPORTS - AQ",
-            "link": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/rgilyeubta/out/v1/09a67027b18f4fd78aaa3794a2aacfe8/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "03f12d6a3dbfd3a6fa7dd7f6417e0c11:ea07b87acdf2e45be824cde4a1cf3504",
-            "tokenApi": ""
-          },
-          {
-            "title": "Live 1",
-            "link": "https://chatgpt.hereisman.net/playlist/54613/load-playlist?|Referer=https://gooz.aapmains.net",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "HD SERVER",
-            "link": "https://hls.live123.fans/live/4613093.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "LOW SERVER",
-            "link": "http://193.47.62.191/hls/FUUUZ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
         "id": 11420,
         "title": "Fiorentina vs Benevento",
         "image": "",
@@ -907,6 +848,14 @@
           },
           {
             "title": "Live 1",
+            "link": "https://chatgpt.hereisman.net/playlist/54615/load-playlist?|Referer=https://gooz.aapmains.net",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "SPORT TV HD",
             "link": "https://cast.zlive.st/p/auto-sport-tv2-0/index.m3u8|referer=https://zlive.st/",
             "logo": "",
             "type": 0,
@@ -916,6 +865,14 @@
           {
             "title": "HD SERVER",
             "link": "https://rdcstream.life/live/sport-tv-2-pt/index.m3u8?|Referer=https://bolodechocolate.fit/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "LOW SERVER",
+            "link": "http://193.47.62.194/hls/siiiiaaaaAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
             "logo": "",
             "type": 0,
             "api": "",
@@ -935,7 +892,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/2730/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/08/14 18:45:00 +0000",
           "endTime": "2026/08/14 21:05:00 +0000"
         },
@@ -957,11 +914,19 @@
             "tokenApi": ""
           },
           {
-            "title": "D SPORTS - AQ",
-            "link": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/rgilyeubta/out/v1/09a67027b18f4fd78aaa3794a2aacfe8/cenc.mpd",
+            "title": "HD SERVER",
+            "link": "https://live.vivo200.com/live/sd-1-4564315.m3u8?txSecret=22f5aea54c00c340e700e68adbb3885b&txTime=6A7F74F9|Referer=https://player.online909.com/",
             "logo": "",
-            "type": 7,
-            "api": "03f12d6a3dbfd3a6fa7dd7f6417e0c11:ea07b87acdf2e45be824cde4a1cf3504",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "LOW SERVER",
+            "link": "http://193.47.62.190/hls/siiiia.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+            "logo": "",
+            "type": 0,
+            "api": "",
             "tokenApi": ""
           }
         ]
@@ -1016,6 +981,14 @@
             "tokenApi": ""
           },
           {
+            "title": "SD SERVER",
+            "link": "http://193.47.62.194/hls/siiiiaaaaA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
             "title": "LOW SERVER",
             "link": "http://162.251.160.53:8089/112/index.m3u8",
             "logo": "",
@@ -1056,6 +1029,14 @@
             "logo": "",
             "type": 7,
             "api": "03f12d6a3dbfd3a6fa7dd7f6417e0c11:ea07b87acdf2e45be824cde4a1cf3504",
+            "tokenApi": ""
+          },
+          {
+            "title": "SD SERVER",
+            "link": "http://193.47.62.194/hls/siiiiaaaaAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+            "logo": "",
+            "type": 0,
+            "api": "",
             "tokenApi": ""
           },
           {
@@ -1115,25 +1096,25 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/5067/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/08/14 18:30:00 +0000",
           "endTime": "2026/08/14 20:50:00 +0000"
         },
         "channels_data": [
           {
-            "title": "LaLiga TV - AQ",
-            "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd",
+            "title": "Live 1",
+            "link": "https://live.vivo200.com/live/sd-1-4567222.m3u8?txSecret=cef1472b1c83d46d63113063854e75fc&txTime=6A7F7185|Referer=https://player.online909.com/",
             "logo": "",
-            "type": 7,
-            "api": "620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a",
+            "type": 0,
+            "api": "",
             "tokenApi": ""
           },
           {
-            "title": "LaLiga Hypermotion ES",
-            "link": "https://cache07.zapitv.com/live/eds_c2/HYPERMOTION1/dash_live_ez/HYPERMOTION1.mpd",
+            "title": "LOW SERVER",
+            "link": "http://193.47.62.191/hls/DMMMAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
             "logo": "",
-            "type": 7,
-            "api": "a88617e904504ee291f49f0e60a51d49:17f92d59fde3b6d2bf4ffb48e8ca720a",
+            "type": 0,
+            "api": "",
             "tokenApi": ""
           }
         ]
@@ -1231,7 +1212,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/3632/image",
           "eventName": "Baseball",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/08/14 18:20:00 +0000",
           "endTime": "2026/08/14 21:20:00 +0000"
         },
@@ -1247,6 +1228,14 @@
           {
             "title": "HD QUALITY",
             "link": "https://edgestream2.pro/hls/dazhfiach15.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "LOW SERVER",
+            "link": "http://193.47.62.190/hls/ITTTAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
             "logo": "",
             "type": 0,
             "api": "",
@@ -1617,11 +1606,19 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/77629/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/08/14 18:30:00 +0000",
           "endTime": "2026/08/14 20:50:00 +0000"
         },
         "channels_data": [
+          {
+            "title": "beiN SPORTS - AQ",
+            "link": "https://live.vivo200.com/live/sd-1-4581272.m3u8?txSecret=a25f7adf0a10c6f7aa3c6076de052fde&txTime=6A7F71D0|Referer=https://player.online909.com/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
           {
             "title": "beiN SPORTS HD",
             "link": "https://tmaxapp.site/8wirwjs76erftg/beinsports1tr.m3u8",
@@ -1631,8 +1628,8 @@
             "tokenApi": ""
           },
           {
-            "title": "HD SERVER",
-            "link": "https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8",
+            "title": "LOW SERVER",
+            "link": "http://193.47.62.191/hls/DMMMA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
             "logo": "",
             "type": 0,
             "api": "",
