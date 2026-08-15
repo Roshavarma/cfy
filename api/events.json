@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-15T03:40:49.173988",
-  "event_count": 32,
+  "last_updated": "2026-08-15T03:51:02.716547",
+  "event_count": 58,
   "events": {
     "events": [
       {
@@ -325,7 +325,7 @@
           "teamAFlag": "https://img.sofascore.com/api/v1/team/187746/image",
           "teamBFlag": "https://img.sofascore.com/api/v1/team/187744/image",
           "eventName": "Cricket",
-          "isHot": "1",
+          "isHot": "0",
           "Status": "Live",
           "startTime": "2026/08/15 00:30:03 +0000",
           "endTime": "2026/08/15 09:00:08 +0000"
@@ -1191,6 +1191,708 @@
           "Status": "Upcoming",
           "startTime": "2026/08/15 04:30:00 +0000",
           "endTime": "2026/08/15 08:30:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 11463,
+        "title": "Deportivo Alaves vs Getafe",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Deportivo Alav\u00e9s",
+          "teamB": "Getafe",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/2885/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/2859/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/08/15 17:30:00 +0000",
+          "endTime": "2026/08/15 19:50:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 11464,
+        "title": "Sevilla vs Rayo Vallecano",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Sevilla",
+          "teamB": "Rayo Vallecano",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/2833/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/2818/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/08/15 19:30:00 +0000",
+          "endTime": "2026/08/15 21:50:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 11465,
+        "title": "Al-Taawoun vs Al-Khaleej",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Al-Taawoun",
+          "teamB": "Al-Khaleej",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/56021/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/167228/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/08/15 16:15:00 +0000",
+          "endTime": "2026/08/15 18:35:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 11466,
+        "title": "Al-Ittihad vs Al-Kholood",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Al-Ittihad",
+          "teamB": "Al-Kholood",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/34315/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/269199/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/08/15 18:00:00 +0000",
+          "endTime": "2026/08/15 20:20:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 11467,
+        "title": "Al-Nassr vs Al-Fateh",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Al-Nassr",
+          "teamB": "Al-Fateh",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/23400/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/56023/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/08/15 18:00:00 +0000",
+          "endTime": "2026/08/15 20:20:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 11468,
+        "title": "Catanzaro vs Sudtirol",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Catanzaro",
+          "teamB": "S\u00fcdtirol",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/2796/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/2760/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/08/15 16:00:00 +0000",
+          "endTime": "2026/08/15 18:20:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 11469,
+        "title": "Udinese vs Padova",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Udinese",
+          "teamB": "Padova",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/2695/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/2741/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/08/15 16:30:00 +0000",
+          "endTime": "2026/08/15 18:50:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 11470,
+        "title": "Venezia vs Modena",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Venezia",
+          "teamB": "Modena",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/2688/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/2706/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/08/15 18:45:00 +0000",
+          "endTime": "2026/08/15 21:05:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 11471,
+        "title": "Torino vs Carrarese",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Torino",
+          "teamB": "Carrarese",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/2696/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/2745/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/08/15 19:15:00 +0000",
+          "endTime": "2026/08/15 21:35:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 11472,
+        "title": "Morocco vs Algeria",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Morocco",
+          "teamB": "Algeria",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/261908/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/180004/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/08/15 17:00:00 +0000",
+          "endTime": "2026/08/15 19:20:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 11473,
+        "title": "Singapore vs Thailand",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Singapore",
+          "teamB": "Thailand",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/4738/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/4730/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/08/15 13:00:00 +0000",
+          "endTime": "2026/08/15 15:20:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 11474,
+        "title": "Willem II Tilburg vs NEC Nijmegen",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Willem II Tilburg",
+          "teamB": "NEC Nijmegen",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/2961/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/2962/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/08/15 14:30:00 +0000",
+          "endTime": "2026/08/15 16:50:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 11475,
+        "title": "FC Utrecht vs AZ Alkmaar",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "FC Utrecht",
+          "teamB": "AZ Alkmaar",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/2948/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/2950/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/08/15 16:45:00 +0000",
+          "endTime": "2026/08/15 19:05:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 11476,
+        "title": "Excelsior vs PSV Eindhoven",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Excelsior",
+          "teamB": "PSV Eindhoven",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/2967/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/2952/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/08/15 18:00:00 +0000",
+          "endTime": "2026/08/15 20:20:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 11477,
+        "title": "Fortuna Sittard vs SC Cambuur",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Fortuna Sittard",
+          "teamB": "SC Cambuur",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/2957/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/2970/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/08/15 19:00:00 +0000",
+          "endTime": "2026/08/15 21:20:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 11478,
+        "title": "FC Alverca vs CF Estrela Amadora",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "FC Alverca",
+          "teamB": "CF Estrela Amadora",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/190328/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3035/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/08/15 14:30:00 +0000",
+          "endTime": "2026/08/15 16:50:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 11479,
+        "title": "Academico Viseu FC vs Santa Clara",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Acad\u00e9mico Viseu FC",
+          "teamB": "Santa Clara",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3022/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3011/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/08/15 17:00:00 +0000",
+          "endTime": "2026/08/15 19:20:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 11480,
+        "title": "Rio Ave vs FC Porto",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Rio Ave",
+          "teamB": "FC Porto",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3036/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3002/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/08/15 19:30:00 +0000",
+          "endTime": "2026/08/15 21:50:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 11481,
+        "title": "FC Andorra vs AD Ceuta",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "FC Andorra",
+          "teamB": "AD Ceuta",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/324871/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/2869/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/08/15 15:00:00 +0000",
+          "endTime": "2026/08/15 17:20:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 11482,
+        "title": "Cadiz vs Celta Fortuna",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "C\u00e1diz",
+          "teamB": "Celta Fortuna",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/4488/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/24336/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/08/15 17:00:00 +0000",
+          "endTime": "2026/08/15 19:20:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 11483,
+        "title": "Real Oviedo vs Granada",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Real Oviedo",
+          "teamB": "Granada",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/2851/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/33779/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/08/15 17:00:00 +0000",
+          "endTime": "2026/08/15 19:20:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 11484,
+        "title": "Mallorca vs Real Valladolid",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Mallorca",
+          "teamB": "Real Valladolid",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/2826/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/2831/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/08/15 19:30:00 +0000",
+          "endTime": "2026/08/15 21:50:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 11485,
+        "title": "Fluminense vs Palmeiras",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Fluminense",
+          "teamB": "Palmeiras",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/1961/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/1963/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/08/15 19:30:00 +0000",
+          "endTime": "2026/08/15 21:50:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 11486,
+        "title": "Athletico vs Red Bull Bragantino",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Athletico",
+          "teamB": "Red Bull Bragantino",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/1967/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/1999/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/08/15 21:30:00 +0000",
+          "endTime": "2026/08/15 23:50:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 11487,
+        "title": "Sao Paulo vs Coritiba",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "S\u00e3o Paulo",
+          "teamB": "Coritiba",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/1981/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/1982/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/08/16 00:00:00 +0000",
+          "endTime": "2026/08/16 02:20:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 11488,
+        "title": "Nashville SC vs Inter Miami CF",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Nashville SC",
+          "teamB": "Inter Miami CF",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/337612/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/337602/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/08/16 00:30:00 +0000",
+          "endTime": "2026/08/16 02:50:00 +0000"
         },
         "channels_data": [
           {
