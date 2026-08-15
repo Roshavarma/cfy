@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-15T05:51:26.286825",
-  "event_count": 83,
+  "last_updated": "2026-08-15T06:01:36.441507",
+  "event_count": 84,
   "events": {
     "events": [
       {
@@ -2592,6 +2592,33 @@
           "Status": "Upcoming",
           "startTime": "2026/08/16 01:38:00 +0000",
           "endTime": "2026/08/16 04:38:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 11519,
+        "title": "Trent Rockets vs Manchester Super Giants",
+        "image": "",
+        "cat": "Cricket",
+        "eventInfo": {
+          "teamA": "Trent Rockets",
+          "teamB": "Manchester Super Giants",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/377176/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/377173/image",
+          "eventName": "Cricket",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/08/16 17:00:00 +0000",
+          "endTime": "2026/08/16 21:00:00 +0000"
         },
         "channels_data": [
           {
