@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-15T04:01:20.757308",
-  "event_count": 58,
+  "last_updated": "2026-08-15T04:11:09.177365",
+  "event_count": 66,
   "events": {
     "events": [
       {
@@ -181,9 +181,9 @@
           "teamBFlag": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzZP7kZVz8XPUsapkhsNd-oO8yjHbAA2NXMRuEDPXZteAJRwIeIAUQo5U_6QA4mhPqXAeR5YPVY-Yu5hBVZcOIfWUUFvewgaC2bFmrSLu10iQgvBiLpB0vxEWz320Par_JDjKzTdCYYTcsA4dLb-TjD1fsXvMwGsb6XahN-Pq2ZsexcSsBITIxzXFRYEM/s1600/1000009833.jpg",
           "eventName": "WWE",
           "isHot": "0",
-          "Status": "Finish",
-          "startTime": "2026/08/15 00:00:31 +0000",
-          "endTime": "2026/08/15 03:00:36 +0000"
+          "Status": "Upcoming",
+          "startTime": "2026/08/22 00:00:18 +0000",
+          "endTime": "2026/08/22 03:00:25 +0000"
         },
         "channels_data": [
           {
@@ -1909,6 +1909,222 @@
           "Status": "Upcoming",
           "startTime": "2026/08/16 00:30:00 +0000",
           "endTime": "2026/08/16 02:50:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 11489,
+        "title": "Bolton Wanderers vs Preston North End",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Bolton Wanderers",
+          "teamB": "Preston North End",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/5/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/21/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/08/15 11:30:00 +0000",
+          "endTime": "2026/08/15 13:50:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 11490,
+        "title": "Middlesbrough vs Lincoln City",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Middlesbrough",
+          "teamB": "Lincoln City",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/36/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/92/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/08/15 14:00:00 +0000",
+          "endTime": "2026/08/15 16:20:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 11491,
+        "title": "Stoke City vs Swansea City",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Stoke City",
+          "teamB": "Swansea City",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/29/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/74/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/08/15 14:00:00 +0000",
+          "endTime": "2026/08/15 16:20:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 11492,
+        "title": "Portsmouth vs Queens Park Rangers",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Portsmouth",
+          "teamB": "Queens Park Rangers",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/2/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/1/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/08/15 14:00:00 +0000",
+          "endTime": "2026/08/15 16:20:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 11493,
+        "title": "Charlton Athletic vs Derby County",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Charlton Athletic",
+          "teamB": "Derby County",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/47/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/27/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/08/15 14:00:00 +0000",
+          "endTime": "2026/08/15 16:20:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 11494,
+        "title": "Norwich City vs West Bromwich Albion",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Norwich City",
+          "teamB": "West Bromwich Albion",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/263/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/8/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/08/15 14:00:00 +0000",
+          "endTime": "2026/08/15 16:20:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 11495,
+        "title": "Bristol City vs Millwall",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Bristol City",
+          "teamB": "Millwall",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/58/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/25/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/08/15 14:00:00 +0000",
+          "endTime": "2026/08/15 16:20:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 11496,
+        "title": "Sheffield United vs Birmingham City",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Sheffield United",
+          "teamB": "Birmingham City",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/15/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/9/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/08/15 16:30:00 +0000",
+          "endTime": "2026/08/15 18:50:00 +0000"
         },
         "channels_data": [
           {
