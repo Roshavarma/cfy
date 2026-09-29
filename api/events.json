@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-29T17:20:49.528217",
+  "last_updated": "2026-09-29T17:31:12.576493",
   "event_count": 40,
   "events": {
     "events": [
@@ -1151,7 +1151,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/5368/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/09/29 17:30:00 +0000",
           "endTime": "2026/09/29 19:50:00 +0000"
         },
@@ -1171,6 +1171,30 @@
             "type": 0,
             "api": "",
             "tokenApi": ""
+          },
+          {
+            "title": "Live 1",
+            "link": "https://live.vivo155.com/live/sd-1-4623514.m3u8?txSecret=f86d74d0b99e2b2875ded579cb89abd3&txTime=6ABC05B7|Referer=https://player.online909.com/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "HD SERVER",
+            "link": "https://www.rtmpcdn.com/live/d3fcc04d-bd4f-47b3-bffe-cd39b3cde383.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "LOW SERVER",
+            "link": "http://193.47.62.55/hls/UDDDAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
           }
         ]
       },
@@ -1186,7 +1210,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/4767/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/09/29 17:30:00 +0000",
           "endTime": "2026/09/29 19:50:00 +0000"
         },
@@ -1208,16 +1232,32 @@
             "tokenApi": ""
           },
           {
-            "title": "OMAN SPORTS HD",
-            "link": "https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8",
+            "title": "BAHRAIN SPORTS HD",
+            "link": "https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8",
             "logo": "",
             "type": 0,
             "api": "",
             "tokenApi": ""
           },
           {
-            "title": "BAHRAIN SPORTS HD",
-            "link": "https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8",
+            "title": "Live 1",
+            "link": "https://live.vivo155.com/live/sd-1-4623511.m3u8?txSecret=410f080e17f93f6bf794a537733f1b04&txTime=6ABC0600|Referer=https://player.online909.com/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "HD SERVER ",
+            "link": "https://www.rtmpcdn.com/live/c059f3af-dee2-4f35-b8a9-07f4f37f4b1f.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "LOW SERVER",
+            "link": "http://193.47.62.55/hls/UDDD.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
             "logo": "",
             "type": 0,
             "api": "",
