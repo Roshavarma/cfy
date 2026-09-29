@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-29T15:50:45.001794",
-  "event_count": 38,
+  "last_updated": "2026-09-29T16:01:23.366193",
+  "event_count": 40,
   "events": {
     "events": [
       {
@@ -742,41 +742,6 @@
         ]
       },
       {
-        "id": 13314,
-        "title": "Madagascar vs Tanzania",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Madagascar",
-          "teamB": "Tanzania",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/8035/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/4835/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/09/29 14:00:05 +0000",
-          "endTime": "2026/09/29 16:00:09 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "HD SERVER ",
-            "link": "https://www.rtmpcdn.com/live/a9ae09cb-a47f-4658-b028-404135be932b.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "LOW SERVER",
-            "link": "http://193.47.62.50/hls/HHHHAAAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
         "id": 13317,
         "title": "Cabo Verde vs Rwanda",
         "image": "",
@@ -788,7 +753,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/8037/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/09/29 16:00:00 +0000",
           "endTime": "2026/09/29 18:20:00 +0000"
         },
@@ -799,6 +764,22 @@
             "logo": "",
             "type": 7,
             "api": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
+            "tokenApi": ""
+          },
+          {
+            "title": "Live 1",
+            "link": "https://live.vivo155.com/live/sd-1-4642712.m3u8?txSecret=64ba4d7e7198f78b6595451c26273766&txTime=6ABBEDB0|Referer=https://player.online909.com/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "Sport TV HD",
+            "link": "https://netanjahu.hls.st/t/930cbba952f2c10a11714aca189483e6/index.m3u8?|Referer=https://iplayer.is/",
+            "logo": "",
+            "type": 0,
+            "api": "",
             "tokenApi": ""
           },
           {
@@ -831,7 +812,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/4762/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/09/29 16:00:00 +0000",
           "endTime": "2026/09/29 18:20:00 +0000"
         },
@@ -842,6 +823,14 @@
             "logo": "",
             "type": 7,
             "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
+            "tokenApi": ""
+          },
+          {
+            "title": "Live 1",
+            "link": "https://live.vivo155.com/live/sd-1-4642709.m3u8?txSecret=ba82f9d355cc49cf89768137c10542b6&txTime=6ABBEDD2|Referer=https://player.online909.com/",
+            "logo": "",
+            "type": 0,
+            "api": "",
             "tokenApi": ""
           },
           {
@@ -874,7 +863,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/4785/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/09/29 16:00:00 +0000",
           "endTime": "2026/09/29 18:20:00 +0000"
         },
@@ -885,6 +874,22 @@
             "logo": "",
             "type": 7,
             "api": "335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281",
+            "tokenApi": ""
+          },
+          {
+            "title": "Live 1",
+            "link": "https://live.vivo155.com/live/sd-1-4642711.m3u8?txSecret=6618c191e90a38c1780146635e488732&txTime=6ABBEE1F|Referer=https://player.online909.com/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "Sport TV HD",
+            "link": "https://netanjahu.hls.st/t/370cdbf99b45069a3f358dfc195e5bff/index.m3u8?|Referer=https://iplayer.is/",
+            "logo": "",
+            "type": 0,
+            "api": "",
             "tokenApi": ""
           },
           {
@@ -917,13 +922,21 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/4775/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/09/29 16:00:00 +0000",
           "endTime": "2026/09/29 18:20:00 +0000"
         },
         "channels_data": [
           {
             "title": "Live 1",
+            "link": "https://live.vivo155.com/live/sd-1-4642710.m3u8?txSecret=2dccf5b670976acc5e41f2862cddf441&txTime=6ABBEE09|Referer=https://player.online909.com/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "HD SERVER ",
             "link": "https://www.rtmpcdn.com/live/33a10f44-c488-4edb-9039-6c6c18272fe8.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
             "logo": "",
             "type": 0,
@@ -952,13 +965,21 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/4836/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/09/29 16:00:00 +0000",
           "endTime": "2026/09/29 18:20:00 +0000"
         },
         "channels_data": [
           {
             "title": "Live 1",
+            "link": "https://live.vivo155.com/live/sd-1-4642708.m3u8?txSecret=5f5ae651a2cdd3a3c09c843e6681dd3d&txTime=6ABBEDF5|Referer=https://player.online909.com/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "HD SERVER ",
             "link": "https://www.rtmpcdn.com/live/fee802d6-5d58-4723-be68-d964462e39b3.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
             "logo": "",
             "type": 0,
@@ -1364,7 +1385,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/4743/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/09/29 16:00:00 +0000",
           "endTime": "2026/09/29 18:20:00 +0000"
         },
@@ -1380,6 +1401,38 @@
           {
             "title": "FOX SPORTS HD",
             "link": "https://chatgpt.hereisman.net/playlist/57349/load-playlist?|Referer=https://gooz.aapmains.net",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "ARENA SPORTS HD",
+            "link": "https://netanjahu.hls.st/t/c52325eb6ea119d6d2264dd58657530c/index.m3u8?|Referer=https://iplayer.is/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "POLSAT SPORTS HD",
+            "link": "https://netanjahu.hls.st/t/144231d88116531805c0c9099f4f3cff/index.m3u8?|Referer=https://iplayer.is/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "ZIGGO SPORT HD ",
+            "link": "https://netanjahu.hls.st/t/67657ea781671814b279f13dca1cd306/index.m3u8?|Referer=https://iplayer.is/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "Live 1",
+            "link": "https://live.vivo155.com/live/hd-en-1-4517972.m3u8?txSecret=1b39cc1af88a818f99dc84317b01c6d3&txTime=6ABBEEA5|Referer=https://player.online909.com/",
             "logo": "",
             "type": 0,
             "api": "",
@@ -1402,7 +1455,7 @@
             "tokenApi": ""
           },
           {
-            "title": "Live 1",
+            "title": "Live 2",
             "link": "https://www.rtmpcdn.com/live/5704672b-27b4-416d-9a14-7a10b040f074.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
             "logo": "",
             "type": 0,
@@ -1431,7 +1484,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/4760/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/09/29 16:00:00 +0000",
           "endTime": "2026/09/29 18:20:00 +0000"
         },
@@ -1439,6 +1492,22 @@
           {
             "title": "DAZN SPORTS HD",
             "link": "https://chatgpt.hereisman.net/playlist/57350/load-playlist?|Referer=https://gooz.aapmains.net",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "Live 1",
+            "link": "https://live.vivo155.com/live/hd-en-1-4517974.m3u8?txSecret=6ca5abcaeb982b575eb5d9642ab840af&txTime=6ABBEEC0|Referer=https://player.online909.com/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "ZIGGO SPORT HD ",
+            "link": "https://netanjahu.hls.st/t/43a718398466e4d89747e3d0a912095e/index.m3u8?|Referer=https://iplayer.is/",
             "logo": "",
             "type": 0,
             "api": "",
@@ -1461,7 +1530,7 @@
             "tokenApi": ""
           },
           {
-            "title": "Live 1",
+            "title": "Live 2",
             "link": "https://www.rtmpcdn.com/live/f1e9f4d4-90cf-4a6a-97c6-18783c9b5c23.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
             "logo": "",
             "type": 0,
@@ -1606,6 +1675,87 @@
           {
             "title": "Live 1",
             "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 13340,
+        "title": "Pakistan vs Bangladesh",
+        "image": "",
+        "cat": "Cricket",
+        "eventInfo": {
+          "teamA": "Pakistan",
+          "teamB": "Bangladesh",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/187754/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/187744/image",
+          "eventName": "Cricket",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/10/01 00:00:00 +0000",
+          "endTime": "2026/10/01 04:00:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Live 1",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 13341,
+        "title": "India vs Sri Lanka",
+        "image": "",
+        "cat": "Cricket",
+        "eventInfo": {
+          "teamA": "India",
+          "teamB": "Sri Lanka",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/187765/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/187756/image",
+          "eventName": "Cricket",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/10/01 04:30:00 +0000",
+          "endTime": "2026/10/01 08:30:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Live 1",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 13342,
+        "title": "Russia vs Iran",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Russia",
+          "teamB": "Iran",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/4694/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/4766/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/09/29 16:30:00 +0000",
+          "endTime": "2026/09/29 18:50:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Live 1",
+            "link": "https://live.vivo155.com/live/sd-1-4650056.m3u8?txSecret=0c434a95776677a02db0e6ba7ee487b4&txTime=6ABBECB6|Referer=https://player.online909.com/",
             "logo": "",
             "type": 0,
             "api": "",
