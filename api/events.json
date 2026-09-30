@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-30T08:50:46.598901",
+  "last_updated": "2026-09-30T09:01:20.900178",
   "event_count": 33,
   "events": {
     "events": [
@@ -640,14 +640,22 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/7929/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/09/30 09:00:00 +0000",
           "endTime": "2026/09/30 11:20:00 +0000"
         },
         "channels_data": [
           {
             "title": "Live 1",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "link": "https://r8vx3qkm2ztp7ynj6lpl.rockstreamer.com/v1/019ee554d6cc1567ee93172b12d63f/01a047abffef1ea557842156e6858c/main.m3u8|referer=https://iscreen.com.bd/&origin=https://iscreen.com.bd",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "HD SERVER ",
+            "link": "https://live2.domaincdn.cc/livecdn/channel-1.m3u8?auth_key=3000001790758678-0-0-99d9ec30873e769a2dc9a028ed1f8fda",
             "logo": "",
             "type": 0,
             "api": "",
