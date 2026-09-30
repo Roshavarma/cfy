@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-30T16:01:18.478251",
+  "last_updated": "2026-09-30T16:10:48.200082",
   "event_count": 32,
   "events": {
     "events": [
@@ -819,6 +819,22 @@
             "type": 7,
             "api": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
             "tokenApi": ""
+          },
+          {
+            "title": "ESPN SPORTS 1 - AQ",
+            "link": "https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(8757cb0a-3584-40cd-901e-8937c7deba83)/master.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "cb004fb100bd92f23793562891e3236b:b3e4e74ae2080b137e68bbd0ef8a7e05",
+            "tokenApi": ""
+          },
+          {
+            "title": "ESPN SPORTS 2 - AQ",
+            "link": "https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(62567d5c-295c-4ffd-ac7e-c9749e874884)/master.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "a81ee4a694fecd6aa8a682e5024b313c:6d15568e1dab59e7202ae12e71505185",
+            "tokenApi": ""
           }
         ]
       },
@@ -840,8 +856,8 @@
         },
         "channels_data": [
           {
-            "title": "Live 1",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "title": "CBS NETWORK HD",
+            "link": "https://tmaxapp.site/8wirwjs76erftg/cbsnet.m3u8",
             "logo": "",
             "type": 0,
             "api": "",
@@ -894,8 +910,8 @@
         },
         "channels_data": [
           {
-            "title": "Live 1",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "title": "HD QUALITY",
+            "link": "https://edgestream2.pro/hls/dazhfiach15.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://streame.center&Origin=https://streame.center",
             "logo": "",
             "type": 0,
             "api": "",
