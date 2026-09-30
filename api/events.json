@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-30T16:40:46.875871",
+  "last_updated": "2026-09-30T16:50:49.611957",
   "event_count": 32,
   "events": {
     "events": [
@@ -433,9 +433,9 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/187760/image",
           "eventName": "Cricket",
           "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/09/30 08:30:04 +0000",
-          "endTime": "2026/09/30 17:00:08 +0000"
+          "Status": "Upcoming",
+          "startTime": "2026/10/03 08:30:15 +0000",
+          "endTime": "2026/10/03 17:00:20 +0000"
         },
         "channels_data": [
           {
@@ -668,6 +668,14 @@
             "type": 0,
             "api": "",
             "tokenApi": ""
+          },
+          {
+            "title": "LOW SERVER",
+            "link": "http://193.47.62.55/hls/JJJJAAAAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
           }
         ]
       },
@@ -734,11 +742,19 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/269824/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/09/30 16:45:00 +0000",
           "endTime": "2026/09/30 19:05:00 +0000"
         },
         "channels_data": [
+          {
+            "title": "Live 1",
+            "link": "https://live.vivo155.com/live/hd-en-1-4646515.m3u8?txSecret=c1e2b958da869b91fd4f91d0af477388&txTime=6ABD4F16|Referer=https://player.online909.com/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
           {
             "title": "LOW SERVER",
             "link": "http://193.47.62.41/hls/RTTTAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
@@ -761,11 +777,19 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/26243/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/09/30 16:45:00 +0000",
           "endTime": "2026/09/30 19:05:00 +0000"
         },
         "channels_data": [
+          {
+            "title": "Live 1",
+            "link": "https://live.vivo155.com/live/hd-en-1-4646516.m3u8?txSecret=9cc03665a0fe93c5399232cb855b962c&txTime=6ABD4F31|Referer=https://player.online909.com/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
           {
             "title": "LOW SERVER",
             "link": "http://193.47.62.41/hls/RTTTAAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
@@ -788,11 +812,27 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/77889/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/09/30 16:45:00 +0000",
           "endTime": "2026/09/30 19:05:00 +0000"
         },
         "channels_data": [
+          {
+            "title": "PARAMOUNT+ HD",
+            "link": "https://netanjahu.hls.st/t/666c037ab2d9fc6086cf379bd803a8d8/index.m3u8?|Referer=https://iplayer.is/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "Live 1",
+            "link": "https://live.vivo155.com/live/hd-en-1-4646514.m3u8?txSecret=86a4245fe5d22f2a50449cbb5358633a&txTime=6ABD4EF4|Referer=https://player.online909.com/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
           {
             "title": "LOW SERVER",
             "link": "http://193.47.62.41/hls/RTTTAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
