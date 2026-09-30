@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-30T23:40:44.593035",
-  "event_count": 32,
+  "last_updated": "2026-09-30T23:51:12.595126",
+  "event_count": 22,
   "events": {
     "events": [
       {
@@ -374,9 +374,9 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/187746/image",
           "eventName": "Cricket",
           "isHot": "0",
-          "Status": "Finish",
-          "startTime": "2026/09/30 11:30:08 +0000",
-          "endTime": "2026/09/30 20:00:15 +0000"
+          "Status": "Upcoming",
+          "startTime": "2026/10/09 07:30:00 +0000",
+          "endTime": "2026/10/09 17:00:08 +0000"
         },
         "channels_data": [
           {
@@ -610,326 +610,6 @@
         ]
       },
       {
-        "id": 13343,
-        "title": "Eritrea vs South Africa",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Eritrea",
-          "teamB": "South Africa",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/8041/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/4736/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Finish",
-          "startTime": "2026/09/30 16:00:00 +0000",
-          "endTime": "2026/09/30 18:20:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "beIN ENGLISH - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-            "logo": "",
-            "type": 7,
-            "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
-            "tokenApi": ""
-          },
-          {
-            "title": "HD SERVER ",
-            "link": "https://www.rtmpcdn.com/live/fe1a5231-259c-4e5d-b330-fc952d9264d9.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "LOW SERVER",
-            "link": "http://193.47.62.44/hls/iiiiaaaa.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 13346,
-        "title": "Bahrain vs Yemen",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Bahrain",
-          "teamB": "Yemen",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/5161/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/4721/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Finish",
-          "startTime": "2026/09/30 17:30:00 +0000",
-          "endTime": "2026/09/30 19:50:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "BAHRAIN SPORTS HD",
-            "link": "https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "OMAN SPORTS HD",
-            "link": "https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "LOW SERVER",
-            "link": "http://193.47.62.55/hls/JJJJAAAAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 13347,
-        "title": "United Arab Emirates vs Qatar",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "United Arab Emirates",
-          "teamB": "Qatar",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/4727/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/4792/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Finish",
-          "startTime": "2026/09/30 17:30:00 +0000",
-          "endTime": "2026/09/30 19:50:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "SportDigital Fussball",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
-            "tokenApi": ""
-          },
-          {
-            "title": "AD SPORTS - AQ",
-            "link": "https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv/abudhabi_sports_1/abudhabi_sports_1_dash_enc/index.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "e78769d87a41e15036a4fb8bfdf1371e:37be0375dc9fe544c3c6de6a105f7c0a",
-            "tokenApi": ""
-          },
-          {
-            "title": "OMAN SPORTS HD",
-            "link": "https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "LOW SERVER",
-            "link": "http://193.47.62.55/hls/JJJJAAAAAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 13348,
-        "title": "BK Hacken FF vs Juventus",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "BK H\u00e4cken FF",
-          "teamB": "Juventus",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/1889/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/269824/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Finish",
-          "startTime": "2026/09/30 16:45:00 +0000",
-          "endTime": "2026/09/30 19:05:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "Live 1",
-            "link": "https://live.vivo155.com/live/hd-en-1-4646515.m3u8?txSecret=c1e2b958da869b91fd4f91d0af477388&txTime=6ABD4F16|Referer=https://player.online909.com/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "LOW SERVER",
-            "link": "http://193.47.62.41/hls/RTTTAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 13349,
-        "title": "Paris FC vs Arsenal",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Paris FC",
-          "teamB": "Arsenal",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/264964/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/26243/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Finish",
-          "startTime": "2026/09/30 16:45:00 +0000",
-          "endTime": "2026/09/30 19:05:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "Live 1",
-            "link": "https://live.vivo155.com/live/hd-en-1-4646516.m3u8?txSecret=9cc03665a0fe93c5399232cb855b962c&txTime=6ABD4F31|Referer=https://player.online909.com/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "LOW SERVER",
-            "link": "http://193.47.62.41/hls/RTTTAAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 13350,
-        "title": "AS Roma vs Futbol Club Barcelona",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "AS Roma",
-          "teamB": "F\u00fatbol Club Barcelona",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/301414/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/77889/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Finish",
-          "startTime": "2026/09/30 16:45:00 +0000",
-          "endTime": "2026/09/30 19:05:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "PARAMOUNT+ HD",
-            "link": "https://netanjahu.hls.st/t/666c037ab2d9fc6086cf379bd803a8d8/index.m3u8?|Referer=https://iplayer.is/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "Live 1",
-            "link": "https://live.vivo155.com/live/hd-en-1-4646514.m3u8?txSecret=86a4245fe5d22f2a50449cbb5358633a&txTime=6ABD4EF4|Referer=https://player.online909.com/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "LOW SERVER",
-            "link": "http://193.47.62.41/hls/RTTTAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 13351,
-        "title": "OL Lyonnes vs Chelsea FC",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "OL Lyonnes",
-          "teamB": "Chelsea FC",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/26245/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/66768/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Finish",
-          "startTime": "2026/09/30 19:00:00 +0000",
-          "endTime": "2026/09/30 21:20:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "CBS SPORTS - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd|Origin=https://amazon.com&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0",
-            "logo": "",
-            "type": 7,
-            "api": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
-            "tokenApi": ""
-          },
-          {
-            "title": "ESPN SPORTS 1 - AQ",
-            "link": "https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(8757cb0a-3584-40cd-901e-8937c7deba83)/master.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "cb004fb100bd92f23793562891e3236b:b3e4e74ae2080b137e68bbd0ef8a7e05",
-            "tokenApi": ""
-          },
-          {
-            "title": "ESPN SPORTS 2 - AQ",
-            "link": "https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(62567d5c-295c-4ffd-ac7e-c9749e874884)/master.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "a81ee4a694fecd6aa8a682e5024b313c:6d15568e1dab59e7202ae12e71505185",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 13352,
-        "title": "Benfica vs FC Bayern Munchen",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Benfica",
-          "teamB": "FC Bayern M\u00fcnchen",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/297853/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/5543/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Finish",
-          "startTime": "2026/09/30 19:00:00 +0000",
-          "endTime": "2026/09/30 21:20:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "CBS NETWORK HD",
-            "link": "https://tmaxapp.site/8wirwjs76erftg/cbsnet.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
         "id": 13353,
         "title": "Argentina vs Bolivia",
         "image": "",
@@ -955,6 +635,14 @@
             "tokenApi": ""
           },
           {
+            "title": "PREMIER SPORTS - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+            "logo": "",
+            "type": 7,
+            "api": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19",
+            "tokenApi": ""
+          },
+          {
             "title": "Live 1",
             "link": "https://www.rtmpcdn.com/live/12aaeb3a-6088-4d87-bd3a-aced5688b001.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
             "logo": "",
@@ -965,49 +653,6 @@
           {
             "title": "LOW SERVER",
             "link": "http://193.47.62.55/hls/ZZZZ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 13354,
-        "title": "Atlanta Braves vs Philadelphia Phillies",
-        "image": "",
-        "cat": "Baseball",
-        "eventInfo": {
-          "teamA": "Atlanta Braves",
-          "teamB": "Philadelphia Phillies",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/3656/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/3635/image",
-          "eventName": "Baseball",
-          "isHot": "0",
-          "Status": "Finish",
-          "startTime": "2026/09/30 18:00:00 +0000",
-          "endTime": "2026/09/30 21:00:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "NBC SPORTS - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dx5hfbpk7u/out/v1/c14185a397544650b9761d43ad2e8e91/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-            "logo": "",
-            "type": 7,
-            "api": "36a385124dcdfb2f0969935065e03afa:ccecd65514dff22eae493b975ccf9a9e",
-            "tokenApi": ""
-          },
-          {
-            "title": "TNT SPORTS - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-            "logo": "",
-            "type": 7,
-            "api": "69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749",
-            "tokenApi": ""
-          },
-          {
-            "title": "HD QUALITY",
-            "link": "https://edgestream2.pro/hls/dazhfiach15.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://streame.center&Origin=https://streame.center",
             "logo": "",
             "type": 0,
             "api": "",
@@ -1329,33 +974,6 @@
           {
             "title": "Live 1",
             "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 13366,
-        "title": "Lithuania vs Andorra",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Lithuania",
-          "teamB": "Andorra",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/4776/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/4818/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Finish",
-          "startTime": "2026/09/30 16:00:00 +0000",
-          "endTime": "2026/09/30 18:20:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "LOW SERVER",
-            "link": "http://193.47.62.41/hls/iiiiaaa.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
             "logo": "",
             "type": 0,
             "api": "",
