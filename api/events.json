@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-30T15:50:46.138918",
-  "event_count": 31,
+  "last_updated": "2026-09-30T16:01:18.478251",
+  "event_count": 32,
   "events": {
     "events": [
       {
@@ -605,7 +605,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/4736/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/09/30 16:00:00 +0000",
           "endTime": "2026/09/30 18:20:00 +0000"
         },
@@ -619,8 +619,16 @@
             "tokenApi": ""
           },
           {
-            "title": "beIN SPORTS HD",
-            "link": "https://tmaxapp.site/8wirwjs76erftg/beinusa.m3u8",
+            "title": "HD SERVER ",
+            "link": "https://www.rtmpcdn.com/live/fe1a5231-259c-4e5d-b330-fc952d9264d9.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "LOW SERVER",
+            "link": "http://193.47.62.44/hls/iiiiaaaa.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
             "logo": "",
             "type": 0,
             "api": "",
@@ -1185,6 +1193,33 @@
           {
             "title": "Live 1",
             "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 13366,
+        "title": "Lithuania vs Andorra",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Lithuania",
+          "teamB": "Andorra",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/4776/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/4818/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Live",
+          "startTime": "2026/09/30 16:00:00 +0000",
+          "endTime": "2026/09/30 18:20:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "LOW SERVER",
+            "link": "http://193.47.62.41/hls/iiiiaaa.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
             "logo": "",
             "type": 0,
             "api": "",
