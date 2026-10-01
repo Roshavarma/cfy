@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-01T00:01:09.166612",
+  "last_updated": "2026-10-01T00:10:39.206610",
   "event_count": 22,
   "events": {
     "events": [
@@ -627,6 +627,14 @@
         },
         "channels_data": [
           {
+            "title": "PREMIER SPORTS - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+            "logo": "",
+            "type": 7,
+            "api": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19",
+            "tokenApi": ""
+          },
+          {
             "title": "SporTV BR - AQ",
             "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
             "logo": "",
@@ -637,6 +645,14 @@
           {
             "title": "Live 1",
             "link": "https://www.rtmpcdn.com/live/12aaeb3a-6088-4d87-bd3a-aced5688b001.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "SporTV BR HD",
+            "link": "https://live.dyrur1.com/live/vrqwni01zova4qn_739ed6e075fa3748d684c07bc383e36f_540p.m3u8?auth_key=1790826905-0-0-2c87a7e9f924a096d9e44256f3adc94e",
             "logo": "",
             "type": 0,
             "api": "",
