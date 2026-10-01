@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-01T08:01:10.543192",
-  "event_count": 28,
+  "last_updated": "2026-10-01T08:10:46.095797",
+  "event_count": 29,
   "events": {
     "events": [
       {
@@ -540,81 +540,6 @@
         ]
       },
       {
-        "id": 13341,
-        "title": "India vs Sri Lanka",
-        "image": "",
-        "cat": "Cricket",
-        "eventInfo": {
-          "teamA": "India",
-          "teamB": "Sri Lanka",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/187765/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/187756/image",
-          "eventName": "Cricket",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/10/01 04:30:00 +0000",
-          "endTime": "2026/10/01 08:30:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "WILLOW - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wmfuczzm2n/out/v1/1ea16373acdf454989b707d7b23553e0/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "939e7b556d7bdc330d46cabb8ea9583e:6790dc9d4d1d92b6927df1c9bf56c02f",
-            "tokenApi": ""
-          },
-          {
-            "title": "WILLOW - ALT",
-            "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/wmfuczzm2n/out/v1/1ea16373acdf454989b707d7b23553e0/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "939e7b556d7bdc330d46cabb8ea9583e:6790dc9d4d1d92b6927df1c9bf56c02f",
-            "tokenApi": ""
-          },
-          {
-            "title": "SonyLiv - English",
-            "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2094590/cricodi0110/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=dda8ffa4e232830964c51133ab7a53d1-1790826600459",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "SonyLiv - Hindi",
-            "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2037143/cricodi0110/HIN/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=dda8ffa4e232830964c51133ab7a53d1-1790826600459",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "SonyLiv - Tamil",
-            "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2105080/cricodi0110/TAM/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=dda8ffa4e232830964c51133ab7a53d1-1790826600459",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "SonyLiv - Telugu",
-            "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2105079/cricodi0110/TEL/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=dda8ffa4e232830964c51133ab7a53d1-1790826600459",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "SonyLiv - Kannada",
-            "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2043696/cricodi0110/KAN/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=dda8ffa4e232830964c51133ab7a53d1-1790826600459",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
         "id": 13358,
         "title": "Denmark vs Portugal",
         "image": "",
@@ -1115,6 +1040,60 @@
           "Status": "Upcoming",
           "startTime": "2026/10/02 00:15:00 +0000",
           "endTime": "2026/10/02 03:15:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Live 1",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 13378,
+        "title": "Pakistan vs India",
+        "image": "",
+        "cat": "Cricket",
+        "eventInfo": {
+          "teamA": "Pakistan",
+          "teamB": "India",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/187754/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/187765/image",
+          "eventName": "Cricket",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/10/03 04:30:00 +0000",
+          "endTime": "2026/10/03 08:30:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Live 1",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 13379,
+        "title": "Bangladesh vs Sri Lanka",
+        "image": "",
+        "cat": "Cricket",
+        "eventInfo": {
+          "teamA": "Bangladesh",
+          "teamB": "Sri Lanka",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/187744/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/187756/image",
+          "eventName": "Cricket",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/10/03 00:00:00 +0000",
+          "endTime": "2026/10/03 04:00:00 +0000"
         },
         "channels_data": [
           {
