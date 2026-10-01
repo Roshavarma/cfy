@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-01T03:20:39.239222",
-  "event_count": 22,
+  "last_updated": "2026-10-01T03:30:55.692361",
+  "event_count": 19,
   "events": {
     "events": [
       {
@@ -610,167 +610,6 @@
         ]
       },
       {
-        "id": 13353,
-        "title": "Argentina vs Bolivia",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Argentina",
-          "teamB": "Bolivia",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/4819/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/4746/image",
-          "eventName": "Football",
-          "isHot": "1",
-          "Status": "Finish",
-          "startTime": "2026/10/01 00:00:00 +0000",
-          "endTime": "2026/10/01 02:20:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "PREMIER SPORTS - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-            "logo": "",
-            "type": 7,
-            "api": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19",
-            "tokenApi": ""
-          },
-          {
-            "title": "SporTV BR - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-            "logo": "",
-            "type": 7,
-            "api": "51c0ef23b17297e5c01cd7f36dd0a6ce:8823f713ba6fdb9bbe0a2ad82d309a4b",
-            "tokenApi": ""
-          },
-          {
-            "title": "Live 1",
-            "link": "https://www.rtmpcdn.com/live/12aaeb3a-6088-4d87-bd3a-aced5688b001.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "SporTV BR HD",
-            "link": "https://chatgpt.hereisman.net/playlist/57387/load-playlist?|Referer=https://gooz.aapmains.net",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "HD SERVER",
-            "link": "https://live2.zundrixmediapipeline.com/live/channel21.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "SD SERVER",
-            "link": "https://live.dyrur1.com/live/vrqwni01zova4qn_739ed6e075fa3748d684c07bc383e36f_540p.m3u8?auth_key=1790826905-0-0-2c87a7e9f924a096d9e44256f3adc94e",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "LOW SERVER",
-            "link": "http://193.47.62.55/hls/ZZZZ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 13355,
-        "title": "Houston Astros vs Chicago White Sox",
-        "image": "",
-        "cat": "Baseball",
-        "eventInfo": {
-          "teamA": "Houston Astros",
-          "teamB": "Chicago White Sox",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/3655/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/3644/image",
-          "eventName": "Baseball",
-          "isHot": "0",
-          "Status": "Finish",
-          "startTime": "2026/09/30 21:00:00 +0000",
-          "endTime": "2026/10/01 00:00:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "TNT SPORTS - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-            "logo": "",
-            "type": 7,
-            "api": "69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749",
-            "tokenApi": ""
-          },
-          {
-            "title": "HD QUALITY",
-            "link": "https://edgestream2.pro/hls/16yuitzaerghbhc16.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://streame.center&Origin=https://streame.center",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 13356,
-        "title": "New York Yankees vs Boston Red Sox",
-        "image": "",
-        "cat": "Baseball",
-        "eventInfo": {
-          "teamA": "New York Yankees",
-          "teamB": "Boston Red Sox",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/3654/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/3646/image",
-          "eventName": "Baseball",
-          "isHot": "0",
-          "Status": "Finish",
-          "startTime": "2026/10/01 00:00:00 +0000",
-          "endTime": "2026/10/01 03:00:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "NBC SPORTS - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dx5hfbpk7u/out/v1/c14185a397544650b9761d43ad2e8e91/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-            "logo": "",
-            "type": 7,
-            "api": "36a385124dcdfb2f0969935065e03afa:ccecd65514dff22eae493b975ccf9a9e",
-            "tokenApi": ""
-          },
-          {
-            "title": "Live 1",
-            "link": "https://chatgpt.hereisman.net/playlist/57385/load-playlist?&.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://gooz.aapmains.net/new-stream-embed/57385?ad=111&Origin=https://gooz.aapmains.net",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "HD QUALITY",
-            "link": "https://edgestream2.pro/hls/ihfazugfyjcazich17.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://streame.center&Origin=https://streame.center",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "LOW QUALITY",
-            "link": "http://193.47.62.59/hls/IFFFAAAAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
         "id": 13357,
         "title": "San Diego Padres vs Chicago Cubs",
         "image": "",
@@ -796,8 +635,24 @@
             "tokenApi": ""
           },
           {
+            "title": "Live 1",
+            "link": "https://chatgpt.hereisman.net/playlist/57390/load-playlist?&.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://gooz.aapmains.net/new-stream-embed/57390?ad=111&Origin=https://gooz.aapmains.net",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
             "title": "HD QUALITY",
             "link": "https://edgestream2.pro/hls/Czajafjihafch18.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://streame.center&Origin=https://streame.center",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "LOW QUALITY",
+            "link": "http://193.47.62.41/hls/ZOOOA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
             "logo": "",
             "type": 0,
             "api": "",
