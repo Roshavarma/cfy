@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-01T18:40:49.998409",
-  "event_count": 39,
+  "last_updated": "2026-10-01T18:50:43.723277",
+  "event_count": 38,
   "events": {
     "events": [
       {
@@ -551,7 +551,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/4704/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/10/01 18:45:00 +0000",
           "endTime": "2026/10/01 21:05:00 +0000"
         },
@@ -642,19 +642,11 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/6355/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/10/01 18:45:00 +0000",
           "endTime": "2026/10/01 21:05:00 +0000"
         },
         "channels_data": [
-          {
-            "title": "FUBO SPORTS - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/xtkswns2yn/out/v1/9c348c1bc962495a9420f01ac0964a86/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-            "logo": "",
-            "type": 7,
-            "api": "fa5e8db5359fc7d1f15207d5de2a3ac4:78a6c0a41972dfdba2145ae0ad4bd681",
-            "tokenApi": ""
-          },
           {
             "title": "beIN ENGLISH - AQ",
             "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
@@ -725,7 +717,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/4705/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/10/01 18:45:00 +0000",
           "endTime": "2026/10/01 21:05:00 +0000"
         },
@@ -800,7 +792,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/4475/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/10/01 18:45:00 +0000",
           "endTime": "2026/10/01 21:05:00 +0000"
         },
@@ -875,7 +867,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/4718/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/10/01 18:45:00 +0000",
           "endTime": "2026/10/01 21:05:00 +0000"
         },
@@ -934,7 +926,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/154426/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/10/01 18:45:00 +0000",
           "endTime": "2026/10/01 21:05:00 +0000"
         },
@@ -993,7 +985,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/129264/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/10/01 18:45:00 +0000",
           "endTime": "2026/10/01 21:05:00 +0000"
         },
@@ -1025,33 +1017,6 @@
           {
             "title": "LOW SERVER",
             "link": "http://193.47.62.55/hls/AIII.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 13370,
-        "title": "FK Austria Wien vs Inter",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "FK Austria Wien",
-          "teamB": "Inter",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/229911/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/325685/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/10/01 16:45:00 +0000",
-          "endTime": "2026/10/01 19:05:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "LOW SERVER",
-            "link": "http://193.47.62.41/hls/zfffAAAAAAQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
             "logo": "",
             "type": 0,
             "api": "",
