@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-01T03:50:38.951863",
-  "event_count": 19,
+  "last_updated": "2026-10-01T04:01:02.896290",
+  "event_count": 18,
   "events": {
     "events": [
       {
@@ -540,49 +540,6 @@
         ]
       },
       {
-        "id": 13340,
-        "title": "Pakistan vs Bangladesh",
-        "image": "",
-        "cat": "Cricket",
-        "eventInfo": {
-          "teamA": "Pakistan",
-          "teamB": "Bangladesh",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/187754/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/187744/image",
-          "eventName": "Cricket",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/10/01 00:00:00 +0000",
-          "endTime": "2026/10/01 04:00:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "WILLOW - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/k1nzqwiwwv/out/v1/096da8caa4de419592a713862092c252/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "36f6eab6d209817bce6e16a660d34f5a:3510bcdf47c67cb43da149e42a6a6e72",
-            "tokenApi": ""
-          },
-          {
-            "title": "WILLOW - ALT",
-            "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/k1nzqwiwwv/out/v1/096da8caa4de419592a713862092c252/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "36f6eab6d209817bce6e16a660d34f5a:3510bcdf47c67cb43da149e42a6a6e72",
-            "tokenApi": ""
-          },
-          {
-            "title": "SonyLiv",
-            "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2120299/AG_DXcri3009/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=92baf31594e8d0811e9b664501742e7f-1790811002755",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
         "id": 13341,
         "title": "India vs Sri Lanka",
         "image": "",
@@ -602,6 +559,46 @@
           {
             "title": "WILLOW - AQ",
             "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "SonyLiv - English",
+            "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2094590/cricodi0110/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=dda8ffa4e232830964c51133ab7a53d1-1790826600459",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "SonyLiv - Hindi",
+            "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2037143/cricodi0110/HIN/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=dda8ffa4e232830964c51133ab7a53d1-1790826600459",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "SonyLiv - Tamil",
+            "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2105080/cricodi0110/TAM/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=dda8ffa4e232830964c51133ab7a53d1-1790826600459",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "SonyLiv - Telugu",
+            "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2105079/cricodi0110/TEL/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=dda8ffa4e232830964c51133ab7a53d1-1790826600459",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "SonyLiv - Kannada",
+            "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2043696/cricodi0110/KAN/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=dda8ffa4e232830964c51133ab7a53d1-1790826600459",
             "logo": "",
             "type": 0,
             "api": "",
