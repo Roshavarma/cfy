@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-01T05:20:40.106658",
-  "event_count": 18,
+  "last_updated": "2026-10-01T05:30:57.307603",
+  "event_count": 28,
   "events": {
     "events": [
       {
@@ -615,57 +615,6 @@
         ]
       },
       {
-        "id": 13357,
-        "title": "San Diego Padres vs Chicago Cubs",
-        "image": "",
-        "cat": "Baseball",
-        "eventInfo": {
-          "teamA": "San Diego Padres",
-          "teamB": "Chicago Cubs",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/3636/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/3627/image",
-          "eventName": "Baseball",
-          "isHot": "0",
-          "Status": "Finish",
-          "startTime": "2026/10/01 02:00:00 +0000",
-          "endTime": "2026/10/01 05:00:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "TNT SPORTS - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-            "logo": "",
-            "type": 7,
-            "api": "69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749",
-            "tokenApi": ""
-          },
-          {
-            "title": "Live 1",
-            "link": "https://chatgpt.hereisman.net/playlist/57390/load-playlist?&.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://gooz.aapmains.net/new-stream-embed/57390?ad=111&Origin=https://gooz.aapmains.net",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "HD QUALITY",
-            "link": "https://edgestream2.pro/hls/Czajafjihafch18.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://streame.center&Origin=https://streame.center",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "LOW QUALITY",
-            "link": "http://193.47.62.41/hls/ZOOOA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
         "id": 13358,
         "title": "Denmark vs Portugal",
         "image": "",
@@ -869,6 +818,303 @@
           "Status": "Upcoming",
           "startTime": "2026/10/01 18:45:00 +0000",
           "endTime": "2026/10/01 21:05:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Live 1",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 13367,
+        "title": "Guinea vs Kenya",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Guinea",
+          "teamB": "Kenya",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/4826/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/4773/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/10/01 16:00:00 +0000",
+          "endTime": "2026/10/01 18:20:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Live 1",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 13368,
+        "title": "Indonesia vs Bangladesh",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Indonesia",
+          "teamB": "Bangladesh",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/4829/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/6080/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/10/01 12:30:00 +0000",
+          "endTime": "2026/10/01 14:50:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Live 1",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 13369,
+        "title": "Malaysia vs Singapore",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Malaysia",
+          "teamB": "Singapore",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/6912/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/4738/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/10/01 12:30:00 +0000",
+          "endTime": "2026/10/01 14:50:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Live 1",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 13370,
+        "title": "FK Austria Wien vs Inter",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "FK Austria Wien",
+          "teamB": "Inter",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/229911/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/325685/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/10/01 16:45:00 +0000",
+          "endTime": "2026/10/01 19:05:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Live 1",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 13371,
+        "title": "Manchester City vs Real Madrid",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Manchester City",
+          "teamB": "Real Madrid",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/142658/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/305051/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/10/01 19:00:00 +0000",
+          "endTime": "2026/10/01 21:20:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Live 1",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 13372,
+        "title": "Paris Saint-Germain vs Oud-Heverlee Leuven",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Paris Saint-Germain",
+          "teamB": "Oud-Heverlee Leuven",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/55505/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/178246/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/10/01 19:00:00 +0000",
+          "endTime": "2026/10/01 21:20:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Live 1",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 13373,
+        "title": "Atlanta Braves vs Philadelphia Phillies",
+        "image": "",
+        "cat": "Baseball",
+        "eventInfo": {
+          "teamA": "Atlanta Braves",
+          "teamB": "Philadelphia Phillies",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3656/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3635/image",
+          "eventName": "Baseball",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/10/01 18:00:00 +0000",
+          "endTime": "2026/10/01 21:00:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Live 1",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 13374,
+        "title": "Houston Astros vs Chicago White Sox",
+        "image": "",
+        "cat": "Baseball",
+        "eventInfo": {
+          "teamA": "Houston Astros",
+          "teamB": "Chicago White Sox",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3655/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3644/image",
+          "eventName": "Baseball",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/10/01 21:00:00 +0000",
+          "endTime": "2026/10/02 00:00:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Live 1",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 13375,
+        "title": "New York Yankees vs Boston Red Sox",
+        "image": "",
+        "cat": "Baseball",
+        "eventInfo": {
+          "teamA": "New York Yankees",
+          "teamB": "Boston Red Sox",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3654/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3646/image",
+          "eventName": "Baseball",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/10/02 00:00:00 +0000",
+          "endTime": "2026/10/02 03:00:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Live 1",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 13376,
+        "title": "San Diego Padres vs Chicago Cubs",
+        "image": "",
+        "cat": "Baseball",
+        "eventInfo": {
+          "teamA": "San Diego Padres",
+          "teamB": "Chicago Cubs",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3636/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3627/image",
+          "eventName": "Baseball",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/10/02 02:00:00 +0000",
+          "endTime": "2026/10/02 05:00:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Live 1",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 13377,
+        "title": "Cleveland Browns vs Pittsburgh Steelers",
+        "image": "",
+        "cat": "American football",
+        "eventInfo": {
+          "teamA": "Cleveland Browns",
+          "teamB": "Pittsburgh Steelers",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/4417/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/4345/image",
+          "eventName": "American football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/10/02 00:15:00 +0000",
+          "endTime": "2026/10/02 03:15:00 +0000"
         },
         "channels_data": [
           {
