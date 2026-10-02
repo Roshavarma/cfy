@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-02T18:50:39.025580",
+  "last_updated": "2026-10-02T19:01:07.963396",
   "event_count": 19,
   "events": {
     "events": [
@@ -651,8 +651,40 @@
             "tokenApi": ""
           },
           {
+            "title": "SPORT2 CZ - AQ",
+            "link": "https://dash2.antik.sk/stream/nvidia_sport2/playlist_cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
+            "tokenApi": ""
+          },
+          {
             "title": "Live 1",
             "link": "https://chatgpt.hereisman.net/playlist/57428/load-playlist?|Referer=https://gooz.aapmains.net",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "beIN ARABIC HD",
+            "link": "https://tmaxapp.site/8wirwjs76erftg/bein2ar.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "SonyLiv ",
+            "link": "https://sonymtmnew.akamaized.net/hls/live/2005444/Footlive0210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791008102~acl=/*~id=27973521807566436899339195347796~hmac=c63f6fcd062a685af4fb88c02bbc3cc05f8ef0182d5383b4aa8eeb03c7d1ff52",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "TAPMAD - AQ",
+            "link": "https://saseries.akamaized.net/hls/live/2110097/FiFa-3827e1/master.m3u8",
             "logo": "",
             "type": 0,
             "api": "",
@@ -731,14 +763,6 @@
             "logo": "",
             "type": 7,
             "api": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
-            "tokenApi": ""
-          },
-          {
-            "title": "TVE La 1 - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/c7di7zkdor/out/v1/f7d5b356e048494a8325563e8916d50b/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-            "logo": "",
-            "type": 7,
-            "api": "745cd6ec34a58f2f7ac2af35dc3da6d2:ae008f1e47e6567fe4201a6ff8f1ae54",
             "tokenApi": ""
           },
           {
@@ -1061,6 +1085,14 @@
         },
         "channels_data": [
           {
+            "title": "DAZN SPORTS - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/rl9vkhcwul/out/v1/30efc149b9ab4083be60f2da17a657ea/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "920179f3d6c4a3329002feafcc8efdd6:bee8972fbf140efcf8fb45844b76096c",
+            "tokenApi": ""
+          },
+          {
             "title": "VIX SPANISH - AQ",
             "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/mwfsjmukmu/out/v1/3bb7be9163524e72bc8ec72519235803/cenc.mpd",
             "logo": "",
@@ -1070,15 +1102,23 @@
           },
           {
             "title": "Live 1",
-            "link": "https://chatgpt.hereisman.net/playlist/57427/load-playlist?|Referer=https://gooz.aapmains.net",
+            "link": "https://edgestream2.pro/hls/dza5z8f69.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://streame.center&Origin=https://streame.center",
             "logo": "",
             "type": 0,
             "api": "",
             "tokenApi": ""
           },
           {
-            "title": "HD SERVER ",
-            "link": "https://edgestream2.pro/hls/dza5z8f69.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://streame.center&Origin=https://streame.center",
+            "title": "beIN ARABIC HD",
+            "link": "https://tmaxapp.site/8wirwjs76erftg/bein6ar.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "SonyLiv ",
+            "link": "https://sonydaimenew.akamaized.net/hls/live/2005445/Footlive0210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791008711~acl=/*~id=24960087217578380252488612669268~hmac=170527aaf3693e8ff0328821cf2095b9d20cb2e7a0fc0d35205ec6183216d9fa",
             "logo": "",
             "type": 0,
             "api": "",
