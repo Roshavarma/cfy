@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-02T18:40:39.589270",
+  "last_updated": "2026-10-02T18:50:39.025580",
   "event_count": 19,
   "events": {
     "events": [
@@ -613,7 +613,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/4700/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/10/02 18:45:00 +0000",
           "endTime": "2026/10/02 21:05:00 +0000"
         },
@@ -696,7 +696,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/4707/image",
           "eventName": "Football",
           "isHot": "1",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/10/02 18:45:00 +0000",
           "endTime": "2026/10/02 21:05:00 +0000"
         },
@@ -718,6 +718,22 @@
             "tokenApi": ""
           },
           {
+            "title": "VIX SPANISH - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/1qnmowm5ue/out/v1/83e94e1e8f76494f8173edb038f25837/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "62862225c7c2caacda0e8b2102620992:0f3a4b20516a6688d8326a7cc3eafa7d",
+            "tokenApi": ""
+          },
+          {
+            "title": "SPORT1 CZ - AQ",
+            "link": "https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
+            "tokenApi": ""
+          },
+          {
             "title": "TVE La 1 - AQ",
             "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/c7di7zkdor/out/v1/f7d5b356e048494a8325563e8916d50b/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
             "logo": "",
@@ -728,6 +744,30 @@
           {
             "title": "FOX SPORTS HD",
             "link": "https://chatgpt.hereisman.net/playlist/57424/load-playlist?|Referer=https://gooz.aapmains.net",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "beIN ARABIC HD",
+            "link": "https://tmaxapp.site/8wirwjs76erftg/bein1ar.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "SonyLiv ",
+            "link": "https://sonydaimenew.akamaized.net/hls/live/2120305/Footlive0210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791008102~acl=/*~id=27973521807566436899339195347796~hmac=c63f6fcd062a685af4fb88c02bbc3cc05f8ef0182d5383b4aa8eeb03c7d1ff52",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "TAPMAD - AQ",
+            "link": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8",
             "logo": "",
             "type": 0,
             "api": "",
@@ -771,7 +811,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/4688/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/10/02 18:45:00 +0000",
           "endTime": "2026/10/02 21:05:00 +0000"
         },
@@ -838,11 +878,19 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/4763/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/10/02 18:45:00 +0000",
           "endTime": "2026/10/02 21:05:00 +0000"
         },
         "channels_data": [
+          {
+            "title": "VIX SPANISH - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ost5hivkfd/out/v1/4df741b740c1401a93dd7f933bdde012/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "b1d14fc73d35ef3bdabc827453d1edf4:dccdf84a052cad89a090a570105417b7",
+            "tokenApi": ""
+          },
           {
             "title": "Live 1",
             "link": "https://chatgpt.hereisman.net/playlist/57426/load-playlist?|Referer=https://gooz.aapmains.net",
@@ -889,11 +937,19 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/4477/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/10/02 18:45:00 +0000",
           "endTime": "2026/10/02 21:05:00 +0000"
         },
         "channels_data": [
+          {
+            "title": "VIX SPANISH - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/e4wwexo8ef/out/v1/4ee96f7b64494c1aa1dc327b3f9b07ed/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "ae628bb236f45eaf3a5af899e1d410e7:73ecddc95e7906b42a0ea4713d91c604",
+            "tokenApi": ""
+          },
           {
             "title": "Live 1",
             "link": "https://chatgpt.hereisman.net/playlist/57425/load-playlist?|Referer=https://gooz.aapmains.net",
@@ -940,11 +996,19 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/4786/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/10/02 18:45:00 +0000",
           "endTime": "2026/10/02 21:05:00 +0000"
         },
         "channels_data": [
+          {
+            "title": "VIX SPANISH - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/zbma4s0mps/out/v1/7257a9e3af1e4c9e8867c97998030233/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "656c42957c8b93b44585d0348bd78eda:f30faf3c98d354ad0b821f2684785422",
+            "tokenApi": ""
+          },
           {
             "title": "Live 1",
             "link": "https://chatgpt.hereisman.net/playlist/57421/load-playlist?|Referer=https://gooz.aapmains.net",
@@ -991,11 +1055,19 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/4697/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/10/02 18:45:00 +0000",
           "endTime": "2026/10/02 21:05:00 +0000"
         },
         "channels_data": [
+          {
+            "title": "VIX SPANISH - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/mwfsjmukmu/out/v1/3bb7be9163524e72bc8ec72519235803/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "7187d7d5c9cc4466f7e5f6d398b3ec16:131850c1afe6d213f434012fd6ad7d85",
+            "tokenApi": ""
+          },
           {
             "title": "Live 1",
             "link": "https://chatgpt.hereisman.net/playlist/57427/load-playlist?|Referer=https://gooz.aapmains.net",
