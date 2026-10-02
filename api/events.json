@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-02T15:50:41.142660",
+  "last_updated": "2026-10-02T16:01:13.416583",
   "event_count": 23,
   "events": {
     "events": [
@@ -850,11 +850,19 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/4740/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/10/02 16:00:00 +0000",
           "endTime": "2026/10/02 18:20:00 +0000"
         },
         "channels_data": [
+          {
+            "title": "VIX SPANISH - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/weajkfl9z5/out/v1/5edd423d949e412c98bf34042cb95d4e/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "086083351bbda499176a4c7837ba33e6:87a8a3b9f49fd5d29e32212f710a12f8",
+            "tokenApi": ""
+          },
           {
             "title": "FOX SOCCER+ HD",
             "link": "https://chatgpt.hereisman.net/playlist/57423/load-playlist?|Referer=https://gooz.aapmains.net",
@@ -893,7 +901,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/7139/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/10/02 16:00:00 +0000",
           "endTime": "2026/10/02 18:20:00 +0000"
         },
@@ -904,6 +912,14 @@
             "logo": "",
             "type": 7,
             "api": "fa5e8db5359fc7d1f15207d5de2a3ac4:78a6c0a41972dfdba2145ae0ad4bd681",
+            "tokenApi": ""
+          },
+          {
+            "title": "VIX SPANISH - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/zbaodgsgpv/out/v1/7c7d16e0b54848b0ba34ec2d68d0b638/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "12ba10fc06334035d65b102418046365:17ca92bc5e80342450cd0769c6664392",
             "tokenApi": ""
           },
           {
