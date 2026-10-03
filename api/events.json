@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-03T12:01:17.734353",
-  "event_count": 39,
+  "last_updated": "2026-10-03T12:10:46.719387",
+  "event_count": 38,
   "events": {
     "events": [
       {
@@ -774,57 +774,6 @@
           {
             "title": "Live 1",
             "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 13410,
-        "title": "Hong Kong vs Cambodia",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Hong Kong",
-          "teamB": "Cambodia",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/4765/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/7929/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/10/03 10:00:00 +0000",
-          "endTime": "2026/10/03 12:20:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "TAPMAD - AQ",
-            "link": "https://saseries.akamaized.net/hls/live/2110097/tapmad258645/master.m3u8|referer=https://tapmad.com/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "Live 1",
-            "link": "https://r8vx3qkm2ztp7ynj6lpl.rockstreamer.com/v1/019ee554d6cc1567ee93172b12d63f/01a047abffef1ea557842156e6858c/main.m3u8|referer=https://iscreen.com.bd/&origin=https://iscreen.com.bd",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "HD SERVER ",
-            "link": "https://live2.zundrixmediapipeline.com/live/channel15.m3u8?|Referer=https://xlz.domainkqt.cc/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "LOW SERVER ",
-            "link": "http://193.47.62.41/hls/HOOOQQQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
             "logo": "",
             "type": 0,
             "api": "",
@@ -1651,6 +1600,14 @@
             "logo": "",
             "type": 7,
             "api": "e8dfce98828222c090e14a5f39f5bf33:ad47b761acd8ba42ee10390a3775e0e7",
+            "tokenApi": ""
+          },
+          {
+            "title": "FANCODE - IN",
+            "link": "https://dai-fancode.pages.dev/mumbai/4249221_english_hls_f7489000ae32024_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/",
+            "logo": "",
+            "type": 0,
+            "api": "",
             "tokenApi": ""
           }
         ]
