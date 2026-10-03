@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-03T09:50:41.338674",
-  "event_count": 31,
+  "last_updated": "2026-10-03T10:01:13.990981",
+  "event_count": 35,
   "events": {
     "events": [
       {
@@ -745,14 +745,22 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/7929/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/10/03 10:00:00 +0000",
           "endTime": "2026/10/03 12:20:00 +0000"
         },
         "channels_data": [
           {
             "title": "Live 1",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "link": "https://live2.zundrixmediapipeline.com/live/channel15.m3u8?|Referer=https://xlz.domainkqt.cc/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "LOW SERVER ",
+            "link": "http://193.47.62.41/hls/HOOOQQQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
             "logo": "",
             "type": 0,
             "api": "",
@@ -1180,6 +1188,114 @@
           "Status": "Upcoming",
           "startTime": "2026/10/04 23:00:00 +0000",
           "endTime": "2026/10/05 01:30:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Live 1",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 13427,
+        "title": "Los Angeles Dodgers vs Atlanta Braves",
+        "image": "",
+        "cat": "Baseball",
+        "eventInfo": {
+          "teamA": "Los Angeles Dodgers",
+          "teamB": "Atlanta Braves",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3638/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3656/image",
+          "eventName": "Baseball",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/10/03 20:00:00 +0000",
+          "endTime": "2026/10/03 23:00:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Live 1",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 13428,
+        "title": "Cleveland Guardians vs Chicago White Sox",
+        "image": "",
+        "cat": "Baseball",
+        "eventInfo": {
+          "teamA": "Cleveland Guardians",
+          "teamB": "Chicago White Sox",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3650/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3644/image",
+          "eventName": "Baseball",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/10/03 17:00:00 +0000",
+          "endTime": "2026/10/03 20:00:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Live 1",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 13429,
+        "title": "Milwaukee Brewers vs San Diego Padres",
+        "image": "",
+        "cat": "Baseball",
+        "eventInfo": {
+          "teamA": "Milwaukee Brewers",
+          "teamB": "San Diego Padres",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3630/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3636/image",
+          "eventName": "Baseball",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/10/04 00:30:00 +0000",
+          "endTime": "2026/10/04 03:30:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Live 1",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 13430,
+        "title": "Tampa Bay Rays vs New York Yankees",
+        "image": "",
+        "cat": "Baseball",
+        "eventInfo": {
+          "teamA": "Tampa Bay Rays",
+          "teamB": "New York Yankees",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3653/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3654/image",
+          "eventName": "Baseball",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/10/03 22:30:00 +0000",
+          "endTime": "2026/10/04 01:30:00 +0000"
         },
         "channels_data": [
           {
