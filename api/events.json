@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-03T04:20:40.352630",
+  "last_updated": "2026-10-03T04:30:58.564871",
   "event_count": 29,
   "events": {
     "events": [
@@ -15,7 +15,7 @@
           "teamBFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6U1hs_95YIb02AiDL1JAgkqMNrA1SkPMUatqqPsO2ZqtNZdmj79TQ71k&s=10",
           "eventName": "Motorsports",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/10/03 04:30:45 +0000",
           "endTime": "2026/10/03 12:00:51 +0000"
         },
@@ -45,6 +45,14 @@
             "tokenApi": ""
           },
           {
+            "title": "SKY SPORTS - AQ",
+            "link": "https://ghostinpixels.s3.us-east-1.amazonaws.com/f1.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
             "title": "RUSSIA FEED",
             "link": "https://bl.rutube.ru/livestream/eeec6e731c8eef4ef634e1e849851305/index.m3u8?s=ZNvIrq2OqRyB8JkqkqRkng&e=1791014234&scheme=https|user-agent=Mozilla",
             "logo": "",
@@ -53,7 +61,7 @@
             "tokenApi": ""
           },
           {
-            "title": "SKY SPORTS HD",
+            "title": "HD SERVER ",
             "link": "https://edgestream3.pro/hls/hbfkazbkaznc49.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
             "logo": "",
             "type": 0,
@@ -535,7 +543,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/187765/image",
           "eventName": "Cricket",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/10/03 04:30:00 +0000",
           "endTime": "2026/10/03 08:30:00 +0000"
         },
