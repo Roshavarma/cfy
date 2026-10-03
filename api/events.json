@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-03T07:50:46.399936",
+  "last_updated": "2026-10-03T08:01:08.055287",
   "event_count": 29,
   "events": {
     "events": [
@@ -20,6 +20,22 @@
           "endTime": "2026/10/03 12:00:51 +0000"
         },
         "channels_data": [
+          {
+            "title": "SKY Via APPLE TV",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ttmfhg11yd/out/v1/de59f982be774908a518a2458751a52c/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "7b093b15b677c732d99e94e4e7a7dc3f:a16ef774c00333b13c0572da8d13a3d3",
+            "tokenApi": ""
+          },
+          {
+            "title": "APPLE TV - AQ",
+            "link": "https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/jmkhzvjref/out/v1/33df23745a174bb1811fc2f96e900b08/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+            "logo": "",
+            "type": 7,
+            "api": "22ab68dce16cc62dbdbf61a93fe9455e:5266d40464a632a3e6069ce8ccdab36c",
+            "tokenApi": ""
+          },
           {
             "title": "FANCODE - AQ",
             "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
