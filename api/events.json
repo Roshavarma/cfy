@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-03T14:01:14.956949",
-  "event_count": 38,
+  "last_updated": "2026-10-03T14:10:45.414154",
+  "event_count": 37,
   "events": {
     "events": [
       {
@@ -570,7 +570,15 @@
             "tokenApi": ""
           },
           {
-            "title": "HD SERVER ",
+            "title": "ARENA SPORTS HD",
+            "link": "https://netanjahu.hls.st/t/8563f25bc7a7fec49db2a20cc29846e6/index.m3u8?|Referer=https://iplayer.is/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "Live 1",
             "link": "https://www.rtmpcdn.com/live/d5b3f73e-2a19-49cf-afdb-b4c0204d7f06.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
             "logo": "",
             "type": 0,
@@ -636,22 +644,6 @@
           {
             "title": "SonyLiv - Malayalam",
             "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2120301/footlive0310/MAL/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=e2e57dab3cb843a137f022377d16c719-1791033901959",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "SONY Bengali - BD",
-            "link": "https://prod-linear-media.toffeelive.com/cdn/live/sonyaath/playlist.m3u8?edge-cache-token=Expires=1791036072~Starts=1791032472~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiMmYyNmEyZmYtODRkYS00NzRiLWJiN2EtMjFlY2VhZTIyNDBmIn0~Signature=Ek2FoVNkbGAQJFYgVO6702TvpaKvQkWsR7Qfg7NVAGiftR8HfIcu1kHJOMrpmvbPiajRBmD53EtKh4qmm-oUDQ",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "SONY Bengali - IN",
-            "link": "https://dishmt.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8?hdnea=exp=1791074822~acl=/*~id=22397730944719260928364321283685~hmac=3fd1f989cf556c6633d29691695d65e99410fc28bb0de3d6e353de7d25ffa0d9",
             "logo": "",
             "type": 0,
             "api": "",
@@ -749,33 +741,6 @@
             "logo": "",
             "type": 7,
             "api": "a81ee4a694fecd6aa8a682e5024b313c:6d15568e1dab59e7202ae12e71505185",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 13406,
-        "title": "Albacete Balompie vs Eibar",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Albacete Balompi\u00e9",
-          "teamB": "Eibar",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/2848/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/2839/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/10/03 12:00:00 +0000",
-          "endTime": "2026/10/03 14:20:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "Live 1",
-            "link": "http://193.47.62.44/hls/shhhhaAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-            "logo": "",
-            "type": 0,
-            "api": "",
             "tokenApi": ""
           }
         ]
