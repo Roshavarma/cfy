@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-03T18:50:48.518122",
+  "last_updated": "2026-10-03T19:01:19.462113",
   "event_count": 42,
   "events": {
     "events": [
@@ -310,22 +310,6 @@
             "logo": "",
             "type": 7,
             "api": "69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749",
-            "tokenApi": ""
-          },
-          {
-            "title": "PARAMOUNT+ ES",
-            "link": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/z6e4nz7ldo/out/v1/b076c83a8c9d461ca94bf3114b4cf886/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-            "logo": "",
-            "type": 7,
-            "api": "b5365f66e2716f0311124d62b326dfc6:2f0511b885ae7faf41eff3ece2933a06",
-            "tokenApi": ""
-          },
-          {
-            "title": "PARAMOUNT+ POR",
-            "link": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3kqirt2kdh/out/v1/5d452af859b3471984a9ac97cae836c4/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-            "logo": "",
-            "type": 7,
-            "api": "73c658c668ce95620f4ec06ef697baac:25943ea01a7449bf18f7c0b3485e599c",
             "tokenApi": ""
           },
           {
@@ -782,16 +766,8 @@
             "tokenApi": ""
           },
           {
-            "title": "Live 1",
-            "link": "https://chatgpt.hereisman.net/playlist/57462/load-playlist?|Referer=https://gooz.aapmains.net",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
             "title": "FOX SOCCER+ HD",
-            "link": "https://tmaxapp.site/foxsoccerplus.m3u8",
+            "link": "https://chatgpt.hereisman.net/playlist/57462/load-playlist?|Referer=https://gooz.aapmains.net",
             "logo": "",
             "type": 0,
             "api": "",
@@ -800,6 +776,14 @@
           {
             "title": "beIN ARABIC HD",
             "link": "https://tmaxapp.site/8wirwjs76erftg/bein3ar.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "Live 1",
+            "link": "https://www.rtmpcdn.com/live/11be81ba-be4a-48e5-aa21-73b20ec055a2.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
             "logo": "",
             "type": 0,
             "api": "",
@@ -816,14 +800,6 @@
           {
             "title": "SonyLiv ",
             "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2120302/Footlive0310/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:157.0) Gecko/20100101 Firefox/157.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=9a96417886c08bdb995b1bf62dc94071-1791051601974",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "Live 2",
-            "link": "https://www.rtmpcdn.com/live/11be81ba-be4a-48e5-aa21-73b20ec055a2.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
             "logo": "",
             "type": 0,
             "api": "",
@@ -1762,7 +1738,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/4792/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Live",
+          "Status": "Finish",
           "startTime": "2026/10/03 15:55:00 +0000",
           "endTime": "2026/10/03 19:00:55 +0000"
         },
