@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-03T11:20:50.769473",
+  "last_updated": "2026-10-03T11:30:59.044305",
   "event_count": 39,
   "events": {
     "events": [
@@ -1624,17 +1624,33 @@
           "teamBFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkZ0c8Wb0slhQCjc_XsPzMuqyX52rG-yapyEgJpdSmSQ&s=10",
           "eventName": "Cricket",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/10/03 11:30:21 +0000",
           "endTime": "2026/10/03 20:00:24 +0000"
         },
         "channels_data": [
           {
-            "title": "",
-            "link": "ok",
+            "title": "FANCODE - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
             "logo": "",
-            "type": 0,
-            "api": "",
+            "type": 7,
+            "api": "82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca",
+            "tokenApi": ""
+          },
+          {
+            "title": "WILLOW - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fh0rvu2vmm/out/v1/db5c8bb455b2458bb00a0ecb9d176abe/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "e8dfce98828222c090e14a5f39f5bf33:ad47b761acd8ba42ee10390a3775e0e7",
+            "tokenApi": ""
+          },
+          {
+            "title": "WILLOW - ALT",
+            "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/fh0rvu2vmm/out/v1/db5c8bb455b2458bb00a0ecb9d176abe/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "e8dfce98828222c090e14a5f39f5bf33:ad47b761acd8ba42ee10390a3775e0e7",
             "tokenApi": ""
           }
         ]
