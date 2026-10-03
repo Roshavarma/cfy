@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-03T13:50:49.534568",
+  "last_updated": "2026-10-03T14:01:14.956949",
   "event_count": 38,
   "events": {
     "events": [
@@ -556,7 +556,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/4748/image",
           "eventName": "Football",
           "isHot": "1",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/10/03 14:00:00 +0000",
           "endTime": "2026/10/03 16:20:00 +0000"
         },
@@ -570,16 +570,16 @@
             "tokenApi": ""
           },
           {
-            "title": "SporTV BR - ALT",
-            "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+            "title": "HD SERVER ",
+            "link": "https://www.rtmpcdn.com/live/d5b3f73e-2a19-49cf-afdb-b4c0204d7f06.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
             "logo": "",
-            "type": 7,
-            "api": "51c0ef23b17297e5c01cd7f36dd0a6ce:8823f713ba6fdb9bbe0a2ad82d309a4b",
+            "type": 0,
+            "api": "",
             "tokenApi": ""
           },
           {
-            "title": "HD SERVER ",
-            "link": "https://www.rtmpcdn.com/live/d5b3f73e-2a19-49cf-afdb-b4c0204d7f06.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+            "title": "Sport TV HD",
+            "link": "https://netanjahu.hls.st/t/b6ac8fbc78526f09f8f6d633a68dcb9e/index.m3u8?|Referer=https://iplayer.is/",
             "logo": "",
             "type": 0,
             "api": "",
@@ -636,6 +636,22 @@
           {
             "title": "SonyLiv - Malayalam",
             "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2120301/footlive0310/MAL/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=e2e57dab3cb843a137f022377d16c719-1791033901959",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "SONY Bengali - BD",
+            "link": "https://prod-linear-media.toffeelive.com/cdn/live/sonyaath/playlist.m3u8?edge-cache-token=Expires=1791036072~Starts=1791032472~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiMmYyNmEyZmYtODRkYS00NzRiLWJiN2EtMjFlY2VhZTIyNDBmIn0~Signature=Ek2FoVNkbGAQJFYgVO6702TvpaKvQkWsR7Qfg7NVAGiftR8HfIcu1kHJOMrpmvbPiajRBmD53EtKh4qmm-oUDQ",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "SONY Bengali - IN",
+            "link": "https://dishmt.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8?hdnea=exp=1791074822~acl=/*~id=22397730944719260928364321283685~hmac=3fd1f989cf556c6633d29691695d65e99410fc28bb0de3d6e353de7d25ffa0d9",
             "logo": "",
             "type": 0,
             "api": "",
