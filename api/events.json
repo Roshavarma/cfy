@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-03T18:31:02.164071",
-  "event_count": 44,
+  "last_updated": "2026-10-03T18:40:49.572290",
+  "event_count": 42,
   "events": {
     "events": [
       {
@@ -631,60 +631,6 @@
         ]
       },
       {
-        "id": 13408,
-        "title": "Cadiz vs Leganes",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "C\u00e1diz",
-          "teamB": "Legan\u00e9s",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/4488/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/2845/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/10/03 16:30:00 +0000",
-          "endTime": "2026/10/03 18:50:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "Live 1",
-            "link": "http://193.47.62.55/hls/NYNYNY.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 13409,
-        "title": "CE Sabadell vs FC Andorra",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "CE Sabadell",
-          "teamB": "FC Andorra",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/24335/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/324871/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/10/03 16:30:00 +0000",
-          "endTime": "2026/10/03 18:50:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "Live 1",
-            "link": "http://193.47.62.55/hls/NYNYNYA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
         "id": 13412,
         "title": "United Arab Emirates vs Oman",
         "image": "",
@@ -702,35 +648,11 @@
         },
         "channels_data": [
           {
-            "title": "SportDigital Fussball",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
-            "tokenApi": ""
-          },
-          {
             "title": "AD SPORTS - AQ",
             "link": "https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv/abudhabi_sports_1/abudhabi_sports_1_dash_enc/index.mpd",
             "logo": "",
             "type": 7,
             "api": "e78769d87a41e15036a4fb8bfdf1371e:37be0375dc9fe544c3c6de6a105f7c0a",
-            "tokenApi": ""
-          },
-          {
-            "title": "ALKASS ONE HD",
-            "link": "https://storage.googleapis.com/livealkass-eu/alkass1-p/main.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "KTV SPORT HD ",
-            "link": "https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
             "tokenApi": ""
           },
           {
@@ -742,8 +664,8 @@
             "tokenApi": ""
           },
           {
-            "title": "BAHRAIN SPORTS HD",
-            "link": "https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8",
+            "title": "LOW SERVER",
+            "link": "http://193.47.62.41/hls/GGGAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
             "logo": "",
             "type": 0,
             "api": "",
@@ -782,6 +704,14 @@
             "logo": "",
             "type": 7,
             "api": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae",
+            "tokenApi": ""
+          },
+          {
+            "title": "VIX SPANISH - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/1qnmowm5ue/out/v1/83e94e1e8f76494f8173edb038f25837/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "62862225c7c2caacda0e8b2102620992:0f3a4b20516a6688d8326a7cc3eafa7d",
             "tokenApi": ""
           },
           {
@@ -876,6 +806,14 @@
             "tokenApi": ""
           },
           {
+            "title": "VIX SPANISH - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/te5rov6et8/out/v1/4df741b740c1401a93dd7f933bdde012/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "035498e9807fcf8f3536607952fcc18b:14a5cfe80cea258e465e9fc72dd24c71",
+            "tokenApi": ""
+          },
+          {
             "title": "Live 1",
             "link": "https://chatgpt.hereisman.net/playlist/57462/load-playlist?|Referer=https://gooz.aapmains.net",
             "logo": "",
@@ -964,6 +902,14 @@
             "logo": "",
             "type": 7,
             "api": "335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281",
+            "tokenApi": ""
+          },
+          {
+            "title": "VIX SPANISH - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vpabqyl8kc/out/v1/4ee96f7b64494c1aa1dc327b3f9b07ed/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "0ce1010b933a5b857d7b830a80b66454:ee25f214e12beb5ea90ece73fa6fd3e0",
             "tokenApi": ""
           },
           {
@@ -1060,33 +1006,6 @@
           {
             "title": "LOW SERVER",
             "link": "http://193.47.62.41/hls/GGGA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 13422,
-        "title": "Cote dIvoire vs Cameroon",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "C\u00f4te d'Ivoire",
-          "teamB": "Cameroon",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/4768/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/4751/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Upcoming",
-          "startTime": "2026/10/03 19:00:00 +0000",
-          "endTime": "2026/10/03 21:20:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "Live 1",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
             "logo": "",
             "type": 0,
             "api": "",
@@ -1856,6 +1775,49 @@
           {
             "title": "Live 1",
             "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 13450,
+        "title": "Saudi Arabia vs Qatar",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Saudi Arabia",
+          "teamB": "Qatar",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/4834/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/4792/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Live",
+          "startTime": "2026/10/03 15:55:00 +0000",
+          "endTime": "2026/10/03 19:00:55 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "SportDigital Fussball",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+            "logo": "",
+            "type": 7,
+            "api": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
+            "tokenApi": ""
+          },
+          {
+            "title": "KTV SPORT HD ",
+            "link": "https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "BAHRAIN SPORTS HD",
+            "link": "https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8",
             "logo": "",
             "type": 0,
             "api": "",
