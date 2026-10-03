@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-03T16:10:43.081702",
-  "event_count": 36,
+  "last_updated": "2026-10-03T16:20:48.394813",
+  "event_count": 34,
   "events": {
     "events": [
       {
@@ -545,121 +545,6 @@
         ]
       },
       {
-        "id": 13339,
-        "title": "India vs Brazil",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "India",
-          "teamB": "Brazil",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/4828/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/4748/image",
-          "eventName": "Football",
-          "isHot": "1",
-          "Status": "Live",
-          "startTime": "2026/10/03 14:00:00 +0000",
-          "endTime": "2026/10/03 16:20:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "SporTV BR - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-            "logo": "",
-            "type": 7,
-            "api": "51c0ef23b17297e5c01cd7f36dd0a6ce:8823f713ba6fdb9bbe0a2ad82d309a4b",
-            "tokenApi": ""
-          },
-          {
-            "title": "ARENA SPORTS HD",
-            "link": "https://netanjahu.hls.st/t/8563f25bc7a7fec49db2a20cc29846e6/index.m3u8?|Referer=https://iplayer.is/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "Live 1",
-            "link": "https://www.rtmpcdn.com/live/d5b3f73e-2a19-49cf-afdb-b4c0204d7f06.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "Sport TV HD",
-            "link": "https://netanjahu.hls.st/t/b6ac8fbc78526f09f8f6d633a68dcb9e/index.m3u8?|Referer=https://iplayer.is/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "SonyLiv - English",
-            "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2120301/footlive0310/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=de8d079d5d9fcca006ada002067ac434-1791033001811",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "SonyLiv - Hindi",
-            "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2120301/footlive0310/HIN/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=e2e57dab3cb843a137f022377d16c719-1791033901959",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "SonyLiv - Bengali",
-            "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2120303/footlive0310/BEN/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=e2e57dab3cb843a137f022377d16c719-1791033901959",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "SonyLiv - Tamil",
-            "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2120301/footlive0310/TAM/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=e2e57dab3cb843a137f022377d16c719-1791033901959",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "SonyLiv - Telugu",
-            "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2120301/footlive0310/TEL/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=e2e57dab3cb843a137f022377d16c719-1791033901959",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "SonyLiv - Kannada",
-            "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2120301/footlive0310/KAN/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=e2e57dab3cb843a137f022377d16c719-1791033901959",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "SonyLiv - Malayalam",
-            "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2120301/footlive0310/MAL/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=e2e57dab3cb843a137f022377d16c719-1791033901959",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "LOW SERVER",
-            "link": "http://193.47.62.55/hls/YLLLAAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
         "id": 13404,
         "title": "Argentina vs Burkina Faso",
         "image": "",
@@ -746,33 +631,6 @@
         ]
       },
       {
-        "id": 13407,
-        "title": "Almeria vs Burgos Club de Futbol",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Almer\u00eda",
-          "teamB": "Burgos Club de F\u00fatbol",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/2858/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/2854/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/10/03 14:15:00 +0000",
-          "endTime": "2026/10/03 16:35:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "Live 1",
-            "link": "http://193.47.62.44/hls/shhhhaAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
         "id": 13408,
         "title": "Cadiz vs Leganes",
         "image": "",
@@ -791,7 +649,7 @@
         "channels_data": [
           {
             "title": "Live 1",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "link": "http://193.47.62.55/hls/NYNYNY.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
             "logo": "",
             "type": 0,
             "api": "",
@@ -818,7 +676,7 @@
         "channels_data": [
           {
             "title": "Live 1",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "link": "http://193.47.62.55/hls/NYNYNYA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
             "logo": "",
             "type": 0,
             "api": "",
@@ -983,6 +841,14 @@
             "logo": "",
             "type": 7,
             "api": "ab38727c759aad968cb5b1648a627d28:ae095c19e2d24c5ae03ea482683be641",
+            "tokenApi": ""
+          },
+          {
+            "title": "SPORT1 CZ - AQ",
+            "link": "https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
             "tokenApi": ""
           },
           {
@@ -1380,6 +1246,14 @@
             "tokenApi": ""
           },
           {
+            "title": "SPORT2 CZ - AQ",
+            "link": "https://dash2.antik.sk/stream/nvidia_sport2/playlist_cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
+            "tokenApi": ""
+          },
+          {
             "title": "Live 1",
             "link": "https://chatgpt.hereisman.net/playlist/57459/load-playlist?|Referer=https://gooz.aapmains.net",
             "logo": "",
@@ -1645,7 +1519,15 @@
         "channels_data": [
           {
             "title": "Live 1",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "link": "https://chatgpt.hereisman.net/playlist/57477/load-playlist?|Referer=https://gooz.aapmains.net",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "HD SERVER ",
+            "link": "https://edgestream2.pro/hls/dazhfiach15.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://streame.center&Origin=https://streame.center",
             "logo": "",
             "type": 0,
             "api": "",
