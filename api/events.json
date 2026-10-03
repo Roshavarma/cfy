@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-03T18:01:10.151666",
-  "event_count": 34,
+  "last_updated": "2026-10-03T18:10:40.560824",
+  "event_count": 29,
   "events": {
     "events": [
       {
@@ -685,65 +685,6 @@
         ]
       },
       {
-        "id": 13411,
-        "title": "Saudi Arabia vs Qatar",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Saudi Arabia",
-          "teamB": "Qatar",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/4834/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/4792/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/10/03 15:55:00 +0000",
-          "endTime": "2026/10/03 18:15:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "SportDigital Fussball",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
-            "tokenApi": ""
-          },
-          {
-            "title": "KTV SPORT HD ",
-            "link": "https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "OMAN SPORTS HD",
-            "link": "https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "BAHRAIN SPORTS HD",
-            "link": "https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "LOW SERVER ",
-            "link": "http://193.47.62.41/hls/tbbbQQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
         "id": 13412,
         "title": "United Arab Emirates vs Oman",
         "image": "",
@@ -803,97 +744,6 @@
           {
             "title": "BAHRAIN SPORTS HD",
             "link": "https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 13413,
-        "title": "Croatia vs England",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Croatia",
-          "teamB": "England",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/4715/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/4713/image",
-          "eventName": "Football",
-          "isHot": "1",
-          "Status": "Live",
-          "startTime": "2026/10/03 16:00:00 +0000",
-          "endTime": "2026/10/03 18:20:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "beIN ENGLISH - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-            "logo": "",
-            "type": 7,
-            "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
-            "tokenApi": ""
-          },
-          {
-            "title": "VIX SPANISH - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/usddwmgjnp/out/v1/5edd423d949e412c98bf34042cb95d4e/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "ab38727c759aad968cb5b1648a627d28:ae095c19e2d24c5ae03ea482683be641",
-            "tokenApi": ""
-          },
-          {
-            "title": "SPORT1 CZ - AQ",
-            "link": "https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
-            "tokenApi": ""
-          },
-          {
-            "title": "ITV SPORTS HD",
-            "link": "https://chatgpt.hereisman.net/playlist/57458/load-playlist?|Referer=https://gooz.aapmains.net",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "beIN ARABIC HD",
-            "link": "https://tmaxapp.site/8wirwjs76erftg/bein1ar.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "Live 1",
-            "link": "https://www.rtmpcdn.com/live/fc6a5218-5085-437e-b4fc-1552441ef6ea.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "HD SERVER ",
-            "link": "https://edgestream2.pro/hls/b0h5fNwDKH.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://streame.center&Origin=https://streame.center",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "SonyLiv ",
-            "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2022322/Footlive0310/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=0dc1ad1e21d63d77b4a264dc8b6e9d16-1791041700513",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "LOW SERVER",
-            "link": "http://193.47.62.50/hls/JYYYAAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
             "logo": "",
             "type": 0,
             "api": "",
@@ -1063,247 +913,6 @@
         ]
       },
       {
-        "id": 13418,
-        "title": "Belarus vs San Marino",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Belarus",
-          "teamB": "San Marino",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/4743/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/4833/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/10/03 16:00:00 +0000",
-          "endTime": "2026/10/03 18:20:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "VIX SPANISH - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8siviz1sa4/out/v1/aef31af53940433bb1b5a1d1eaa6ed5d/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "9c3d12f07caca6e5e37cc0601df2ceda:4485da2f5752f0b55ea85d4e85762761",
-            "tokenApi": ""
-          },
-          {
-            "title": "FOX SOCCER+ HD",
-            "link": "https://chatgpt.hereisman.net/playlist/57457/load-playlist?|Referer=https://gooz.aapmains.net",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "Live 1",
-            "link": "https://www.rtmpcdn.com/live/b04d0592-3fcd-4db2-8834-150b58a986f7.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "HD SERVER ",
-            "link": "https://edgestream2.pro/hls/eJmauBDCIf.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://streame.center&Origin=https://streame.center",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "SonyLiv ",
-            "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2037140/Footlive0310/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=0dc1ad1e21d63d77b4a264dc8b6e9d16-1791041700513",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "LOW SERVER",
-            "link": "http://193.47.62.59/hls/JYYY.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 13419,
-        "title": "Estonia vs Luxembourg",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Estonia",
-          "teamB": "Luxembourg",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/4759/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/4478/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/10/03 16:00:00 +0000",
-          "endTime": "2026/10/03 18:20:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "FOX SPORTS - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-            "logo": "",
-            "type": 7,
-            "api": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae",
-            "tokenApi": ""
-          },
-          {
-            "title": "VIX SPANISH - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/lc1sd7un3c/out/v1/d7683dec68ba4f86bfa5ddf4bd842020/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "1bd0c9a9864f61369cdbb5ac1cd34f68:2860cd791db8c8ffef04dc8da7aa1edb",
-            "tokenApi": ""
-          },
-          {
-            "title": "FOX SPORTS HD ",
-            "link": "https://chatgpt.hereisman.net/playlist/57456/load-playlist?|Referer=https://gooz.aapmains.net",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "beIN ARABIC HD",
-            "link": "https://tmaxapp.site/8wirwjs76erftg/bein3ar.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "DAZN SPORTS HD ",
-            "link": "https://edgestream2.pro/hls/sqdahach1ax.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://streame.center&Origin=https://streame.center",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "Live 1",
-            "link": "https://www.rtmpcdn.com/live/6deac008-c37b-4461-9a40-f8c88cb72842.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "SonyLiv ",
-            "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2037141/Footlive0310/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=0dc1ad1e21d63d77b4a264dc8b6e9d16-1791041700513",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "LOW SERVER",
-            "link": "http://193.47.62.59/hls/JYYYA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 13420,
-        "title": "Iceland vs Bulgaria",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Iceland",
-          "teamB": "Bulgaria",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/4708/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/4716/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/10/03 16:00:00 +0000",
-          "endTime": "2026/10/03 18:20:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "beIN ENGLISH - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
-            "tokenApi": ""
-          },
-          {
-            "title": "VIX SPANISH - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/zbsneazmqf/out/v1/c36180058f2a49a9ac8e96607922aa95/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "f62c510a64468b1c160d326be8bd1fe9:15098826d0f3136fc1cd96237138ed46",
-            "tokenApi": ""
-          },
-          {
-            "title": "SPORT2 CZ - AQ",
-            "link": "https://dash2.antik.sk/stream/nvidia_sport2/playlist_cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
-            "tokenApi": ""
-          },
-          {
-            "title": "Live 1",
-            "link": "https://chatgpt.hereisman.net/playlist/57459/load-playlist?|Referer=https://gooz.aapmains.net",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "beIN ARABIC HD",
-            "link": "https://tmaxapp.site/8wirwjs76erftg/bein2ar.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "DAZN SPORTS HD ",
-            "link": "https://edgestream2.pro/hls/24SDAZFcsqnj24.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://streame.center&Origin=https://streame.center",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "HD SERVER ",
-            "link": "https://www.rtmpcdn.com/live/1817107a-9346-42fc-83a8-a32562e4fd4e.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "SonyLiv ",
-            "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2037139/Footlive0310/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=0dc1ad1e21d63d77b4a264dc8b6e9d16-1791041700513",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "LOW SERVER",
-            "link": "http://193.47.62.59/hls/JYYYAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
         "id": 13421,
         "title": "Canada vs Peru",
         "image": "",
@@ -1326,6 +935,30 @@
             "logo": "",
             "type": 7,
             "api": "abc5b2883121012850ebda05b528c5ec:e5250924f4b738905f7163a0134587a7",
+            "tokenApi": ""
+          },
+          {
+            "title": "Live 1",
+            "link": "https://chatgpt.hereisman.net/playlist/57465/load-playlist?&.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://gooz.aapmains.net/new-stream-embed/57465?ad=111&Origin=https://gooz.aapmains.net",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "HD SERVER ",
+            "link": "https://www.rtmpcdn.com/live/b1a43318-43e4-4139-afe3-b3ac89d7d2eb.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "LOW SERVER",
+            "link": "http://193.47.62.41/hls/GGGA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+            "logo": "",
+            "type": 0,
+            "api": "",
             "tokenApi": ""
           }
         ]
