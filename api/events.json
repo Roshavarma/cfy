@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-03T18:40:49.572290",
+  "last_updated": "2026-10-03T18:50:48.518122",
   "event_count": 42,
   "events": {
     "events": [
@@ -298,18 +298,10 @@
         "channels_data": [
           {
             "title": "PARAMOUNT+ - AQ",
-            "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/yccrx4cftf/out/v1/75d33583e4ce40dfa9b447f853779365/c1a91071-cdd0-436b-841f-66ae21603155-cenc.mpd?aws_sessionId=1d014f33-15e2-4955-9417-f274fefaa89b",
+            "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/ej80ruf35n/out/v1/fee46a895a76426eb2e5f13a045c6c95/befe6c61-480a-4063-a7a4-bd1b76f5e0df-cenc.mpd?aws_sessionId=c2effc63-fa98-4932-88fe-d0133d24a27d",
             "logo": "",
             "type": 7,
-            "api": "91c369f8579e3824b4604bf573726b26:8000cad8c28844f145ba45bc831441eb",
-            "tokenApi": ""
-          },
-          {
-            "title": "PARAMOUNT+ ALT",
-            "link": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/xsl3qjiero/out/v1/5e63410b4fca4a8a97243a8b2f14d8ef/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-            "logo": "",
-            "type": 7,
-            "api": "db683d059dfaf1f32f3a8162656c6725:cf325534ea496365b2e0834d913167aa",
+            "api": "555002659e06532881e22447986a79da:8ece00ca4e37a67a8763f5b2ff60e948",
             "tokenApi": ""
           },
           {
@@ -337,24 +329,8 @@
             "tokenApi": ""
           },
           {
-            "title": "PARAMOUNT+ HD",
-            "link": "https://chatgpt.hereisman.net/playlist/57167/load-playlist-multi?|Referer=https://gooz.aapmains.net",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
             "title": "Live 1",
             "link": "https://ubuntu.fromthyheart.site/dailymotion/live/playlist/25.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "Live 2",
-            "link": "https://chatgpt.hereisman.net/playlist/57169/load-playlist-multi?|Referer=https://gooz.aapmains.net",
             "logo": "",
             "type": 0,
             "api": "",
@@ -685,7 +661,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/4714/image",
           "eventName": "Football",
           "isHot": "1",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/10/03 18:45:00 +0000",
           "endTime": "2026/10/03 21:05:00 +0000"
         },
@@ -728,14 +704,6 @@
             "logo": "",
             "type": 7,
             "api": "9009b7189e3e68cc09d17811f2beb55a:dd3f96a94c909da48ff40c92aabf8cf3",
-            "tokenApi": ""
-          },
-          {
-            "title": "ESPN SPORTS - AQ",
-            "link": "https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(8757cb0a-3584-40cd-901e-8937c7deba83)/master.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "cb004fb100bd92f23793562891e3236b:b3e4e74ae2080b137e68bbd0ef8a7e05",
             "tokenApi": ""
           },
           {
@@ -792,7 +760,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/4695/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/10/03 18:45:00 +0000",
           "endTime": "2026/10/03 21:05:00 +0000"
         },
@@ -883,7 +851,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/4484/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/10/03 18:45:00 +0000",
           "endTime": "2026/10/03 21:05:00 +0000"
         },
