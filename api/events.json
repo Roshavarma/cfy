@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-04T19:50:48.133222",
+  "last_updated": "2026-10-04T20:01:15.368881",
   "event_count": 45,
   "events": {
     "events": [
@@ -586,7 +586,7 @@
           "teamBFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkZ0c8Wb0slhQCjc_XsPzMuqyX52rG-yapyEgJpdSmSQ&s=10",
           "eventName": "Cricket",
           "isHot": "0",
-          "Status": "Live",
+          "Status": "Finish",
           "startTime": "2026/10/04 15:30:45 +0000",
           "endTime": "2026/10/04 20:00:28 +0000"
         },
@@ -1246,7 +1246,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/3636/image",
           "eventName": "Baseball",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/10/04 20:00:00 +0000",
           "endTime": "2026/10/04 23:00:00 +0000"
         },
@@ -1316,7 +1316,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/4431/image",
           "eventName": "American football",
           "isHot": "0",
-          "Status": "Live",
+          "Status": "Finish",
           "startTime": "2026/10/04 17:00:00 +0000",
           "endTime": "2026/10/04 20:00:00 +0000"
         },
@@ -1375,7 +1375,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/4424/image",
           "eventName": "American football",
           "isHot": "0",
-          "Status": "Live",
+          "Status": "Finish",
           "startTime": "2026/10/04 17:00:00 +0000",
           "endTime": "2026/10/04 20:00:00 +0000"
         },
@@ -1442,7 +1442,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/4427/image",
           "eventName": "American football",
           "isHot": "0",
-          "Status": "Live",
+          "Status": "Finish",
           "startTime": "2026/10/04 17:00:00 +0000",
           "endTime": "2026/10/04 20:00:00 +0000"
         },
@@ -1501,7 +1501,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/4386/image",
           "eventName": "American football",
           "isHot": "0",
-          "Status": "Live",
+          "Status": "Finish",
           "startTime": "2026/10/04 17:00:00 +0000",
           "endTime": "2026/10/04 20:00:00 +0000"
         },
@@ -1560,7 +1560,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/4392/image",
           "eventName": "American football",
           "isHot": "0",
-          "Status": "Live",
+          "Status": "Finish",
           "startTime": "2026/10/04 17:00:00 +0000",
           "endTime": "2026/10/04 20:00:00 +0000"
         },
@@ -1619,7 +1619,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/4412/image",
           "eventName": "American football",
           "isHot": "0",
-          "Status": "Live",
+          "Status": "Finish",
           "startTime": "2026/10/04 17:00:00 +0000",
           "endTime": "2026/10/04 20:00:00 +0000"
         },
@@ -1678,7 +1678,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/4387/image",
           "eventName": "American football",
           "isHot": "0",
-          "Status": "Live",
+          "Status": "Finish",
           "startTime": "2026/10/04 17:00:00 +0000",
           "endTime": "2026/10/04 20:00:00 +0000"
         },
@@ -1737,7 +1737,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/4420/image",
           "eventName": "American football",
           "isHot": "0",
-          "Status": "Live",
+          "Status": "Finish",
           "startTime": "2026/10/04 17:00:00 +0000",
           "endTime": "2026/10/04 20:00:00 +0000"
         },
@@ -1938,10 +1938,10 @@
         "channels_data": [
           {
             "title": "Live 1",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "link": "https://otte.cache.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/x9bbacauuk/out/v1/aa09d4975f5342f395cb925a435e7082/cenc.mpd",
             "logo": "",
-            "type": 0,
-            "api": "",
+            "type": 7,
+            "api": "02fc0fa1778d34df10eb820d3dd9faf4:51a3e87594a01393aa37483be6a4410f",
             "tokenApi": ""
           }
         ]
