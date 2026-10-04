@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-04T05:20:49.220390",
-  "event_count": 28,
+  "last_updated": "2026-10-04T05:31:03.644358",
+  "event_count": 30,
   "events": {
     "events": [
       {
@@ -1091,6 +1091,60 @@
           "Status": "Upcoming",
           "startTime": "2026/10/04 18:45:00 +0000",
           "endTime": "2026/10/04 21:05:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Live 1",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 13451,
+        "title": "Milwaukee Brewers vs San Diego Padres",
+        "image": "",
+        "cat": "Baseball",
+        "eventInfo": {
+          "teamA": "Milwaukee Brewers",
+          "teamB": "San Diego Padres",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3630/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3636/image",
+          "eventName": "Baseball",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/10/04 20:00:00 +0000",
+          "endTime": "2026/10/04 23:00:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Live 1",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 13452,
+        "title": "Los Angeles Dodgers vs Atlanta Braves",
+        "image": "",
+        "cat": "Baseball",
+        "eventInfo": {
+          "teamA": "Los Angeles Dodgers",
+          "teamB": "Atlanta Braves",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3638/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3656/image",
+          "eventName": "Baseball",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/10/05 00:00:00 +0000",
+          "endTime": "2026/10/05 03:00:00 +0000"
         },
         "channels_data": [
           {
