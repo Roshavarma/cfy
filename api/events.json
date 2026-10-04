@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-04T17:40:49.459569",
-  "event_count": 41,
+  "last_updated": "2026-10-04T17:50:48.956530",
+  "event_count": 49,
   "events": {
     "events": [
       {
@@ -741,7 +741,7 @@
         "channels_data": [
           {
             "title": "Live 1",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "link": "http://193.47.62.50/hls/JKKK.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
             "logo": "",
             "type": 0,
             "api": "",
@@ -768,7 +768,7 @@
         "channels_data": [
           {
             "title": "Live 1",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "link": "http://193.47.62.50/hls/JKKKQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
             "logo": "",
             "type": 0,
             "api": "",
@@ -1045,7 +1045,7 @@
           "teamAFlag": "https://img.sofascore.com/api/v1/team/4704/image",
           "teamBFlag": "https://img.sofascore.com/api/v1/team/4475/image",
           "eventName": "Football",
-          "isHot": "0",
+          "isHot": "1",
           "Status": "Upcoming",
           "startTime": "2026/10/04 18:45:00 +0000",
           "endTime": "2026/10/04 21:05:00 +0000"
@@ -1943,6 +1943,222 @@
           {
             "title": "LOW SERVER ",
             "link": "http://193.47.62.41/hls/BFFFAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 13469,
+        "title": "France vs Belgium",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "France",
+          "teamB": "Belgium",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/4481/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/4717/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/10/05 18:45:00 +0000",
+          "endTime": "2026/10/05 21:05:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Live 1",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 13470,
+        "title": "Italy vs Turkiye",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Italy",
+          "teamB": "T\u00fcrkiye",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/4707/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/4700/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/10/05 18:45:00 +0000",
+          "endTime": "2026/10/05 21:05:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Live 1",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 13471,
+        "title": "Bosnia Herzegovina vs Poland",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Bosnia & Herzegovina",
+          "teamB": "Poland",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/4479/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/4703/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/10/05 18:45:00 +0000",
+          "endTime": "2026/10/05 21:05:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Live 1",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 13472,
+        "title": "Northern Ireland vs Georgia",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Northern Ireland",
+          "teamB": "Georgia",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/4786/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/4763/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/10/05 18:45:00 +0000",
+          "endTime": "2026/10/05 21:05:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Live 1",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 13473,
+        "title": "Romania vs Sweden",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Romania",
+          "teamB": "Sweden",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/4477/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/4688/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/10/05 18:45:00 +0000",
+          "endTime": "2026/10/05 21:05:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Live 1",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 13474,
+        "title": "Ukraine vs Hungary",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Ukraine",
+          "teamB": "Hungary",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/4701/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/4709/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/10/05 18:45:00 +0000",
+          "endTime": "2026/10/05 21:05:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Live 1",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 13475,
+        "title": "Montenegro vs Armenia",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Montenegro",
+          "teamB": "Armenia",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/7139/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/4740/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/10/05 18:45:00 +0000",
+          "endTime": "2026/10/05 21:05:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Live 1",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 13476,
+        "title": "Cordoba vs CD Tenerife",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "C\u00f3rdoba",
+          "teamB": "CD Tenerife",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/2850/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/2822/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/10/05 18:30:00 +0000",
+          "endTime": "2026/10/05 20:50:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Live 1",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
             "logo": "",
             "type": 0,
             "api": "",
