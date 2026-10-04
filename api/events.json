@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-04T14:01:11.178005",
-  "event_count": 46,
+  "last_updated": "2026-10-04T14:10:51.208247",
+  "event_count": 45,
   "events": {
     "events": [
       {
@@ -804,33 +804,6 @@
         ]
       },
       {
-        "id": 13438,
-        "title": "Real Sociedad B vs Granada",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Real Sociedad B",
-          "teamB": "Granada",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/24360/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/33779/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/10/04 12:00:00 +0000",
-          "endTime": "2026/10/04 14:20:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "Live 1",
-            "link": "http://193.47.62.41/hls/rlllQQQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
         "id": 13439,
         "title": "Sporting Gijon vs Celta Fortuna",
         "image": "",
@@ -849,7 +822,7 @@
         "channels_data": [
           {
             "title": "Live 1",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "link": "http://193.47.62.41/hls/rlllQQQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
             "logo": "",
             "type": 0,
             "api": "",
