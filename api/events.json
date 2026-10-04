@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-04T12:50:51.733746",
+  "last_updated": "2026-10-04T13:01:10.880467",
   "event_count": 46,
   "events": {
     "events": [
@@ -772,7 +772,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/4739/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/10/04 13:00:00 +0000",
           "endTime": "2026/10/04 15:20:00 +0000"
         },
@@ -934,7 +934,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/4776/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/10/04 13:00:00 +0000",
           "endTime": "2026/10/04 15:20:00 +0000"
         },
@@ -945,6 +945,14 @@
             "logo": "",
             "type": 7,
             "api": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae",
+            "tokenApi": ""
+          },
+          {
+            "title": "VIX SPANISH - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/xtksssxrba/out/v1/d2f281563daa4c8da8e2fd168552b757/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "f81aaa565eea1ac7bc35bba0fb0d6400:7c6ff0c1399f2244947cf2a5e30c94bc",
             "tokenApi": ""
           },
           {
@@ -1336,7 +1344,23 @@
         "channels_data": [
           {
             "title": "Live 1",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "link": "https://chatgpt.hereisman.net/playlist/57564/load-playlist?|Referer=https://gooz.aapmains.net",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "Live 2",
+            "link": "https://storage.googleapis.com/buoyantsong/phi-stee/manifest.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "HD SERVER ",
+            "link": "https://edgestream2.pro/hls/ijzriafaq41.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://streame.center&Origin=https://streame.center",
             "logo": "",
             "type": 0,
             "api": "",
