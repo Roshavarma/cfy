@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-04T13:10:44.870559",
+  "last_updated": "2026-10-04T13:20:44.352081",
   "event_count": 46,
   "events": {
     "events": [
@@ -441,9 +441,9 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/187760/image",
           "eventName": "Cricket",
           "isHot": "0",
-          "Status": "Finish",
-          "startTime": "2026/10/03 08:30:15 +0000",
-          "endTime": "2026/10/03 17:30:10 +0000"
+          "Status": "Upcoming",
+          "startTime": "2026/10/06 13:30:18 +0000",
+          "endTime": "2026/10/06 17:55:23 +0000"
         },
         "channels_data": [
           {
@@ -616,8 +616,24 @@
             "tokenApi": ""
           },
           {
-            "title": "FANCODE - IN",
-            "link": "https://dai-fancode.pages.dev/mumbai/4249221_english_hls_f7489000ae32024_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/",
+            "title": "LOW SERVER",
+            "link": "http://193.47.62.44/hls/TGGGAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "FANCODE ENG - IN",
+            "link": "https://dai-fancode.pages.dev/mumbai/4249219_english_hls_7a9df8332c65789_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "FANCODE HIN - IN",
+            "link": "https://dai-fancode.pages.dev/mumbai/4249219_english_hls_7a9df8332c65789_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/",
             "logo": "",
             "type": 0,
             "api": "",
@@ -1361,6 +1377,14 @@
           {
             "title": "HD SERVER ",
             "link": "https://edgestream2.pro/hls/ijzriafaq41.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://streame.center&Origin=https://streame.center",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "LOW SERVER ",
+            "link": "http://193.47.62.55/hls/EUUUAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
             "logo": "",
             "type": 0,
             "api": "",
