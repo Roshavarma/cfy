@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-04T06:50:45.274035",
+  "last_updated": "2026-10-04T07:01:10.044162",
   "event_count": 45,
   "events": {
     "events": [
@@ -15,7 +15,7 @@
           "teamBFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6U1hs_95YIb02AiDL1JAgkqMNrA1SkPMUatqqPsO2ZqtNZdmj79TQ71k&s=10",
           "eventName": "Motorsports",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/10/04 07:00:05 +0000",
           "endTime": "2026/10/04 17:00:17 +0000"
         },
@@ -69,14 +69,6 @@
             "tokenApi": ""
           },
           {
-            "title": "SKY MAIN EVENT",
-            "link": "https://admin2.formaturamaxi.com.br/f1.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
             "title": "Live 1",
             "link": "https://chatgpt.hereisman.net/playlist/57392/load-playlist?|Referer=https://gooz.aapmains.net",
             "logo": "",
@@ -85,8 +77,8 @@
             "tokenApi": ""
           },
           {
-            "title": "SKY SPORTS - AQ",
-            "link": "https://ghostinpixels.s3.us-east-1.amazonaws.com/f1.m3u8",
+            "title": "SKY MAIN EVENT",
+            "link": "https://admin2.formaturamaxi.com.br/f1.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
             "logo": "",
             "type": 0,
             "api": "",
@@ -94,7 +86,15 @@
           },
           {
             "title": "ELEVEN SPORTS HD",
-            "link": "https://netanjahu.hls.st/t/a89b7ee991e4a03e066d91f63d46280d/index.m3u8?|Referer=https://iplayer.is/",
+            "link": "https://netanjahu.hls.st/t/adb57217346ee4d7cbc072c94d0de6e5/index.m3u8?|Referer=https://iplayer.is/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "SKY SPORTS F1",
+            "link": "https://netanjahu.hls.st/t/a304b0a7b4765ba0312de32326c4a99c/index.m3u8?|Referer=https://iplayer.is/",
             "logo": "",
             "type": 0,
             "api": "",
@@ -102,7 +102,7 @@
           },
           {
             "title": "RUSSIA FEED",
-            "link": "https://bl.rutube.ru/livestream/eeec6e731c8eef4ef634e1e849851305/index.m3u8?s=ZNvIrq2OqRyB8JkqkqRkng&e=1791014234&scheme=https|user-agent=Mozilla",
+            "link": "https://bl.rutube.ru/livestream/6f720c31786abeb7fd11f847db8a2084/index.m3u8?s=XHCTvH12_MBnBEkLnZ-k5g&e=1791182503&scheme=https|user-agent=Mozilla",
             "logo": "",
             "type": 0,
             "api": "",
