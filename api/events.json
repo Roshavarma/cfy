@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-04T15:31:05.467624",
+  "last_updated": "2026-10-04T15:40:44.848751",
   "event_count": 43,
   "events": {
     "events": [
@@ -587,16 +587,16 @@
           "eventName": "Cricket",
           "isHot": "0",
           "Status": "Live",
-          "startTime": "2026/10/04 11:30:24 +0000",
+          "startTime": "2026/10/04 15:30:45 +0000",
           "endTime": "2026/10/04 20:00:28 +0000"
         },
         "channels_data": [
           {
             "title": "WILLOW - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vgvtvcvqun/out/v1/f0b20eb59a9047a58a2c7234ca84ae70/cenc.mpd",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fdqnlnqefq/out/v1/49ddd42b1eda4ef2a9a14f5a84732743/cenc.mpd",
             "logo": "",
             "type": 7,
-            "api": "4191cd14283b963a1bdafcc9cada82f4:4087250da5d99f2ecd69546c34972ee1",
+            "api": "fd73ed2416f865f64c3531cdb2ee4f82:82bc46b3cd438e34923d12c5591654ed",
             "tokenApi": ""
           },
           {
@@ -609,23 +609,15 @@
           },
           {
             "title": "WILLOW - ALT",
-            "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/vgvtvcvqun/out/v1/f0b20eb59a9047a58a2c7234ca84ae70/cenc.mpd",
+            "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/fdqnlnqefq/out/v1/49ddd42b1eda4ef2a9a14f5a84732743/cenc.mpd",
             "logo": "",
             "type": 7,
-            "api": "4191cd14283b963a1bdafcc9cada82f4:4087250da5d99f2ecd69546c34972ee1",
-            "tokenApi": ""
-          },
-          {
-            "title": "LOW SERVER",
-            "link": "http://193.47.62.44/hls/TGGGAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-            "logo": "",
-            "type": 0,
-            "api": "",
+            "api": "fd73ed2416f865f64c3531cdb2ee4f82:82bc46b3cd438e34923d12c5591654ed",
             "tokenApi": ""
           },
           {
             "title": "FANCODE ENG - IN",
-            "link": "https://dai-fancode.pages.dev/mumbai/4249219_english_hls_7a9df8332c65789_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/",
+            "link": "https://dai-fancode.pages.dev/mumbai/4249223_english_hls_bba5119a4250600_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/",
             "logo": "",
             "type": 0,
             "api": "",
@@ -633,7 +625,15 @@
           },
           {
             "title": "FANCODE HIN - IN",
-            "link": "https://dai-fancode.pages.dev/mumbai/4249219_english_hls_7a9df8332c65789_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/",
+            "link": "https://dai-fancode.pages.dev/mumbai/4249223_hindi_hls_39d47cc1be90742_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "LOW SERVER",
+            "link": "http://193.47.62.44/hls/TGGGAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
             "logo": "",
             "type": 0,
             "api": "",
