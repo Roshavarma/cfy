@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-04T20:20:49.711031",
+  "last_updated": "2026-10-04T20:30:58.045702",
   "event_count": 45,
   "events": {
     "events": [
@@ -1850,14 +1850,14 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/4429/image",
           "eventName": "American football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/10/04 20:25:00 +0000",
           "endTime": "2026/10/04 23:25:00 +0000"
         },
         "channels_data": [
           {
             "title": "Live 1",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "link": "https://edgestream5.pro/hls/wnbcnxbcs42.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://streame.center&Origin=https://streame.center",
             "logo": "",
             "type": 0,
             "api": "",
@@ -1877,7 +1877,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/4418/image",
           "eventName": "American football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/10/04 20:25:00 +0000",
           "endTime": "2026/10/04 23:25:00 +0000"
         },
@@ -1904,11 +1904,19 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/4422/image",
           "eventName": "American football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/10/04 20:25:00 +0000",
           "endTime": "2026/10/04 23:25:00 +0000"
         },
         "channels_data": [
+          {
+            "title": "DAZN SPORTS - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/czr0xkkcv2/out/v1/ce9facdf04b24f409e89decf0f5b8884/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "d6450102c3e09221d8fde9129cce153a:ee9820ac8ea30d8f217f96f7a8c795d5",
+            "tokenApi": ""
+          },
           {
             "title": "Live 1",
             "link": "https://edgestream6.pro/hls/ijzriafaq41.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://streame.center&Origin=https://streame.center",
