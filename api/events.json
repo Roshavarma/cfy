@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-04T00:01:21.616502",
+  "last_updated": "2026-10-04T00:10:52.428221",
   "event_count": 42,
   "events": {
     "events": [
@@ -515,7 +515,7 @@
           "teamAFlag": "https://img.sofascore.com/api/v1/team/4819/image",
           "teamBFlag": "https://img.sofascore.com/api/v1/team/4749/image",
           "eventName": "Football",
-          "isHot": "0",
+          "isHot": "1",
           "Status": "Live",
           "startTime": "2026/10/04 00:00:00 +0000",
           "endTime": "2026/10/04 02:20:00 +0000"
@@ -535,6 +535,46 @@
             "logo": "",
             "type": 7,
             "api": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19",
+            "tokenApi": ""
+          },
+          {
+            "title": "VIX SPANISH - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/zbsneazmqf/out/v1/c36180058f2a49a9ac8e96607922aa95/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "f62c510a64468b1c160d326be8bd1fe9:15098826d0f3136fc1cd96237138ed46",
+            "tokenApi": ""
+          },
+          {
+            "title": "Live 1",
+            "link": "https://live.vivo155.com/live/sd-1-4650100.m3u8?txSecret=9dd34f113c9070c3a996db35ee22b000&txTime=6AC1AB6D|Referer=https://player.online909.com/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "PREMIER SPORTS HD",
+            "link": "https://chatgpt.hereisman.net/playlist/57542/load-playlist?&.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://gooz.aapmains.net/new-stream-embed/57542?ad=111&Origin=https://gooz.aapmains.net",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "HD SERVER ",
+            "link": "https://www.rtmpcdn.com/live/2904f0af-b164-4b7f-b5e1-fbac6a1e0caa.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "LOW SERVER ",
+            "link": "http://193.47.62.41/hls/UWWWAAAAAAAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+            "logo": "",
+            "type": 0,
+            "api": "",
             "tokenApi": ""
           }
         ]
