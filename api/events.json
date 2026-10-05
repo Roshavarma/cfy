@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-05T09:40:44.609500",
-  "event_count": 29,
+  "last_updated": "2026-10-05T13:01:21.301344",
+  "event_count": 30,
   "events": {
     "events": [
       {
@@ -533,7 +533,7 @@
           "eventName": "Cricket",
           "isHot": "0",
           "Status": "Upcoming",
-          "startTime": "2026/10/05 11:30:37 +0000",
+          "startTime": "2026/10/05 15:30:32 +0000",
           "endTime": "2026/10/05 20:00:40 +0000"
         },
         "channels_data": [
@@ -1147,6 +1147,41 @@
           {
             "title": "Live 1",
             "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 13487,
+        "title": "Indonesia vs Thailand",
+        "image": "null",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Indonesia",
+          "teamB": "Thailand",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/4829/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/4730/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Live",
+          "startTime": "2026/10/05 13:00:26 +0000",
+          "endTime": "2026/10/05 15:30:29 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "HD SERVER ",
+            "link": "https://live2.zundrixmediapipeline.com/live/channel1.m3u8?|Referer=https://xlz.domainkqt.cc/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "LOW SERVER",
+            "link": "http://193.47.62.55/hls/ekkkkAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
             "logo": "",
             "type": 0,
             "api": "",
