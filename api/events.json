@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-05T18:40:54.364899",
-  "event_count": 29,
+  "last_updated": "2026-10-05T18:50:47.485847",
+  "event_count": 30,
   "events": {
     "events": [
       {
@@ -680,7 +680,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/4717/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/10/05 18:45:00 +0000",
           "endTime": "2026/10/05 21:05:00 +0000"
         },
@@ -694,8 +694,56 @@
             "tokenApi": ""
           },
           {
-            "title": "Live 1",
+            "title": "VIX SPANISH - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/gwen4ltnbr/out/v1/c8dfa6294cb34255a3a6ba81fbf286f7/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "d5f34f790b34b87ffb07f2877ccf266d:e12c5658a8cb716007816582285610b8",
+            "tokenApi": ""
+          },
+          {
+            "title": "SPORT 2 CZ - AQ",
+            "link": "https://dash2.antik.sk/stream/nvidia_sport2/playlist_cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
+            "tokenApi": ""
+          },
+          {
+            "title": "TWO SPORTS HD",
             "link": "https://chatgpt.hereisman.net/playlist/57636/load-playlist?|Referer=https://gooz.aapmains.net",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "DAZN SPORTS HD",
+            "link": "https://netanjahu.hls.st/t/ea52d440396c65657e747973931bcbcd/index.m3u8?|Referer=https://iplayer.is/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "Sport TV HD",
+            "link": "https://netanjahu.hls.st/t/fc02431170e44067c3302bf22c59cd75/index.m3u8?|Referer=https://iplayer.is/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "ZIGGO SPORT HD",
+            "link": "https://netanjahu.hls.st/t/cde13ce715a94996546e215080c7731d/index.m3u8?|Referer=https://iplayer.is/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "Live 1",
+            "link": "https://live.vivo155.com/live/hd-en-1-4518039.m3u8?txSecret=06a4dc979d7e23227dda795c7e9df134&txTime=6AC4005F|Referer=https://player.online909.com/",
             "logo": "",
             "type": 0,
             "api": "",
@@ -747,7 +795,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/4700/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/10/05 18:45:00 +0000",
           "endTime": "2026/10/05 21:05:00 +0000"
         },
@@ -766,6 +814,14 @@
             "logo": "",
             "type": 7,
             "api": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae",
+            "tokenApi": ""
+          },
+          {
+            "title": "VIX SPANISH - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/mwscd749xg/out/v1/59dc0639d2c44432bf89984131478749/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "a1933473fe6bf4a716c1e9755a33dd9d:bab98c8b3e69b105d15de414414e61f7",
             "tokenApi": ""
           },
           {
@@ -830,7 +886,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/4703/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/10/05 18:45:00 +0000",
           "endTime": "2026/10/05 21:05:00 +0000"
         },
@@ -913,11 +969,27 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/4763/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/10/05 18:45:00 +0000",
           "endTime": "2026/10/05 21:05:00 +0000"
         },
         "channels_data": [
+          {
+            "title": "DAZN SPORTS - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/odfitsiipb/out/v1/fa02957f041942628a39265eaebd23cd/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "28c3d421119a55b14dc4e6d01470f889:559dabdb071faff101f6b32b10f8af75",
+            "tokenApi": ""
+          },
+          {
+            "title": "VIX SPANISH - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/gurq5expmq/out/v1/b5ef208fdea84ed8a2f0aefe7fdb86cf/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "c8eb80251966923c99479dd79222f0bb:8097a9cce0c12d58956d1aeade10134e",
+            "tokenApi": ""
+          },
           {
             "title": "Live 1",
             "link": "https://chatgpt.hereisman.net/playlist/57642/load-playlist?|Referer=https://gooz.aapmains.net",
@@ -972,11 +1044,27 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/4688/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/10/05 18:45:00 +0000",
           "endTime": "2026/10/05 21:05:00 +0000"
         },
         "channels_data": [
+          {
+            "title": "DAZN SPORTS - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/cxbslnilwp/out/v1/7ead5e3145ca44afa301771dfbed4e2a/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "029c142c9e3250d9b505de49d87d7410:da16c9519a9798f166b04ddbaddaa2a2",
+            "tokenApi": ""
+          },
+          {
+            "title": "VIX SPANISH - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/uoxbutis8b/out/v1/dd4c2935bbd1458e96fea050cffb6de3/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "56106eccb34ff4d26f3a6f664631ddb5:10d61474ec66f104430e1229541cfcad",
+            "tokenApi": ""
+          },
           {
             "title": "Live 1",
             "link": "https://chatgpt.hereisman.net/playlist/57640/load-playlist?|Referer=https://gooz.aapmains.net",
@@ -1031,11 +1119,19 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/4709/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/10/05 18:45:00 +0000",
           "endTime": "2026/10/05 21:05:00 +0000"
         },
         "channels_data": [
+          {
+            "title": "VIX SPANISH - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/11gnhblrdl/out/v1/0243b44c809941c7a5e0132e783bab69/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "6936ae743161c2914d1fef877d1e9c34:c49a009c90b1c72c7565be8767ecc6cf",
+            "tokenApi": ""
+          },
           {
             "title": "SporTV BR - AQ",
             "link": "https://otte.cache.aiv-cdn.net/gru-nitro/live/clients/dash/enc/4yiko4it8k/out/v1/b77dd424c745443aba2f3f88d418f797/cenc-sd.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
@@ -1098,11 +1194,19 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/4740/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/10/05 18:45:00 +0000",
           "endTime": "2026/10/05 21:05:00 +0000"
         },
         "channels_data": [
+          {
+            "title": "DAZN SPORTS - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/8v3tb1eqte/out/v1/e8090605c49b418c9a1f6e0e2c59efe2/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "00a96d2121cf073f942b6bf2b3372b17:2f5404b2de4570143493184e5dda4d2f",
+            "tokenApi": ""
+          },
           {
             "title": "VIX SPANISH - AQ",
             "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/h4zzfwvkps/out/v1/b853456a96d8434cb6cea6ade4feddd3/cenc.mpd",
@@ -1475,6 +1579,49 @@
           {
             "title": "HD QUALITY",
             "link": "https://edgestream3.pro/hls/JHDAJBDnjdna30.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://streame.center&Origin=https://streame.center",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 13488,
+        "title": "Liechtenstein vs Gibraltar",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Liechtenstein",
+          "teamB": "Gibraltar",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/4830/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/129264/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Live",
+          "startTime": "2026/10/05 18:45:00 +0000",
+          "endTime": "2026/10/05 21:05:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "VIX SPANISH - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/qxeiiwhisf/out/v1/7c7d16e0b54848b0ba34ec2d68d0b638/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "89bb01e6f33e16df2a19bab2c26810d2:3e4c4ebd89e5579de57718d0989842b9",
+            "tokenApi": ""
+          },
+          {
+            "title": "SonyLiv ",
+            "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2022315/Footlive0510/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:157.0) Gecko/20100101 Firefox/157.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=ecf2de205e44c230b9b34314d63b2de3-1791223804377",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "LOW SERVER",
+            "link": "http://193.47.62.50/hls/grrrA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
             "logo": "",
             "type": 0,
             "api": "",
