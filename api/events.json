@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-06T13:40:53.104865",
-  "event_count": 33,
+  "last_updated": "2026-10-06T13:50:53.365896",
+  "event_count": 36,
   "events": {
     "events": [
       {
@@ -479,8 +479,24 @@
             "tokenApi": ""
           },
           {
+            "title": "HOTSTAR HIN - IN",
+            "link": "https://livetv.hotstar.com/mp1/gec-india-1540068295/5a4eb3ac6e424eef8a30962d2232f80f/index.mpd?|cookie=hdntl=exp=1791375879~acl=%2f*~id=e5d43443950e22190a7a6778e25c9a11~data=hdntl~hmac=bdea5016156d651d3e72ce57944385a72ff5e88b26eb863ece432e1b5d102c8b&referer=https://www.hotstar.com/&origin=https://www.hotstar.com&drmScheme=clearkey&drmLicense=b9f1cb8a1361457bbd8097f8c2590000:1960274b7ba344cb899eba2e80916774",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "HOTSTAR ENG - IN",
+            "link": "https://livetv.hotstar.com/mp1/gec-india-1540068247/9a6e7c30f9194cc1a6a6250cedb115fb/index.mpd?|cookie=hdntl=exp=1791375879~acl=%2f*~id=e5d43443950e22190a7a6778e25c9a11~data=hdntl~hmac=bdea5016156d651d3e72ce57944385a72ff5e88b26eb863ece432e1b5d102c8b&referer=https://www.hotstar.com/&origin=https://www.hotstar.com&drmScheme=clearkey&drmLicense=e85897bf6e594d698b7c82646c8e0000:d2dda31234ae40538843e871cd4dcc2a",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
             "title": "LOW SERVER",
-            "link": "http://193.47.62.41/hls/VUUUAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+            "link": "http://193.47.62.41/hls/VUUUAAAXX.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
             "logo": "",
             "type": 0,
             "api": "",
@@ -704,6 +720,14 @@
           {
             "title": "SonyLiv - Kannada",
             "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2005445/Footlive0610/KAN/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:157.0) Gecko/20100101 Firefox/157.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=ac7133b65bfd7e6911ecc0a66b8c67bc-1791292203804",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "HD SERVER ",
+            "link": "https://www.rtmpcdn.com/live/48290f0f-3e6a-4fe0-a725-9442ca37a4d2.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
             "logo": "",
             "type": 0,
             "api": "",
@@ -1346,6 +1370,87 @@
           "Status": "Upcoming",
           "startTime": "2026/10/06 22:00:00 +0000",
           "endTime": "2026/10/07 01:00:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Live 1",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 13509,
+        "title": "Jordan vs Venezuela",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Jordan",
+          "teamB": "Venezuela",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/4771/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/4722/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/10/06 17:00:00 +0000",
+          "endTime": "2026/10/06 19:20:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Live 1",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 13510,
+        "title": "Russia vs Nigeria",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Russia",
+          "teamB": "Nigeria",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/4694/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/4785/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/10/06 16:00:00 +0000",
+          "endTime": "2026/10/06 18:20:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Live 1",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 13511,
+        "title": "Algeria vs Niger",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Algeria",
+          "teamB": "Niger",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/4691/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/8031/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/10/06 17:00:00 +0000",
+          "endTime": "2026/10/06 19:20:00 +0000"
         },
         "channels_data": [
           {
