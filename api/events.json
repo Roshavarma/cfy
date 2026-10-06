@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-06T23:10:45.554746",
+  "last_updated": "2026-10-06T23:20:45.061840",
   "event_count": 31,
   "events": {
     "events": [
@@ -679,15 +679,15 @@
           },
           {
             "title": "VIX SPANISH - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/gt1nxj3djc/out/v1/d2f281563daa4c8da8e2fd168552b757/cenc.mpd",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/p1yl4vuxaw/out/v1/5d42e59ea86d400e93409185d674194c/cenc.mpd",
             "logo": "",
             "type": 7,
-            "api": "5f082f4a9ee70cb568220c1e5b5e6a06:80c003cc9345710ab8023aae64ac95ed",
+            "api": "4e0a38ab0b5afcc1f38472bc3eeadb49:a2abd9135fb2c93e7aa8e817ce9d3e9c",
             "tokenApi": ""
           },
           {
             "title": "SPORT2 CZ - AQ",
-            "link": "https://dash2.antik.sk/stream/nvidia_sport_2/playlist_cenc.mpd",
+            "link": "https://dash2.antik.sk/stream/nvidia_sport2/playlist_cenc.mpd",
             "logo": "",
             "type": 7,
             "api": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
@@ -1959,8 +1959,24 @@
         },
         "channels_data": [
           {
-            "title": "HD QUALITY",
-            "link": "https://edgestream3.pro/hls/dazhfiach15.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://streame.center&Origin=https://streame.center",
+            "title": "Live 1",
+            "link": "https://chatgpt.hereisman.net/playlist/57675/load-playlist?&.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://gooz.aapmains.net/new-stream-embed/57675?ad=111&Origin=https://gooz.aapmains.net",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "HD SERVER ",
+            "link": "https://edgestream7.pro/hls/dazhfiach15.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://streame.center&Origin=https://streame.center",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "LOW QUALITY",
+            "link": "http://193.47.62.55/hls/roooaaa.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
             "logo": "",
             "type": 0,
             "api": "",
