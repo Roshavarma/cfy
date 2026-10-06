@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-06T18:01:19.444973",
+  "last_updated": "2026-10-06T18:10:43.490160",
   "event_count": 34,
   "events": {
     "events": [
@@ -705,8 +705,16 @@
         },
         "channels_data": [
           {
-            "title": "Live 1",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "title": "HD SERVER ",
+            "link": "https://www.rtmpcdn.com/live68514c29-bd04-4ef5-ac9f-9b2954f904b0.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "LOW SERVER ",
+            "link": "http://193.47.62.55/hls/hyyya.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
             "logo": "",
             "type": 0,
             "api": "",
@@ -748,14 +756,6 @@
             "tokenApi": ""
           },
           {
-            "title": "ALKASS ONE HD",
-            "link": "https://storage.googleapis.com/livealkass-eu/alkass1-p/main.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
             "title": "BAHRAIN SPORTS HD",
             "link": "https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8",
             "logo": "",
@@ -778,6 +778,22 @@
             "type": 0,
             "api": "",
             "tokenApi": ""
+          },
+          {
+            "title": "HD SERVER ",
+            "link": "https://www.rtmpcdn.com/live7da05a2a-f8b1-45d2-bbec-a2b3eeb639d8.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "LOW SERVER",
+            "link": "http://193.47.62.55/hls/krrrqqqqqq.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
           }
         ]
       },
@@ -792,7 +808,7 @@
           "teamAFlag": "https://img.sofascore.com/api/v1/team/4715/image",
           "teamBFlag": "https://img.sofascore.com/api/v1/team/4698/image",
           "eventName": "Football",
-          "isHot": "0",
+          "isHot": "1",
           "Status": "Upcoming",
           "startTime": "2026/10/06 18:45:00 +0000",
           "endTime": "2026/10/06 21:05:00 +0000"
@@ -817,6 +833,22 @@
           {
             "title": "beIN ARABIC HD",
             "link": "https://tmaxapp.site/8wirwjs76erftg/bein1ar.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "Live 1",
+            "link": "https://www.rtmpcdn.com/livefdcbe403-a08f-4b71-871f-a217dbd9f839.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "LOW SERVER",
+            "link": "http://193.47.62.44/hls/kokokoqQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
             "logo": "",
             "type": 0,
             "api": "",
@@ -872,6 +904,22 @@
             "type": 0,
             "api": "",
             "tokenApi": ""
+          },
+          {
+            "title": "Live 1",
+            "link": "https://www.rtmpcdn.com/livea919fe37-9699-425e-915e-b8ab112b05cd.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "LOW SERVER",
+            "link": "http://193.47.62.50/hls/kokokoqQQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
           }
         ]
       },
@@ -903,6 +951,22 @@
           {
             "title": "beIN ARABIC HD",
             "link": "https://tmaxapp.site/8wirwjs76erftg/bein5ar.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "Live 1",
+            "link": "https://www.rtmpcdn.com/livea89d4dbc-9c49-48bc-bc43-a9dfa156bee7.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "LOW SERVER",
+            "link": "http://193.47.62.41/hls/kokokoq.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
             "logo": "",
             "type": 0,
             "api": "",
@@ -946,6 +1010,22 @@
           {
             "title": "beIN ARABIC HD",
             "link": "https://tmaxapp.site/8wirwjs76erftg/bein6ar.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "Live 1",
+            "link": "https://www.rtmpcdn.com/live1d5933ed-9f98-4025-9db5-c69c61366a31.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "LOW SERVER",
+            "link": "http://193.47.62.41/hls/kokokoqQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
             "logo": "",
             "type": 0,
             "api": "",
@@ -1080,7 +1160,15 @@
         "channels_data": [
           {
             "title": "Live 1",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "link": "https://www.rtmpcdn.com/live348c9a96-6ab9-4bdb-b8ac-096aa82b67d1.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "LOW SERVER",
+            "link": "http://193.47.62.55/hls/zjjjaaaa.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
             "logo": "",
             "type": 0,
             "api": "",
