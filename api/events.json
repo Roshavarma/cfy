@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-07T07:20:49.514769",
-  "event_count": 34,
+  "last_updated": "2026-10-07T07:31:11.843562",
+  "event_count": 43,
   "events": {
     "events": [
       {
@@ -1253,6 +1253,249 @@
           "Status": "Upcoming",
           "startTime": "2026/10/09 18:00:00 +0000",
           "endTime": "2026/10/09 20:20:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Live 1",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 13536,
+        "title": "Indiana Pacers vs Minnesota Timberwolves",
+        "image": "",
+        "cat": "Basketball",
+        "eventInfo": {
+          "teamA": "Indiana Pacers",
+          "teamB": "Minnesota Timberwolves",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3419/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3426/image",
+          "eventName": "Basketball",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/10/07 23:00:00 +0000",
+          "endTime": "2026/10/08 01:30:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Live 1",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 13537,
+        "title": "Oklahoma City Thunder vs Milwaukee Bucks",
+        "image": "",
+        "cat": "Basketball",
+        "eventInfo": {
+          "teamA": "Oklahoma City Thunder",
+          "teamB": "Milwaukee Bucks",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3418/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3410/image",
+          "eventName": "Basketball",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/10/08 00:00:00 +0000",
+          "endTime": "2026/10/08 02:30:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Live 1",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 13538,
+        "title": "Chicago Bulls vs Phoenix Suns",
+        "image": "",
+        "cat": "Basketball",
+        "eventInfo": {
+          "teamA": "Chicago Bulls",
+          "teamB": "Phoenix Suns",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3409/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3416/image",
+          "eventName": "Basketball",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/10/08 00:00:00 +0000",
+          "endTime": "2026/10/08 02:30:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Live 1",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 13539,
+        "title": "Memphis Grizzlies vs Orlando Magic",
+        "image": "",
+        "cat": "Basketball",
+        "eventInfo": {
+          "teamA": "Memphis Grizzlies",
+          "teamB": "Orlando Magic",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3415/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3437/image",
+          "eventName": "Basketball",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/10/08 00:00:00 +0000",
+          "endTime": "2026/10/08 02:30:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Live 1",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 13540,
+        "title": "Portland Trail Blazers vs Golden State Warriors",
+        "image": "",
+        "cat": "Basketball",
+        "eventInfo": {
+          "teamA": "Portland Trail Blazers",
+          "teamB": "Golden State Warriors",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3414/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3428/image",
+          "eventName": "Basketball",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/10/08 02:00:00 +0000",
+          "endTime": "2026/10/08 04:30:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Live 1",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 13541,
+        "title": "Chicago White Sox vs Cleveland Guardians",
+        "image": "",
+        "cat": "Baseball",
+        "eventInfo": {
+          "teamA": "Chicago White Sox",
+          "teamB": "Cleveland Guardians",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3644/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3650/image",
+          "eventName": "Baseball",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/10/07 20:00:00 +0000",
+          "endTime": "2026/10/07 23:00:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Live 1",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 13542,
+        "title": "Atlanta Braves vs Los Angeles Dodgers",
+        "image": "",
+        "cat": "Baseball",
+        "eventInfo": {
+          "teamA": "Atlanta Braves",
+          "teamB": "Los Angeles Dodgers",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3656/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3638/image",
+          "eventName": "Baseball",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/10/07 22:00:00 +0000",
+          "endTime": "2026/10/08 01:00:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Live 1",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 13543,
+        "title": "New York Yankees vs Tampa Bay Rays",
+        "image": "",
+        "cat": "Baseball",
+        "eventInfo": {
+          "teamA": "New York Yankees",
+          "teamB": "Tampa Bay Rays",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3654/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3653/image",
+          "eventName": "Baseball",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/10/08 00:00:00 +0000",
+          "endTime": "2026/10/08 03:00:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Live 1",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 13544,
+        "title": "San Diego Padres vs Milwaukee Brewers",
+        "image": "",
+        "cat": "Baseball",
+        "eventInfo": {
+          "teamA": "San Diego Padres",
+          "teamB": "Milwaukee Brewers",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3636/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3630/image",
+          "eventName": "Baseball",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/10/08 02:00:00 +0000",
+          "endTime": "2026/10/08 05:00:00 +0000"
         },
         "channels_data": [
           {
