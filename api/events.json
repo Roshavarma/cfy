@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-09T08:30:56.060313",
+  "last_updated": "2026-10-09T08:40:47.680785",
   "event_count": 24,
   "events": {
     "events": [
@@ -20,6 +20,22 @@
           "endTime": "2026/10/09 17:00:37 +0000"
         },
         "channels_data": [
+          {
+            "title": "SKY Via APPLE TV",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ynyz9opirn/out/v1/4f4d924417634e4691dd03bcdc746a8e/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+            "logo": "",
+            "type": 7,
+            "api": "87beb3e460b209d2feb7d0fd845c1a7c:67fc1577e224a2c7cfcff63958b5a1eb",
+            "tokenApi": ""
+          },
+          {
+            "title": "APPLE TV - AQ",
+            "link": "https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/xsssh8tfml/out/v1/7c5ddb39486a4f6d8a522ecc17ca6396/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+            "logo": "",
+            "type": 7,
+            "api": "0719d16b103fbe93ef4ce07cd95f2b42:145206331e8f7da9d92350ef55ae1337",
+            "tokenApi": ""
+          },
           {
             "title": "FANCODE - AQ",
             "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
@@ -45,6 +61,22 @@
             "tokenApi": ""
           },
           {
+            "title": "DAZN SPORTS - AQ",
+            "link": "https://netanjahu.hls.st/t/0ba149f00a22b3f0c62cf053e7e70531/index.m3u8?|Referer=https://iplayer.is/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "SPORTSCAST - AQ",
+            "link": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/9673e0e4-2297-4a7c-bb48-2e1b5d9a62b3/master.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
             "title": "SKY MAIN EVENT",
             "link": "https://admin2.formaturamaxi.com.br/f1.m3u8",
             "logo": "",
@@ -54,15 +86,7 @@
           },
           {
             "title": "ELEVEN SPORTS HD",
-            "link": "https://netanjahu.hls.st/t/adb57217346ee4d7cbc072c94d0de6e5/index.m3u8?|Referer=https://iplayer.is/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "SKY SPORTS F1",
-            "link": "https://netanjahu.hls.st/t/a304b0a7b4765ba0312de32326c4a99c/index.m3u8?|Referer=https://iplayer.is/",
+            "link": "https://netanjahu.hls.st/t/dff0cbed613719657a5616734994ee0f/index.m3u8?|Referer=https://iplayer.is/",
             "logo": "",
             "type": 0,
             "api": "",
