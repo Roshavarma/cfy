@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-09T18:31:16.385194",
-  "event_count": 50,
+  "last_updated": "2026-10-09T18:40:58.567383",
+  "event_count": 48,
   "events": {
     "events": [
       {
@@ -816,116 +816,6 @@
         ]
       },
       {
-        "id": 13525,
-        "title": "Eintracht Braunschweig vs Holstein Kiel",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Eintracht Braunschweig",
-          "teamB": "Holstein Kiel",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/2557/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/2573/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/10/09 16:30:00 +0000",
-          "endTime": "2026/10/09 18:50:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "beIN ENGLISH - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-            "logo": "",
-            "type": 7,
-            "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
-            "tokenApi": ""
-          },
-          {
-            "title": "Live 1",
-            "link": "https://live.vivo155.com/live/sd-1-4566539.m3u8?txSecret=49977a71c11da1b442b2d7cef279ed6b&txTime=6AC92C0B|Referer=https://player.online909.com/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "ELEVEN SPORTS HD",
-            "link": "https://netanjahu.hls.st/t/5c48b54bd7261ed01899ce4d50d50a52/index.m3u8?|Referer=https://iplayer.is/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "SKY BUNDESLIGA HD",
-            "link": "https://netanjahu.hls.st/t/d0113ab78671009da6ccbf200c6a510e/index.m3u8?|Referer=https://iplayer.is/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 13526,
-        "title": "1. FC Heidenheim vs 1. FC Kaiserslautern",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "1. FC Heidenheim",
-          "teamB": "1. FC Kaiserslautern",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/5885/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/2675/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/10/09 16:30:00 +0000",
-          "endTime": "2026/10/09 18:50:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "beIN ENGLISH - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-            "logo": "",
-            "type": 7,
-            "api": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
-            "tokenApi": ""
-          },
-          {
-            "title": "Live 1",
-            "link": "https://live.vivo155.com/live/sd-1-4566573.m3u8?txSecret=660873481b9979f71df99ce89fe2bfe5&txTime=6AC92BD9|Referer=https://player.online909.com/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "SKY BUNDESLIGA HD",
-            "link": "https://netanjahu.hls.st/t/0e247eb71c68b5f63661bada01b036cb/index.m3u8?|Referer=https://iplayer.is/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "ELEVEN SPORTS HD",
-            "link": "https://netanjahu.hls.st/t/545ec85225a430bd4edbd889683568fa/index.m3u8?|Referer=https://iplayer.is/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "DAZN SPORTS HD",
-            "link": "https://netanjahu.hls.st/t/b27e6c9e56845fac2308cc4ebb3e80c3/index.m3u8?|Referer=https://iplayer.is/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
         "id": 13527,
         "title": "Sporting Braga vs Sporting CP",
         "image": "",
@@ -1048,11 +938,19 @@
             "tokenApi": ""
           },
           {
-            "title": "Caz\u00e9TV - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+            "title": "DAZN SPORTS HD ",
+            "link": "https://chatgpt.hereisman.net/playlist/57754/load-playlist?|Referer=https://gooz.aapmains.net ",
             "logo": "",
-            "type": 7,
-            "api": "34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "Live 1",
+            "link": "https://live.vivo155.com/live/hd-en-1-4566275.m3u8?txSecret=b589cee4da6c45d35e2c783632bcc14c&txTime=6AC9413D|Referer=https://player.online909.com/",
+            "logo": "",
+            "type": 0,
+            "api": "",
             "tokenApi": ""
           },
           {
@@ -1072,14 +970,6 @@
             "tokenApi": ""
           },
           {
-            "title": "DAZN SPORTS HD",
-            "link": "https://netanjahu.hls.st/t/13be5e28405a0e72b966f037c2c54294/index.m3u8?|Referer=https://iplayer.is/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
             "title": "SportKlub HD",
             "link": "https://netanjahu.hls.st/t/f1dec65a2c99e19668094a772c75549b/index.m3u8?|Referer=https://iplayer.is/",
             "logo": "",
@@ -1088,16 +978,8 @@
             "tokenApi": ""
           },
           {
-            "title": "Live 1",
-            "link": "https://chatgpt.hereisman.net/playlist/57754/load-playlist?|Referer=https://gooz.aapmains.net ",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
             "title": "HD SERVER ",
-            "link": "https://live.vivo155.com/live/hd-en-1-4566275.m3u8?txSecret=b589cee4da6c45d35e2c783632bcc14c&txTime=6AC9413D|Referer=https://player.online909.com/",
+            "link": "https://netanjahu.hls.st/t/13be5e28405a0e72b966f037c2c54294/index.m3u8?|Referer=https://iplayer.is/",
             "logo": "",
             "type": 0,
             "api": "",
@@ -1166,8 +1048,64 @@
         },
         "channels_data": [
           {
+            "title": "Caz\u00e9TV - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+            "logo": "",
+            "type": 7,
+            "api": "34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4",
+            "tokenApi": ""
+          },
+          {
             "title": "Live 1",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "link": "https://live.vivo155.com/live/hd-en-1-4550888.m3u8?txSecret=f1fec6f98867ceea3d33ca6dd06cf47a&txTime=6AC9477C|Referer=https://player.online909.com/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "DAZN SPORTS HD",
+            "link": "https://netanjahu.hls.st/t/4eb2245d294bf6f3ac76e4113b414c7b/index.m3u8?|Referer=https://iplayer.is/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "ELEVEN SPORTS HD",
+            "link": "https://netanjahu.hls.st/t/a48741aea15cbd796d1bf0ddddce1c8a/index.m3u8?|Referer=https://iplayer.is/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "SPORT TV HD",
+            "link": "https://netanjahu.hls.st/t/4efc704d1486e7f8f3a837c163aeac9c/index.m3u8?|Referer=https://iplayer.is/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "ARENA SPORTS HD",
+            "link": "https://netanjahu.hls.st/t/7ae091c8160bb04fa20c54b49b2f1467/index.m3u8?|Referer=https://iplayer.is/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "HD SERVER ",
+            "link": "https://edgestream6.pro/hls/dza5z8f69.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://streame.center&Origin=https://streame.center",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "LOW SERVER ",
+            "link": "http://193.47.62.44/hls/JEEE.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
             "logo": "",
             "type": 0,
             "api": "",
