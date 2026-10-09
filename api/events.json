@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-09T16:10:54.380599",
-  "event_count": 52,
+  "last_updated": "2026-10-09T16:21:00.780675",
+  "event_count": 51,
   "events": {
     "events": [
       {
@@ -757,57 +757,6 @@
         ]
       },
       {
-        "id": 13522,
-        "title": "Al-Kholood vs Al-Qadsiah",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Al-Kholood",
-          "teamB": "Al-Qadsiah",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/269199/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/56027/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Finish",
-          "startTime": "2026/10/09 13:50:00 +0000",
-          "endTime": "2026/10/09 16:10:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "FOX DEPORTES - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-            "logo": "",
-            "type": 7,
-            "api": "d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811",
-            "tokenApi": ""
-          },
-          {
-            "title": "SporTV BR - AQ",
-            "link": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/6otiglnptp/out/v1/add7499679b0422cb6791f7701f95ecc/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-            "logo": "",
-            "type": 7,
-            "api": "902e5ec0e3d05e665daa32fc23f4f59e:7b2322a273843921a43e2c61dac7cae3",
-            "tokenApi": ""
-          },
-          {
-            "title": "Live 1",
-            "link": "https://live.vivo155.com/live/sd-1-4599609.m3u8?txSecret=92ce0fdac193ff02b06303e2b69265e5&txTime=6AC906C9|Referer=https://player.online909.com/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "LOW SERVER",
-            "link": "http://193.47.62.44/hls/seeeaaaaaqqqqqq.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
         "id": 13523,
         "title": "Al-Fateh vs Al-Ahli",
         "image": "",
@@ -830,6 +779,22 @@
             "logo": "",
             "type": 7,
             "api": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae",
+            "tokenApi": ""
+          },
+          {
+            "title": "DAZN SPORTS - AQ",
+            "link": "https://netanjahu.hls.st/t/ac2c1e0edfe104a579be1829cbe82ac3/index.m3u8?|Referer=https://iplayer.is/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "Sport TV HD",
+            "link": "https://netanjahu.hls.st/t/a8994d102c6ae727180b65e4460b0b02/index.m3u8?|Referer=https://iplayer.is/",
+            "logo": "",
+            "type": 0,
+            "api": "",
             "tokenApi": ""
           },
           {
