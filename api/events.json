@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-09T15:31:21.311186",
+  "last_updated": "2026-10-09T15:40:56.343254",
   "event_count": 52,
   "events": {
     "events": [
@@ -432,7 +432,7 @@
           "teamAFlag": "https://img.sofascore.com/api/v1/team/187765/image",
           "teamBFlag": "https://img.sofascore.com/api/v1/team/187760/image",
           "eventName": "Cricket",
-          "isHot": "1",
+          "isHot": "0",
           "Status": "Live",
           "startTime": "2026/10/09 13:30:14 +0000",
           "endTime": "2026/10/09 17:59:19 +0000"
@@ -515,10 +515,10 @@
         "channels_data": [
           {
             "title": "WILLOW - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/baf1i3t0be/out/v1/4682e81704e242fd9bfb36f56b6413e7/cenc.mpd",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/itsuxjcvc3/out/v1/7652799de8394e77818b1f2015d98dd2/cenc.mpd",
             "logo": "",
             "type": 7,
-            "api": "9dd245fb23d190ca8222a4d94476ab40:c8cbd313661d9ab75603ce59a0c974b0",
+            "api": "0c738e45889502a8a47674830bf844ff:50b7002a7f3f2a323d896d738777acf0",
             "tokenApi": ""
           },
           {
@@ -531,10 +531,10 @@
           },
           {
             "title": "WILLOW - ALT",
-            "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/baf1i3t0be/out/v1/4682e81704e242fd9bfb36f56b6413e7/cenc.mpd",
+            "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/itsuxjcvc3/out/v1/7652799de8394e77818b1f2015d98dd2/cenc.mpd",
             "logo": "",
             "type": 7,
-            "api": "9dd245fb23d190ca8222a4d94476ab40:c8cbd313661d9ab75603ce59a0c974b0",
+            "api": "0c738e45889502a8a47674830bf844ff:50b7002a7f3f2a323d896d738777acf0",
             "tokenApi": ""
           },
           {
@@ -589,19 +589,19 @@
             "tokenApi": ""
           },
           {
-            "title": "WILLOW HD",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
-            "tokenApi": ""
-          },
-          {
             "title": "TAPMAD - AQ",
             "link": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8",
             "logo": "",
             "type": 0,
             "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "WILLOW HD",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
             "tokenApi": ""
           },
           {
@@ -1189,8 +1189,8 @@
         },
         "channels_data": [
           {
-            "title": "Live 1",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "title": "HD QUALITY",
+            "link": "https://edgestream4.pro/hls/wfazgsqtrezu66.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://streame.center&Origin=https://streame.center",
             "logo": "",
             "type": 0,
             "api": "",
