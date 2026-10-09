@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-09T18:20:52.060231",
+  "last_updated": "2026-10-09T18:31:16.385194",
   "event_count": 50,
   "events": {
     "events": [
@@ -1034,7 +1034,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/2534/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/10/09 18:30:00 +0000",
           "endTime": "2026/10/09 20:50:00 +0000"
         },
@@ -1056,14 +1056,6 @@
             "tokenApi": ""
           },
           {
-            "title": "Live 1",
-            "link": "https://chatgpt.hereisman.net/playlist/57754/load-playlist?|Referer=https://gooz.aapmains.net ",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
             "title": "SKY BUNDESLIGA HD",
             "link": "https://netanjahu.hls.st/t/e964390a6fdf1f09ab01d13774be7661/index.m3u8?|Referer=https://iplayer.is/",
             "logo": "",
@@ -1082,6 +1074,22 @@
           {
             "title": "DAZN SPORTS HD",
             "link": "https://netanjahu.hls.st/t/13be5e28405a0e72b966f037c2c54294/index.m3u8?|Referer=https://iplayer.is/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "SportKlub HD",
+            "link": "https://netanjahu.hls.st/t/f1dec65a2c99e19668094a772c75549b/index.m3u8?|Referer=https://iplayer.is/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "Live 1",
+            "link": "https://chatgpt.hereisman.net/playlist/57754/load-playlist?|Referer=https://gooz.aapmains.net ",
             "logo": "",
             "type": 0,
             "api": "",
