@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-09T19:01:24.591980",
-  "event_count": 48,
+  "last_updated": "2026-10-09T19:10:53.680441",
+  "event_count": 47,
   "events": {
     "events": [
       {
@@ -833,8 +833,56 @@
         },
         "channels_data": [
           {
+            "title": "D SPORTS - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/gru-nitro/live/clients/dash/enc/rgilyeubta/out/v1/09a67027b18f4fd78aaa3794a2aacfe8/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+            "logo": "",
+            "type": 7,
+            "api": "03f12d6a3dbfd3a6fa7dd7f6417e0c11:ea07b87acdf2e45be824cde4a1cf3504",
+            "tokenApi": ""
+          },
+          {
+            "title": "SportDigital Fussball",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+            "logo": "",
+            "type": 7,
+            "api": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
+            "tokenApi": ""
+          },
+          {
+            "title": "SPORT TV HD",
+            "link": "https://netanjahu.hls.st/t/7ea2782b12ac75e8cabf272cec0d2f3f/index.m3u8?|Referer=https://iplayer.is/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
             "title": "Live 1",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "link": "https://live.vivo155.com/live/sd-1-4578216.m3u8?txSecret=d17010b034509ae97e465b818c1dbc61&txTime=6AC94CF8|Referer=https://player.online909.com/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "ELEVEN SPORTS HD",
+            "link": "https://netanjahu.hls.st/t/970053a950a9d07d6c68bea3c6d3c747/index.m3u8?|Referer=https://iplayer.is/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "ZIGGO SPORTS HD",
+            "link": "https://netanjahu.hls.st/t/9f63821aa090e2482aa4b19fdda19872/index.m3u8?|Referer=https://iplayer.is/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "LOW SERVER ",
+            "link": "http://193.47.62.44/hls/GTGTGTGTQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
             "logo": "",
             "type": 0,
             "api": "",
@@ -862,49 +910,6 @@
           {
             "title": "LOW SERVER",
             "link": "http://193.47.62.50/hls/DADADAAAAAQQQQQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 13529,
-        "title": "Galatasaray vs Kasmpasa",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Galatasaray",
-          "teamB": "Kas\u0131mpa\u015fa",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/3061/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/6063/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/10/09 17:00:00 +0000",
-          "endTime": "2026/10/09 19:20:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "Live 1",
-            "link": "https://live.vivo155.com/live/sd-1-4581326.m3u8?txSecret=5fe58238ebecfef750efd7e1973297f1&txTime=6AC93436|Referer=https://player.online909.com/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "Sport TV HD",
-            "link": "https://netanjahu.hls.st/t/5f4ae3125458e2890c1a2a5acda6e1b2/index.m3u8?|Referer=https://iplayer.is/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "LOW SERVER",
-            "link": "http://193.47.62.59/hls/KEEEAAAAAAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
             "logo": "",
             "type": 0,
             "api": "",
@@ -1171,14 +1176,6 @@
             "tokenApi": ""
           },
           {
-            "title": "SKY PREMIER HD",
-            "link": "https://netanjahu.hls.st/t/d4358f0a4fececbf8b25b257e7597ddc/index.m3u8?|Referer=https://iplayer.is/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
             "title": "Live 1",
             "link": "https://live.vivo155.com/live/sd-1-4563608.m3u8?txSecret=49830696dc65dea65a9dab1504445094&txTime=6AC94C8A|Referer=https://player.online909.com/",
             "logo": "",
@@ -1288,6 +1285,14 @@
           "endTime": "2026/10/10 02:30:00 +0000"
         },
         "channels_data": [
+          {
+            "title": "Live 1",
+            "link": "https://netanjahu.hls.st/t/600a715349c29c77274c50788a4ae9fe/index.m3u8?|Referer=https://iplayer.is/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
           {
             "title": "HD QUALITY",
             "link": "https://edgestream4.pro/hls/wfazgsqtrezu66.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://streame.center&Origin=https://streame.center",
