@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-09T18:01:25.648893",
+  "last_updated": "2026-10-09T18:10:52.251784",
   "event_count": 50,
   "events": {
     "events": [
@@ -774,14 +774,6 @@
         },
         "channels_data": [
           {
-            "title": "FOX DEPORTES - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-            "logo": "",
-            "type": 7,
-            "api": "d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811",
-            "tokenApi": ""
-          },
-          {
             "title": "SporTV BR - AQ",
             "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
             "logo": "",
@@ -790,8 +782,24 @@
             "tokenApi": ""
           },
           {
+            "title": "FOX SOCCER+ HD",
+            "link": "https://chatgpt.hereisman.net/playlist/57752/load-playlist?|Referer=https://gooz.aapmains.net ",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
             "title": "Live 1",
             "link": "https://live.vivo155.com/live/sd-1-4599610.m3u8?txSecret=ceaf29fb8c400b715ca98f429a366a9d&txTime=6AC93E82|Referer=https://player.online909.com/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "Sport TV HD",
+            "link": "https://netanjahu.hls.st/t/327ea82da0a112e2c949e086b2fe8daf/index.m3u8?|Referer=https://iplayer.is/",
             "logo": "",
             "type": 0,
             "api": "",
@@ -1161,6 +1169,46 @@
             "logo": "",
             "type": 7,
             "api": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
+            "tokenApi": ""
+          },
+          {
+            "title": "Live 1",
+            "link": "https://live.vivo155.com/live/sd-1-4552210.m3u8?txSecret=f770dbaa73614cacc59e758e30cca690&txTime=6AC9402D|Referer=https://player.online909.com/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "DAZN SPORTS HD ",
+            "link": "https://netanjahu.hls.st/t/39321dfccd089b97048a98d725265ae5/index.m3u8?|Referer=https://iplayer.is/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "ESPN SPORTS HD",
+            "link": "https://netanjahu.hls.st/t/0290a8fda865e086cf5f82db3cc5376b/index.m3u8?|Referer=https://iplayer.is/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "ARENA SPORTS HD",
+            "link": "https://netanjahu.hls.st/t/106e7b6e2b0ab9a8034dd88c7259bf51/index.m3u8?|Referer=https://iplayer.is/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "LOW SERVER ",
+            "link": "http://193.47.62.50/hls/v333QQQQQQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+            "logo": "",
+            "type": 0,
+            "api": "",
             "tokenApi": ""
           }
         ]
