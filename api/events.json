@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-10T16:31:04.490417",
+  "last_updated": "2026-10-10T16:40:51.174732",
   "event_count": 44,
   "events": {
     "events": [
@@ -857,23 +857,7 @@
         },
         "channels_data": [
           {
-            "title": "FUBO SPORTS - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-            "logo": "",
-            "type": 7,
-            "api": "dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f",
-            "tokenApi": ""
-          },
-          {
-            "title": "NBC SPORTS - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dx5hfbpk7u/out/v1/c14185a397544650b9761d43ad2e8e91/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-            "logo": "",
-            "type": 7,
-            "api": "36a385124dcdfb2f0969935065e03afa:ccecd65514dff22eae493b975ccf9a9e",
-            "tokenApi": ""
-          },
-          {
-            "title": "SKY SPORTS EPL",
+            "title": "SKY SPORTS EPL - AQ",
             "link": "https://bl.rutube.ru/livestream/e5bacac3b8e730791d4cab20ae81cd8f/index.m3u8?s=Dxx13S3dlOjavbRFqRtQ6g&e=2075285630&scheme=|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0",
             "logo": "",
             "type": 0,
@@ -881,7 +865,7 @@
             "tokenApi": ""
           },
           {
-            "title": "NBC SPORTS HD",
+            "title": "PEACOCK TV HD",
             "link": "https://chatgpt.hereisman.net/playlist/57797/load-playlist?|Referer=https://gooz.aapmains.net",
             "logo": "",
             "type": 0,
@@ -1023,16 +1007,16 @@
             "tokenApi": ""
           },
           {
-            "title": "Live 1",
-            "link": "https://live.vivo155.com/live/hd-en-1-4549097.m3u8?txSecret=13060917e228233e5d9465ca3a0a8fe8&txTime=6ACA74E9|Referer=https://player.online909.com/",
+            "title": "PARAMOUNT+ HD",
+            "link": "https://netanjahu.hls.st/t/10a77df36682030bfbe76b8fe0938b92/index.m3u8?|Referer=https://iplayer.is/",
             "logo": "",
             "type": 0,
             "api": "",
             "tokenApi": ""
           },
           {
-            "title": "PARAMOUNT+ HD",
-            "link": "https://netanjahu.hls.st/t/10a77df36682030bfbe76b8fe0938b92/index.m3u8?|Referer=https://iplayer.is/",
+            "title": "Live 1",
+            "link": "https://live.vivo155.com/live/hd-en-1-4549097.m3u8?txSecret=13060917e228233e5d9465ca3a0a8fe8&txTime=6ACA74E9|Referer=https://player.online909.com/",
             "logo": "",
             "type": 0,
             "api": "",
@@ -1122,19 +1106,11 @@
             "tokenApi": ""
           },
           {
-            "title": "Caz\u00e9TV - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+            "title": "ESPN DEPORTES HD",
+            "link": "https://chatgpt.hereisman.net/playlist/57816/load-playlist?|Referer=https://gooz.aapmains.net",
             "logo": "",
-            "type": 7,
-            "api": "34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4",
-            "tokenApi": ""
-          },
-          {
-            "title": "ESPN SPORTS - AQ",
-            "link": "https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(62567d5c-295c-4ffd-ac7e-c9749e874884)/master.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "a81ee4a694fecd6aa8a682e5024b313c:6d15568e1dab59e7202ae12e71505185",
+            "type": 0,
+            "api": "",
             "tokenApi": ""
           },
           {
@@ -1172,6 +1148,14 @@
           {
             "title": "HD SERVER ",
             "link": "https://netanjahu.hls.st/t/19feb94bcada9889f22c573a5b57a345/index.m3u8?|Referer=https://iplayer.is/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "Live 2",
+            "link": "https://www.rtmpcdn.com/live/275da0d5-95c3-4151-af22-781d4a602b26.m3u8|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
             "logo": "",
             "type": 0,
             "api": "",
