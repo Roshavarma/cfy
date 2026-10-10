@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-10T08:50:57.580821",
+  "last_updated": "2026-10-10T09:01:39.503223",
   "event_count": 77,
   "events": {
     "events": [
@@ -15,7 +15,7 @@
           "teamBFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6U1hs_95YIb02AiDL1JAgkqMNrA1SkPMUatqqPsO2ZqtNZdmj79TQ71k&s=10",
           "eventName": "Motorsports",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/10/10 09:00:06 +0000",
           "endTime": "2026/10/10 17:00:14 +0000"
         },
@@ -54,15 +54,7 @@
           },
           {
             "title": "DAZN SPORTS - AQ",
-            "link": "https://netanjahu.hls.st/t/0ba149f00a22b3f0c62cf053e7e70531/index.m3u8?|Referer=https://iplayer.is/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "SPORTSCAST - AQ",
-            "link": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/ba250ab7-42a8-4b81-8075-3d662b83eb51master.m3u8",
+            "link": "https://netanjahu.hls.st/t/c1dba79757f1e493804b93b793f031ca/index.m3u8?|Referer=https://iplayer.is/",
             "logo": "",
             "type": 0,
             "api": "",
@@ -78,7 +70,7 @@
           },
           {
             "title": "ELEVEN SPORTS HD",
-            "link": "https://netanjahu.hls.st/t/dff0cbed613719657a5616734994ee0f/index.m3u8?|Referer=https://iplayer.is/",
+            "link": "https://netanjahu.hls.st/t/e8970a1d758868b392308ce095caa041/index.m3u8?|Referer=https://iplayer.is/",
             "logo": "",
             "type": 0,
             "api": "",
@@ -86,7 +78,7 @@
           },
           {
             "title": "RUSSIA FEED",
-            "link": "https://bl.rutube.ru/livestream/6f720c31786abeb7fd11f847db8a2084/index.m3u8?s=XHCTvH12_MBnBEkLnZ-k5g&e=1791182503&scheme=https|user-agent=Mozilla",
+            "link": "https://bl.rutube.ru/livestream/4883ca1f298abb3a17eae58fc0532c89/index.m3u8?s=o6oFOpHt6HBBUneuoZAuog&e=1791709072&scheme=https|user-agent=Mozilla",
             "logo": "",
             "type": 0,
             "api": "",
@@ -102,7 +94,7 @@
           },
           {
             "title": "LOW SERVER",
-            "link": "http://193.47.62.55/hls/NNNN.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+            "link": "http://193.47.62.55/hls/NNNN.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
             "logo": "",
             "type": 0,
             "api": "",
@@ -398,6 +390,14 @@
           {
             "title": "TAPMAD - AQ",
             "link": "https://saseries.akamaized.net/hls/live/2110097/FiFa-3827e1/master.m3u8|referer=https://tapmad.com/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "FOX CRICKET HD",
+            "link": "https://papacito.cfd/m3u/441307/live.m3u8",
             "logo": "",
             "type": 0,
             "api": "",
@@ -725,6 +725,14 @@
           {
             "title": "T SPORTS HD",
             "link": "http://103.151.60.162:2122/play/a030/index.m3u8?hls",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "WILLOW HD",
+            "link": "https://papacito.cfd/m3u/2161753/live.m3u8",
             "logo": "",
             "type": 0,
             "api": "",
