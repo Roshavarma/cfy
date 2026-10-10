@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-10T16:20:49.817031",
-  "event_count": 47,
+  "last_updated": "2026-10-10T16:31:04.490417",
+  "event_count": 44,
   "events": {
     "events": [
       {
@@ -784,7 +784,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/2674/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/10/10 16:30:00 +0000",
           "endTime": "2026/10/10 18:50:00 +0000"
         },
@@ -798,11 +798,43 @@
             "tokenApi": ""
           },
           {
-            "title": "ESPN SPORTS - AQ",
-            "link": "https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(a38d1401-ee01-4802-812a-7cb460c9832c)/master.mpd",
+            "title": "ELEVEN SPORTS HD",
+            "link": "https://netanjahu.hls.st/t/6402666dd553f21b41d95420cedeaa0d/index.m3u8?|Referer=https://iplayer.is/",
             "logo": "",
-            "type": 7,
-            "api": "8a60d7889ff126ee1895335e92254f8e:de1b0ce19fa804a1c473eb8ef2d5cf6d",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "SKY BUNDESLIGA HD",
+            "link": "https://netanjahu.hls.st/t/bde91a6380d382759d7c73a6ecdc5b6c/index.m3u8?|Referer=https://iplayer.is/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "Live 1",
+            "link": "https://live.vivo155.com/live/hd-en-1-4566277.m3u8?txSecret=f7f9710bdb86f7bcf306c6a0aef153d1&txTime=6ACA7871|Referer=https://player.online909.com/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "DAZN SPORTS HD",
+            "link": "https://netanjahu.hls.st/t/4f03782ad3264b57e622c688c4faf14f/index.m3u8?|Referer=https://iplayer.is/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "LOW SERVER ",
+            "link": "http://193.47.62.41/hls/F444AAAAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+            "logo": "",
+            "type": 0,
+            "api": "",
             "tokenApi": ""
           }
         ]
@@ -819,7 +851,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/33/image",
           "eventName": "Football",
           "isHot": "1",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/10/10 16:30:00 +0000",
           "endTime": "2026/10/10 18:50:00 +0000"
         },
@@ -849,11 +881,59 @@
             "tokenApi": ""
           },
           {
-            "title": "ESPN SPORTS - AQ",
-            "link": "https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(8757cb0a-3584-40cd-901e-8937c7deba83)/master.mpd",
+            "title": "NBC SPORTS HD",
+            "link": "https://chatgpt.hereisman.net/playlist/57797/load-playlist?|Referer=https://gooz.aapmains.net",
             "logo": "",
-            "type": 7,
-            "api": "cb004fb100bd92f23793562891e3236b:b3e4e74ae2080b137e68bbd0ef8a7e05",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "SKY SPORTS - AQ",
+            "link": "https://nexulith.s3.us-east-1.amazonaws.com/manutd.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "STAN SPORTS HD",
+            "link": "https://netanjahu.hls.st/t/f9a75e2d8e18a12ae61f0169b8d18491/index.m3u8?|Referer=https://iplayer.is/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "Live 1",
+            "link": "https://live.vivo155.com/live/hd-en-1-4558593.m3u8?txSecret=f2e7b39425fcde6e5f5821c47febab0c&txTime=6ACA78A0|Referer=https://player.online909.com/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "CANAL+ EXTRA HD",
+            "link": "https://netanjahu.hls.st/t/1e9943f2ec1795116abf67594ca39b90/index.m3u8?|Referer=https://iplayer.is/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "ARENA SPORTS HD",
+            "link": "https://netanjahu.hls.st/t/374bedfc8159d3b689a2c99ea9d23c23/index.m3u8?|Referer=https://iplayer.is/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "LOW SERVER",
+            "link": "http://193.47.62.44/hls/G333AAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+            "logo": "",
+            "type": 0,
+            "api": "",
             "tokenApi": ""
           }
         ]
@@ -959,6 +1039,14 @@
             "tokenApi": ""
           },
           {
+            "title": "ARENA SPORTS HD",
+            "link": "https://chatgpt.hereisman.net/playlist/57782/load-playlist?&.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://gooz.aapmains.net/new-stream-embed/57782?ad=111&Origin=https://gooz.aapmains.net",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
             "title": "ELEVEN SPORTS HD",
             "link": "https://netanjahu.hls.st/t/93d14e7846ee29d7977edbfb2d6deccd/index.m3u8?|Referer=https://iplayer.is/",
             "logo": "",
@@ -969,14 +1057,6 @@
           {
             "title": "SPORT TV HD",
             "link": "https://netanjahu.hls.st/t/df74d8eaa9503265f4ddb3bd047c851c/index.m3u8?|Referer=https://iplayer.is/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "Live 2",
-            "link": "https://chatgpt.hereisman.net/playlist/57782/load-playlist?&.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://gooz.aapmains.net/new-stream-embed/57782?ad=111&Origin=https://gooz.aapmains.net",
             "logo": "",
             "type": 0,
             "api": "",
@@ -1001,73 +1081,6 @@
         ]
       },
       {
-        "id": 13573,
-        "title": "Deportivo Alaves vs Atletico Madrid",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Deportivo Alav\u00e9s",
-          "teamB": "Atl\u00e9tico Madrid",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/2885/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/2836/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/10/10 14:15:00 +0000",
-          "endTime": "2026/10/10 16:35:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "DAZN SPORTS HD",
-            "link": "https://netanjahu.hls.st/t/8864c3ac8f3969acbe2472ab7dd4064e/index.m3u8?|Referer=https://iplayer.is/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "ZIGGO SPORTS HD",
-            "link": "https://netanjahu.hls.st/t/da383155e526d4379428ddea6b584400/index.m3u8?|Referer=https://iplayer.is/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "ARENA SPORTS HD",
-            "link": "https://netanjahu.hls.st/t/2453b138295ab518df047052051a7915/index.m3u8?|Referer=https://iplayer.is/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "Live 1",
-            "link": "https://live.vivo155.com/live/hd-en-1-4565432.m3u8?txSecret=033e8a0b8460c7de5f6e3d6a97007a3e&txTime=6ACA5C65|Referer=https://player.online909.com/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "HD SERVER ",
-            "link": "https://www.rtmpcdn.com/live/c0715e6e-7599-41e3-bcc4-23f9f7a241e8.m3u8|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "LOW SERVER ",
-            "link": "http://193.47.62.41/hls/ORRRQQQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
         "id": 13574,
         "title": "FC Barcelona vs Getafe",
         "image": "",
@@ -1079,7 +1092,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/2859/image",
           "eventName": "Football",
           "isHot": "1",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/10/10 16:30:00 +0000",
           "endTime": "2026/10/10 18:50:00 +0000"
         },
@@ -1474,33 +1487,6 @@
         ]
       },
       {
-        "id": 13598,
-        "title": "Go Ahead Eagles vs Sparta Rotterdam",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Go Ahead Eagles",
-          "teamB": "Sparta Rotterdam",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/2979/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/2960/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/10/10 14:30:00 +0000",
-          "endTime": "2026/10/10 16:50:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "LOW SERVER",
-            "link": "http://193.47.62.41/hls/ORRRQQQQQQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
         "id": 13599,
         "title": "Feyenoord vs AZ Alkmaar",
         "image": "",
@@ -1647,7 +1633,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/2850/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/10/10 16:30:00 +0000",
           "endTime": "2026/10/10 18:50:00 +0000"
         },
@@ -1655,41 +1641,6 @@
           {
             "title": "Live 1",
             "link": "http://193.47.62.41/hls/F444AAAAAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 13606,
-        "title": "AD Ceuta vs CE Sabadell",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "AD Ceuta",
-          "teamB": "CE Sabadell",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/2869/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/24335/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/10/10 14:15:00 +0000",
-          "endTime": "2026/10/10 16:35:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "Live 1",
-            "link": "https://live.vivo155.com/live/sd-1-4567306.m3u8?txSecret=d2565d1df25b530eba61c72995cd3db9&txTime=6ACA5D3A|Referer=https://player.online909.com/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "LOW SERVER ",
-            "link": "http://193.47.62.41/hls/ORRRQQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
             "logo": "",
             "type": 0,
             "api": "",
