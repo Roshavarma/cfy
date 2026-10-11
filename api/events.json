@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-11T15:41:01.566106",
-  "event_count": 55,
+  "last_updated": "2026-10-11T15:50:47.268820",
+  "event_count": 54,
   "events": {
     "events": [
       {
@@ -797,49 +797,6 @@
         ]
       },
       {
-        "id": 13623,
-        "title": "1. FC Koln vs Borussia Mgladbach",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "1. FC K\u00f6ln",
-          "teamB": "Borussia M'gladbach",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/2671/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/2527/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/10/11 13:30:00 +0000",
-          "endTime": "2026/10/11 15:50:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "Caz\u00e9TV - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-            "logo": "",
-            "type": 7,
-            "api": "34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4",
-            "tokenApi": ""
-          },
-          {
-            "title": "HD SERVER ",
-            "link": "https://www.rtmpcdn.com/live/730724ec-614f-4553-ad93-463f03e2baea.m3u8|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "LOW SERVER",
-            "link": "http://193.47.62.59/hls/NCCCAAQQA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
         "id": 13624,
         "title": "SC Freiburg vs FC Schalke 04",
         "image": "",
@@ -862,6 +819,30 @@
             "logo": "",
             "type": 7,
             "api": "902e5ec0e3d05e665daa32fc23f4f59e:7b2322a273843921a43e2c61dac7cae3",
+            "tokenApi": ""
+          },
+          {
+            "title": "ELEVEN SPORTS HD",
+            "link": "https://netanjahu.hls.st/t/ea8cbede387e35fa66df044495a45d5e/index.m3u8?|Referer=https://iplayer.is/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "ARENA SPORTS HD",
+            "link": "https://netanjahu.hls.st/t/2100d4b7ad2afe661d9d67d792dc4a95/index.m3u8?|Referer=https://iplayer.is/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "SportKlub HD",
+            "link": "https://netanjahu.hls.st/t/cc2685bc6945df6f3c2e8cd57cb50ed8/index.m3u8?|Referer=https://iplayer.is/",
+            "logo": "",
+            "type": 0,
+            "api": "",
             "tokenApi": ""
           },
           {
@@ -956,8 +937,24 @@
             "tokenApi": ""
           },
           {
+            "title": "ASTRO EPL HD",
+            "link": "https://live2.dyrur1.com/live/63kv9igel83tx7e_b6199620501db0795e86f40ffefe3cc4_540p.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
             "title": "HD SERVER ",
             "link": "https://edgestream7.pro/hls/24SDAZFcsqnj24.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://streame.center&Origin=https://streame.center",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "Live 2",
+            "link": "https://www.rtmpcdn.com/live/fc18c739-3bd3-4753-b201-744fffa4b3bb.m3u8|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
             "logo": "",
             "type": 0,
             "api": "",
@@ -1139,6 +1136,46 @@
             "logo": "",
             "type": 7,
             "api": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
+            "tokenApi": ""
+          },
+          {
+            "title": "PARAMOUNT+ HD",
+            "link": "https://netanjahu.hls.st/t/63885dc3c5deca6ad421caa860ed8387/index.m3u8?|Referer=https://iplayer.is/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "ZIGGO SPORT HD ",
+            "link": "https://netanjahu.hls.st/t/663981a2b8c3dec58312e40dc2cee946/index.m3u8?|Referer=https://iplayer.is/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "ELEVEN SPORTS HD",
+            "link": "https://netanjahu.hls.st/t/a3caec5ad4f3dc40c90fce678512928e/index.m3u8?|Referer=https://iplayer.is/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "HD SERVER ",
+            "link": "https://netanjahu.hls.st/t/dd11234465896664ec405fee0b019c26/index.m3u8?|Referer=https://iplayer.is/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "LOW SERVER",
+            "link": "http://193.47.62.56/hls/GLLLAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+            "logo": "",
+            "type": 0,
+            "api": "",
             "tokenApi": ""
           }
         ]
@@ -1690,7 +1727,7 @@
         "channels_data": [
           {
             "title": "Live 1",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "link": "http://193.47.62.56/hls/GLLLAAAQQQ.m3u8|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
             "logo": "",
             "type": 0,
             "api": "",
