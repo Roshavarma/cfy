@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-11T16:01:26.173612",
-  "event_count": 54,
+  "last_updated": "2026-10-11T16:20:51.045684",
+  "event_count": 51,
   "events": {
     "events": [
       {
@@ -15,9 +15,9 @@
           "teamBFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6U1hs_95YIb02AiDL1JAgkqMNrA1SkPMUatqqPsO2ZqtNZdmj79TQ71k&s=10",
           "eventName": "Motorsports",
           "isHot": "0",
-          "Status": "Finish",
-          "startTime": "2026/10/11 11:55:55 +0000",
-          "endTime": "2026/10/11 15:00:08 +0000"
+          "Status": "Upcoming",
+          "startTime": "2026/10/23 17:30:01 +0000",
+          "endTime": "2026/10/24 00:00:04 +0000"
         },
         "channels_data": [
           {
@@ -662,18 +662,26 @@
           },
           {
             "title": "TAPMAD - AQ",
-            "link": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8",
+            "link": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad4/master.m3u8|referer=https://tapmad.com/",
             "logo": "",
             "type": 0,
             "api": "",
             "tokenApi": ""
           },
           {
-            "title": "WILLOW HD",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
+            "title": "TAMASHA - AQ ",
+            "link": "https://awscdn1.tamashaweb.com/out/v1/ce90227a71444af18fddc88750c08f76/index.m3u8?start=1791546600",
             "logo": "",
-            "type": 7,
-            "api": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "PTV SPORTS HD",
+            "link": "https://baila-lentoo.pages.dev/all-sp/809398.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
             "tokenApi": ""
           }
         ]
@@ -1131,14 +1139,6 @@
             "tokenApi": ""
           },
           {
-            "title": "SPORT1 CZ - AQ ",
-            "link": "https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
-            "tokenApi": ""
-          },
-          {
             "title": "PARAMOUNT+ HD",
             "link": "https://netanjahu.hls.st/t/63885dc3c5deca6ad421caa860ed8387/index.m3u8?|Referer=https://iplayer.is/",
             "logo": "",
@@ -1164,7 +1164,7 @@
           },
           {
             "title": "HD SERVER ",
-            "link": "https://netanjahu.hls.st/t/dd11234465896664ec405fee0b019c26/index.m3u8?|Referer=https://iplayer.is/",
+            "link": "https://www.rtmpcdn.com/live/e55e8dcd-4905-460b-b048-9ea63a921a1a.m3u8",
             "logo": "",
             "type": 0,
             "api": "",
@@ -1200,65 +1200,6 @@
           {
             "title": "Live 1",
             "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 13639,
-        "title": "Real Sociedad vs Deportivo de A Coruna",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Real Sociedad",
-          "teamB": "Deportivo de A Coru\u00f1a",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/2824/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/2832/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/10/11 14:15:00 +0000",
-          "endTime": "2026/10/11 16:35:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "PREMIER SPORTS - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-            "logo": "",
-            "type": 7,
-            "api": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19",
-            "tokenApi": ""
-          },
-          {
-            "title": "beIN ENGLISH - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-            "logo": "",
-            "type": 7,
-            "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
-            "tokenApi": ""
-          },
-          {
-            "title": "D SPORTS - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-            "logo": "",
-            "type": 7,
-            "api": "f836853d8eac19446ed9535f5fc568b1:b3bc5ef00602b29abac7e482d3d9fbf3",
-            "tokenApi": ""
-          },
-          {
-            "title": "ESPN DEPORTES HD",
-            "link": "https://chatgpt.hereisman.net/playlist/57920/load-playlist?|Referer=https://gooz.aapmains.net ",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "LOW SERVER",
-            "link": "http://193.47.62.59/hls/UFFFAAAAAAQQQA.m3u8|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
             "logo": "",
             "type": 0,
             "api": "",
@@ -1431,33 +1372,6 @@
         ]
       },
       {
-        "id": 13645,
-        "title": "Al-Fayha vs Al-Riyadh",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Al-Fayha",
-          "teamB": "Al-Riyadh",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/168094/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/168088/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Finish",
-          "startTime": "2026/10/11 13:40:00 +0000",
-          "endTime": "2026/10/11 16:00:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "LOW SERVER",
-            "link": "http://193.47.62.59/hls/NCCCAAQQQA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
         "id": 13646,
         "title": "Abha vs Al Faisaly",
         "image": "",
@@ -1620,33 +1534,6 @@
           {
             "title": "Live 1",
             "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 13660,
-        "title": "Almeria vs Leganes",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Almer\u00eda",
-          "teamB": "Legan\u00e9s",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/2858/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/2845/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/10/11 14:15:00 +0000",
-          "endTime": "2026/10/11 16:35:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "Live 1",
-            "link": "http://193.47.62.59/hls/UFFFAAAAAAQQQ.m3u8|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
             "logo": "",
             "type": 0,
             "api": "",
