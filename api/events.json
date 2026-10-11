@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-11T12:50:50.887320",
+  "last_updated": "2026-10-11T13:01:20.122616",
   "event_count": 69,
   "events": {
     "events": [
@@ -591,7 +591,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/187756/image",
           "eventName": "Cricket",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/10/11 13:00:53 +0000",
           "endTime": "2026/10/11 17:55:57 +0000"
         },
@@ -814,11 +814,19 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/14/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/10/11 13:00:00 +0000",
           "endTime": "2026/10/11 15:20:00 +0000"
         },
         "channels_data": [
+          {
+            "title": "FUBO SPORTS - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/6nilexegyc/out/v1/38d1a6a0ee4e4ff2aa8b760d07cabb9e/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "e09a0900100e5ac77d4adb45a602a86b:7da511a38053d3e150d38f47ac7d8298",
+            "tokenApi": ""
+          },
           {
             "title": "HD SERVER ",
             "link": "https://edgestream7.pro/hls/24SDAZFcsqnj24.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://streame.center&Origin=https://streame.center",
@@ -857,13 +865,21 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/48/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/10/11 13:00:00 +0000",
           "endTime": "2026/10/11 15:20:00 +0000"
         },
         "channels_data": [
           {
-            "title": "Live 1",
+            "title": "FUBO SPORTS - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/pdqchle2if/out/v1/4379e830995b4993a974c6cd682b8b54/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "925c539720a10e0745e9bd8fa76809b5:2d791e20a47bbd447d556f931bfc7865",
+            "tokenApi": ""
+          },
+          {
+            "title": "PEACOCK TV HD",
             "link": "https://chatgpt.hereisman.net/playlist/57915/load-playlist?|Referer=https://gooz.aapmains.net",
             "logo": "",
             "type": 0,
@@ -879,7 +895,7 @@
             "tokenApi": ""
           },
           {
-            "title": "Live 2",
+            "title": "Live 1",
             "link": "https://www.rtmpcdn.com/live/b354ab9e-f9db-4ef1-9757-c9b0b1cceb36.m3u8|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
             "logo": "",
             "type": 0,
@@ -1070,7 +1086,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/2729/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/10/11 13:00:00 +0000",
           "endTime": "2026/10/11 15:20:00 +0000"
         },
@@ -1113,7 +1129,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/2685/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/10/11 13:00:00 +0000",
           "endTime": "2026/10/11 15:20:00 +0000"
         },
@@ -1366,7 +1382,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/1659/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/10/11 13:00:00 +0000",
           "endTime": "2026/10/11 15:20:00 +0000"
         },
@@ -1954,7 +1970,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/77629/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/10/11 13:00:00 +0000",
           "endTime": "2026/10/11 15:20:00 +0000"
         },
