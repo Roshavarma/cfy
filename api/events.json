@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-11T16:31:04.137524",
-  "event_count": 51,
+  "last_updated": "2026-10-11T16:40:52.455670",
+  "event_count": 49,
   "events": {
     "events": [
       {
@@ -1461,33 +1461,6 @@
         ]
       },
       {
-        "id": 13656,
-        "title": "Rio Ave vs CD Nacional",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Rio Ave",
-          "teamB": "CD Nacional",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/3036/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/3013/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/10/11 14:30:00 +0000",
-          "endTime": "2026/10/11 16:50:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "Live 1",
-            "link": "http://193.47.62.56/hls/VRVRVRAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
         "id": 13657,
         "title": "Benfica vs Vitoria SC",
         "image": "",
@@ -1631,57 +1604,6 @@
         ]
       },
       {
-        "id": 13667,
-        "title": "Jacksonville Jaguars vs Philadelphia Eagles",
-        "image": "",
-        "cat": "American football",
-        "eventInfo": {
-          "teamA": "Jacksonville Jaguars",
-          "teamB": "Philadelphia Eagles",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/4386/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/4428/image",
-          "eventName": "American football",
-          "isHot": "0",
-          "Status": "Finish",
-          "startTime": "2026/10/11 13:30:00 +0000",
-          "endTime": "2026/10/11 16:30:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "SporTV BR - AQ",
-            "link": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/4yiko4it8k/out/v1/b77dd424c745443aba2f3f88d418f797/cenc-sd.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-            "logo": "",
-            "type": 7,
-            "api": "9009b7189e3e68cc09d17811f2beb55a:dd3f96a94c909da48ff40c92aabf8cf3",
-            "tokenApi": ""
-          },
-          {
-            "title": "Live 1",
-            "link": "https://chatgpt.hereisman.net/playlist/57918/load-playlist?|Referer=https://gooz.aapmains.net",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "HD SERVER ",
-            "link": "https://edgestream6.pro/hls/JHDAJBDnjdna30.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://streame.center&Origin=https://streame.center",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "LOW SERVER",
-            "link": "http://193.47.62.59/hls/NCCCAAQQQQA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
         "id": 13668,
         "title": "New England Patriots vs Las Vegas Raiders",
         "image": "",
@@ -1700,7 +1622,31 @@
         "channels_data": [
           {
             "title": "Live 1",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "link": "https://chatgpt.hereisman.net/playlist/57927/load-playlist?|Referer=https://gooz.aapmains.net",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "Live 2",
+            "link": "https://veltristream.s3.us-east-1.amazonaws.com/patriots.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "Live 3",
+            "link": "https://edgestream4.pro/hls/jnknjfzbk35.m3u8?|Referer=https://streame.center&Origin=https://streame.center",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "HD SERVER ",
+            "link": "https://edgestream4.pro/hls/jnknjfzbk35.m3u8?|Referer=https://streame.center&Origin=https://streame.center",
             "logo": "",
             "type": 0,
             "api": "",
@@ -1754,7 +1700,31 @@
         "channels_data": [
           {
             "title": "Live 1",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "link": "https://chatgpt.hereisman.net/playlist/57945/load-playlist?|Referer=https://gooz.aapmains.net",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "Live 2",
+            "link": "https://veltristream.s3.us-east-1.amazonaws.com/bengals.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "Live 3",
+            "link": "https://chatgpt.hereisman.net/playlist/57936/load-playlist?|Referer=https://gooz.aapmains.net",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "HD SERVER ",
+            "link": "https://edgestream7.pro/hls/sfjnzabacah31.m3u8?|Referer=https://streame.center&Origin=https://streame.center",
             "logo": "",
             "type": 0,
             "api": "",
@@ -1780,8 +1750,48 @@
         },
         "channels_data": [
           {
+            "title": "TSN SPORTS 1 - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+            "logo": "",
+            "type": 7,
+            "api": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d",
+            "tokenApi": ""
+          },
+          {
+            "title": "TSN SPORTS 4 - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+            "logo": "",
+            "type": 7,
+            "api": "abc5b2883121012850ebda05b528c5ec:e5250924f4b738905f7163a0134587a7",
+            "tokenApi": ""
+          },
+          {
             "title": "Live 1",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "link": "https://chatgpt.hereisman.net/playlist/57946/load-playlist?|Referer=https://gooz.aapmains.net",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "Live 2",
+            "link": "https://veltristream.s3.us-east-1.amazonaws.com/steelers.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "Live 3",
+            "link": "https://chatgpt.hereisman.net/playlist/57946/load-playlist?|Referer=https://gooz.aapmains.net",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "HD SERVER ",
+            "link": "https://edgestream1.pro/hls/uheyztezgj34.m3u8?|Referer=https://streame.center&Origin=https://streame.center",
             "logo": "",
             "type": 0,
             "api": "",
@@ -1808,7 +1818,23 @@
         "channels_data": [
           {
             "title": "Live 1",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "link": "https://chatgpt.hereisman.net/playlist/57934/load-playlist?|Referer=https://gooz.aapmains.net",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "Live 2",
+            "link": "https://veltristream.s3.us-east-1.amazonaws.com/giants.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "HD SERVER ",
+            "link": "https://edgestream3.pro/hls/yetehznecs37.m3u8?|Referer=https://streame.center&Origin=https://streame.center",
             "logo": "",
             "type": 0,
             "api": "",
@@ -1835,7 +1861,31 @@
         "channels_data": [
           {
             "title": "Live 1",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "link": "https://chatgpt.hereisman.net/playlist/57931/load-playlist?|Referer=https://gooz.aapmains.net",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "Live 2",
+            "link": "https://veltristream.s3.us-east-1.amazonaws.com/vikings.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "Live 3",
+            "link": "https://chatgpt.hereisman.net/playlist/57930/load-playlist?|Referer=https://gooz.aapmains.net",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "HD SERVER ",
+            "link": "https://edgestream5.pro/hls/jkhazabcka36.m3u8?|Referer=https://streame.center&Origin=https://streame.center",
             "logo": "",
             "type": 0,
             "api": "",
@@ -1862,7 +1912,23 @@
         "channels_data": [
           {
             "title": "Live 1",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "link": "https://chatgpt.hereisman.net/playlist/57938/load-playlist?|Referer=https://gooz.aapmains.net",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "Live 2",
+            "link": "https://veltristream.s3.us-east-1.amazonaws.com/texans.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "HD SERVER ",
+            "link": "https://edgestream5.pro/hls/oipozuezeji33.m3u8?|Referer=https://streame.center&Origin=https://streame.center",
             "logo": "",
             "type": 0,
             "api": "",
@@ -1889,7 +1955,31 @@
         "channels_data": [
           {
             "title": "Live 1",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "link": "https://chatgpt.hereisman.net/playlist/57933/load-playlist?|Referer=https://gooz.aapmains.net",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "Live 2",
+            "link": "https://veltristream.s3.us-east-1.amazonaws.com/browns.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "Live 3",
+            "link": "https://chatgpt.hereisman.net/playlist/57932/load-playlist?|Referer=https://gooz.aapmains.net",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "HD SERVER ",
+            "link": "https://edgestream5.pro/hls/qsdnajbq32.m3u8?|Referer=https://streame.center&Origin=https://streame.center",
             "logo": "",
             "type": 0,
             "api": "",
