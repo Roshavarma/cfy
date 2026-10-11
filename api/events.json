@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-11T12:31:08.920916",
-  "event_count": 72,
+  "last_updated": "2026-10-11T12:40:54.238447",
+  "event_count": 69,
   "events": {
     "events": [
       {
@@ -598,18 +598,18 @@
         "channels_data": [
           {
             "title": "WILLOW - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ww1up1kwa3/out/v1/08a3df6b117d49e98f46a03c390fe8cb/cenc.mpd",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ungeagsos7/out/v1/ca99dc39be60404ab4259f61c2a72c69/cenc.mpd",
             "logo": "",
             "type": 7,
-            "api": "05ba83793e35393ed91ed629c1d97212:41fc43371a32688363cd75c7fdf6cf73",
+            "api": "d49203a8300b95517816ccc69d140d2d:0e9def47fa736a52ad7f64fbe2933f74",
             "tokenApi": ""
           },
           {
             "title": "WILLOW - ALT",
-            "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ww1up1kwa3/out/v1/08a3df6b117d49e98f46a03c390fe8cb/cenc.mpd",
+            "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ungeagsos7/out/v1/ca99dc39be60404ab4259f61c2a72c69/cenc.mpd",
             "logo": "",
             "type": 7,
-            "api": "05ba83793e35393ed91ed629c1d97212:41fc43371a32688363cd75c7fdf6cf73",
+            "api": "d49203a8300b95517816ccc69d140d2d:0e9def47fa736a52ad7f64fbe2933f74",
             "tokenApi": ""
           },
           {
@@ -626,14 +626,6 @@
             "logo": "",
             "type": 7,
             "api": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
-            "tokenApi": ""
-          },
-          {
-            "title": "LOW SERVER ",
-            "link": "http://193.47.62.44/hls/VTTT.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-            "logo": "",
-            "type": 0,
-            "api": "",
             "tokenApi": ""
           }
         ]
@@ -1044,75 +1036,24 @@
         },
         "channels_data": [
           {
-            "title": "Live 1",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 13634,
-        "title": "Como vs AS Roma",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Como",
-          "teamB": "AS Roma",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/2704/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/2702/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/10/11 10:30:00 +0000",
-          "endTime": "2026/10/11 12:50:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "TNT SPORTS  - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-            "logo": "",
-            "type": 7,
-            "api": "69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749",
-            "tokenApi": ""
-          },
-          {
             "title": "beIN ENGLISH - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
             "logo": "",
             "type": 7,
             "api": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
             "tokenApi": ""
           },
           {
-            "title": "SPORT1 CZ - AQ",
-            "link": "https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd",
+            "title": "CBS SPORTS - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd|Origin=https://amazon.com&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0",
             "logo": "",
             "type": 7,
-            "api": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
+            "api": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
             "tokenApi": ""
           },
           {
-            "title": "Live 1",
-            "link": "https://chatgpt.hereisman.net/playlist/57901/load-playlist?|Referer=https://gooz.aapmains.net ",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "HD SERVER ",
-            "link": "https://www.rtmpcdn.com/live/c54b2cec-839b-4899-85e0-9d691e6b611b.m3u8|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "LOW SERVER ",
-            "link": "http://193.47.62.59/hls/GUUUA.m3u8|user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36&origin=https://nadia01eo.tn76degree12ec3out.cfd&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
+            "title": "LOW SERVER",
+            "link": "http://193.47.62.59/hls/J999AAAAQQQQA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
             "logo": "",
             "type": 0,
             "api": "",
@@ -1138,8 +1079,16 @@
         },
         "channels_data": [
           {
-            "title": "Live 1",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "title": "SPORT1 CZ FHD",
+            "link": "https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
+            "tokenApi": ""
+          },
+          {
+            "title": "LOW SERVER",
+            "link": "http://193.47.62.59/hls/J999AAAAQQQQQA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
             "logo": "",
             "type": 0,
             "api": "",
@@ -1652,33 +1601,6 @@
         ]
       },
       {
-        "id": 13652,
-        "title": "FC Utrecht vs Willem II Tilburg",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "FC Utrecht",
-          "teamB": "Willem II Tilburg",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/2948/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/2961/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/10/11 10:15:00 +0000",
-          "endTime": "2026/10/11 12:35:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "LOW SERVER ",
-            "link": "http://193.47.62.59/hls/GCCCAAAAQQQA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
         "id": 13653,
         "title": "PEC Zwolle vs SC Cambuur",
         "image": "",
@@ -1949,33 +1871,6 @@
         ]
       },
       {
-        "id": 13663,
-        "title": "Konyaspor vs Basaksehir FK",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Konyaspor",
-          "teamB": "Ba\u015fak\u015fehir FK",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/3085/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/3086/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/10/11 10:30:00 +0000",
-          "endTime": "2026/10/11 12:50:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "Live 1",
-            "link": "http://193.47.62.59/hls/GUUU.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
         "id": 13664,
         "title": "Gaziantep FK vs Corum FK",
         "image": "",
@@ -1994,7 +1889,7 @@
         "channels_data": [
           {
             "title": "Live 1",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "link": "http://193.47.62.59/hls/J333AA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
             "logo": "",
             "type": 0,
             "api": "",
