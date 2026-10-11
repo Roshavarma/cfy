@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-11T16:40:52.455670",
-  "event_count": 49,
+  "last_updated": "2026-10-11T18:01:21.565767",
+  "event_count": 44,
   "events": {
     "events": [
       {
@@ -456,10 +456,10 @@
           "teamAFlag": "https://img.sofascore.com/api/v1/team/187765/image",
           "teamBFlag": "https://img.sofascore.com/api/v1/team/187760/image",
           "eventName": "Cricket",
-          "isHot": "1",
-          "Status": "Live",
-          "startTime": "2026/10/11 13:30:56 +0000",
-          "endTime": "2026/10/11 17:58:01 +0000"
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/10/14 13:30:22 +0000",
+          "endTime": "2026/10/14 17:55:27 +0000"
         },
         "channels_data": [
           {
@@ -639,9 +639,9 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/187756/image",
           "eventName": "Cricket",
           "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/10/11 13:00:53 +0000",
-          "endTime": "2026/10/11 17:55:57 +0000"
+          "Status": "Upcoming",
+          "startTime": "2026/10/13 13:00:32 +0000",
+          "endTime": "2026/10/13 17:55:36 +0000"
         },
         "channels_data": [
           {
@@ -805,180 +805,6 @@
         ]
       },
       {
-        "id": 13624,
-        "title": "SC Freiburg vs FC Schalke 04",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "SC Freiburg",
-          "teamB": "FC Schalke 04",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/2538/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/2530/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/10/11 15:30:00 +0000",
-          "endTime": "2026/10/11 17:50:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "SporTV BR - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/gru-nitro/live/clients/dash/enc/6otiglnptp/out/v1/add7499679b0422cb6791f7701f95ecc/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-            "logo": "",
-            "type": 7,
-            "api": "902e5ec0e3d05e665daa32fc23f4f59e:7b2322a273843921a43e2c61dac7cae3",
-            "tokenApi": ""
-          },
-          {
-            "title": "ELEVEN SPORTS HD",
-            "link": "https://netanjahu.hls.st/t/ea8cbede387e35fa66df044495a45d5e/index.m3u8?|Referer=https://iplayer.is/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "ARENA SPORTS HD",
-            "link": "https://netanjahu.hls.st/t/2100d4b7ad2afe661d9d67d792dc4a95/index.m3u8?|Referer=https://iplayer.is/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "SportKlub HD",
-            "link": "https://netanjahu.hls.st/t/cc2685bc6945df6f3c2e8cd57cb50ed8/index.m3u8?|Referer=https://iplayer.is/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "LOW SERVER",
-            "link": "http://193.47.62.56/hls/DYYYAAAAAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 13627,
-        "title": "Liverpool FC vs Manchester City",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Liverpool FC",
-          "teamB": "Manchester City",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/44/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/17/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/10/11 15:30:00 +0000",
-          "endTime": "2026/10/11 17:50:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "FUBO SPORTS - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/1wlv9dr4vx/out/v1/632322be5f1047acb2472f90f8857182/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "42f72c025dd53039244adc13b7e31dad:a7bd941a19f6dd14f3004a623a6ad3a1",
-            "tokenApi": ""
-          },
-          {
-            "title": "NBC SPORTS - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dx5hfbpk7u/out/v1/c14185a397544650b9761d43ad2e8e91/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-            "logo": "",
-            "type": 7,
-            "api": "36a385124dcdfb2f0969935065e03afa:ccecd65514dff22eae493b975ccf9a9e",
-            "tokenApi": ""
-          },
-          {
-            "title": "FUBO NETWORK - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/1wlv9dr4vx/out/v1/632322be5f1047acb2472f90f8857182/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-            "logo": "",
-            "type": 7,
-            "api": "42f72c025dd53039244adc13b7e31dad:a7bd941a19f6dd14f3004a623a6ad3a1",
-            "tokenApi": ""
-          },
-          {
-            "title": "SKY PREMIER - AQ",
-            "link": "https://bl.rutube.ru/livestream/e5bacac3b8e730791d4cab20ae81cd8f/index.m3u8?s=wGgNqR-alKfWMSte5-dhiA&e=2089869968&scheme=https|user-agent=Mozilla",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "Live 1",
-            "link": "https://chatgpt.hereisman.net/playlist/57940/load-playlist?|Referer=https://gooz.aapmains.net",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "STAN SPORTS HD",
-            "link": "https://netanjahu.hls.st/t/64f69df3dd9f26ebfde502e082d5b3be/index.m3u8?|Referer=https://iplayer.is/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "ARENA SPORTS HD",
-            "link": "https://netanjahu.hls.st/t/b4f76bca1288f8b98b23b869b62fc112/index.m3u8?|Referer=https://iplayer.is/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "CANAL+ SPORTS HD",
-            "link": "https://netanjahu.hls.st/t/8578d786d81e19886346defae3289d67/index.m3u8?|Referer=https://iplayer.is/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "ASTRO EPL HD",
-            "link": "https://live2.dyrur1.com/live/63kv9igel83tx7e_b6199620501db0795e86f40ffefe3cc4_540p.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "HD SERVER ",
-            "link": "https://edgestream7.pro/hls/24SDAZFcsqnj24.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://streame.center&Origin=https://streame.center",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "Live 2",
-            "link": "https://www.rtmpcdn.com/live/fc18c739-3bd3-4753-b201-744fffa4b3bb.m3u8|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "LOW SERVER",
-            "link": "http://193.47.62.55/hls/M999.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
         "id": 13628,
         "title": "Atletico Mineiro vs Santos",
         "image": "",
@@ -996,11 +822,19 @@
         },
         "channels_data": [
           {
-            "title": "Live 1",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "title": "SporTV BR - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
             "logo": "",
-            "type": 0,
-            "api": "",
+            "type": 7,
+            "api": "51c0ef23b17297e5c01cd7f36dd0a6ce:8823f713ba6fdb9bbe0a2ad82d309a4b",
+            "tokenApi": ""
+          },
+          {
+            "title": "PREMIERE BR - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/1obktrybht/out/v1/08265453c8f64d9fbeb3cf43764403a8/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+            "logo": "",
+            "type": 7,
+            "api": "332f62eb3cae824e98a4124da29a7d31:d1698cda3d040f9051125a61745b596b",
             "tokenApi": ""
           }
         ]
@@ -1023,11 +857,11 @@
         },
         "channels_data": [
           {
-            "title": "Live 1",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "title": "PREMIERE BR - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/oy6rp0jwmf/out/v1/580ecf12bad24979baf8dd993dce053e/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
             "logo": "",
-            "type": 0,
-            "api": "",
+            "type": 7,
+            "api": "9dc40460c93087aea84d6315f08ecb64:f69c8d4624fddff4ca89bd0b31bdc4a7",
             "tokenApi": ""
           }
         ]
@@ -1050,11 +884,19 @@
         },
         "channels_data": [
           {
-            "title": "Live 1",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "title": "SportDigital Fussball",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
             "logo": "",
-            "type": 0,
-            "api": "",
+            "type": 7,
+            "api": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
+            "tokenApi": ""
+          },
+          {
+            "title": "PREMIERE BR - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+            "logo": "",
+            "type": 7,
+            "api": "56b79c1782b30e6b6fc973b0e8fd4104:fa38aaa865a57eda7c77444697ba8ed3",
             "tokenApi": ""
           }
         ]
@@ -1077,11 +919,19 @@
         },
         "channels_data": [
           {
-            "title": "Live 1",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "title": "PREMIER SPORTS - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
             "logo": "",
-            "type": 0,
-            "api": "",
+            "type": 7,
+            "api": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f",
+            "tokenApi": ""
+          },
+          {
+            "title": "PREMIERE BR - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/6onrfniyry/out/v1/f23069c61dbf4e00890a40b705a84079/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+            "logo": "",
+            "type": 7,
+            "api": "d23f7433798a652a7d4f6791d9e1036c:4942eebd598b5727c5cc484cc62b52e8",
             "tokenApi": ""
           }
         ]
@@ -1104,11 +954,11 @@
         },
         "channels_data": [
           {
-            "title": "Live 1",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "title": "PREMIERE BR - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/1obktrybht/out/v1/08265453c8f64d9fbeb3cf43764403a8/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
             "logo": "",
-            "type": 0,
-            "api": "",
+            "type": 7,
+            "api": "332f62eb3cae824e98a4124da29a7d31:d1698cda3d040f9051125a61745b596b",
             "tokenApi": ""
           }
         ]
@@ -1294,65 +1144,6 @@
         ]
       },
       {
-        "id": 13643,
-        "title": "Stade Rennais vs Auxerre",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Stade Rennais",
-          "teamB": "Auxerre",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/1658/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/1646/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/10/11 15:15:00 +0000",
-          "endTime": "2026/10/11 17:35:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "ELEVEN SPORTS HD",
-            "link": "https://netanjahu.hls.st/t/79b023c0edfc763c18555ed2a60fedd4/index.m3u8?|Referer=https://iplayer.is/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "HD SERVER ",
-            "link": "https://edgestream1.pro/hls/dza5z8f69.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://streame.center&Origin=https://streame.center",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "SPORT TV HD",
-            "link": "https://netanjahu.hls.st/t/e599022bedec6878c055f990457fa07e/index.m3u8?|Referer=https://iplayer.is/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "DAZN SPORTS HD",
-            "link": "https://netanjahu.hls.st/t/f4f178a9ff3458089bfcf96c445b6bfe/index.m3u8?|Referer=https://iplayer.is/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "LOW SERVER",
-            "link": "http://193.47.62.56/hls/DYYYA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
         "id": 13644,
         "title": "Troyes vs Olympique de Marseille",
         "image": "",
@@ -1380,33 +1171,6 @@
         ]
       },
       {
-        "id": 13646,
-        "title": "Abha vs Al Faisaly",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Abha",
-          "teamB": "Al Faisaly",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/168090/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/56035/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/10/11 15:25:00 +0000",
-          "endTime": "2026/10/11 17:45:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "Live 1",
-            "link": "http://193.47.62.56/hls/DYYYAA.m3u8|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
         "id": 13647,
         "title": "Al-Shabab vs Al-Taawoun",
         "image": "",
@@ -1418,41 +1182,14 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/56021/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/10/11 18:00:00 +0000",
           "endTime": "2026/10/11 20:20:00 +0000"
         },
         "channels_data": [
           {
             "title": "Live 1",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 13655,
-        "title": "Excelsior vs FC Groningen",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Excelsior",
-          "teamB": "FC Groningen",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/2967/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/2951/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/10/11 14:45:00 +0000",
-          "endTime": "2026/10/11 17:05:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "LOW SERVER",
-            "link": "http://193.47.62.56/hls/VRVRVRAAAAAQQQQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+            "link": "http://193.47.62.56/hls/ncccAAAAAAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
             "logo": "",
             "type": 0,
             "api": "",
@@ -1472,7 +1209,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/3009/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/10/11 17:00:00 +0000",
           "endTime": "2026/10/11 19:20:00 +0000"
         },
@@ -1541,7 +1278,7 @@
         "channels_data": [
           {
             "title": "Live 1",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "link": "http://193.47.62.56/hls/siiiaqqqq.m3u8|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
             "logo": "",
             "type": 0,
             "api": "",
@@ -1615,11 +1352,19 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/4390/image",
           "eventName": "American football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/10/11 17:00:00 +0000",
           "endTime": "2026/10/11 20:00:00 +0000"
         },
         "channels_data": [
+          {
+            "title": "PRIME VIDEO - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/dub-nitro/live/clients/dash/enc/5mmp9gcty5/out/v1/0ddfd460ec014c8d89963a0ed3d02959/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+            "logo": "",
+            "type": 7,
+            "api": "f775d0d519858976c3fcfcf57bc57678:22c3c4539832a0c72545a47f3f4ea57d",
+            "tokenApi": ""
+          },
           {
             "title": "Live 1",
             "link": "https://chatgpt.hereisman.net/playlist/57927/load-playlist?|Referer=https://gooz.aapmains.net",
@@ -1666,14 +1411,38 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/4391/image",
           "eventName": "American football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/10/11 17:00:00 +0000",
           "endTime": "2026/10/11 20:00:00 +0000"
         },
         "channels_data": [
           {
+            "title": "NFL GAMEPASS - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/dub-nitro/live/clients/dash/enc/cfxzmthjps/out/v1/d8e62efb1fad4d03832cdb25f3c53386/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+            "logo": "",
+            "type": 7,
+            "api": "e056e9f9a151f5a9374b36bee3a37173:6f2cde1ccce6e2e1f83b97e645d7d7fe",
+            "tokenApi": ""
+          },
+          {
             "title": "Live 1",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "link": "https://chatgpt.hereisman.net/playlist/57944/load-playlist?|Referer=https://gooz.aapmains.net",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "Live 2",
+            "link": "https://veltristream.s3.us-east-1.amazonaws.com/packers.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "HD SERVER ",
+            "link": "https://edgestream3.pro/hls/ysvbxwnbc38.m3u8?|Referer=https://streame.center&Origin=https://streame.center",
             "logo": "",
             "type": 0,
             "api": "",
@@ -1693,11 +1462,19 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/4416/image",
           "eventName": "American football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/10/11 17:00:00 +0000",
           "endTime": "2026/10/11 20:00:00 +0000"
         },
         "channels_data": [
+          {
+            "title": "PRIME VIDEO - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/f4ugzlojfc/out/v1/9f5e1cf62bee42d9b3686b32944c1a0a/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+            "logo": "",
+            "type": 7,
+            "api": "4a8fb4f7eaa577e151dc2a6f06a15441:6eb7326edc7b0696b44338c99dc61f76",
+            "tokenApi": ""
+          },
           {
             "title": "Live 1",
             "link": "https://chatgpt.hereisman.net/playlist/57945/load-playlist?|Referer=https://gooz.aapmains.net",
@@ -1744,11 +1521,19 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/4421/image",
           "eventName": "American football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/10/11 17:00:00 +0000",
           "endTime": "2026/10/11 20:00:00 +0000"
         },
         "channels_data": [
+          {
+            "title": "PRIME VIDEO - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/s7pn4tqrvk/out/v1/f4716182ceae4d98b5f402688bbebf1b/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+            "logo": "",
+            "type": 7,
+            "api": "a52a830e1b76c34e09037b79b6875f3a:9c297b707638fc8b498754d4bb68771a",
+            "tokenApi": ""
+          },
           {
             "title": "TSN SPORTS 1 - AQ",
             "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
@@ -1811,11 +1596,19 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/4426/image",
           "eventName": "American football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/10/11 17:00:00 +0000",
           "endTime": "2026/10/11 20:00:00 +0000"
         },
         "channels_data": [
+          {
+            "title": "PRIME VIDEO - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/ivbn4gk6dy/out/v1/8de5800fa87245bbb63b50c015a2ff01/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+            "logo": "",
+            "type": 7,
+            "api": "4ddd466263fb864a59327dac4e0bb836:a7d9ed9df1bf62118246e48f1f7df151",
+            "tokenApi": ""
+          },
           {
             "title": "Live 1",
             "link": "https://chatgpt.hereisman.net/playlist/57934/load-playlist?|Referer=https://gooz.aapmains.net",
@@ -1854,11 +1647,19 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/4423/image",
           "eventName": "American football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/10/11 17:00:00 +0000",
           "endTime": "2026/10/11 20:00:00 +0000"
         },
         "channels_data": [
+          {
+            "title": "PRIME VIDEO - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/uod57n2bll/out/v1/9f825dd687f24e09a90751baf25904b6/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+            "logo": "",
+            "type": 7,
+            "api": "d1d7e04ddd43fda2fc45be3baff5a94f:5c6fedb92845fbf93aeb2560a9b83f45",
+            "tokenApi": ""
+          },
           {
             "title": "Live 1",
             "link": "https://chatgpt.hereisman.net/playlist/57931/load-playlist?|Referer=https://gooz.aapmains.net",
@@ -1905,11 +1706,19 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/4324/image",
           "eventName": "American football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/10/11 17:00:00 +0000",
           "endTime": "2026/10/11 20:00:00 +0000"
         },
         "channels_data": [
+          {
+            "title": "PRIME VIDEO - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/qydmdhqoiq/out/v1/53b9013dc88c463cafe4a8e708f4a191/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "cd1c5091e5aa3d5ceaecd735dbd79d80:9cbb20826e097123163447471227afb3",
+            "tokenApi": ""
+          },
           {
             "title": "Live 1",
             "link": "https://chatgpt.hereisman.net/playlist/57938/load-playlist?|Referer=https://gooz.aapmains.net",
@@ -1948,11 +1757,19 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/4417/image",
           "eventName": "American football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/10/11 17:00:00 +0000",
           "endTime": "2026/10/11 20:00:00 +0000"
         },
         "channels_data": [
+          {
+            "title": "PRIME VIDEO - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/3yukueoibc/out/v1/07d1e7a2df604a70bdd7bb2e1bf79d16/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+            "logo": "",
+            "type": 7,
+            "api": "ffb7adc1d3e4686c81a3f0058af82102:6d23f1c8c74819970d69ec74f23a680b",
+            "tokenApi": ""
+          },
           {
             "title": "Live 1",
             "link": "https://chatgpt.hereisman.net/playlist/57933/load-playlist?|Referer=https://gooz.aapmains.net",
