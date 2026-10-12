@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-12T18:50:52.791508",
+  "last_updated": "2026-10-12T19:01:26.753370",
   "event_count": 44,
   "events": {
     "events": [
@@ -859,7 +859,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/1958/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/10/12 19:00:00 +0000",
           "endTime": "2026/10/12 21:20:00 +0000"
         },
@@ -1047,7 +1047,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/2833/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/10/12 19:00:00 +0000",
           "endTime": "2026/10/12 21:20:00 +0000"
         },
@@ -1085,6 +1085,14 @@
             "tokenApi": ""
           },
           {
+            "title": "ESPN DEPORTES HD",
+            "link": "https://edgestream4.pro/hls/377qj1h2727.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
             "title": "ARENA SPORTS HD",
             "link": "https://netanjahu.hls.st/t/c8362408b51cda848317d17d11c4bf66/index.m3u8?|Referer=https://iplayer.is/",
             "logo": "",
@@ -1111,6 +1119,14 @@
           {
             "title": "CANAL+ SPORTS HD",
             "link": "https://netanjahu.hls.st/t/3e9c774014f846547ab8adc6a36f63b2/index.m3u8?|Referer=https://iplayer.is/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "Live 1",
+            "link": "https://live.vivo155.com/live/hd-en-1-4565438.m3u8?txSecret=5aa58198b3ce6c9505dc385813456e38&txTime=6ACD417E|Referer=https://player.online878.com/",
             "logo": "",
             "type": 0,
             "api": "",
@@ -1181,7 +1197,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/24264/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/10/12 19:00:00 +0000",
           "endTime": "2026/10/12 21:20:00 +0000"
         },
@@ -1251,14 +1267,54 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/39/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/10/12 19:00:00 +0000",
           "endTime": "2026/10/12 21:20:00 +0000"
         },
         "channels_data": [
           {
+            "title": "FUBO SPORTS - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/1wlv9dr4vx/out/v1/632322be5f1047acb2472f90f8857182/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+            "logo": "",
+            "type": 7,
+            "api": "42f72c025dd53039244adc13b7e31dad:a7bd941a19f6dd14f3004a623a6ad3a1",
+            "tokenApi": ""
+          },
+          {
             "title": "SKY SPORTS - AQ",
             "link": "https://bl.rutube.ru/livestream/e5bacac3b8e730791d4cab20ae81cd8f/index.m3u8?s=RJXd5PNGnusi5UlAVs7ojg&e=2091830493&scheme=https|user-agent=Mozilla",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "STAN SPORTS HD",
+            "link": "https://netanjahu.hls.st/t/e6f7bff78773c689b2466868a7a6efa2/index.m3u8?|Referer=https://iplayer.is/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "ARENA SPORTS HD",
+            "link": "https://netanjahu.hls.st/t/b2385cf917e8ee8602c4567b331285cb/index.m3u8?|Referer=https://iplayer.is/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "CANAL+ SPORTS HD",
+            "link": "https://netanjahu.hls.st/t/3b72a7c7d443c41e267b1900d83e8955/index.m3u8?|Referer=https://iplayer.is/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "Live 1",
+            "link": "https://live.vivo155.com/live/hd-en-1-4558584.m3u8?txSecret=7c1af2c2898f11a2221339458022d40c&txTime=6ACD4116|Referer=https://player.online878.com/",
             "logo": "",
             "type": 0,
             "api": "",
