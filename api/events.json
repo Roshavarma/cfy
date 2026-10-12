@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-12T14:01:19.935836",
-  "event_count": 51,
+  "last_updated": "2026-10-12T14:10:56.236104",
+  "event_count": 50,
   "events": {
     "events": [
       {
@@ -1053,41 +1053,6 @@
         ]
       },
       {
-        "id": 13692,
-        "title": "Real Valladolid vs Albacete Balompie",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Real Valladolid",
-          "teamB": "Albacete Balompi\u00e9",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/2831/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/2848/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/10/12 12:00:00 +0000",
-          "endTime": "2026/10/12 14:20:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "Live 1",
-            "link": "https://live.vivo155.com/live/sd-1-4567311.m3u8?txSecret=ff6c5aac96c7f8dfb7e6a7139a63ea1a&txTime=6ACCDDE5|Referer=https://player.online878.com/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "LOW SERVER",
-            "link": "http://193.47.62.44/hls/YFFFAAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
         "id": 13693,
         "title": "Burgos Club de Futbol vs Granada",
         "image": "",
@@ -1634,7 +1599,7 @@
         },
         "channels_data": [
           {
-            "title": "Live 1",
+            "title": "LOW SERVER",
             "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
             "logo": "",
             "type": 0,
