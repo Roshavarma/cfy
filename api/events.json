@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-12T05:50:51.174752",
+  "last_updated": "2026-10-12T06:01:22.760231",
   "event_count": 51,
   "events": {
     "events": [
@@ -749,7 +749,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/187744/image",
           "eventName": "Cricket",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/10/12 06:00:20 +0000",
           "endTime": "2026/10/12 14:30:23 +0000"
         },
@@ -772,7 +772,7 @@
           },
           {
             "title": "TAPMAD - AQ",
-            "link": "https://saseries.akamaized.net/hls/live/2110097/28593jkiL-tapmad/master.m3u8|referer=https://www.tapmad.com/",
+            "link": "https://saseries.akamaized.net/hls/live/2110097/FiFa-3827e1/master.m3u8|referer=https://tapmad.com/",
             "logo": "",
             "type": 0,
             "api": "",
@@ -780,7 +780,7 @@
           },
           {
             "title": "T SPORTS HD",
-            "link": "http://103.151.60.162:2122/play/a030/index.m3u8?hls",
+            "link": "http://livetv.akr4m.com:8080/bdtv/restrem/02.m3u8",
             "logo": "",
             "type": 0,
             "api": "",
@@ -789,6 +789,22 @@
           {
             "title": "A SPORTS HD",
             "link": "https://playztv-apps.pages.dev/a-sports/index.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "WILLOW HD",
+            "link": "https://baila-lentoo.pages.dev/all-sp/809386.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "T SPORTS SD",
+            "link": "http://103.151.60.162:2122/play/a030/index.m3u8?hls",
             "logo": "",
             "type": 0,
             "api": "",
