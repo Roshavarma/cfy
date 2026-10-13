@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-13T18:01:30.993948",
-  "event_count": 52,
+  "last_updated": "2026-10-13T18:10:54.184874",
+  "event_count": 50,
   "events": {
     "events": [
       {
@@ -1157,49 +1157,6 @@
         ]
       },
       {
-        "id": 13715,
-        "title": "Al Seeb SC vs Al-Hussein Irbid",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Al Seeb SC",
-          "teamB": "Al-Hussein Irbid",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/71044/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/117204/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/10/13 16:00:00 +0000",
-          "endTime": "2026/10/13 18:20:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "TAPMAD - AQ",
-            "link": "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "HD SERVER ",
-            "link": "https://live2.jorvakstreamcache.com/live/channel12.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "LOW SERVER ",
-            "link": "http://193.47.62.50/hls/I888AAAAQQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
         "id": 13716,
         "title": "Melbourne Victory vs FC Seoul",
         "image": "",
@@ -1227,57 +1184,6 @@
         ]
       },
       {
-        "id": 13729,
-        "title": "Al-Sadd vs Al-Hilal",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Al-Sadd",
-          "teamB": "Al-Hilal",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/39733/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/21895/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/10/13 16:00:00 +0000",
-          "endTime": "2026/10/13 18:20:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "Live 1",
-            "link": "https://live.vivo155.com/live/sd-1-4621426.m3u8?txSecret=46aea58b97bbd17f3c29d524f84898d6&txTime=6ACE678C|Referer=https://player.online878.com/&Origin=https://player.online878.com&User-Agent=Mozilla/5.0 (Linux; Android 16; DNY-NX9 Build/HONORDNY-N39; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/154.0.8037.106 Mobile Safari/537.36",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "HD SERVER ",
-            "link": "https://pull.streamviewk7x.click/livesp/sd-6Mxj4TCUxYcWhb11iS_autosp.m3u8?txSecret=fb6f6875308d4961ce1cc2ad141e96db&txTime=6ACFA700",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "BACKUP HD",
-            "link": "https://live2.jorvakstreamcache.com/live/channel6.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "LOW SERVER",
-            "link": "http://193.47.62.50/hls/I888AAAAQQQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
         "id": 13730,
         "title": "Al-Ittihad vs Shabab Al-Ahli Dubai",
         "image": "",
@@ -1295,8 +1201,32 @@
         },
         "channels_data": [
           {
+            "title": "Live 1",
+            "link": "https://live.vivo155.com/live/hd-en-1-4621484.m3u8?txSecret=87cd279d8842aac5bd3a75a1ec80e98a&txTime=6ACE8553|Referer=https://player.online878.com/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "ESPN NL HD",
+            "link": "https://netanjahu.hls.st/t/e6c99de39ba29483d34d39bef4e1517c/index.m3u8?|Referer=https://iplayer.is/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "HD SERVER ",
+            "link": "https://live.vivo155.com/live/sd-1-4621484.m3u8?txSecret=db5028f2c33a5fd6dc1af22a38626d5e&txTime=6ACE8553|Referer=https://player.online878.com/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
             "title": "LOW SERVER ",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "link": "http://193.47.62.50/hls/YY666AAQQQQQQQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
             "logo": "",
             "type": 0,
             "api": "",
@@ -1824,8 +1754,16 @@
         },
         "channels_data": [
           {
-            "title": "Live 1",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "title": "TNT SPORTS - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+            "logo": "",
+            "type": 7,
+            "api": "f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b",
+            "tokenApi": ""
+          },
+          {
+            "title": "HD SERVER ",
+            "link": "https://edgestream5.pro/hls/dazhfiach15.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://streame.center&Origin=https://streame.center",
             "logo": "",
             "type": 0,
             "api": "",
@@ -1851,8 +1789,8 @@
         },
         "channels_data": [
           {
-            "title": "Live 1",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "title": "HD QUALITY",
+            "link": "https://edgestream4.pro/hls/wfazgsqtrezu66.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://streame.center&Origin=https://streame.center",
             "logo": "",
             "type": 0,
             "api": "",
