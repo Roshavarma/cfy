@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-13T06:31:18.764420",
+  "last_updated": "2026-10-13T06:40:48.242278",
   "event_count": 56,
   "events": {
     "events": [
@@ -1057,8 +1057,16 @@
         },
         "channels_data": [
           {
-            "title": "Live 1",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "title": "HD SERVER ",
+            "link": "https://www.rtmpcdn.com/live/79eed6c2-1233-4e93-a910-62f7421a6e07.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "LOW SERVER ",
+            "link": "http://193.47.62.50/hls/REEE.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
             "logo": "",
             "type": 0,
             "api": "",
@@ -1998,7 +2006,7 @@
           "isHot": "0",
           "Status": "Live",
           "startTime": "2026/10/13 05:30:00 +0000",
-          "endTime": "2026/10/13 09:30:00 +0000"
+          "endTime": "2026/10/13 13:30:42 +0000"
         },
         "channels_data": [
           {
