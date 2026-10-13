@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-13T14:20:54.548455",
-  "event_count": 55,
+  "last_updated": "2026-10-13T14:31:14.206705",
+  "event_count": 53,
   "events": {
     "events": [
       {
@@ -1070,92 +1070,6 @@
         ]
       },
       {
-        "id": 13727,
-        "title": "Buriram United vs Beijing Guoan",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Buriram United",
-          "teamB": "Beijing Guoan",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/34218/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/3376/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/10/13 12:15:00 +0000",
-          "endTime": "2026/10/13 14:35:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "Live 1",
-            "link": "https://live.vivo155.com/live/hd-en-1-4621493.m3u8?txSecret=2a6fb305dee918ecd72a3ab153cfb90a&txTime=6ACE33FF|Referer=https://player.online878.com/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "HD SERVER ",
-            "link": "https://live.vivo155.com/live/sd-1-4621493.m3u8?txSecret=f7daab5881268f0463595e2213d98de6&txTime=6ACE33FF|Referer=https://player.online878.com/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "LOW SERVER ",
-            "link": "http://193.47.62.41/hls/FJJJAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 13728,
-        "title": "Cong An Ha Noi vs Kashima Antlers",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "C\u00f4ng An H\u00e0 N\u1ed9i",
-          "teamB": "Kashima Antlers",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/193616/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/3134/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/10/13 12:15:00 +0000",
-          "endTime": "2026/10/13 14:35:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "Live 1",
-            "link": "https://live.vivo155.com/live/hd-en-1-4621516.m3u8?txSecret=8f6298c1905ae201ae734afe9b492b16&txTime=6ACE3435|Referer=https://player.online878.com/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "HD SERVER ",
-            "link": "https://live.vivo155.com/live/sd-1-4621516.m3u8?txSecret=a03fea51124ec538a2a9e11cc33b450e&txTime=6ACE3435|Referer=https://player.online878.com/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "LOW SERVER ",
-            "link": "http://193.47.62.41/hls/FJJJAAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
         "id": 13729,
         "title": "Al-Sadd vs Al-Hilal",
         "image": "",
@@ -1200,7 +1114,7 @@
         },
         "channels_data": [
           {
-            "title": "Live 1",
+            "title": "LOW SERVER ",
             "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
             "logo": "",
             "type": 0,
