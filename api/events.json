@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-13T18:50:56.582712",
-  "event_count": 50,
+  "last_updated": "2026-10-13T19:01:29.639791",
+  "event_count": 48,
   "events": {
     "events": [
       {
@@ -730,244 +730,6 @@
         ]
       },
       {
-        "id": 13698,
-        "title": "RC Lens vs Sporting CP",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "RC Lens",
-          "teamB": "Sporting CP",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/1648/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/3001/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/10/13 16:45:00 +0000",
-          "endTime": "2026/10/13 19:05:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "TNT SPORTS - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-            "logo": "",
-            "type": 7,
-            "api": "f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b",
-            "tokenApi": ""
-          },
-          {
-            "title": "VIX SPANISH - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/sbi880xife/out/v1/c36180058f2a49a9ac8e96607922aa95/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "e769be6519e4b0e4fd5099357ecc147c:fea0e2b7fd2b1f07588132d56fe078eb",
-            "tokenApi": ""
-          },
-          {
-            "title": "Live 1",
-            "link": "https://live.vivo155.com/live/hd-en-1-4628445.m3u8?txSecret=ce707c15648209ff0604a55b63ea6087&txTime=6ACE6E5D|Referer=https://player.online878.com/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "STAN SPORTS HD",
-            "link": "https://netanjahu.hls.st/t/863a4f6350b6058ec7191aef2b169519/index.m3u8?|Referer=https://iplayer.is/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "PARAMOUNT+ HD",
-            "link": "https://netanjahu.hls.st/t/aede269f3d3925aaec921b45714b9bf8/index.m3u8?|Referer=https://iplayer.is/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "DAZN SPORTS HD",
-            "link": "https://netanjahu.hls.st/t/90c51b2fa29b392ba99fdc8a04e02301/index.m3u8?|Referer=https://iplayer.is/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "ARENA SPORTS HD",
-            "link": "https://netanjahu.hls.st/t/8e9ebd44fd87cb737846bbceddbbbe0c/index.m3u8?|Referer=https://iplayer.is/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "ZIGGO SPORT HD ",
-            "link": "https://netanjahu.hls.st/t/72daf7bd23d3c31e963702f8ed09e135/index.m3u8?|Referer=https://iplayer.is/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "CANAL+ SPORTS HD",
-            "link": "https://netanjahu.hls.st/t/aa94c2688d5e9d80b7e820dc5fc4f0ac/index.m3u8?|Referer=https://iplayer.is/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "HD SERVER ",
-            "link": "https://edgestream1.pro/hls/eJmauBDCIf.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://streame.center&Origin=https://streame.center",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "TAPMAD - AQ",
-            "link": "https://saseries.akamaized.net/hls/live/2110097/28593jkiL-tapmad/master.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "SonyLiv ",
-            "link": "https://sonymtmnew.akamaized.net/hls/live/2120301/Footlive1310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791951643~acl=/*~id=48008506554638385024598208552323~hmac=365fe173278ac77b8411a7f0651fbaf8ab5f196ca6594305ed9e6d446db4684a",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "Live 2",
-            "link": "https://www.rtmpcdn.com/live/6683df5e-b1a0-4833-970d-756f530bea18.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "LOW SERVER ",
-            "link": "http://193.47.62.41/hls/H999.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 13699,
-        "title": "Sabah FK vs SK Slavia Praha",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Sabah FK",
-          "teamB": "SK Slavia Praha",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/267828/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/2216/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/10/13 16:45:00 +0000",
-          "endTime": "2026/10/13 19:05:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "TNT SPORTS - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-            "logo": "",
-            "type": 7,
-            "api": "fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408",
-            "tokenApi": ""
-          },
-          {
-            "title": "VIX SPANISH - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/mfm0oerz72/out/v1/59dc0639d2c44432bf89984131478749/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "cf3ca9dfdd220846534578d88622d97d:7ce518f3de991da7be500f8458b7d6bb",
-            "tokenApi": ""
-          },
-          {
-            "title": "Live 1",
-            "link": "https://live.vivo155.com/live/hd-en-1-4628494.m3u8?txSecret=e8f2370dfc82be127e3afdfb6c6d0f7e&txTime=6ACE6E8C|Referer=https://player.online878.com/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "STAN SPORTS HD",
-            "link": "https://netanjahu.hls.st/t/4057f8a17a2ed443be386f9313363890/index.m3u8?|Referer=https://iplayer.is/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "PARAMOUNT+ HD",
-            "link": "https://netanjahu.hls.st/t/e2a225fb776182522f012d64978e7761/index.m3u8?|Referer=https://iplayer.is/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "DAZN SPORTS HD",
-            "link": "https://netanjahu.hls.st/t/2a7c1758eac7765117c59ed96a89ada3/index.m3u8?|Referer=https://iplayer.is/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "ARENA SPORTS HD",
-            "link": "https://netanjahu.hls.st/t/d3509e68fddfbb64da3d78fa73f1cb6e/index.m3u8?|Referer=https://iplayer.is/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "ZIGGO SPORT HD ",
-            "link": "https://netanjahu.hls.st/t/70f56dc6f848eb8a2d1989690d9603c4/index.m3u8?|Referer=https://iplayer.is/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "HD SERVER",
-            "link": "https://edgestream7.pro/hls/sqdahach1ax.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://streame.center&Origin=https://streame.center",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "Live 2",
-            "link": "https://www.rtmpcdn.com/live/77821c7a-a46b-46ed-b327-57c62acbbddf.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "LOW SERVER",
-            "link": "http://193.47.62.55/hls/H999A.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
         "id": 13700,
         "title": "Atletico Madrid vs Manchester United",
         "image": "",
@@ -979,22 +741,62 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/35/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/10/13 19:00:00 +0000",
           "endTime": "2026/10/13 21:20:00 +0000"
         },
         "channels_data": [
           {
-            "title": "FUBO SPORTS - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/1wlv9dr4vx/out/v1/632322be5f1047acb2472f90f8857182/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+            "title": "VIX SPANISH - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8akj9pufyn/out/v1/5edd423d949e412c98bf34042cb95d4e/cenc.mpd",
             "logo": "",
             "type": 7,
-            "api": "42f72c025dd53039244adc13b7e31dad:a7bd941a19f6dd14f3004a623a6ad3a1",
+            "api": "c37d2f7ce64f0c34b5c9975b7e095220:cd0d9f33984364d05b0079a04ece8d44",
             "tokenApi": ""
           },
           {
             "title": "Live 1",
             "link": "https://chatgpt.hereisman.net/playlist/57992/load-playlist?|Referer=https://gooz.aapmains.net",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "STAN SPORTS HD",
+            "link": "https://netanjahu.hls.st/t/da3a3dc8b3f1fb435bb537b907cbe7d2/index.m3u8?|Referer=https://iplayer.is/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "PARAMOUNT+ HD",
+            "link": "https://netanjahu.hls.st/t/bb4207168d5d0f97b8d00d027134a683/index.m3u8?|Referer=https://iplayer.is/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "DAZN SPORTS HD",
+            "link": "https://netanjahu.hls.st/t/f3a0732a8e6fbaca0b9322c10495a997/index.m3u8?|Referer=https://iplayer.is/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "ARENA SPORTS HD",
+            "link": "https://netanjahu.hls.st/t/3186d30c6e6bc31f495097476d968ba0/index.m3u8?|Referer=https://iplayer.is/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "CANA+ SPORTS HD",
+            "link": "https://netanjahu.hls.st/t/613c84ad0433c779d9a7a5a2e8300c43/index.m3u8?|Referer=https://iplayer.is/",
             "logo": "",
             "type": 0,
             "api": "",
@@ -1046,7 +848,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/1643/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/10/13 19:00:00 +0000",
           "endTime": "2026/10/13 21:20:00 +0000"
         },
@@ -1060,8 +862,56 @@
             "tokenApi": ""
           },
           {
+            "title": "VIX SPANISH - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/a6lfspkmlh/out/v1/d7683dec68ba4f86bfa5ddf4bd842020/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "8b43f93133bfffc44ec677f5aee99461:18e41489743e676ba219242f9a334b3c",
+            "tokenApi": ""
+          },
+          {
             "title": "TNT SPORTS HD",
             "link": "https://chatgpt.hereisman.net/playlist/57994/load-playlist?|Referer=https://gooz.aapmains.net",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "STAN SPORTS HD",
+            "link": "https://netanjahu.hls.st/t/e9768d7a911413e34940748cbdbbb501/index.m3u8?|Referer=https://iplayer.is/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "PARAMOUNT+ HD",
+            "link": "https://netanjahu.hls.st/t/d2e2e7c7972e0d9c1182a22e4e67b4e3/index.m3u8?|Referer=https://iplayer.is/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "DAZN SPORTS HD",
+            "link": "https://netanjahu.hls.st/t/a66716ed2d8c14ee9b496d18d92f7bd2/index.m3u8?|Referer=https://iplayer.is/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "ARENA SPORTS HD",
+            "link": "https://netanjahu.hls.st/t/34af5885af03931c9eee90910da107d4/index.m3u8?|Referer=https://iplayer.is/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "CANAL+ EXTRA HD",
+            "link": "https://netanjahu.hls.st/t/ea3446745a7fd039ca81aceb96dd07f6/index.m3u8?|Referer=https://iplayer.is/",
             "logo": "",
             "type": 0,
             "api": "",
@@ -1105,7 +955,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/2817/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/10/13 19:00:00 +0000",
           "endTime": "2026/10/13 21:20:00 +0000"
         },
@@ -1121,6 +971,46 @@
           {
             "title": "TNT SPORTS HD ",
             "link": "https://chatgpt.hereisman.net/playlist/57993/load-playlist?|Referer=https://gooz.aapmains.net ",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "STAN SPORTS HD",
+            "link": "https://netanjahu.hls.st/t/c305516b3961ed738b7e00e186c7910f/index.m3u8?|Referer=https://iplayer.is/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "PARAMOUNT+ HD",
+            "link": "https://netanjahu.hls.st/t/b837f14599cc2a316efe245280c25994/index.m3u8?|Referer=https://iplayer.is/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "DAZN SPORTS HD",
+            "link": "https://netanjahu.hls.st/t/1e107e7bfc5209e60c74c0456b6dff39/index.m3u8?|Referer=https://iplayer.is/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "ARENA SPORTS HD",
+            "link": "https://netanjahu.hls.st/t/4b74b5b4ef90f28d23339a1171af3407/index.m3u8?|Referer=https://iplayer.is/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "CANAL+ SPORTS HD",
+            "link": "https://netanjahu.hls.st/t/487c46af672ea99d877297b29d6bf761/index.m3u8?|Referer=https://iplayer.is/",
             "logo": "",
             "type": 0,
             "api": "",
@@ -1164,7 +1054,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/2888/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/10/13 19:00:00 +0000",
           "endTime": "2026/10/13 21:20:00 +0000"
         },
@@ -1172,6 +1062,30 @@
           {
             "title": "TNT SPORTS HD ",
             "link": "https://chatgpt.hereisman.net/playlist/57990/load-playlist?|Referer=https://gooz.aapmains.net",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "STAN SPORTS HD",
+            "link": "https://netanjahu.hls.st/t/b022059d2d1d832c4ecd90ebfb25143f/index.m3u8?|Referer=https://iplayer.is/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "PARAMOUNT+ HD",
+            "link": "https://netanjahu.hls.st/t/3687b104d1b572475f6e378ad8232950/index.m3u8?|Referer=https://iplayer.is/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "DAZN SPORTS HD",
+            "link": "https://netanjahu.hls.st/t/e12e8215edf430272b2e8e69d0e5ade4/index.m3u8?|Referer=https://iplayer.is/",
             "logo": "",
             "type": 0,
             "api": "",
@@ -1215,7 +1129,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/2952/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/10/13 19:00:00 +0000",
           "endTime": "2026/10/13 21:20:00 +0000"
         },
@@ -1258,7 +1172,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/2672/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/10/13 19:00:00 +0000",
           "endTime": "2026/10/13 21:20:00 +0000"
         },
@@ -1274,6 +1188,30 @@
           {
             "title": "TNT SPORTS HD",
             "link": "https://chatgpt.hereisman.net/playlist/57995/load-playlist?|Referer=https://gooz.aapmains.net",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "STAN SPORTS HD",
+            "link": "https://netanjahu.hls.st/t/22c4c591b47ea74f4511fce93dc998a4/index.m3u8?|Referer=https://iplayer.is/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "PARAMOUNT+ HD",
+            "link": "https://netanjahu.hls.st/t/ffb567838e7ce3d76ccf2dbedb17a7c4/index.m3u8?|Referer=https://iplayer.is/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "DAZN SPORTS HD",
+            "link": "https://netanjahu.hls.st/t/a120ea8c71c5f9dad91aa2c881a4e5ee/index.m3u8?|Referer=https://iplayer.is/",
             "logo": "",
             "type": 0,
             "api": "",
@@ -1317,7 +1255,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/2714/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/10/13 19:00:00 +0000",
           "endTime": "2026/10/13 21:20:00 +0000"
         },
@@ -1325,6 +1263,30 @@
           {
             "title": "Live 1",
             "link": "https://chatgpt.hereisman.net/playlist/57991/load-playlist?|Referer=https://gooz.aapmains.net",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "STAN SPORTS HD",
+            "link": "https://netanjahu.hls.st/t/a6dea5bb606e1b714d771bf2c99d65be/index.m3u8?|Referer=https://iplayer.is/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "PARAMOUNT+ HD",
+            "link": "https://netanjahu.hls.st/t/4751c0268db43ae6905044596b4a5f7b/index.m3u8?|Referer=https://iplayer.is/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "DAZN SPORTS HD",
+            "link": "https://netanjahu.hls.st/t/202328b0698cd8145979c1bd082d5000/index.m3u8?|Referer=https://iplayer.is/",
             "logo": "",
             "type": 0,
             "api": "",
@@ -1640,7 +1602,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/21/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/10/13 19:00:00 +0000",
           "endTime": "2026/10/13 21:20:00 +0000"
         },
@@ -1667,7 +1629,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/36/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/10/13 19:00:00 +0000",
           "endTime": "2026/10/13 21:20:00 +0000"
         },
