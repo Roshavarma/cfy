@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-13T15:50:48.833617",
-  "event_count": 53,
+  "last_updated": "2026-10-13T16:01:28.106717",
+  "event_count": 52,
   "events": {
     "events": [
       {
@@ -973,49 +973,6 @@
         ]
       },
       {
-        "id": 13714,
-        "title": "East Bengal FC vs Al-Shorta",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "East Bengal FC",
-          "teamB": "Al-Shorta",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/40655/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/61532/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/10/13 13:45:00 +0000",
-          "endTime": "2026/10/13 16:05:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "HD SERVER ",
-            "link": "https://live2.jorvakstreamcache.com/live/channel5.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "FANCODE - IN",
-            "link": "https://dai-fancode.pages.dev/mumbai/4248975_english_hls_f2d04e20b671338_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "LOW SERVER ",
-            "link": "http://193.47.62.55/hls/emmm.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
         "id": 13715,
         "title": "Al Seeb SC vs Al-Hussein Irbid",
         "image": "",
@@ -1027,14 +984,22 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/117204/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/10/13 16:00:00 +0000",
           "endTime": "2026/10/13 18:20:00 +0000"
         },
         "channels_data": [
           {
-            "title": "Live 1",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "title": "HD SERVER ",
+            "link": "https://live2.jorvakstreamcache.com/live/channel12.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "LOW SERVER ",
+            "link": "http://193.47.62.50/hls/I888AAAAQQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
             "logo": "",
             "type": 0,
             "api": "",
@@ -1081,14 +1046,22 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/21895/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/10/13 16:00:00 +0000",
           "endTime": "2026/10/13 18:20:00 +0000"
         },
         "channels_data": [
           {
-            "title": "Live 1",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "title": "HD SERVER ",
+            "link": "https://live2.jorvakstreamcache.com/live/channel6.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "LOW SERVER",
+            "link": "http://193.47.62.50/hls/I888AAAAQQQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
             "logo": "",
             "type": 0,
             "api": "",
