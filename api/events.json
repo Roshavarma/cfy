@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-13T12:10:57.407700",
+  "last_updated": "2026-10-13T12:20:54.428534",
   "event_count": 52,
   "events": {
     "events": [
@@ -1124,11 +1124,27 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/3376/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/10/13 12:15:00 +0000",
           "endTime": "2026/10/13 14:35:00 +0000"
         },
         "channels_data": [
+          {
+            "title": "Live 1",
+            "link": "https://live.vivo155.com/live/hd-en-1-4621493.m3u8?txSecret=2a6fb305dee918ecd72a3ab153cfb90a&txTime=6ACE33FF|Referer=https://player.online878.com/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "HD SERVER ",
+            "link": "https://live.vivo155.com/live/sd-1-4621493.m3u8?txSecret=f7daab5881268f0463595e2213d98de6&txTime=6ACE33FF|Referer=https://player.online878.com/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
           {
             "title": "LOW SERVER ",
             "link": "http://193.47.62.41/hls/FJJJAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
@@ -1151,11 +1167,27 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/3134/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/10/13 12:15:00 +0000",
           "endTime": "2026/10/13 14:35:00 +0000"
         },
         "channels_data": [
+          {
+            "title": "Live 1",
+            "link": "https://live.vivo155.com/live/hd-en-1-4621516.m3u8?txSecret=8f6298c1905ae201ae734afe9b492b16&txTime=6ACE3435|Referer=https://player.online878.com/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "HD SERVER ",
+            "link": "https://live.vivo155.com/live/sd-1-4621516.m3u8?txSecret=a03fea51124ec538a2a9e11cc33b450e&txTime=6ACE3435|Referer=https://player.online878.com/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
           {
             "title": "LOW SERVER ",
             "link": "http://193.47.62.41/hls/FJJJAAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
