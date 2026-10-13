@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-13T16:40:52.282367",
+  "last_updated": "2026-10-13T16:50:58.440698",
   "event_count": 52,
   "events": {
     "events": [
@@ -741,7 +741,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/3001/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/10/13 16:45:00 +0000",
           "endTime": "2026/10/13 19:05:00 +0000"
         },
@@ -760,6 +760,14 @@
             "logo": "",
             "type": 7,
             "api": "e769be6519e4b0e4fd5099357ecc147c:fea0e2b7fd2b1f07588132d56fe078eb",
+            "tokenApi": ""
+          },
+          {
+            "title": "Live 1",
+            "link": "https://live.vivo155.com/live/hd-en-1-4628445.m3u8?txSecret=ce707c15648209ff0604a55b63ea6087&txTime=6ACE6E5D|Referer=https://player.online878.com/",
+            "logo": "",
+            "type": 0,
+            "api": "",
             "tokenApi": ""
           },
           {
@@ -811,16 +819,24 @@
             "tokenApi": ""
           },
           {
-            "title": "Live 1",
-            "link": "https://live.vivo155.com/live/hd-en-1-4628445.m3u8?txSecret=ce707c15648209ff0604a55b63ea6087&txTime=6ACE6E5D|Referer=https://player.online878.com/",
+            "title": "HD SERVER ",
+            "link": "https://edgestream1.pro/hls/eJmauBDCIf.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://streame.center&Origin=https://streame.center",
             "logo": "",
             "type": 0,
             "api": "",
             "tokenApi": ""
           },
           {
-            "title": "HD SERVER ",
-            "link": "https://edgestream1.pro/hls/eJmauBDCIf.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://streame.center&Origin=https://streame.center",
+            "title": "TAPMAD - AQ",
+            "link": "https://saseries.akamaized.net/hls/live/2110097/28593jkiL-tapmad/master.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "SonyLiv ",
+            "link": "https://sonymtmnew.akamaized.net/hls/live/2120301/Footlive1310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791951643~acl=/*~id=48008506554638385024598208552323~hmac=365fe173278ac77b8411a7f0651fbaf8ab5f196ca6594305ed9e6d446db4684a",
             "logo": "",
             "type": 0,
             "api": "",
@@ -856,7 +872,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/2216/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/10/13 16:45:00 +0000",
           "endTime": "2026/10/13 19:05:00 +0000"
         },
