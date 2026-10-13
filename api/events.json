@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-13T12:01:21.903727",
-  "event_count": 55,
+  "last_updated": "2026-10-13T12:10:57.407700",
+  "event_count": 52,
   "events": {
     "events": [
       {
@@ -366,9 +366,9 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/187746/image",
           "eventName": "Cricket",
           "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/10/13 07:30:09 +0000",
-          "endTime": "2026/10/13 17:00:12 +0000"
+          "Status": "Upcoming",
+          "startTime": "2026/10/18 08:00:57 +0000",
+          "endTime": "2026/10/18 16:00:02 +0000"
         },
         "channels_data": [
           {
@@ -1113,167 +1113,6 @@
         ]
       },
       {
-        "id": 13724,
-        "title": "Kyoto Sanga FC vs Ratchaburi",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Kyoto Sanga FC",
-          "teamB": "Ratchaburi",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/3149/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/85743/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/10/13 10:00:00 +0000",
-          "endTime": "2026/10/13 12:20:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "Live 1",
-            "link": "https://live.vivo155.com/live/hd-en-1-4621547.m3u8?txSecret=668a93fb6552e2b55922518026538766&txTime=6ACE0FF9|Referer=https://player.online878.com/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "HD SERVER ",
-            "link": "https://live.vivo155.com/live/sd-1-4621547.m3u8?txSecret=773bc378ada032f240c8754ec66eb7df&txTime=6ACE0FF9|Referer=https://player.online878.com/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "Live 2",
-            "link": "https://www.rtmpcdn.com/live/b77997dc-9ec8-4407-b5f5-1491143b5109.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "LOW SERVER ",
-            "link": "http://193.47.62.41/hls/BABABA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 13725,
-        "title": "Pohang Steelers vs Johor Darul Tazim",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Pohang Steelers",
-          "teamB": "Johor Darul Ta'zim",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/7650/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/3327/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/10/13 10:00:00 +0000",
-          "endTime": "2026/10/13 12:20:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "Live 1",
-            "link": "https://live.vivo155.com/live/hd-en-1-4621535.m3u8?txSecret=01feadf769b692d5b0c26dfffe2e731d&txTime=6ACE1019|Referer=https://player.online878.com/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "HD SERVER ",
-            "link": "https://live.vivo155.com/live/sd-1-4621535.m3u8?txSecret=b5fe052409e5f4d5846fb004cbb86a6d&txTime=6ACE1019|Referer=https://player.online878.com/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "Live 2",
-            "link": "https://www.rtmpcdn.com/live/ba41a433-fdc3-4d61-a4b3-ec426b99d5aa.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "LOW SERVER ",
-            "link": "http://193.47.62.41/hls/BABABAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 13726,
-        "title": "Shanghai Port vs Daejeon Hana Citizen",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Shanghai Port",
-          "teamB": "Daejeon Hana Citizen",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/41537/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/7645/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/10/13 10:00:00 +0000",
-          "endTime": "2026/10/13 12:20:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "Live 1",
-            "link": "https://live.vivo155.com/live/hd-en-1-4621467.m3u8?txSecret=e5debd78ae89d78554e7354bce0e12e8&txTime=6ACE1042|Referer=https://player.online878.com/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "SportKlub HD",
-            "link": "https://netanjahu.hls.st/t/7d306d273e62ab55caa078a99b80c758/index.m3u8?|Referer=https://iplayer.is/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "HD SERVER ",
-            "link": "https://live.vivo155.com/live/sd-1-4621467.m3u8?txSecret=68688bf02f7838631858a541dc5d0ba3&txTime=6ACE1042|Referer=https://player.online878.com/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "Live 2",
-            "link": "https://www.rtmpcdn.com/live/f325f4bc-3b78-4ad4-80c9-c77b65520d86.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "LOW SERVER ",
-            "link": "http://193.47.62.41/hls/BABABAAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
         "id": 13727,
         "title": "Buriram United vs Beijing Guoan",
         "image": "",
@@ -1291,8 +1130,8 @@
         },
         "channels_data": [
           {
-            "title": "Live 1",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "title": "LOW SERVER ",
+            "link": "http://193.47.62.41/hls/FJJJAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
             "logo": "",
             "type": 0,
             "api": "",
@@ -1318,8 +1157,8 @@
         },
         "channels_data": [
           {
-            "title": "Live 1",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "title": "LOW SERVER ",
+            "link": "http://193.47.62.41/hls/FJJJAAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
             "logo": "",
             "type": 0,
             "api": "",
