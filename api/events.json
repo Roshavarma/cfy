@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-14T18:01:39.536032",
-  "event_count": 43,
+  "last_updated": "2026-10-14T18:11:03.664097",
+  "event_count": 40,
   "events": {
     "events": [
       {
@@ -889,8 +889,16 @@
         },
         "channels_data": [
           {
+            "title": "HD SERVER",
+            "link": "https://edgestream1.pro/hls/b0h5fNwDKH.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://streame.center&Origin=https://streame.center",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
             "title": "Live 1",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "link": "https://www.rtmpcdn.com/live/cf67fc84-86d8-44c8-8d82-41825cd5242a.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
             "logo": "",
             "type": 0,
             "api": "",
@@ -909,7 +917,7 @@
           "teamAFlag": "https://img.sofascore.com/api/v1/team/17/image",
           "teamBFlag": "https://img.sofascore.com/api/v1/team/1644/image",
           "eventName": "Football",
-          "isHot": "0",
+          "isHot": "1",
           "Status": "Upcoming",
           "startTime": "2026/10/14 19:00:00 +0000",
           "endTime": "2026/10/14 21:20:00 +0000"
@@ -921,6 +929,22 @@
             "logo": "",
             "type": 7,
             "api": "69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749",
+            "tokenApi": ""
+          },
+          {
+            "title": "HD SERVER ",
+            "link": "https://edgestream5.pro/hls/24SDAZFcsqnj24.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://streame.center&Origin=https://streame.center",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "Live 1",
+            "link": "https://www.rtmpcdn.com/live/bd4de51a-b864-479b-a487-d6d2ea65ba17.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+            "logo": "",
+            "type": 0,
+            "api": "",
             "tokenApi": ""
           }
         ]
@@ -963,7 +987,7 @@
           "teamAFlag": "https://img.sofascore.com/api/v1/team/2702/image",
           "teamBFlag": "https://img.sofascore.com/api/v1/team/2829/image",
           "eventName": "Football",
-          "isHot": "0",
+          "isHot": "1",
           "Status": "Upcoming",
           "startTime": "2026/10/14 19:00:00 +0000",
           "endTime": "2026/10/14 21:20:00 +0000"
@@ -975,6 +999,30 @@
             "logo": "",
             "type": 7,
             "api": "fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408",
+            "tokenApi": ""
+          },
+          {
+            "title": "HD SERVER",
+            "link": "https://edgestream7.pro/hls/sqdahach1ax.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://streame.center&Origin=https://streame.center",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "Live 1",
+            "link": "https://edgestream5.pro/hls/377qj1h2727.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://streame.center&Origin=https://streame.center",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "Live 2",
+            "link": "https://www.rtmpcdn.com/live/cd6a62e6-e684-49da-b7e5-3b3e7a1160f1.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+            "logo": "",
+            "type": 0,
+            "api": "",
             "tokenApi": ""
           }
         ]
@@ -1169,76 +1217,6 @@
         ]
       },
       {
-        "id": 13763,
-        "title": "Al-Jazira vs Arkadag FK",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Al-Jazira",
-          "teamB": "Arkadag FK",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/8090/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/469420/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/10/14 16:00:00 +0000",
-          "endTime": "2026/10/14 18:20:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "Live 1",
-            "link": "https://live.vivo155.com/live/hd-en-1-4621313.m3u8?txSecret=0cbdbd5a2645dac88d05a564f8599b2d&txTime=6ACFB9DD|Referer=https://player.online878.com/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "LOW SERVER",
-            "link": "http://193.47.62.59/hls/T888AAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 13764,
-        "title": "Al-Taawoun vs Al-Rayyan",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Al-Taawoun",
-          "teamB": "Al-Rayyan",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/56021/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/40660/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/10/14 16:00:00 +0000",
-          "endTime": "2026/10/14 18:20:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "Live 1",
-            "link": "https://live.vivo155.com/live/hd-en-1-4621325.m3u8?txSecret=e710520f9571261bb3f95a69ef8ef759&txTime=6ACFBA3B|Referer=https://player.online878.com/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "LOW SERVER",
-            "link": "http://193.47.62.59/hls/T888AAAAQQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
         "id": 13765,
         "title": "Al Kuwait SC vs Al Khaldiya",
         "image": "",
@@ -1274,41 +1252,6 @@
         ]
       },
       {
-        "id": 13766,
-        "title": "Al-Muharraq SC vs Gol Gohar Sirjan",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Al-Muharraq SC",
-          "teamB": "Gol Gohar Sirjan",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/45474/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/275525/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/10/14 16:00:00 +0000",
-          "endTime": "2026/10/14 18:20:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "Live 1",
-            "link": "https://live.vivo155.com/live/hd-en-1-4621320.m3u8?txSecret=fe082b3be3bca22fd85ac1e8c1125273&txTime=6ACFBA1E|Referer=https://player.online878.com/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "LOW SERVER",
-            "link": "http://193.47.62.59/hls/T888AAAAQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
         "id": 13767,
         "title": "Al Faisaly SC vs Al Nahda SC",
         "image": "",
@@ -1326,8 +1269,8 @@
         },
         "channels_data": [
           {
-            "title": "Live 1",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "title": "LOW SERVER",
+            "link": "http://193.47.62.59/hls/BGBGBGA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
             "logo": "",
             "type": 0,
             "api": "",
