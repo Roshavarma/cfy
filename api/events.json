@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-14T15:01:37.641326",
-  "event_count": 45,
+  "last_updated": "2026-10-14T15:10:53.508395",
+  "event_count": 44,
   "events": {
     "events": [
       {
@@ -508,8 +508,8 @@
           "teamBFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkZ0c8Wb0slhQCjc_XsPzMuqyX52rG-yapyEgJpdSmSQ&s=10",
           "eventName": "Cricket",
           "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/10/14 11:30:18 +0000",
+          "Status": "Upcoming",
+          "startTime": "2026/10/14 15:30:50 +0000",
           "endTime": "2026/10/14 20:00:22 +0000"
         },
         "channels_data": [
@@ -555,7 +555,7 @@
           },
           {
             "title": "FANCODE - IN",
-            "link": "https://dai-fancode.pages.dev/mumbai/4249239_english_hls_773d044bec81561_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/",
+            "link": "https://dai-fancode.pages.dev/mumbai/4249240_english_hls_9014cddb1965998_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/",
             "logo": "",
             "type": 0,
             "api": "",
@@ -993,41 +993,6 @@
           {
             "title": "Live 1",
             "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 13761,
-        "title": "Persib Bandung vs The Cong - Viettel",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Persib Bandung",
-          "teamB": "Th\u1ec3 C\u00f4ng - Viettel",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/64289/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/231270/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Finish",
-          "startTime": "2026/10/14 12:15:00 +0000",
-          "endTime": "2026/10/14 14:35:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "HD SERVER ",
-            "link": "https://live2.jorvakstreamcache.com/live/channel15.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "LOW SERVER",
-            "link": "http://193.47.62.59/hls/bzzzq.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
             "logo": "",
             "type": 0,
             "api": "",
