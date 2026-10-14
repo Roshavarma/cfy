@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-14T10:10:50.923740",
-  "event_count": 39,
+  "last_updated": "2026-10-14T10:20:57.711584",
+  "event_count": 47,
   "events": {
     "events": [
       {
@@ -696,11 +696,11 @@
         },
         "channels_data": [
           {
-            "title": "Live 1",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "title": "TNT SPORTS - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
             "logo": "",
-            "type": 0,
-            "api": "",
+            "type": 7,
+            "api": "fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408",
             "tokenApi": ""
           }
         ]
@@ -723,11 +723,11 @@
         },
         "channels_data": [
           {
-            "title": "Live 1",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "title": "TNT SPORTS - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
             "logo": "",
-            "type": 0,
-            "api": "",
+            "type": 7,
+            "api": "f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b",
             "tokenApi": ""
           }
         ]
@@ -804,11 +804,11 @@
         },
         "channels_data": [
           {
-            "title": "Live 1",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "title": "TNT SPORTS - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
             "logo": "",
-            "type": 0,
-            "api": "",
+            "type": 7,
+            "api": "69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749",
             "tokenApi": ""
           }
         ]
@@ -858,11 +858,11 @@
         },
         "channels_data": [
           {
-            "title": "Live 1",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "title": "TNT SPORTS - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
             "logo": "",
-            "type": 0,
-            "api": "",
+            "type": 7,
+            "api": "fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408",
             "tokenApi": ""
           }
         ]
@@ -1277,6 +1277,14 @@
             "type": 0,
             "api": "",
             "tokenApi": ""
+          },
+          {
+            "title": "LOW SERVER",
+            "link": "http://193.47.62.59/hls/g222AAAAAQQQQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
           }
         ]
       },
@@ -1508,6 +1516,222 @@
           "Status": "Upcoming",
           "startTime": "2026/10/15 00:30:00 +0000",
           "endTime": "2026/10/15 02:50:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Live 1",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 13777,
+        "title": "Los Angeles Dodgers vs Milwaukee Brewers",
+        "image": "",
+        "cat": "Baseball",
+        "eventInfo": {
+          "teamA": "Los Angeles Dodgers",
+          "teamB": "Milwaukee Brewers",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3638/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3630/image",
+          "eventName": "Baseball",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/10/15 00:00:00 +0000",
+          "endTime": "2026/10/15 03:00:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Live 1",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 13778,
+        "title": "Boston Celtics vs Charlotte Hornets",
+        "image": "",
+        "cat": "Basketball",
+        "eventInfo": {
+          "teamA": "Boston Celtics",
+          "teamB": "Charlotte Hornets",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3422/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3430/image",
+          "eventName": "Basketball",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/10/14 23:30:00 +0000",
+          "endTime": "2026/10/15 02:00:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Live 1",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 13779,
+        "title": "Miami Heat vs Brooklyn Nets",
+        "image": "",
+        "cat": "Basketball",
+        "eventInfo": {
+          "teamA": "Miami Heat",
+          "teamB": "Brooklyn Nets",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3435/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3436/image",
+          "eventName": "Basketball",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/10/14 23:30:00 +0000",
+          "endTime": "2026/10/15 02:00:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Live 1",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 13780,
+        "title": "San Antonio Spurs vs Phoenix Suns",
+        "image": "",
+        "cat": "Basketball",
+        "eventInfo": {
+          "teamA": "San Antonio Spurs",
+          "teamB": "Phoenix Suns",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3429/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3416/image",
+          "eventName": "Basketball",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/10/15 00:00:00 +0000",
+          "endTime": "2026/10/15 02:30:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Live 1",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 13781,
+        "title": "Milwaukee Bucks vs Chicago Bulls",
+        "image": "",
+        "cat": "Basketball",
+        "eventInfo": {
+          "teamA": "Milwaukee Bucks",
+          "teamB": "Chicago Bulls",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3410/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3409/image",
+          "eventName": "Basketball",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/10/15 00:00:00 +0000",
+          "endTime": "2026/10/15 02:30:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Live 1",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 13782,
+        "title": "Minnesota Timberwolves vs Detroit Pistons",
+        "image": "",
+        "cat": "Basketball",
+        "eventInfo": {
+          "teamA": "Minnesota Timberwolves",
+          "teamB": "Detroit Pistons",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3426/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3424/image",
+          "eventName": "Basketball",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/10/15 00:00:00 +0000",
+          "endTime": "2026/10/15 02:30:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Live 1",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 13783,
+        "title": "Dallas Mavericks vs New Orleans Pelicans",
+        "image": "",
+        "cat": "Basketball",
+        "eventInfo": {
+          "teamA": "Dallas Mavericks",
+          "teamB": "New Orleans Pelicans",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3411/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/5539/image",
+          "eventName": "Basketball",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/10/15 00:00:00 +0000",
+          "endTime": "2026/10/15 02:30:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Live 1",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 13784,
+        "title": "Los Angeles Clippers vs Denver Nuggets",
+        "image": "",
+        "cat": "Basketball",
+        "eventInfo": {
+          "teamA": "Los Angeles Clippers",
+          "teamB": "Denver Nuggets",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3425/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3417/image",
+          "eventName": "Basketball",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/10/15 02:30:00 +0000",
+          "endTime": "2026/10/15 05:00:00 +0000"
         },
         "channels_data": [
           {
