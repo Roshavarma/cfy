@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-15T19:01:46.899382",
+  "last_updated": "2026-10-15T19:11:23.983177",
   "event_count": 83,
   "events": {
     "events": [
@@ -804,7 +804,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/5202/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Live",
+          "Status": "Finish",
           "startTime": "2026/10/15 16:45:00 +0000",
           "endTime": "2026/10/15 19:05:00 +0000"
         },
@@ -863,7 +863,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/2681/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Live",
+          "Status": "Finish",
           "startTime": "2026/10/15 16:45:00 +0000",
           "endTime": "2026/10/15 19:05:00 +0000"
         },
@@ -922,7 +922,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/3395/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Live",
+          "Status": "Finish",
           "startTime": "2026/10/15 16:45:00 +0000",
           "endTime": "2026/10/15 19:05:00 +0000"
         },
@@ -981,7 +981,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/7/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Live",
+          "Status": "Finish",
           "startTime": "2026/10/15 16:45:00 +0000",
           "endTime": "2026/10/15 19:05:00 +0000"
         },
@@ -1064,7 +1064,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/2692/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Live",
+          "Status": "Finish",
           "startTime": "2026/10/15 16:45:00 +0000",
           "endTime": "2026/10/15 19:05:00 +0000"
         },
@@ -1139,7 +1139,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/664/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Live",
+          "Status": "Finish",
           "startTime": "2026/10/15 16:45:00 +0000",
           "endTime": "2026/10/15 19:05:00 +0000"
         },
@@ -1190,7 +1190,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/2824/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Live",
+          "Status": "Finish",
           "startTime": "2026/10/15 16:45:00 +0000",
           "endTime": "2026/10/15 19:05:00 +0000"
         },
@@ -1249,7 +1249,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/41/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Live",
+          "Status": "Finish",
           "startTime": "2026/10/15 16:45:00 +0000",
           "endTime": "2026/10/15 19:05:00 +0000"
         },
@@ -1472,8 +1472,24 @@
         },
         "channels_data": [
           {
+            "title": "VIX SPANISH - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/kl7kmuufdr/out/v1/c8dfa6294cb34255a3a6ba81fbf286f7/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "a69672f9dce02fb783b1be909fce9145:43b50482d038ae71504797ad34770a7b",
+            "tokenApi": ""
+          },
+          {
             "title": "PARAMOUNT+ HD",
             "link": "https://chatgpt.hereisman.net/playlist/58072/load-playlist-multi?|Referer=https://gooz.aapmains.net",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "Live 1",
+            "link": "https://live.vivo155.com/live/hd-en-1-4630531.m3u8?txSecret=bab612fd49e1ce49bb8841a039d43fba&txTime=6AD13300|Referer=https://player.online878.com/",
             "logo": "",
             "type": 0,
             "api": "",
@@ -1490,6 +1506,14 @@
           {
             "title": "CBS SPORTS HD",
             "link": "https://netanjahu.hls.st/t/66e794a110f7b5df7d9a023e248f0718/index.m3u8?|Referer=https://iplayer.is/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "SonyLiv ",
+            "link": "https://sonymtmnew.akamaized.net/hls/live/2105079/Footlive1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792129827~acl=/*~id=f3e747f49cc7daffa5250f54294624ed-1792086601557~hmac=abab228d17136460a8e2a3328c2006410d2ac21fc5bb7be398dc2a0286433b4d|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:157.0) Gecko/20100101 Firefox/157.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=6253d580d1d3139b40a73ee38ebb65ef-1792090202087",
             "logo": "",
             "type": 0,
             "api": "",
@@ -1530,6 +1554,14 @@
           "endTime": "2026/10/15 21:20:00 +0000"
         },
         "channels_data": [
+          {
+            "title": "VIX SPANISH - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cepxt2lcgz/out/v1/d7683dec68ba4f86bfa5ddf4bd842020/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "41002f213a03a1c8c55f383e4571262f:ba0ace630b68106d9a4e73b09b167a74",
+            "tokenApi": ""
+          },
           {
             "title": "Live 1",
             "link": "https://live.vivo155.com/live/hd-en-1-4630544.m3u8?txSecret=d4e53347cfe1778d2a8cc9ce6ab3654e&txTime=6AD13341|Referer=https://player.online878.com/",
@@ -1707,6 +1739,14 @@
           "endTime": "2026/10/15 21:20:00 +0000"
         },
         "channels_data": [
+          {
+            "title": "VIX SPANISH - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/lqrtbor4qx/out/v1/beb2768ac7d0435bab70ce5cd6231ad7/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "cc1abcc183237886dc93c24505cdcdd1:e205866842e0fb75fa535f8c0ef504f9",
+            "tokenApi": ""
+          },
           {
             "title": "Live 1",
             "link": "https://live.vivo155.com/live/hd-en-1-4630563.m3u8?txSecret=a1711de59bb61d721a6d6a9400cbc5eb&txTime=6AD132C1|Referer=https://player.online878.com/",
@@ -1946,7 +1986,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/1653/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Live",
+          "Status": "Finish",
           "startTime": "2026/10/15 16:45:00 +0000",
           "endTime": "2026/10/15 19:05:00 +0000"
         },
@@ -1997,7 +2037,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/2953/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Live",
+          "Status": "Finish",
           "startTime": "2026/10/15 16:45:00 +0000",
           "endTime": "2026/10/15 19:05:00 +0000"
         },
@@ -2072,7 +2112,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/3051/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Live",
+          "Status": "Finish",
           "startTime": "2026/10/15 16:45:00 +0000",
           "endTime": "2026/10/15 19:05:00 +0000"
         },
@@ -2274,7 +2314,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/1289/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Live",
+          "Status": "Finish",
           "startTime": "2026/10/15 16:45:00 +0000",
           "endTime": "2026/10/15 19:05:00 +0000"
         },
@@ -2325,7 +2365,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/1291/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Live",
+          "Status": "Finish",
           "startTime": "2026/10/15 16:45:00 +0000",
           "endTime": "2026/10/15 19:05:00 +0000"
         },
@@ -2376,7 +2416,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/5149/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Live",
+          "Status": "Finish",
           "startTime": "2026/10/15 16:45:00 +0000",
           "endTime": "2026/10/15 19:05:00 +0000"
         },
@@ -2427,7 +2467,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/37946/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Live",
+          "Status": "Finish",
           "startTime": "2026/10/15 16:45:00 +0000",
           "endTime": "2026/10/15 19:05:00 +0000"
         },
@@ -2478,7 +2518,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/2859/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Live",
+          "Status": "Finish",
           "startTime": "2026/10/15 16:45:00 +0000",
           "endTime": "2026/10/15 19:05:00 +0000"
         },
@@ -2526,6 +2566,14 @@
           "endTime": "2026/10/15 21:20:00 +0000"
         },
         "channels_data": [
+          {
+            "title": "VIX SPANISH - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/9tc8ad1n1c/out/v1/b5ef208fdea84ed8a2f0aefe7fdb86cf/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "aeba1bb5c8b0fbebf75be4c1e0da8abc:b7076632c5f6a22211190108393ed0d0",
+            "tokenApi": ""
+          },
           {
             "title": "CBS SPORTS HD",
             "link": "https://netanjahu.hls.st/t/bce15859823339b39184226c64e5e9e9/index.m3u8?|Referer=https://iplayer.is/",
@@ -2723,6 +2771,14 @@
         },
         "channels_data": [
           {
+            "title": "VIX SPANISH - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/18vzs9qlwv/out/v1/4df741b740c1401a93dd7f933bdde012/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "25e66b34d2e44ffec33fa0333cf65ded:be64ba039c84fadafe9b2b9bbc472281",
+            "tokenApi": ""
+          },
+          {
             "title": "CBS SPORTS HD",
             "link": "https://netanjahu.hls.st/t/6954574b41f909f0756c1ef5a8527b25/index.m3u8?|Referer=https://iplayer.is/",
             "logo": "",
@@ -2824,6 +2880,14 @@
           "endTime": "2026/10/15 21:20:00 +0000"
         },
         "channels_data": [
+          {
+            "title": "VIX SPANISH - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/befk04wowq/out/v1/7c7d16e0b54848b0ba34ec2d68d0b638/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "031c3c697d70c5e3426c4456027be63f:55ed1ca898be4d8144dc0e9a708c5a0b",
+            "tokenApi": ""
+          },
           {
             "title": "Live 1",
             "link": "https://live.uu1pp.com/sport/202_5741675_1.m3u8?txSecret=e2248261bab44bf8c09f837262306d99&txTime=6AD16904|Referer=https://player.up909.com/",
