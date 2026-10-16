@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-16T18:41:05.697140",
+  "last_updated": "2026-10-16T18:51:02.237837",
   "event_count": 59,
   "events": {
     "events": [
@@ -1224,7 +1224,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/2793/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/10/16 18:45:00 +0000",
           "endTime": "2026/10/16 21:05:00 +0000"
         },
@@ -1394,7 +1394,15 @@
             "tokenApi": ""
           },
           {
-            "title": "HD SERVER",
+            "title": "FANCODE - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+            "logo": "",
+            "type": 7,
+            "api": "1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835",
+            "tokenApi": ""
+          },
+          {
+            "title": "ESPN DEPORTES HD",
             "link": "https://edgestream5.pro/hls/377qj1h2727.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://streame.center&Origin=https://streame.center",
             "logo": "",
             "type": 0,
@@ -1402,7 +1410,7 @@
             "tokenApi": ""
           },
           {
-            "title": "Live 1",
+            "title": "HD SERVER",
             "link": "https://www.rtmpcdn.com/live/87930aa5-8315-4fa0-9cd1-b1b31944fe8c.m3u8",
             "logo": "",
             "type": 0,
@@ -1539,11 +1547,19 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/1681/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/10/16 18:45:00 +0000",
           "endTime": "2026/10/16 21:05:00 +0000"
         },
         "channels_data": [
+          {
+            "title": "beIN SPANISH HD",
+            "link": "https://tedesco.formaturamaxi.com.br/beines.m3u8?|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
           {
             "title": "Live 1",
             "link": "https://live.vivo155.com/live/hd-en-1-4550898.m3u8?txSecret=af74616186573dbe4c3aceacbb2d25d2&txTime=6AD282C0|Referer=https://player.online878.com/",
