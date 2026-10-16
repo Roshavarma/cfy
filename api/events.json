@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-16T18:51:02.237837",
-  "event_count": 59,
+  "last_updated": "2026-10-16T19:01:22.134880",
+  "event_count": 58,
   "events": {
     "events": [
       {
@@ -1380,7 +1380,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/2849/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/10/16 19:00:00 +0000",
           "endTime": "2026/10/16 21:20:00 +0000"
         },
@@ -1404,6 +1404,14 @@
           {
             "title": "ESPN DEPORTES HD",
             "link": "https://edgestream5.pro/hls/377qj1h2727.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://streame.center&Origin=https://streame.center",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "Live 1",
+            "link": "https://live.vivo155.com/live/hd-en-1-4565452.m3u8?txSecret=276ac84a60f4d466029dfa9b99bd8f48&txTime=6AD28703|Referer=https://player.online878.com/",
             "logo": "",
             "type": 0,
             "api": "",
@@ -1741,7 +1749,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/3/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/10/16 19:00:00 +0000",
           "endTime": "2026/10/16 21:20:00 +0000"
         },
@@ -1763,8 +1771,16 @@
             "tokenApi": ""
           },
           {
-            "title": "Live 1",
+            "title": "PARAMOUNT+ HD",
             "link": "https://chatgpt.hereisman.net/playlist/58100/load-playlist-multi?|Referer=https://gooz.aapmains.net",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "Live 1",
+            "link": "https://live.vivo155.com/live/sd-1-4563626.m3u8?txSecret=caf96a33182a8f30fcc9498c4456fc03&txTime=6AD28764|Referer=https://player.online878.com/",
             "logo": "",
             "type": 0,
             "api": "",
@@ -1851,33 +1867,6 @@
           {
             "title": "LOW SERVER ",
             "link": "http://193.47.62.59/hls/4HHHAAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 13866,
-        "title": "Corum FK vs Caykur Rizespor",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "\u00c7orum FK",
-          "teamB": "\u00c7aykur Rizespor",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/77629/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/3064/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/10/16 17:00:00 +0000",
-          "endTime": "2026/10/16 19:20:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "LOW SERVER",
-            "link": "http://193.47.62.50/hls/OFFFA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
             "logo": "",
             "type": 0,
             "api": "",
