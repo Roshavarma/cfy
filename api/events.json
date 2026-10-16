@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-16T13:20:57.581101",
+  "last_updated": "2026-10-16T13:31:20.717332",
   "event_count": 62,
   "events": {
     "events": [
@@ -634,17 +634,41 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/417062/image",
           "eventName": "Cricket",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/10/16 13:30:00 +0000",
           "endTime": "2026/10/16 17:30:00 +0000"
         },
         "channels_data": [
           {
-            "title": "Live 1",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "title": "WILLOW - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/oazcbevnl7/out/v1/bda05b242720469ca9fb9fabbde64cc2/cenc.mpd",
             "logo": "",
-            "type": 0,
-            "api": "",
+            "type": 7,
+            "api": "bfeaf0c7782327ca574f32b1629080b6:c03b21556a4cf97130228258de3fe45d",
+            "tokenApi": ""
+          },
+          {
+            "title": "TNT SPORTS - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749",
+            "tokenApi": ""
+          },
+          {
+            "title": "WILLOW - ALT",
+            "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/oazcbevnl7/out/v1/bda05b242720469ca9fb9fabbde64cc2/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "bfeaf0c7782327ca574f32b1629080b6:c03b21556a4cf97130228258de3fe45d",
+            "tokenApi": ""
+          },
+          {
+            "title": "WILLOW HD",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
             "tokenApi": ""
           }
         ]
