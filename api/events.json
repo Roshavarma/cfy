@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-16T15:20:51.899182",
-  "event_count": 62,
+  "last_updated": "2026-10-16T15:31:19.604212",
+  "event_count": 61,
   "events": {
     "events": [
       {
@@ -509,7 +509,7 @@
           "eventName": "Cricket",
           "isHot": "0",
           "Status": "Live",
-          "startTime": "2026/10/16 11:30:07 +0000",
+          "startTime": "2026/10/16 15:30:28 +0000",
           "endTime": "2026/10/16 20:00:13 +0000"
         },
         "channels_data": [
@@ -1516,49 +1516,6 @@
           {
             "title": "Live 1",
             "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 13860,
-        "title": "Al-Qadsiah vs Abha",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Al-Qadsiah",
-          "teamB": "Abha",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/56027/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/168090/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/10/16 13:15:00 +0000",
-          "endTime": "2026/10/16 15:35:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "FANCODE - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-            "logo": "",
-            "type": 7,
-            "api": "1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835",
-            "tokenApi": ""
-          },
-          {
-            "title": "Live 1",
-            "link": "https://live.vivo155.com/live/sd-1-4599618.m3u8?txSecret=94f3dad39fd00efae0455d6986857eba&txTime=6AD23D1A|Referer=https://player.online878.com/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "LOW SERVER",
-            "link": "http://193.47.62.41/hls/DUUUAAAAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
             "logo": "",
             "type": 0,
             "api": "",
