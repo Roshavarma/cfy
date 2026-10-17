@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-17T16:01:20.799419",
-  "event_count": 49,
+  "last_updated": "2026-10-17T16:10:49.229983",
+  "event_count": 38,
   "events": {
     "events": [
       {
@@ -878,207 +878,6 @@
         ]
       },
       {
-        "id": 13842,
-        "title": "Brentford vs Liverpool FC",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Brentford",
-          "teamB": "Liverpool FC",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/50/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/44/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/10/17 14:00:00 +0000",
-          "endTime": "2026/10/17 16:20:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "FUBO SPORTS - AQ",
-            "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/n08pizbsu2/out/v1/a8645e4080344c53b38dc66983651d99/d61eead1-3574-4b70-8e75-67a5a806f711-cenc.mpd?aws_sessionId=9b04b8e2-907c-4d19-a01e-61dd85c80ee7",
-            "logo": "",
-            "type": 7,
-            "api": "480f6ee51138431bf4a51366ceafccc3:805605d2a7721291a353145533b4f21d",
-            "tokenApi": ""
-          },
-          {
-            "title": "PEACOCK TV HD",
-            "link": "https://chatgpt.hereisman.net/playlist/58134/load-playlist?|Referer=https://gooz.aapmains.net",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "PEACOCK - AQ",
-            "link": "https://granitewolf.s3.us-east-1.amazonaws.com/liverpool.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "Live 1",
-            "link": "https://live.vivo155.com/live/hd-en-1-4558598.m3u8?txSecret=6fdbfbfa3925454c0f1afd73372b9bac&txTime=6AD390F1|Referer=https://player.online878.com/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "HD SERVER ",
-            "link": "https://www.rtmpcdn.com/live/910ed1c3-3d3c-43a7-bb08-0eb20ce5de14.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "LOW SERVER",
-            "link": "http://193.47.62.50/hls/4444aa.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 13843,
-        "title": "Fulham vs Hull City",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Fulham",
-          "teamB": "Hull City",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/43/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/96/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/10/17 14:00:00 +0000",
-          "endTime": "2026/10/17 16:20:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "FUBO SPORTS - AQ",
-            "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/tynmqoruat/out/v1/07d94e5695564616bc21118f294f6cc7/7e0dd27b-f998-465e-8df2-027df73d929b-cenc.mpd?aws_sessionId=9e935291-e3f8-4fd0-880c-7ae5a73ee747",
-            "logo": "",
-            "type": 7,
-            "api": "5245bea7bb5265e0cefa8a59f3a989e7:a502b56126f5f5e5beb0e901fa246f1e",
-            "tokenApi": ""
-          },
-          {
-            "title": "PEACOCK TV HD",
-            "link": "https://chatgpt.hereisman.net/playlist/58135/load-playlist?|Referer=https://gooz.aapmains.net",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "PEACOCK - AQ",
-            "link": "https://mysticledger.s3.us-east-1.amazonaws.com/newcastle.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "Live 1",
-            "link": "https://live.vivo155.com/live/hd-en-1-4558604.m3u8?txSecret=e541d0b8aa52666a8f5ccc5b86367d06&txTime=6AD390D9|Referer=https://player.online878.com/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "HD SERVER ",
-            "link": "https://www.rtmpcdn.com/live/d6f999ea-dc58-4d95-a707-dae77c6cb70f.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "LOW SERVER ",
-            "link": "http://193.47.62.59/hls/4444.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 13844,
-        "title": "Manchester City vs Ipswich Town",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Manchester City",
-          "teamB": "Ipswich Town",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/17/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/32/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/10/17 14:00:00 +0000",
-          "endTime": "2026/10/17 16:20:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "FUBO SPORTS - AQ",
-            "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/qn8wrs6xue/out/v1/aaaab12c95924d80a77f87f7c745782a/610d090c-7192-4ae7-9e31-482c4096abc1-cenc.mpd?aws_sessionId=0eea5074-f777-498e-8c4c-cb440de9cef6",
-            "logo": "",
-            "type": 7,
-            "api": "65f9ed4580a4af3c117a339c44cdfe3b:3e7d40c4b2ca331fe48bd65acae439d7",
-            "tokenApi": ""
-          },
-          {
-            "title": "USA NETWORK HD",
-            "link": "https://chatgpt.hereisman.net/playlist/58133/load-playlist?|Referer=https://gooz.aapmains.net",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "USA TV - AQ",
-            "link": "https://granitewolf.s3.us-east-1.amazonaws.com/mancity.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "Live 1",
-            "link": "https://live.vivo155.com/live/hd-en-1-4558609.m3u8?txSecret=94538fdc13a90f6f8d0f010a623cf6ef&txTime=6AD39064|Referer=https://player.online878.com/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "HD SERVER ",
-            "link": "https://www.rtmpcdn.com/live/91eba60d-514b-41a7-ba01-92b3d15aaa28.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "LOW SERVER",
-            "link": "http://193.47.62.50/hls/4444a.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
         "id": 13845,
         "title": "Newcastle United vs Aston Villa",
         "image": "",
@@ -1101,6 +900,22 @@
             "logo": "",
             "type": 7,
             "api": "36a385124dcdfb2f0969935065e03afa:ccecd65514dff22eae493b975ccf9a9e",
+            "tokenApi": ""
+          },
+          {
+            "title": "NBC SPORTS HD",
+            "link": "https://chatgpt.hereisman.net/playlist/58156/load-playlist?|Referer=https://gooz.aapmains.net",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "LOW SERVER",
+            "link": "http://193.47.62.41/hls/TKKKQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+            "logo": "",
+            "type": 0,
+            "api": "",
             "tokenApi": ""
           }
         ]
@@ -1536,278 +1351,6 @@
         ]
       },
       {
-        "id": 13885,
-        "title": "Bristol City vs Sheffield United",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Bristol City",
-          "teamB": "Sheffield United",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/58/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/15/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/10/17 14:00:00 +0000",
-          "endTime": "2026/10/17 16:20:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "Live 1",
-            "link": "https://live.vivo155.com/live/sd-1-4563625.m3u8?txSecret=557b4c87750eb66afc2691d2d1cdf424&txTime=6AD38950|Referer=https://player.online878.com/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "LOW SERVER",
-            "link": "http://193.47.62.41/hls/BIIIAAAAAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 13886,
-        "title": "Birmingham City vs Queens Park Rangers",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Birmingham City",
-          "teamB": "Queens Park Rangers",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/9/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/1/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/10/17 14:00:00 +0000",
-          "endTime": "2026/10/17 16:20:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "LOW SERVER",
-            "link": "http://193.47.62.50/hls/L111AAQQQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 13887,
-        "title": "Derby County vs Stoke City",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Derby County",
-          "teamB": "Stoke City",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/27/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/29/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/10/17 14:00:00 +0000",
-          "endTime": "2026/10/17 16:20:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "LOW SERVER ",
-            "link": "http://193.47.62.44/hls/H111AAAAQQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 13888,
-        "title": "Norwich City vs Portsmouth",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Norwich City",
-          "teamB": "Portsmouth",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/263/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/2/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/10/17 14:00:00 +0000",
-          "endTime": "2026/10/17 16:20:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "beIN ENGLISH - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-            "logo": "",
-            "type": 7,
-            "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
-            "tokenApi": ""
-          },
-          {
-            "title": "Live 1",
-            "link": "https://live.vivo155.com/live/sd-1-4563629.m3u8?txSecret=9731904bec0b22c6559d5ffbcaa32b93&txTime=6AD389D9|Referer=https://player.online878.com/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "LOW SERVER ",
-            "link": "http://193.47.62.59/hls/N777AAAAAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 13889,
-        "title": "Southampton vs Bolton Wanderers",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Southampton",
-          "teamB": "Bolton Wanderers",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/45/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/5/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/10/17 14:00:00 +0000",
-          "endTime": "2026/10/17 16:20:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "CBS SPORTS - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-            "logo": "",
-            "type": 7,
-            "api": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
-            "tokenApi": ""
-          },
-          {
-            "title": "Live 1",
-            "link": "https://live.vivo155.com/live/sd-1-4563630.m3u8?txSecret=9fabf529e685bbd620c907691db41dcf&txTime=6AD38989|Referer=https://player.online878.com/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "LOW SERVER ",
-            "link": "http://193.47.62.50/hls/L111AAQQQQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 13890,
-        "title": "Swansea City vs West Ham United",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Swansea City",
-          "teamB": "West Ham United",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/74/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/37/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/10/17 14:00:00 +0000",
-          "endTime": "2026/10/17 16:20:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "Live 1",
-            "link": "https://live.vivo155.com/live/sd-1-4563634.m3u8?txSecret=93f223d61ef29167529e9bb413314759&txTime=6AD389A4|Referer=https://player.online878.com/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "LOW SERVER ",
-            "link": "http://193.47.62.41/hls/BIIIAAAAAAQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 13891,
-        "title": "Wrexham vs Preston North End",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Wrexham",
-          "teamB": "Preston North End",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/64/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/21/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/10/17 14:00:00 +0000",
-          "endTime": "2026/10/17 16:20:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "Live 1",
-            "link": "https://live.vivo155.com/live/sd-1-4563635.m3u8?txSecret=26e8fbc7bb2788bb2c37ac1df6298b09&txTime=6AD389C1|Referer=https://player.online878.com/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "LOW SERVER ",
-            "link": "http://193.47.62.59/hls/N777AAAAAAQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 13892,
-        "title": "West Bromwich Albion vs Blackburn Rovers",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "West Bromwich Albion",
-          "teamB": "Blackburn Rovers",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/8/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/46/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/10/17 14:00:00 +0000",
-          "endTime": "2026/10/17 16:20:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "LOW SERVER",
-            "link": "http://193.47.62.44/hls/H111AAAAQQQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
         "id": 13896,
         "title": "Hannover 96 vs FC St. Pauli",
         "image": "",
@@ -2011,8 +1554,8 @@
         },
         "channels_data": [
           {
-            "title": "Live 1",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "title": "LOW SERVER",
+            "link": "http://193.47.62.55/hls/FUUUQQQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
             "logo": "",
             "type": 0,
             "api": "",
