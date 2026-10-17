@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-17T15:50:45.276179",
+  "last_updated": "2026-10-17T16:01:20.799419",
   "event_count": 49,
   "events": {
     "events": [
@@ -1117,7 +1117,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/2697/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/10/17 16:00:00 +0000",
           "endTime": "2026/10/17 18:20:00 +0000"
         },
@@ -1141,6 +1141,38 @@
           {
             "title": "PARAMOUNT+ HD",
             "link": "https://chatgpt.hereisman.net/playlist/58147/load-playlist-multi?|Referer=https://gooz.aapmains.net",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "Live 1",
+            "link": "https://live.vivo155.com/live/hd-en-1-4549109.m3u8?txSecret=9f5829200af96ed9c80f5e9f758e6515&txTime=6AD3AEDA|Referer=https://player.online878.com/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "CBS SPORTS HD",
+            "link": "https://sofi.dulo.cc/play/-pds9pI-P4Hph7wcPsf0eH8W_FT7qteT/TzwOC9uS5URGFJQL.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "HD SERVER ",
+            "link": "https://www.rtmpcdn.com/live/4a5452b6-326d-4212-9b6b-bd3a265c0a96.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "LOW SERVER",
+            "link": "http://193.47.62.55/hls/QQUUUQQQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
             "logo": "",
             "type": 0,
             "api": "",
@@ -2000,14 +2032,22 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/6362/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/10/17 16:00:00 +0000",
           "endTime": "2026/10/17 18:20:00 +0000"
         },
         "channels_data": [
           {
             "title": "Live 1",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "link": "https://live.vivo155.com/live/sd-1-4581336.m3u8?txSecret=7647c7bc7879e4412eb8f73cc287962a&txTime=6AD3AF00|Referer=https://player.online878.com/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "LOW SERVER",
+            "link": "http://193.47.62.59/hls/LIIIQQQQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
             "logo": "",
             "type": 0,
             "api": "",
