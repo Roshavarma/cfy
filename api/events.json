@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-18T08:01:21.640152",
+  "last_updated": "2026-10-18T08:11:05.790154",
   "event_count": 75,
   "events": {
     "events": [
@@ -2342,7 +2342,7 @@
         "channels_data": [
           {
             "title": "TAPMAD - AQ",
-            "link": "https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8",
+            "link": "https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8?|referer=https://tapmad.com/",
             "logo": "",
             "type": 0,
             "api": "",
@@ -2350,15 +2350,15 @@
           },
           {
             "title": "PTV SPORTS HD",
-            "link": "https://baila-lentoo.pages.dev/all-sp/809398.m3u8",
+            "link": "http://95.133.241.239:8089/PAKvsSLLow/index.m3u8",
             "logo": "",
             "type": 0,
             "api": "",
             "tokenApi": ""
           },
           {
-            "title": "WILLOW HD",
-            "link": "http://mag.tivi-one-iptv.net/play/live.php?mac=00:1A:79:F5:CC:FD&stream=809386&extension=m3u8",
+            "title": "TAPMAD HD",
+            "link": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8|referer=https://tapmad.com/",
             "logo": "",
             "type": 0,
             "api": "",
