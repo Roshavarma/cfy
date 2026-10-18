@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-18T08:20:57.533648",
+  "last_updated": "2026-10-18T08:31:13.324966",
   "event_count": 75,
   "events": {
     "events": [
@@ -2341,6 +2341,22 @@
         },
         "channels_data": [
           {
+            "title": "WILLOW - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/886jnqvhnx/out/v1/c3fafabc2248406a87537176ca13a389/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "012110afbe9bdf40e7da3cc766ad041e:b2b91f89d2b223b349208e44e5ff49da",
+            "tokenApi": ""
+          },
+          {
+            "title": "WILLOW - ALT",
+            "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/886jnqvhnx/out/v1/c3fafabc2248406a87537176ca13a389/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "012110afbe9bdf40e7da3cc766ad041e:b2b91f89d2b223b349208e44e5ff49da",
+            "tokenApi": ""
+          },
+          {
             "title": "TAPMAD - AQ",
             "link": "https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8?|referer=https://tapmad.com/",
             "logo": "",
@@ -2350,7 +2366,7 @@
           },
           {
             "title": "PTV SPORTS HD",
-            "link": "http://95.133.241.239:8089/PAKvsSLLow/index.m3u8",
+            "link": "https://live.msnetworks.net/ptv-sports/master.m3u8",
             "logo": "",
             "type": 0,
             "api": "",
@@ -2359,6 +2375,14 @@
           {
             "title": "TAPMAD HD",
             "link": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8|referer=https://tapmad.com/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "WILLOW HD",
+            "link": "http://mag.tivi-one-iptv.net/play/live.php?mac=00:1A:79:F5:CC:FD&stream=809386&extension=m3u8",
             "logo": "",
             "type": 0,
             "api": "",
