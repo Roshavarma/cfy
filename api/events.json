@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-18T17:40:47.440053",
-  "event_count": 58,
+  "last_updated": "2026-10-18T17:50:53.878359",
+  "event_count": 51,
   "events": {
     "events": [
       {
@@ -618,65 +618,6 @@
         ]
       },
       {
-        "id": 13914,
-        "title": "Jacksonville Jaguars vs Houston Texans",
-        "image": "",
-        "cat": "American football",
-        "eventInfo": {
-          "teamA": "Jacksonville Jaguars",
-          "teamB": "Houston Texans",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/4386/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/4324/image",
-          "eventName": "American football",
-          "isHot": "0",
-          "Status": "Finish",
-          "startTime": "2026/10/18 13:30:00 +0000",
-          "endTime": "2026/10/18 16:30:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "FOX SPORTS HD",
-            "link": "https://hls.dptv.info/live/espn-401872996/index.m3u8?|Referer=https://play.arabsports.info/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "NFL NETWORK HD",
-            "link": "https://storage.googleapis.com/flintvoyager/nbcsn/manifest.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "Live 1",
-            "link": "https://chatgpt.hereisman.net/playlist/58252/load-playlist?|Referer=https://gooz.aapmains.net",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "HD SERVER ",
-            "link": "https://edgestream2.pro/hls/JHDAJBDnjdna30.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "LOW SERVER",
-            "link": "http://193.47.62.41/hls/HTTTT.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
         "id": 13915,
         "title": "New England Patriots vs New York Jets",
         "image": "",
@@ -1121,116 +1062,6 @@
           {
             "title": "Live 1",
             "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 13928,
-        "title": "Borussia Mgladbach vs TSG Hoffenheim",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Borussia M'gladbach",
-          "teamB": "TSG Hoffenheim",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/2527/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/2569/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/10/18 15:30:00 +0000",
-          "endTime": "2026/10/18 17:50:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "Live 1",
-            "link": "https://live.vivo155.com/live/hd-en-1-4566309.m3u8?txSecret=8b80a4cd23a6eec901d81eadc5fd1c8b&txTime=6AD4FB20|Referer=https://player.online878.com/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "HD SERVER ",
-            "link": "https://www.rtmpcdn.com/live/7d981038-e9d1-4205-ba8e-b5e3c664ed27.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "LOW SERVER",
-            "link": "http://193.47.62.41/hls/H333QQQQQQQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 13931,
-        "title": "Nottingham Forest vs Arsenal",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Nottingham Forest",
-          "teamB": "Arsenal",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/14/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/42/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/10/18 15:30:00 +0000",
-          "endTime": "2026/10/18 17:50:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "FUBO SPORTS - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/dub-nitro/live/clients/dash/enc/1wlv9dr4vx/out/v1/632322be5f1047acb2472f90f8857182/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-            "logo": "",
-            "type": 7,
-            "api": "42f72c025dd53039244adc13b7e31dad:a7bd941a19f6dd14f3004a623a6ad3a1",
-            "tokenApi": ""
-          },
-          {
-            "title": "SKY SPORTS - AQ",
-            "link": "https://bl.rutube.ru/livestream/e5bacac3b8e730791d4cab20ae81cd8f/index.m3u8?s=oQHxVF62YP2JSnxUwT4p-g&e=2092290550&scheme=https|user-agent=Mozilla",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "FUBO SPORTS HD",
-            "link": "https://chatgpt.hereisman.net/playlist/58263/load-playlist-multi?|Referer=https://gooz.aapmains.net",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "Live 1",
-            "link": "https://live.vivo155.com/live/hd-en-1-4558614.m3u8?txSecret=4e54158578a83ced9d1220fa0da7c571&txTime=6AD4FB60|Referer=https://player.online878.com/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "HD SERVER ",
-            "link": "https://www.rtmpcdn.com/live/a85f23ac-2373-40db-8835-fe5d45251ea6.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "LOW SERVER",
-            "link": "http://193.47.62.50/hls/HIHIHI.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
             "logo": "",
             "type": 0,
             "api": "",
@@ -1691,127 +1522,6 @@
         ]
       },
       {
-        "id": 13951,
-        "title": "Le Havre vs Auxerre",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Le Havre",
-          "teamB": "Auxerre",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/1662/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/1646/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Finish",
-          "startTime": "2026/10/18 15:15:00 +0000",
-          "endTime": "2026/10/18 17:35:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "Live 1",
-            "link": "https://live.vivo155.com/live/hd-en-1-4550897.m3u8?txSecret=267d4dba913991e694c184575ea1af43&txTime=6AD4F825|Referer=https://player.online878.com/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "HD SERVER ",
-            "link": "https://www.rtmpcdn.com/live/a16b19c9-e1b6-4c72-8305-57057b77c1d1.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "LOW SERVER",
-            "link": "http://193.47.62.41/hls/H333Q.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 13952,
-        "title": "Lorient vs AS Monaco",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Lorient",
-          "teamB": "AS Monaco",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/1656/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/1653/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Finish",
-          "startTime": "2026/10/18 15:15:00 +0000",
-          "endTime": "2026/10/18 17:35:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "Live 1",
-            "link": "https://live.vivo155.com/live/hd-en-1-4550900.m3u8?txSecret=ca1001e239df56655d8f9985cef4b569&txTime=6AD4F85F|Referer=https://player.online878.com/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "HD SERVER ",
-            "link": "https://www.rtmpcdn.com/live/ac978f58-b38e-41e8-b1f9-f79c73fdf631.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "LOW SERVER",
-            "link": "http://193.47.62.41/hls/H333QQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 13953,
-        "title": "Paris FC vs Stade Rennais",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Paris FC",
-          "teamB": "Stade Rennais",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/6070/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/1658/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Finish",
-          "startTime": "2026/10/18 15:15:00 +0000",
-          "endTime": "2026/10/18 17:35:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "HD SERVER ",
-            "link": "https://www.rtmpcdn.com/live/539c85fb-8e1f-433f-ba1a-1469db655970.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "LOW SERVER",
-            "link": "http://193.47.62.41/hls/H333QQQQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
         "id": 13954,
         "title": "Olympique Lyonnais vs Nice",
         "image": "",
@@ -1947,33 +1657,6 @@
         ]
       },
       {
-        "id": 13964,
-        "title": "FC Groningen vs AFC Ajax",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "FC Groningen",
-          "teamB": "AFC Ajax",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/2951/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/2953/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Finish",
-          "startTime": "2026/10/18 14:45:00 +0000",
-          "endTime": "2026/10/18 17:05:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "LOW SERVER",
-            "link": "http://193.47.62.41/hls/toooaaaaqq.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
         "id": 13965,
         "title": "FC Twente vs FC Utrecht",
         "image": "",
@@ -1991,8 +1674,8 @@
         },
         "channels_data": [
           {
-            "title": "Live 1",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "title": "LOW SERVER",
+            "link": "http://193.47.62.44/hls/FYYYAAAAQQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
             "logo": "",
             "type": 0,
             "api": "",
@@ -2018,8 +1701,8 @@
         },
         "channels_data": [
           {
-            "title": "Live 1",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "title": "LOW SERVER ",
+            "link": "http://193.47.62.44/hls/FYYYAAAAQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
             "logo": "",
             "type": 0,
             "api": "",
