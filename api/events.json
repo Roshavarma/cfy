@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-18T08:11:05.790154",
+  "last_updated": "2026-10-18T08:20:57.533648",
   "event_count": 75,
   "events": {
     "events": [
@@ -607,17 +607,17 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/213115/image",
           "eventName": "Cricket",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/10/18 08:15:00 +0000",
           "endTime": "2026/10/18 12:15:00 +0000"
         },
         "channels_data": [
           {
-            "title": "Live 1",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "title": "WILLOW HD",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd",
             "logo": "",
-            "type": 0,
-            "api": "",
+            "type": 7,
+            "api": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
             "tokenApi": ""
           }
         ]
