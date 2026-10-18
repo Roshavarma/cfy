@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-18T10:50:53.301143",
+  "last_updated": "2026-10-18T11:01:21.670406",
   "event_count": 76,
   "events": {
     "events": [
@@ -613,11 +613,27 @@
         },
         "channels_data": [
           {
-            "title": "WILLOW HD",
+            "title": "FANCODE - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835",
+            "tokenApi": ""
+          },
+          {
+            "title": "WILLOW - AQ",
             "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd",
             "logo": "",
             "type": 7,
             "api": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
+            "tokenApi": ""
+          },
+          {
+            "title": "EUROSPORT - AQ",
+            "link": "https://wbd.skandha.tv/EuroSport_HD/EuroSport_HD.isml/.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "12ed56d780abcfebcd23aa27e4ac5015:6784567890abcfebcd23aa27e4ac2814",
             "tokenApi": ""
           }
         ]
@@ -1374,7 +1390,7 @@
             "tokenApi": ""
           },
           {
-            "title": "PARAMOUNT+ HD",
+            "title": "DAZN SPORTS HD",
             "link": "https://chatgpt.hereisman.net/playlist/58247/load-playlist-multi?|Referer=https://gooz.aapmains.net",
             "logo": "",
             "type": 0,
