@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-18T14:01:28.622325",
-  "event_count": 70,
+  "last_updated": "2026-10-18T14:40:55.439149",
+  "event_count": 67,
   "events": {
     "events": [
       {
@@ -366,9 +366,9 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/187746/image",
           "eventName": "Cricket",
           "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/10/18 08:00:57 +0000",
-          "endTime": "2026/10/18 16:00:02 +0000"
+          "Status": "Upcoming",
+          "startTime": "2026/10/19 07:45:00 +0000",
+          "endTime": "2026/10/19 17:00:06 +0000"
         },
         "channels_data": [
           {
@@ -458,8 +458,8 @@
           "eventName": "Cricket",
           "isHot": "0",
           "Status": "Upcoming",
-          "startTime": "2026/10/18 14:30:31 +0000",
-          "endTime": "2026/10/18 17:55:36 +0000"
+          "startTime": "2026/10/18 15:30:29 +0000",
+          "endTime": "2026/10/18 20:00:32 +0000"
         },
         "channels_data": [
           {
@@ -1222,6 +1222,14 @@
         },
         "channels_data": [
           {
+            "title": "FUBO SPORTS - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/dub-nitro/live/clients/dash/enc/1wlv9dr4vx/out/v1/632322be5f1047acb2472f90f8857182/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+            "logo": "",
+            "type": 7,
+            "api": "42f72c025dd53039244adc13b7e31dad:a7bd941a19f6dd14f3004a623a6ad3a1",
+            "tokenApi": ""
+          },
+          {
             "title": "SKY SPORTS - AQ",
             "link": "https://bl.rutube.ru/livestream/e5bacac3b8e730791d4cab20ae81cd8f/index.m3u8?s=oQHxVF62YP2JSnxUwT4p-g&e=2092290550&scheme=https|user-agent=Mozilla",
             "logo": "",
@@ -1657,57 +1665,6 @@
         ]
       },
       {
-        "id": 13945,
-        "title": "Osasuna vs Real Racing Club",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Osasuna",
-          "teamB": "Real Racing Club",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/2820/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/2835/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/10/18 12:00:00 +0000",
-          "endTime": "2026/10/18 14:20:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "beIN ENGLISH - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-            "logo": "",
-            "type": 7,
-            "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
-            "tokenApi": ""
-          },
-          {
-            "title": "Live 1",
-            "link": "https://live.vivo155.com/live/hd-en-1-4565458.m3u8?txSecret=01238b4684c05b62a52870761c6ad72d&txTime=6AD4C8E9|Referer=https://player.online878.com/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "HD SERVER ",
-            "link": "https://www.rtmpcdn.com/live/72f0dc0c-545f-4eda-b32f-7e4450542b6c.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "LOW SERVER",
-            "link": "http://193.47.62.41/hls/JFFFQQQQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
         "id": 13946,
         "title": "Celta Vigo vs Deportivo Alaves",
         "image": "",
@@ -1719,7 +1676,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/2885/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/10/18 14:15:00 +0000",
           "endTime": "2026/10/18 16:35:00 +0000"
         },
@@ -1733,14 +1690,6 @@
             "tokenApi": ""
           },
           {
-            "title": "FANCODE - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-            "logo": "",
-            "type": 7,
-            "api": "1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835",
-            "tokenApi": ""
-          },
-          {
             "title": "D SPORTS - AQ",
             "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
             "logo": "",
@@ -1749,11 +1698,19 @@
             "tokenApi": ""
           },
           {
-            "title": "Caz\u00e9TV - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+            "title": "HD SERVER ",
+            "link": "https://www.rtmpcdn.com/live/c4eb6c42-d479-4988-adbf-dbaa5290c207.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
             "logo": "",
-            "type": 7,
-            "api": "34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "LOW SERVER",
+            "link": "http://193.47.62.41/hls/QLLLQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+            "logo": "",
+            "type": 0,
+            "api": "",
             "tokenApi": ""
           }
         ]
@@ -2179,33 +2136,6 @@
         ]
       },
       {
-        "id": 13963,
-        "title": "SC Cambuur vs AZ Alkmaar",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "SC Cambuur",
-          "teamB": "AZ Alkmaar",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/2970/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/2950/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/10/18 12:30:00 +0000",
-          "endTime": "2026/10/18 14:50:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "LOW SERVER",
-            "link": "http://193.47.62.41/hls/5NNNQQQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
         "id": 13964,
         "title": "FC Groningen vs AFC Ajax",
         "image": "",
@@ -2223,8 +2153,8 @@
         },
         "channels_data": [
           {
-            "title": "Live 1",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "title": "LOW SERVER",
+            "link": "http://193.47.62.41/hls/toooaaaaqq.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
             "logo": "",
             "type": 0,
             "api": "",
@@ -2287,41 +2217,6 @@
         ]
       },
       {
-        "id": 13967,
-        "title": "AD Ceuta vs Real Oviedo",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "AD Ceuta",
-          "teamB": "Real Oviedo",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/2869/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/2851/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/10/18 12:00:00 +0000",
-          "endTime": "2026/10/18 14:20:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "Live 1",
-            "link": "https://live.vivo155.com/live/sd-1-4567315.m3u8?txSecret=d7950594f8cfd2fd62e82f84ad60f191&txTime=6AD4C91B|Referer=https://player.online878.com/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "LOW SERVER",
-            "link": "http://193.47.62.41/hls/JFFFQQQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
         "id": 13968,
         "title": "Granada vs Cadiz",
         "image": "",
@@ -2333,14 +2228,14 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/4488/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/10/18 14:15:00 +0000",
           "endTime": "2026/10/18 16:35:00 +0000"
         },
         "channels_data": [
           {
-            "title": "Live 1",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "title": "LOW SERVER",
+            "link": "http://193.47.62.41/hls/QLLL.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
             "logo": "",
             "type": 0,
             "api": "",
