@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-19T18:40:48.611811",
+  "last_updated": "2026-10-19T18:50:49.559738",
   "event_count": 38,
   "events": {
     "events": [
@@ -643,6 +643,14 @@
         },
         "channels_data": [
           {
+            "title": "FUBO SPORTS - AQ",
+            "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/doo7mzvktm/out/v1/ee234bf8b2854366834b938725860805/80851ab1-2930-4f00-a864-15c08159794b-cenc.mpd?aws_sessionId=c5ca413e-a7c6-422a-afae-b17977560374",
+            "logo": "",
+            "type": 7,
+            "api": "3f5adbfaa12a3096c3582c701629445e:1e201be5fb21c2ff5cf33175c05dfaba",
+            "tokenApi": ""
+          },
+          {
             "title": "SKY SPORTS - AQ",
             "link": "https://bl.rutube.ru/livestream/e5bacac3b8e730791d4cab20ae81cd8f/index.m3u8?s=oQHxVF62YP2JSnxUwT4p-g&e=2092290550&scheme=https|user-agent=Mozilla",
             "logo": "",
@@ -731,7 +739,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/2696/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/10/19 18:45:00 +0000",
           "endTime": "2026/10/19 21:05:00 +0000"
         },
@@ -841,6 +849,14 @@
             "logo": "",
             "type": 7,
             "api": "ac7abaa9c9481aacfbdac64fc3ec3312:c0c504a2ed2e70b879a650b8770a38c6",
+            "tokenApi": ""
+          },
+          {
+            "title": "ESPN DEPORTES HD",
+            "link": "https://chatgpt.hereisman.net/playlist/58306/load-playlist-multi?|Referer=https://gooz.aapmains.net",
+            "logo": "",
+            "type": 0,
+            "api": "",
             "tokenApi": ""
           },
           {
