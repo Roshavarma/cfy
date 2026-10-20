@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-20T17:50:53.973291",
+  "last_updated": "2026-10-20T18:01:20.556542",
   "event_count": 38,
   "events": {
     "events": [
@@ -1200,7 +1200,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/530631/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/10/20 18:00:00 +0000",
           "endTime": "2026/10/20 20:20:00 +0000"
         },
@@ -1228,6 +1228,22 @@
             "type": 7,
             "api": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
             "tokenApi": ""
+          },
+          {
+            "title": "Live 1",
+            "link": "https://live.vivo155.com/live/sd-1-4599627.m3u8?txSecret=5214b48c58e461ab53c19b649afbde2b&txTime=6AD7BFB0|Referer=https://player.online878.com/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "LOW SERVER",
+            "link": "http://193.47.62.55/hls/N666.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
           }
         ]
       },
@@ -1243,14 +1259,22 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/34315/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/10/20 18:00:00 +0000",
           "endTime": "2026/10/20 20:20:00 +0000"
         },
         "channels_data": [
           {
             "title": "Live 1",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "link": "https://live.vivo155.com/live/sd-1-4599623.m3u8?txSecret=4fd818c95c039ad97f9203e527bac10f&txTime=6AD7BF7D|Referer=https://player.online878.com/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "LOW SERVER",
+            "link": "http://193.47.62.55/hls/KTTTQQQQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
             "logo": "",
             "type": 0,
             "api": "",
