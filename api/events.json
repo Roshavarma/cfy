@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-23T18:51:03.293287",
-  "event_count": 72,
+  "last_updated": "2026-10-23T19:01:48.254542",
+  "event_count": 71,
   "events": {
     "events": [
       {
@@ -15,8 +15,8 @@
           "teamBFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6U1hs_95YIb02AiDL1JAgkqMNrA1SkPMUatqqPsO2ZqtNZdmj79TQ71k&s=10",
           "eventName": "Motorsports",
           "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/10/23 17:30:01 +0000",
+          "Status": "Upcoming",
+          "startTime": "2026/10/23 21:00:43 +0000",
           "endTime": "2026/10/24 00:00:04 +0000"
         },
         "channels_data": [
@@ -1235,7 +1235,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/14/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/10/23 19:00:00 +0000",
           "endTime": "2026/10/23 21:20:00 +0000"
         },
@@ -1259,6 +1259,14 @@
           {
             "title": "USA NETWORK HD",
             "link": "https://chatgpt.hereisman.net/playlist/58443/load-playlist-multi?|Referer=https://gooz.aapmains.net",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "Live 1",
+            "link": "https://live.vivo155.com/live/hd-en-1-4558644.m3u8?txSecret=733f57c4a8f118c36c3893c10f73c88b&txTime=6ADBC06F|Referer=https://player.online878.com/",
             "logo": "",
             "type": 0,
             "api": "",
@@ -1936,11 +1944,19 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/2830/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/10/23 19:00:00 +0000",
           "endTime": "2026/10/23 21:20:00 +0000"
         },
         "channels_data": [
+          {
+            "title": "FANCODE - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+            "logo": "",
+            "type": 7,
+            "api": "82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca",
+            "tokenApi": ""
+          },
           {
             "title": "Caz\u00e9TV - AQ",
             "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
@@ -1955,6 +1971,14 @@
             "logo": "",
             "type": 7,
             "api": "f836853d8eac19446ed9535f5fc568b1:b3bc5ef00602b29abac7e482d3d9fbf3",
+            "tokenApi": ""
+          },
+          {
+            "title": "Live 1",
+            "link": "https://live.vivo155.com/live/hd-en-1-4565466.m3u8?txSecret=c75b6ace806c40b25c2a55e2e7f59504&txTime=6ADBC0BB|Referer=https://player.online878.com/",
+            "logo": "",
+            "type": 0,
+            "api": "",
             "tokenApi": ""
           },
           {
@@ -2108,11 +2132,27 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/36/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/10/23 19:00:00 +0000",
           "endTime": "2026/10/23 21:20:00 +0000"
         },
         "channels_data": [
+          {
+            "title": "beIN ENGLISH - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+            "logo": "",
+            "type": 7,
+            "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
+            "tokenApi": ""
+          },
+          {
+            "title": "Live 1",
+            "link": "https://live.vivo155.com/live/sd-1-4563636.m3u8?txSecret=f0c5311543d0e929574b06e9add680af&txTime=6ADBC0F0|Referer=https://player.online878.com/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
           {
             "title": "LOW SERVER",
             "link": "http://193.47.62.55/hls/AAIIIAAAAAQQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
@@ -2170,41 +2210,6 @@
           {
             "title": "LOW SERVER",
             "link": "http://193.47.62.44/hls/QMMMAAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 14125,
-        "title": "Alanyaspor vs Kocaelispor",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Alanyaspor",
-          "teamB": "Kocaelispor",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/6362/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/3065/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/10/23 17:00:00 +0000",
-          "endTime": "2026/10/23 19:20:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "Live 1",
-            "link": "https://live.vivo155.com/live/sd-1-4581341.m3u8?txSecret=d4cd5c3a65004080586d36589a6ac096&txTime=6ADBA7AE|Referer=https://player.online878.com/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "LOW SERVER",
-            "link": "http://193.47.62.44/hls/OOOOAAAAQQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
             "logo": "",
             "type": 0,
             "api": "",
