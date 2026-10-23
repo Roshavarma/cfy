@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-23T18:41:10.233539",
-  "event_count": 73,
+  "last_updated": "2026-10-23T18:51:03.293287",
+  "event_count": 72,
   "events": {
     "events": [
       {
@@ -1257,7 +1257,7 @@
             "tokenApi": ""
           },
           {
-            "title": "FUBO SPORTS HD",
+            "title": "USA NETWORK HD",
             "link": "https://chatgpt.hereisman.net/playlist/58443/load-playlist-multi?|Referer=https://gooz.aapmains.net",
             "logo": "",
             "type": 0,
@@ -1429,7 +1429,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/2729/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/10/23 18:45:00 +0000",
           "endTime": "2026/10/23 21:05:00 +0000"
         },
@@ -1956,6 +1956,22 @@
             "type": 7,
             "api": "f836853d8eac19446ed9535f5fc568b1:b3bc5ef00602b29abac7e482d3d9fbf3",
             "tokenApi": ""
+          },
+          {
+            "title": "HD SERVER",
+            "link": "https://edgestream3.pro/hls/377qj1h2727.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://streame.center&Origin=https://streame.center",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "LOW SERVER",
+            "link": "http://193.47.62.44/hls/AAIIIAAAAAQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
           }
         ]
       },
@@ -1971,7 +1987,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/1661/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/10/23 18:45:00 +0000",
           "endTime": "2026/10/23 21:05:00 +0000"
         },
@@ -1987,6 +2003,14 @@
           {
             "title": "Live 1",
             "link": "https://live.vivo155.com/live/hd-en-1-4550907.m3u8?txSecret=713893a5ada85ec56f215185cd771b9f&txTime=6ADBBE34|Referer=https://player.online878.com/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "HD SERVER",
+            "link": "https://www.rtmpcdn.com/live/1ce41be4-63e8-4f5f-8dbe-bc7bf4b622d0.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
             "logo": "",
             "type": 0,
             "api": "",
@@ -2090,8 +2114,8 @@
         },
         "channels_data": [
           {
-            "title": "Live 1",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "title": "LOW SERVER",
+            "link": "http://193.47.62.55/hls/AAIIIAAAAAQQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
             "logo": "",
             "type": 0,
             "api": "",
@@ -2119,33 +2143,6 @@
           {
             "title": "LOW SERVER",
             "link": "http://193.47.62.44/hls/QQQQQA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 14123,
-        "title": "Vitoria SC vs CS Maritimo",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Vit\u00f3ria SC",
-          "teamB": "CS Mar\u00edtimo",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/3009/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/3007/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Upcoming",
-          "startTime": "2026/10/23 19:45:00 +0000",
-          "endTime": "2026/10/23 22:05:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "Live 1",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
             "logo": "",
             "type": 0,
             "api": "",
