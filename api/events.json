@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-23T15:31:29.644994",
-  "event_count": 77,
+  "last_updated": "2026-10-23T15:41:04.403817",
+  "event_count": 76,
   "events": {
     "events": [
       {
@@ -1923,73 +1923,6 @@
         ]
       },
       {
-        "id": 14115,
-        "title": "Al Faisaly vs Al-Nassr",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Al Faisaly",
-          "teamB": "Al-Nassr",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/56035/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/23400/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/10/23 13:30:00 +0000",
-          "endTime": "2026/10/23 15:50:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "FOX SPORTS - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae",
-            "tokenApi": ""
-          },
-          {
-            "title": "FOX DEPORTES - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811",
-            "tokenApi": ""
-          },
-          {
-            "title": "FANCODE - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/a99uhtrbys/out/v1/c64004e114c245a4ab84bb570275a4a9/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca",
-            "tokenApi": ""
-          },
-          {
-            "title": "SportDigital Fussball",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
-            "tokenApi": ""
-          },
-          {
-            "title": "Live 1",
-            "link": "https://live.vivo155.com/live/sd-1-4599631.m3u8?txSecret=96c11d094470272cf5aef3c8b023657a&txTime=6ADB7472|Referer=https://player.online878.com/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "LOW SERVER",
-            "link": "http://193.47.62.50/hls/ZKKKAAAAAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
         "id": 14116,
         "title": "Al-Ittihad vs Diriyah",
         "image": "",
@@ -2017,6 +1950,14 @@
           {
             "title": "HD SERVER ",
             "link": "https://live2.jorvakstreamcache.com/live/channel6.m3u8?|Referer=https://xlz.domainkqt.cc/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "FOX ONE HD",
+            "link": "https://limitstream2.jdjdjdjebdbjsjskskkbdb.dpdns.org/latamplay/foxone/sub/aHR0cHM6Ly9raGFsYS5mdXRsaXZlaGQuY29tL2dsb2JhbC9mb3hvbmUvdHJhY2tzLXYxYTEvbW9uby5tM3U4P2lwPTc0LjUwLjg0LjEyMiZ0b2tlbj01NTAyNjA2ZTAzYmQzZmU5NjQ1YTI3OGNlNmE5OTYyYzg2NzgyYzYwLTcxLTE3OTI4MTQ0MzMtMTc5Mjc2MDQzMw",
             "logo": "",
             "type": 0,
             "api": "",
