@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-24T16:37:53.649023",
-  "event_count": 72,
+  "last_updated": "2026-10-24T16:41:08.624957",
+  "event_count": 70,
   "events": {
     "events": [
       {
@@ -911,6 +911,22 @@
             "tokenApi": ""
           },
           {
+            "title": "USA NETWORK HD ",
+            "link": "https://hls.meth-streams-hd.cfd/live/espn-401884763/index.m3u8?|Referer=https://frame.meth-streams-hd.cfd/&origin=https://frame.meth-streams-hd.cfd&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "HD SERVER",
+            "link": "https://edgestream3.pro/hls/24SDAZFcsqnj24.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://embedcenter.st&Origin=https://embedcenter.st",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
             "title": "LOW SERVER",
             "link": "http://193.47.62.55/hls/IPPPAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
             "logo": "",
@@ -1595,6 +1611,14 @@
             "tokenApi": ""
           },
           {
+            "title": "Live 1",
+            "link": "https://live.vivo155.com/live/hd-en-1-4565480.m3u8?txSecret=c59f04c90767cd667c5e0115c3e47d25&txTime=6ADCF230|Referer=https://player.online878.com/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
             "title": "LOW SERVER",
             "link": "http://193.47.62.55/hls/IPPPA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
             "logo": "",
@@ -1942,33 +1966,6 @@
         ]
       },
       {
-        "id": 14165,
-        "title": "FC Utrecht vs PEC Zwolle",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "FC Utrecht",
-          "teamB": "PEC Zwolle",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/2948/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/2971/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/10/24 14:30:00 +0000",
-          "endTime": "2026/10/24 16:50:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "Live 1",
-            "link": "http://193.47.62.55/hls/SSSSQQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
         "id": 14166,
         "title": "Willem II Tilburg vs SC Cambuur",
         "image": "",
@@ -2015,33 +2012,6 @@
           {
             "title": "Live 1",
             "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 14168,
-        "title": "CF Estrela Amadora vs Casa Pia",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "CF Estrela Amadora",
-          "teamB": "Casa Pia",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/3035/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/36365/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/10/24 14:30:00 +0000",
-          "endTime": "2026/10/24 16:50:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "Live 1",
-            "link": "http://193.47.62.55/hls/SSSS.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
             "logo": "",
             "type": 0,
             "api": "",
