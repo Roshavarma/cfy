@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-24T10:11:24.420395",
-  "event_count": 104,
+  "last_updated": "2026-10-24T10:21:37.161784",
+  "event_count": 103,
   "events": {
     "events": [
       {
@@ -2027,33 +2027,6 @@
         ]
       },
       {
-        "id": 14144,
-        "title": "Chapecoense vs Fluminense",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Chapecoense",
-          "teamB": "Fluminense",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/21845/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/1961/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Upcoming",
-          "startTime": "2026/10/24 22:30:00 +0000",
-          "endTime": "2026/10/25 00:50:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "Live 1",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
         "id": 14145,
         "title": "Santos vs Bahia",
         "image": "",
@@ -2933,7 +2906,23 @@
         "channels_data": [
           {
             "title": "Live 1",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "link": "https://live.vivo155.com/live/sd-1-4581343.m3u8?txSecret=c7cc783a56fb7ac8fbd4ad2449efbc51&txTime=6ADC97F5|Referer=https://player.online878.com/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "HD SERVER",
+            "link": "https://live2.jorvakstreamcache.com/live/channel28.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "LOW SERVER",
+            "link": "http://193.47.62.55/hls/H777AAAAQQQQQQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
             "logo": "",
             "type": 0,
             "api": "",
