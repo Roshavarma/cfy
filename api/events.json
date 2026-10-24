@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-24T13:01:48.252627",
-  "event_count": 102,
+  "last_updated": "2026-10-24T13:11:24.582607",
+  "event_count": 99,
   "events": {
     "events": [
       {
@@ -1378,6 +1378,14 @@
             "tokenApi": ""
           },
           {
+            "title": "HD SERVER",
+            "link": "https://www.rtmpcdn.com/live/38825fa3-23ba-4810-ba22-9487ceed422b.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
             "title": "LOW SERVER",
             "link": "http://193.47.62.55/hls/T000AAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
             "logo": "",
@@ -1415,6 +1423,14 @@
           {
             "title": "PARAMOUNT+ HD",
             "link": "https://chatgpt.hereisman.net/playlist/58485/load-playlist-multi?|Referer=https://gooz.aapmains.net",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "HD SERVER",
+            "link": "https://www.rtmpcdn.com/live/242320fe-b970-4f82-9e14-2ca63cc11f54.m3u8",
             "logo": "",
             "type": 0,
             "api": "",
@@ -2603,135 +2619,6 @@
           {
             "title": "Live 1",
             "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 14161,
-        "title": "1. FC Heidenheim vs Energie Cottbus",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "1. FC Heidenheim",
-          "teamB": "Energie Cottbus",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/5885/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/2532/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/10/24 11:00:00 +0000",
-          "endTime": "2026/10/24 13:20:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "Live 1",
-            "link": "https://live.vivo155.com/live/sd-1-4566549.m3u8?txSecret=66ec470c0626971cfae419ddb49a157a&txTime=6ADC9FE5|Referer=https://player.online878.com/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "HD SERVER",
-            "link": "https://live2.jorvakstreamcache.com/live/channel8.m3u8|Referer=https://xlz.domainkqt.cc/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "LOW SERVER",
-            "link": "http://193.47.62.55/hls/ITTTAAAAAQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 14162,
-        "title": "Hertha BSC vs Arminia Bielefeld",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Hertha BSC",
-          "teamB": "Arminia Bielefeld",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/2528/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/2540/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/10/24 11:00:00 +0000",
-          "endTime": "2026/10/24 13:20:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "Live 1",
-            "link": "https://live.vivo155.com/live/sd-1-4566537.m3u8?txSecret=ac6979d34cb35cca289040289b0a756f&txTime=6ADCA01D|Referer=https://player.online878.com/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "HD SERVER",
-            "link": "https://live2.jorvakstreamcache.com/live/channel14.m3u8|Referer=https://xlz.domainkqt.cc/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "LOW SERVER",
-            "link": "http://193.47.62.55/hls/ITTTAAAAAQQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 14163,
-        "title": "1. FC Magdeburg vs Karlsruher SC",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "1. FC Magdeburg",
-          "teamB": "Karlsruher SC",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/2591/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/2553/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/10/24 11:00:00 +0000",
-          "endTime": "2026/10/24 13:20:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "Live 1",
-            "link": "https://live.vivo155.com/live/sd-1-4566580.m3u8?txSecret=a0caea69ee2eff79a50dd6e4bfe660ff&txTime=6ADCA068|Referer=https://player.online878.com/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "HD SERVER",
-            "link": "https://live2.jorvakstreamcache.com/live/channel9.m3u8|Referer=https://xlz.domainkqt.cc/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "LOW SERVER",
-            "link": "http://193.47.62.55/hls/ITTTAAAAAQQQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
             "logo": "",
             "type": 0,
             "api": "",
