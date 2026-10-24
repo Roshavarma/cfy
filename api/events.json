@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-24T17:51:14.475627",
+  "last_updated": "2026-10-24T18:01:42.312207",
   "event_count": 69,
   "events": {
     "events": [
@@ -20,6 +20,14 @@
           "endTime": "2026/10/24 22:00:12 +0000"
         },
         "channels_data": [
+          {
+            "title": "APPLE TV - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/2zd0dtse6o/out/v1/a34ee04b03b54f0092d3c03cd0707fba/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+            "logo": "",
+            "type": 7,
+            "api": "3f797fa057aa1ded64bf54daeefc529f:63bdd4bfef64901a6d9b138e59129e67",
+            "tokenApi": ""
+          },
           {
             "title": "FANCODE - AQ",
             "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
@@ -45,8 +53,8 @@
             "tokenApi": ""
           },
           {
-            "title": "SKY MAIN EVENT",
-            "link": "https://admin2.formaturamaxi.com.br/f1.m3u8",
+            "title": "SKY SPORTS F1",
+            "link": "https://temp.formaturamaxi.com.br/f1.m3u8",
             "logo": "",
             "type": 0,
             "api": "",
@@ -54,7 +62,7 @@
           },
           {
             "title": "RUSSIA FEED",
-            "link": "https://bl.rutube.ru/livestream/d11d0145804d4321a677aacb62984de8/index.m3u8?s=k9d3abxTJHkJWs65bDRXjg&e=1791806247&scheme=https|user-agent=Mozilla",
+            "link": "https://bl.rutube.ru/livestream/38c36d6eac1343ec696f07ed45daee78/index.m3u8?s=6sS4IjzpSEi8VU5ba1iZlw&e=1792948800&scheme=https|user-agent=Mozilla",
             "logo": "",
             "type": 0,
             "api": "",
@@ -1861,14 +1869,14 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/56021/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/10/24 18:00:00 +0000",
           "endTime": "2026/10/24 20:20:00 +0000"
         },
         "channels_data": [
           {
             "title": "Live 1",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "link": "http://193.47.62.55/hls/dooooAAAAQQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
             "logo": "",
             "type": 0,
             "api": "",
