@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-24T07:43:48.091288",
+  "last_updated": "2026-10-24T07:51:34.932217",
   "event_count": 104,
   "events": {
     "events": [
@@ -531,7 +531,48 @@
           "startTime": "2026/10/29 08:00:58 +0000",
           "endTime": "2026/10/29 17:55:02 +0000"
         },
-        "channels_data": []
+        "channels_data": [
+          {
+            "title": "WILLOW - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lognidbrxm/out/v1/7871a7545c6a43f9b9f17bf42f50602e/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "6138da1047932e4c4328448493554901:4e8e19728da2159ac564bd5b01843621",
+            "tokenApi": ""
+          },
+          {
+            "title": "SKY CRICKET - AQ",
+            "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "WILLOW - ALT",
+            "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/lognidbrxm/out/v1/7871a7545c6a43f9b9f17bf42f50602e/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "6138da1047932e4c4328448493554901:4e8e19728da2159ac564bd5b01843621",
+            "tokenApi": ""
+          },
+          {
+            "title": "PTV SPORTS HD",
+            "link": "https://baila-lentoo.pages.dev/all-sp/809398.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "TAPMAD - AQ",
+            "link": "https://tencent-cdn.tapmad.com/v1/01a14a9fb90c15fc60e91e1786b061/01a14a9feb881ea540a81c2b41b75e/main.m3u8|referer=https://tapmad.com/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
       },
       {
         "id": 14009,
@@ -1055,7 +1096,16 @@
           "startTime": "2026/10/25 14:00:00 +0000",
           "endTime": "2026/10/25 16:20:00 +0000"
         },
-        "channels_data": []
+        "channels_data": [
+          {
+            "title": "Live 1",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
       },
       {
         "id": 14087,
