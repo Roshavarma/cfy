@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-24T18:41:04.118757",
-  "event_count": 75,
+  "last_updated": "2026-10-24T18:51:11.423762",
+  "event_count": 74,
   "events": {
     "events": [
       {
@@ -1070,7 +1070,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/2690/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/10/24 18:45:00 +0000",
           "endTime": "2026/10/24 21:05:00 +0000"
         },
@@ -1100,7 +1100,7 @@
             "tokenApi": ""
           },
           {
-            "title": "PARAMOUNT+ HD",
+            "title": "DAZN SPORTS HD",
             "link": "https://chatgpt.hereisman.net/playlist/58521/load-playlist-multi?|Referer=https://gooz.aapmains.net",
             "logo": "",
             "type": 0,
@@ -1364,6 +1364,14 @@
             "logo": "",
             "type": 7,
             "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
+            "tokenApi": ""
+          },
+          {
+            "title": "FANCODE - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+            "logo": "",
+            "type": 7,
+            "api": "82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca",
             "tokenApi": ""
           },
           {
@@ -1719,33 +1727,6 @@
         ]
       },
       {
-        "id": 14166,
-        "title": "Willem II Tilburg vs SC Cambuur",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Willem II Tilburg",
-          "teamB": "SC Cambuur",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/2961/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/2970/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/10/24 16:45:00 +0000",
-          "endTime": "2026/10/24 19:05:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "LOW SERVER",
-            "link": "http://193.47.62.55/hls/IPPPAAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
         "id": 14167,
         "title": "ADO Den Haag vs SC Heerenveen",
         "image": "",
@@ -1873,22 +1854,30 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/6070/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/10/24 18:45:00 +0000",
           "endTime": "2026/10/24 21:05:00 +0000"
         },
         "channels_data": [
           {
-            "title": "beIN USA HD",
-            "link": "https://edgestream6.pro/hls/dza5z8f69.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
+            "title": "Caz\u00e9TV - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ui54qo0g6h/out/v1/620e1448188d4bbe9a28d0dd52f45bb7/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+            "logo": "",
+            "type": 7,
+            "api": "ba6aca5a550163c38d06646bb50f04e7:516c3b471fce48a5b7a2e5ee7dd505f2",
+            "tokenApi": ""
+          },
+          {
+            "title": "Live 1",
+            "link": "https://live.vivo155.com/live/hd-en-1-4550908.m3u8?txSecret=33146e501f6d6dc2c98a3b6c634ec211&txTime=6ADD0F9F|Referer=https://player.online878.com/",
             "logo": "",
             "type": 0,
             "api": "",
             "tokenApi": ""
           },
           {
-            "title": "Live 1",
-            "link": "https://live.vivo155.com/live/hd-en-1-4550908.m3u8?txSecret=33146e501f6d6dc2c98a3b6c634ec211&txTime=6ADD0F9F|Referer=https://player.online878.com/",
+            "title": "beIN USA HD",
+            "link": "https://edgestream6.pro/hls/dza5z8f69.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online",
             "logo": "",
             "type": 0,
             "api": "",
