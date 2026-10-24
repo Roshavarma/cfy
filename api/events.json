@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-24T15:01:39.556147",
-  "event_count": 93,
+  "last_updated": "2026-10-24T15:11:14.875516",
+  "event_count": 90,
   "events": {
     "events": [
       {
@@ -1462,108 +1462,6 @@
         ]
       },
       {
-        "id": 14097,
-        "title": "Cagliari vs Bologna",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Cagliari",
-          "teamB": "Bologna",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/2719/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/2685/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/10/24 13:00:00 +0000",
-          "endTime": "2026/10/24 15:20:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "SPORT 1 CZ - AQ",
-            "link": "https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
-            "tokenApi": ""
-          },
-          {
-            "title": "PARAMOUNT+ HD",
-            "link": "https://chatgpt.hereisman.net/playlist/58486/load-playlist-multi?|Referer=https://gooz.aapmains.net",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "HD SERVER",
-            "link": "https://www.rtmpcdn.com/live/38825fa3-23ba-4810-ba22-9487ceed422b.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "LOW SERVER",
-            "link": "http://193.47.62.55/hls/T000AAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 14098,
-        "title": "Como vs Sassuolo",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Como",
-          "teamB": "Sassuolo",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/2704/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/2793/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/10/24 13:00:00 +0000",
-          "endTime": "2026/10/24 15:20:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "beIN ENGLISH - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
-            "tokenApi": ""
-          },
-          {
-            "title": "PARAMOUNT+ HD",
-            "link": "https://chatgpt.hereisman.net/playlist/58485/load-playlist-multi?|Referer=https://gooz.aapmains.net",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "HD SERVER",
-            "link": "https://www.rtmpcdn.com/live/242320fe-b970-4f82-9e14-2ca63cc11f54.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "LOW SERVER",
-            "link": "http://193.47.62.55/hls/T000AAAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
         "id": 14099,
         "title": "SSC Napoli vs AS Roma",
         "image": "",
@@ -2286,14 +2184,14 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/34318/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/10/24 15:05:00 +0000",
           "endTime": "2026/10/24 17:25:00 +0000"
         },
         "channels_data": [
           {
-            "title": "Live 1",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "title": "LOW SERVER",
+            "link": "http://193.47.62.55/hls/btbtbtqqqqqqq.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
             "logo": "",
             "type": 0,
             "api": "",
@@ -2941,33 +2839,6 @@
           {
             "title": "Live 1",
             "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 14177,
-        "title": "Gaziantep FK vs Erzurumspor FK",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Gaziantep FK",
-          "teamB": "Erzurumspor FK",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/5138/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/55603/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/10/24 13:00:00 +0000",
-          "endTime": "2026/10/24 15:20:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "LOW SERVER",
-            "link": "http://193.47.62.55/hls/DPPPQQQAAAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
             "logo": "",
             "type": 0,
             "api": "",
