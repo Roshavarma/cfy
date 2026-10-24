@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-24T16:21:09.042151",
+  "last_updated": "2026-10-24T16:37:53.649023",
   "event_count": 72,
   "events": {
     "events": [
@@ -889,14 +889,22 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/2674/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/10/24 16:30:00 +0000",
           "endTime": "2026/10/24 18:50:00 +0000"
         },
         "channels_data": [
           {
-            "title": "Live 1",
+            "title": "USA SPORTS HD",
             "link": "https://chatgpt.hereisman.net/playlist/58510/load-playlist-multi?|Referer=https://gooz.aapmains.net",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "Live 1",
+            "link": "https://live.vivo155.com/live/hd-en-1-4566331.m3u8?txSecret=415d00caacaf639f04750053a30a9877&txTime=6ADCF17D|Referer=https://player.online878.com/",
             "logo": "",
             "type": 0,
             "api": "",
@@ -1113,11 +1121,19 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/33/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/10/24 16:30:00 +0000",
           "endTime": "2026/10/24 18:50:00 +0000"
         },
         "channels_data": [
+          {
+            "title": "FUBO SPORTS - AQ",
+            "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/tmuyow2v4n/out/v1/42dd830cfc8140aea984c2c01166fd1c/0cc6e394-71a6-4e53-ad42-64d38a14a3fa-cenc.mpd?aws_sessionId=41d23a1f-5302-4eb0-ac50-a5fa48ce041a",
+            "logo": "",
+            "type": 7,
+            "api": "c73b2bb9fe9610c566c68de50b57ad7f:2f486dbafd801fafe67c5b148263b4db",
+            "tokenApi": ""
+          },
           {
             "title": "SKY SPORTS - AQ",
             "link": "https://bl.rutube.ru/livestream/e5bacac3b8e730791d4cab20ae81cd8f/index.m3u8?s=LS7CQgVo3LGHyQW5yphz-g&e=2092722172&scheme=https|user-agent=Mozilla",
@@ -1127,8 +1143,16 @@
             "tokenApi": ""
           },
           {
-            "title": "Live 1",
+            "title": "PEACOCK TV HD",
             "link": "https://chatgpt.hereisman.net/playlist/58509/load-playlist-multi?|Referer=https://gooz.aapmains.net",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "Live 1",
+            "link": "https://live.vivo155.com/live/hd-en-1-4558637.m3u8?txSecret=817cb961616940e06806482555b59814&txTime=6ADCF158|Referer=https://player.online878.com/",
             "logo": "",
             "type": 0,
             "api": "",
@@ -1533,7 +1557,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/2819/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/10/24 16:30:00 +0000",
           "endTime": "2026/10/24 18:50:00 +0000"
         },
@@ -1544,6 +1568,14 @@
             "logo": "",
             "type": 7,
             "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
+            "tokenApi": ""
+          },
+          {
+            "title": "FANCODE - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+            "logo": "",
+            "type": 7,
+            "api": "82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca",
             "tokenApi": ""
           },
           {
@@ -2091,7 +2123,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/24336/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/10/24 16:30:00 +0000",
           "endTime": "2026/10/24 18:50:00 +0000"
         },
@@ -2118,7 +2150,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/24360/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/10/24 16:30:00 +0000",
           "endTime": "2026/10/24 18:50:00 +0000"
         },
