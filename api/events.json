@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-25T15:40:12.865925",
-  "event_count": 69,
+  "last_updated": "2026-10-25T15:46:32.440267",
+  "event_count": 67,
   "events": {
     "events": [
       {
@@ -1627,6 +1627,14 @@
             "tokenApi": ""
           },
           {
+            "title": "HD SERVER ",
+            "link": "https://www.rtmpcdn.com/live/d52f3435-f6d9-45ab-ad24-931fb2a39084.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
             "title": "LOW SERVER",
             "link": "http://193.47.62.50/hls/DD555QQQQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
             "logo": "",
@@ -2322,68 +2330,6 @@
         ]
       },
       {
-        "id": 14214,
-        "title": "NEC Nijmegen vs FC Groningen",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "NEC Nijmegen",
-          "teamB": "FC Groningen",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/2962/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/2951/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/10/25 13:30:00 +0000",
-          "endTime": "2026/10/25 15:50:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "LOW SERVER",
-            "link": "http://193.47.62.50/hls/FUUUAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 14215,
-        "title": "PSV Eindhoven vs Feyenoord",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "PSV Eindhoven",
-          "teamB": "Feyenoord",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/2952/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/2959/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/10/25 13:30:00 +0000",
-          "endTime": "2026/10/25 15:50:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "SportDigital Fussball",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-            "logo": "",
-            "type": 7,
-            "api": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
-            "tokenApi": ""
-          },
-          {
-            "title": "LOW SERVER",
-            "link": "http://193.47.62.50/hls/FUUUAAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
         "id": 14216,
         "title": "Sparta Rotterdam vs AFC Ajax",
         "image": "",
@@ -2395,7 +2341,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/2953/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/10/25 15:45:00 +0000",
           "endTime": "2026/10/25 18:05:00 +0000"
         },
