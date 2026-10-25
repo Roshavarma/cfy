@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-25T14:38:36.256991",
-  "event_count": 75,
+  "last_updated": "2026-10-25T14:53:09.658756",
+  "event_count": 72,
   "events": {
     "events": [
       {
@@ -959,6 +959,14 @@
             "tokenApi": ""
           },
           {
+            "title": "HD SERVER ",
+            "link": "https://www.rtmpcdn.com/live/8bb3ec20-dfeb-42c9-8bd8-8b638916f74e.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
             "title": "LOW SERVER",
             "link": "http://193.47.62.50/hls/N222AAAAAQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
             "logo": "",
@@ -1121,64 +1129,7 @@
           "startTime": "2026/10/25 14:00:00 +0000",
           "endTime": "2026/10/25 16:20:00 +0000"
         },
-        "channels_data": [
-          {
-            "title": "FUBO SPORTS - AQ",
-            "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/m0ppaxb17v/out/v1/aaaab12c95924d80a77f87f7c745782a/abc40d6d-7c3e-45a1-a24b-c3e631573c76-cenc.mpd?aws_sessionId=e2e2a15b-3d0a-4ae8-a11e-a0914acaceeb",
-            "logo": "",
-            "type": 7,
-            "api": "65f9ed4580a4af3c117a339c44cdfe3b:3e7d40c4b2ca331fe48bd65acae439d7",
-            "tokenApi": ""
-          },
-          {
-            "title": "SKY SPORTS EPL",
-            "link": "https://chatgpt.hereisman.net/playlist/58623/load-playlist-multi?|Referer=https://gooz.aapmains.net",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "beIN ARABIC - AQ",
-            "link": "https://live-cdn.ryazanslah3.space/hls/bein2.m3u8?|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "FUBO SPORTS HD",
-            "link": "https://admin2.formaturamaxi.com.br/fubo.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "Live 1",
-            "link": "https://live.vivo155.com/live/hd-en-1-4558645.m3u8?txSecret=424283d48e0382f46f97f8c5df61cd44&txTime=6ADE1D75|Referer=https://player.online878.com/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "HD SERVER",
-            "link": "https://edgestream6.pro/hls/eJmauBDCIf.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://embedcenter.st&Origin=https://embedcenter.st",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "LOW SERVER",
-            "link": "http://193.47.62.41/hls/a111aa.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
+        "channels_data": []
       },
       {
         "id": 14088,
@@ -1924,16 +1875,7 @@
           "startTime": "2026/10/26 19:30:00 +0000",
           "endTime": "2026/10/26 21:50:00 +0000"
         },
-        "channels_data": [
-          {
-            "title": "Live 1",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
+        "channels_data": []
       },
       {
         "id": 14196,
@@ -2349,111 +2291,6 @@
           {
             "title": "Live 1",
             "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 14211,
-        "title": "Eintracht Braunschweig vs Hannover 96",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Eintracht Braunschweig",
-          "teamB": "Hannover 96",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/2557/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/2541/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/10/25 12:30:00 +0000",
-          "endTime": "2026/10/25 14:50:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "Live 1",
-            "link": "https://live.vivo155.com/live/sd-1-4566552.m3u8?txSecret=5dad719dfd17d521096cd1f288c5c5a5&txTime=6ADE0620|Referer=https://player.online878.com/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "LOW SERVER",
-            "link": "http://193.47.62.50/hls/K4444A.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 14212,
-        "title": "Holstein Kiel vs SG Dynamo Dresden",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Holstein Kiel",
-          "teamB": "SG Dynamo Dresden",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/2573/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/2595/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/10/25 12:30:00 +0000",
-          "endTime": "2026/10/25 14:50:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "Live 1",
-            "link": "https://live.vivo155.com/live/sd-1-4566601.m3u8?txSecret=2b36879c99591e64efeac11182bf66a6&txTime=6ADE0604|Referer=https://player.online878.com/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "LOW SERVER",
-            "link": "http://193.47.62.50/hls/K4444AA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 14213,
-        "title": "VfL Osnabruck vs SpVgg Greuther Furth",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "VfL Osnabr\u00fcck",
-          "teamB": "SpVgg Greuther F\u00fcrth",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/2581/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/2551/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/10/25 12:30:00 +0000",
-          "endTime": "2026/10/25 14:50:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "Live 1",
-            "link": "https://live.vivo155.com/live/sd-1-4566567.m3u8?txSecret=9bd305db907fd752c00c3798aa429435&txTime=6ADE0644|Referer=https://player.online878.com/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "LOW SERVER",
-            "link": "http://193.47.62.50/hls/K4444AAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
             "logo": "",
             "type": 0,
             "api": "",
