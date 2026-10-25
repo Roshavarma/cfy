@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-25T13:21:05.856066",
-  "event_count": 77,
+  "last_updated": "2026-10-25T13:31:31.062374",
+  "event_count": 76,
   "events": {
     "events": [
       {
@@ -1449,6 +1449,14 @@
         },
         "channels_data": [
           {
+            "title": "TSN SPORTS - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wk55a8ebu3/out/v1/b57548ef5b3a4e33a007bf7ec96e1c2d/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+            "logo": "",
+            "type": 7,
+            "api": "4170ba466cc111db989e0436c02729ed:5909a42c74d661a5146331100e3ecb53",
+            "tokenApi": ""
+          },
+          {
             "title": "PREMIER SPORTS - AQ",
             "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
             "logo": "",
@@ -1734,7 +1742,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/4345/image",
           "eventName": "American football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/10/25 13:30:00 +0000",
           "endTime": "2026/10/25 16:30:00 +0000"
         },
@@ -2260,14 +2268,14 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/2951/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/10/25 13:30:00 +0000",
           "endTime": "2026/10/25 15:50:00 +0000"
         },
         "channels_data": [
           {
-            "title": "Live 1",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "title": "LOW SERVER",
+            "link": "http://193.47.62.50/hls/FUUUAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
             "logo": "",
             "type": 0,
             "api": "",
@@ -2287,7 +2295,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/2959/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/10/25 13:30:00 +0000",
           "endTime": "2026/10/25 15:50:00 +0000"
         },
@@ -2298,6 +2306,14 @@
             "logo": "",
             "type": 7,
             "api": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
+            "tokenApi": ""
+          },
+          {
+            "title": "LOW SERVER",
+            "link": "http://193.47.62.50/hls/FUUUAAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+            "logo": "",
+            "type": 0,
+            "api": "",
             "tokenApi": ""
           }
         ]
@@ -2349,33 +2365,6 @@
           {
             "title": "Live 1",
             "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 14218,
-        "title": "Fortuna Sittard vs Excelsior",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Fortuna Sittard",
-          "teamB": "Excelsior",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/2957/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/2967/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/10/25 11:15:00 +0000",
-          "endTime": "2026/10/25 13:35:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "LOW SERVER",
-            "link": "http://193.47.62.50/hls/D222AAAQQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
             "logo": "",
             "type": 0,
             "api": "",
