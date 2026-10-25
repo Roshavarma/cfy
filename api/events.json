@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-25T12:51:05.378098",
+  "last_updated": "2026-10-25T13:01:47.823520",
   "event_count": 77,
   "events": {
     "events": [
@@ -1443,7 +1443,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/2859/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/10/25 13:00:00 +0000",
           "endTime": "2026/10/25 15:20:00 +0000"
         },
@@ -1454,6 +1454,14 @@
             "logo": "",
             "type": 7,
             "api": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19",
+            "tokenApi": ""
+          },
+          {
+            "title": "FANCODE - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+            "logo": "",
+            "type": 7,
+            "api": "82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca",
             "tokenApi": ""
           },
           {
@@ -2495,13 +2503,21 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/2822/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/10/25 13:00:00 +0000",
           "endTime": "2026/10/25 15:20:00 +0000"
         },
         "channels_data": [
           {
             "title": "Live 1",
+            "link": "https://live.vivo155.com/live/sd-1-4567333.m3u8?txSecret=551bfbd0551e8a98ce0f636f16bbf0f7&txTime=6ADE106A|Referer=https://player.online878.com/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "LOW SERVER",
             "link": "http://193.47.62.50/hls/HHHH6AA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
             "logo": "",
             "type": 0,
@@ -2603,13 +2619,21 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/7802/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/10/25 13:00:00 +0000",
           "endTime": "2026/10/25 15:20:00 +0000"
         },
         "channels_data": [
           {
             "title": "Live 1",
+            "link": "https://live.vivo155.com/live/sd-1-4581347.m3u8?txSecret=26cb89169a6004ea5f54d60c7a8e8115&txTime=6ADE10D3|Referer=https://player.online878.com/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "LOW SERVER",
             "link": "http://193.47.62.50/hls/U666AAAAQQQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
             "logo": "",
             "type": 0,
