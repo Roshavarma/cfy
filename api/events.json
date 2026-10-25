@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-25T16:31:29.276383",
-  "event_count": 60,
+  "last_updated": "2026-10-25T16:40:59.458705",
+  "event_count": 58,
   "events": {
     "events": [
       {
@@ -489,89 +489,6 @@
         ]
       },
       {
-        "id": 13978,
-        "title": "Pakistan vs England",
-        "image": "",
-        "cat": "Cricket",
-        "eventInfo": {
-          "teamA": "Pakistan",
-          "teamB": "England",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/187754/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/187757/image",
-          "eventName": "Cricket",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/10/25 08:00:07 +0000",
-          "endTime": "2026/10/25 17:00:12 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "WILLOW - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/etttcyodrm/out/v1/2e476a75a79741c0bc7c9586e59a5f0e/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "53ac5670511d1300366b35b85eb6eadc:e255086091e4638f16985ca3ddd56e2b",
-            "tokenApi": ""
-          },
-          {
-            "title": "SKY CRICKET - AQ",
-            "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "WILLOW - ALT",
-            "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/etttcyodrm/out/v1/2e476a75a79741c0bc7c9586e59a5f0e/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "53ac5670511d1300366b35b85eb6eadc:e255086091e4638f16985ca3ddd56e2b",
-            "tokenApi": ""
-          },
-          {
-            "title": "TAPMAD - AQ",
-            "link": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8|referer=https://tapmad.com/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "PTV SPORTS HD",
-            "link": "https://live.msnetworks.net/ptv-sports/master.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "FOX CRICKET HD",
-            "link": "https://baila-lentoo.pages.dev/all-sp/809389.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "WILLOW HD",
-            "link": "https://baila-lentoo.pages.dev/all-sp/809386.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "T SPORTS HD",
-            "link": "http://103.151.60.162:2122/play/a030/index.m3u8?hls",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
         "id": 14008,
         "title": "Sri Lanka vs England",
         "image": "",
@@ -926,57 +843,6 @@
         ]
       },
       {
-        "id": 14083,
-        "title": "TSG Hoffenheim vs Bayer 04 Leverkusen",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "TSG Hoffenheim",
-          "teamB": "Bayer 04 Leverkusen",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/2569/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/2681/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/10/25 14:30:00 +0000",
-          "endTime": "2026/10/25 16:50:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "SporTV BR - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-            "logo": "",
-            "type": 7,
-            "api": "51c0ef23b17297e5c01cd7f36dd0a6ce:8823f713ba6fdb9bbe0a2ad82d309a4b",
-            "tokenApi": ""
-          },
-          {
-            "title": "Live 1",
-            "link": "https://live.vivo155.com/live/hd-en-1-4566337.m3u8?txSecret=839b81d6bc0c7c429b36b9a39cf2b5f2&txTime=6ADE2123|Referer=https://player.online878.com/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "HD SERVER ",
-            "link": "https://www.rtmpcdn.com/live/8bb3ec20-dfeb-42c9-8bd8-8b638916f74e.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "LOW SERVER",
-            "link": "http://193.47.62.50/hls/N222AAAAAQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
         "id": 14084,
         "title": "SC Freiburg vs FC Bayern Munchen",
         "image": "",
@@ -1133,6 +999,14 @@
             "logo": "",
             "type": 7,
             "api": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
+            "tokenApi": ""
+          },
+          {
+            "title": "HD SERVER",
+            "link": "https://edgestream1.pro/hls/syaLqucEne4k.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://embedcenter.st&Origin=https://embedcenter.st",
+            "logo": "",
+            "type": 0,
+            "api": "",
             "tokenApi": ""
           }
         ]
