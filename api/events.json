@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-25T17:10:57.447865",
-  "event_count": 58,
+  "last_updated": "2026-10-25T17:21:08.399547",
+  "event_count": 55,
   "events": {
     "events": [
       {
@@ -1112,6 +1112,14 @@
             "tokenApi": ""
           },
           {
+            "title": "FANCODE - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+            "logo": "",
+            "type": 7,
+            "api": "82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca",
+            "tokenApi": ""
+          },
+          {
             "title": "D SPORTS - AQ",
             "link": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/rgilyeubta/out/v1/09a67027b18f4fd78aaa3794a2aacfe8/cenc.mpd",
             "logo": "",
@@ -1125,81 +1133,6 @@
             "logo": "",
             "type": 7,
             "api": "34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 14107,
-        "title": "Celta Vigo vs Real Betis",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Celta Vigo",
-          "teamB": "Real Betis",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/2821/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/2816/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/10/25 15:15:00 +0000",
-          "endTime": "2026/10/25 17:35:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "PREMIER SPORTS - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-            "logo": "",
-            "type": 7,
-            "api": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19",
-            "tokenApi": ""
-          },
-          {
-            "title": "beIN ENGLISH - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-            "logo": "",
-            "type": 7,
-            "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
-            "tokenApi": ""
-          },
-          {
-            "title": "FANCODE - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-            "logo": "",
-            "type": 7,
-            "api": "82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca",
-            "tokenApi": ""
-          },
-          {
-            "title": "D SPORTS - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-            "logo": "",
-            "type": 7,
-            "api": "f836853d8eac19446ed9535f5fc568b1:b3bc5ef00602b29abac7e482d3d9fbf3",
-            "tokenApi": ""
-          },
-          {
-            "title": "ESPN DEPORTES HD",
-            "link": "https://edgestream2.pro/hls/377qj1h2727.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://embedcenter.st&Origin=https://embedcenter.st",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "HD SERVER ",
-            "link": "https://www.rtmpcdn.com/live/d52f3435-f6d9-45ab-ad24-931fb2a39084.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "LOW SERVER",
-            "link": "http://193.47.62.50/hls/DD555QQQQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-            "logo": "",
-            "type": 0,
-            "api": "",
             "tokenApi": ""
           }
         ]
@@ -2233,60 +2166,6 @@
         ]
       },
       {
-        "id": 14224,
-        "title": "Albacete Balompie vs CD Eldense",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Albacete Balompi\u00e9",
-          "teamB": "CD Eldense",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/2848/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/47321/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/10/25 15:15:00 +0000",
-          "endTime": "2026/10/25 17:35:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "Live 1",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 14225,
-        "title": "Cadiz vs AD Ceuta",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "C\u00e1diz",
-          "teamB": "AD Ceuta",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/4488/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/2869/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/10/25 15:15:00 +0000",
-          "endTime": "2026/10/25 17:35:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "LOW SERVER",
-            "link": "http://193.47.62.50/hls/DD555QQQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
         "id": 14226,
         "title": "CD Castellon vs Sporting Gijon",
         "image": "",
@@ -2305,7 +2184,15 @@
         "channels_data": [
           {
             "title": "Live 1",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "link": "https://live1.quickscoreboardz.com/live/channel11.m3u8?|Referer=https://xlz.domainkqt.cc/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "LOW SERVER",
+            "link": "http://193.47.62.50/hls/DD555QQQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
             "logo": "",
             "type": 0,
             "api": "",
