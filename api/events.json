@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-25T15:01:51.575728",
-  "event_count": 72,
+  "last_updated": "2026-10-25T15:26:09.431581",
+  "event_count": 69,
   "events": {
     "events": [
       {
@@ -169,32 +169,7 @@
           "startTime": "2026/10/31 00:00:45 +0000",
           "endTime": "2026/10/31 03:01:49 +0000"
         },
-        "channels_data": [
-          {
-            "title": "Live 1",
-            "link": "https://chatgpt.hereisman.net/playlist/54963/load-playlist?|Referer=https://gooz.aapmains.net",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "WWE LIVE - AQ",
-            "link": "https://ubuntu.fromthyheart.site/dailymotion/live/playlist/4.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "SD SERVER",
-            "link": "http://193.47.62.41/hls/UIIIAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
+        "channels_data": []
       },
       {
         "id": 1090,
@@ -1581,7 +1556,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/2816/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/10/25 15:15:00 +0000",
           "endTime": "2026/10/25 17:35:00 +0000"
         },
@@ -1603,49 +1578,6 @@
             "tokenApi": ""
           },
           {
-            "title": "D SPORTS - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-            "logo": "",
-            "type": 7,
-            "api": "f836853d8eac19446ed9535f5fc568b1:b3bc5ef00602b29abac7e482d3d9fbf3",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 14108,
-        "title": "Athletic Club vs Getafe",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Athletic Club",
-          "teamB": "Getafe",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/2825/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/2859/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/10/25 13:00:00 +0000",
-          "endTime": "2026/10/25 15:20:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "TSN SPORTS - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wk55a8ebu3/out/v1/b57548ef5b3a4e33a007bf7ec96e1c2d/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-            "logo": "",
-            "type": 7,
-            "api": "4170ba466cc111db989e0436c02729ed:5909a42c74d661a5146331100e3ecb53",
-            "tokenApi": ""
-          },
-          {
-            "title": "PREMIER SPORTS - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-            "logo": "",
-            "type": 7,
-            "api": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19",
-            "tokenApi": ""
-          },
-          {
             "title": "FANCODE - AQ",
             "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
             "logo": "",
@@ -1662,8 +1594,8 @@
             "tokenApi": ""
           },
           {
-            "title": "HD SERVER",
-            "link": "https://edgestream6.pro/hls/377qj1h2727.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://embedcenter.st&Origin=https://embedcenter.st",
+            "title": "ESPN DEPORTES HD",
+            "link": "https://edgestream2.pro/hls/377qj1h2727.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://embedcenter.st&Origin=https://embedcenter.st",
             "logo": "",
             "type": 0,
             "api": "",
@@ -1671,7 +1603,7 @@
           },
           {
             "title": "LOW SERVER",
-            "link": "http://193.47.62.50/hls/HHHH6AAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+            "link": "http://193.47.62.50/hls/DD555QQQQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
             "logo": "",
             "type": 0,
             "api": "",
@@ -2110,16 +2042,7 @@
           "startTime": "2026/10/25 17:00:00 +0000",
           "endTime": "2026/10/25 20:00:00 +0000"
         },
-        "channels_data": [
-          {
-            "title": "Live 1",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
+        "channels_data": []
       },
       {
         "id": 14202,
@@ -2191,16 +2114,7 @@
           "startTime": "2026/10/25 20:05:00 +0000",
           "endTime": "2026/10/25 23:05:00 +0000"
         },
-        "channels_data": [
-          {
-            "title": "Live 1",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
+        "channels_data": []
       },
       {
         "id": 14205,
@@ -2589,41 +2503,6 @@
         ]
       },
       {
-        "id": 14223,
-        "title": "CE Sabadell vs CD Tenerife",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "CE Sabadell",
-          "teamB": "CD Tenerife",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/24335/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/2822/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/10/25 13:00:00 +0000",
-          "endTime": "2026/10/25 15:20:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "Live 1",
-            "link": "https://live.vivo155.com/live/sd-1-4567333.m3u8?txSecret=551bfbd0551e8a98ce0f636f16bbf0f7&txTime=6ADE106A|Referer=https://player.online878.com/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "LOW SERVER",
-            "link": "http://193.47.62.50/hls/HHHH6AA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
         "id": 14224,
         "title": "Albacete Balompie vs CD Eldense",
         "image": "",
@@ -2635,7 +2514,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/47321/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/10/25 15:15:00 +0000",
           "endTime": "2026/10/25 17:35:00 +0000"
         },
@@ -2662,14 +2541,14 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/2869/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/10/25 15:15:00 +0000",
           "endTime": "2026/10/25 17:35:00 +0000"
         },
         "channels_data": [
           {
-            "title": "Live 1",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "title": "LOW SERVER",
+            "link": "http://193.47.62.50/hls/DD555QQQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
             "logo": "",
             "type": 0,
             "api": "",
@@ -2697,41 +2576,6 @@
           {
             "title": "Live 1",
             "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 14227,
-        "title": "Konyaspor vs Genclerbirligi",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Konyaspor",
-          "teamB": "Gen\u00e7lerbirli\u011fi",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/3085/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/7802/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/10/25 13:00:00 +0000",
-          "endTime": "2026/10/25 15:20:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "Live 1",
-            "link": "https://live.vivo155.com/live/sd-1-4581347.m3u8?txSecret=26cb89169a6004ea5f54d60c7a8e8115&txTime=6ADE10D3|Referer=https://player.online878.com/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "LOW SERVER",
-            "link": "http://193.47.62.50/hls/U666AAAAQQQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
             "logo": "",
             "type": 0,
             "api": "",
