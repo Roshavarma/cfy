@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-26T04:20:52.534442",
-  "event_count": 32,
+  "last_updated": "2026-10-26T04:31:05.596562",
+  "event_count": 31,
   "events": {
     "events": [
       {
@@ -862,49 +862,6 @@
         ]
       },
       {
-        "id": 14207,
-        "title": "Seattle Seahawks vs Kansas City Chiefs",
-        "image": "",
-        "cat": "American football",
-        "eventInfo": {
-          "teamA": "Seattle Seahawks",
-          "teamB": "Kansas City Chiefs",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/4430/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/4422/image",
-          "eventName": "American football",
-          "isHot": "0",
-          "Status": "Finish",
-          "startTime": "2026/10/26 00:20:00 +0000",
-          "endTime": "2026/10/26 03:20:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "TSN SPORTS 1 - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-            "logo": "",
-            "type": 7,
-            "api": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d",
-            "tokenApi": ""
-          },
-          {
-            "title": "TSN SPORTS 5 - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-            "logo": "",
-            "type": 7,
-            "api": "385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8",
-            "tokenApi": ""
-          },
-          {
-            "title": "HD QUALITY",
-            "link": "https://edgestream3.pro/hls/ijzriafaq41.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://embedcenter.st&Origin=https://embedcenter.st",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
         "id": 14208,
         "title": "Philadelphia Eagles vs Dallas Cowboys",
         "image": "",
@@ -978,33 +935,6 @@
           {
             "title": "Live 1",
             "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 14235,
-        "title": "Sacramento Kings vs Memphis Grizzlies",
-        "image": "",
-        "cat": "Basketball",
-        "eventInfo": {
-          "teamA": "Sacramento Kings",
-          "teamB": "Memphis Grizzlies",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/3413/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/3415/image",
-          "eventName": "Basketball",
-          "isHot": "0",
-          "Status": "Finish",
-          "startTime": "2026/10/26 01:00:00 +0000",
-          "endTime": "2026/10/26 03:30:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "HD QUALITY",
-            "link": "https://edgestream4.pro/hls/ztyarueaghj71.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://embedcenter.st&Origin=https://embedcenter.st",
             "logo": "",
             "type": 0,
             "api": "",
@@ -1362,6 +1292,24 @@
             "tokenApi": ""
           }
         ]
+      },
+      {
+        "id": 14251,
+        "title": "Ballon dor Show",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Ballon d'Or",
+          "teamB": "Ballon d'Or",
+          "teamAFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7BaZpa-Q-92ZI54-K0RZSyQAUcdgO-kcRiEjjq7-J7w&s=10",
+          "teamBFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7BaZpa-Q-92ZI54-K0RZSyQAUcdgO-kcRiEjjq7-J7w&s=10",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/10/26 17:00:06 +0000",
+          "endTime": "2026/10/26 21:00:09 +0000"
+        },
+        "channels_data": []
       }
     ]
   }
