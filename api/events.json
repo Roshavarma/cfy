@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-26T18:20:56.991579",
+  "last_updated": "2026-10-26T18:31:09.048857",
   "event_count": 36,
   "events": {
     "events": [
@@ -1061,7 +1061,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/3052/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/10/26 18:30:00 +0000",
           "endTime": "2026/10/26 20:50:00 +0000"
         },
@@ -1322,6 +1322,14 @@
           {
             "title": "Ballon d'Or - FR",
             "link": "https://admin2.formaturamaxi.com.br/equipe.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "HD SERVER",
+            "link": "https://live2.domaincdn.cc/livecdn/channel-15.flv?auth_key=3000001793032316-0-0-6f6e8f89200f676142e911869978c1b0",
             "logo": "",
             "type": 0,
             "api": "",
