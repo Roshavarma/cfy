@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-27T18:21:00.577350",
+  "last_updated": "2026-10-27T18:31:20.592276",
   "event_count": 46,
   "events": {
     "events": [
@@ -666,9 +666,9 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/187745/image",
           "eventName": "Cricket",
           "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/10/27 14:30:29 +0000",
-          "endTime": "2026/10/27 19:00:34 +0000"
+          "Status": "Upcoming",
+          "startTime": "2026/10/29 14:30:54 +0000",
+          "endTime": "2026/10/29 18:30:59 +0000"
         },
         "channels_data": [
           {
@@ -1325,6 +1325,14 @@
           {
             "title": "HD SERVER",
             "link": "https://live2.jorvakstreamcache.com/live/channel12.m3u8?|Referer=https://xlz.domainkqt.cc/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "Live 2",
+            "link": "https://www.rtmpcdn.com/live/f904a407-5eb3-4211-8b6f-a0952bdea257.m3u8",
             "logo": "",
             "type": 0,
             "api": "",
