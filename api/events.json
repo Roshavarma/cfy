@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-28T18:01:40.798403",
-  "event_count": 73,
+  "last_updated": "2026-10-28T18:11:08.086048",
+  "event_count": 59,
   "events": {
     "events": [
       {
@@ -899,76 +899,6 @@
         ]
       },
       {
-        "id": 14307,
-        "title": "Al-Jazira vs Al-Muharraq SC",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Al-Jazira",
-          "teamB": "Al-Muharraq SC",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/8090/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/45474/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/10/28 16:00:00 +0000",
-          "endTime": "2026/10/28 18:20:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "HD SERVER",
-            "link": "https://live2.jorvakstreamcache.com/live/channel5.m3u8?|Referer=https://xlz.domainkqt.cc/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "LOW SERVER",
-            "link": "http://193.47.62.50/hls/JJJJQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 14308,
-        "title": "Al Nahda SC vs Al-Rayyan",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Al Nahda SC",
-          "teamB": "Al-Rayyan",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/40648/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/40660/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/10/28 16:00:00 +0000",
-          "endTime": "2026/10/28 18:20:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "HD SERVER ",
-            "link": "https://live2.jorvakstreamcache.com/live/channel6.m3u8?|Referer=https://xlz.domainkqt.cc/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "LOW SERVER",
-            "link": "http://193.47.62.50/hls/JJJJQQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
         "id": 14309,
         "title": "Al Khaldiya vs Al-Wahda FC",
         "image": "",
@@ -986,8 +916,8 @@
         },
         "channels_data": [
           {
-            "title": "Live 1",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "title": "LOW SERVER",
+            "link": "http://193.47.62.59/hls/5JJJQQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
             "logo": "",
             "type": 0,
             "api": "",
@@ -1013,8 +943,16 @@
         },
         "channels_data": [
           {
-            "title": "Live 1",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "title": "HD SERVER ",
+            "link": "https://live2.jorvakstreamcache.com/live/channel10.m3u8?|Referer=https://xlz.domainkqt.cc/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "LOW SERVER",
+            "link": "http://193.47.62.59/hls/5JJJQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
             "logo": "",
             "type": 0,
             "api": "",
@@ -1037,330 +975,6 @@
           "Status": "Upcoming",
           "startTime": "2026/10/29 07:45:00 +0000",
           "endTime": "2026/10/29 10:05:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "Live 1",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 14312,
-        "title": "CD Anaitasuna FT vs Deportivo Alaves",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "CD Anaitasuna FT",
-          "teamB": "Deportivo Alav\u00e9s",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/263773/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/2885/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/10/28 18:00:00 +0000",
-          "endTime": "2026/10/28 20:20:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "Live 1",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 14313,
-        "title": "CD Tarancon vs Levante UD",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "CD Taranc\u00f3n",
-          "teamB": "Levante UD",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/293881/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/2849/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/10/28 18:00:00 +0000",
-          "endTime": "2026/10/28 20:20:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "Live 1",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 14314,
-        "title": "Pamplona vs Eibar",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Pamplona",
-          "teamB": "Eibar",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/263528/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/2839/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/10/28 18:00:00 +0000",
-          "endTime": "2026/10/28 20:20:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "Live 1",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 14315,
-        "title": "UD Poblense vs AD Ceuta",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "UD Poblense",
-          "teamB": "AD Ceuta",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/243027/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/2869/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/10/28 18:00:00 +0000",
-          "endTime": "2026/10/28 20:20:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "Live 1",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 14316,
-        "title": "CD Alcoyano vs Mallorca",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "CD Alcoyano",
-          "teamB": "Mallorca",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/6585/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/2826/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Upcoming",
-          "startTime": "2026/10/28 19:00:00 +0000",
-          "endTime": "2026/10/28 21:20:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "Live 1",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 14317,
-        "title": "CD Covadonga vs Real Valladolid",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "CD Covadonga",
-          "teamB": "Real Valladolid",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/263608/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/2831/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Upcoming",
-          "startTime": "2026/10/28 19:00:00 +0000",
-          "endTime": "2026/10/28 21:20:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "Live 1",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 14318,
-        "title": "Calvo Sotelo Puertollano vs Albacete Balompie",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Calvo Sotelo Puertollano",
-          "teamB": "Albacete Balompi\u00e9",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/295639/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/2848/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Upcoming",
-          "startTime": "2026/10/28 19:00:00 +0000",
-          "endTime": "2026/10/28 21:20:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "Live 1",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 14319,
-        "title": "Numancia vs Real Oviedo",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Numancia",
-          "teamB": "Real Oviedo",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/2855/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/2851/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Upcoming",
-          "startTime": "2026/10/28 19:00:00 +0000",
-          "endTime": "2026/10/28 21:20:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "Live 1",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 14320,
-        "title": "Trival Valderas Alcorcon vs Leganes",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Trival Valderas Alcorc\u00f3n",
-          "teamB": "Legan\u00e9s",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/167158/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/2845/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Upcoming",
-          "startTime": "2026/10/28 19:00:00 +0000",
-          "endTime": "2026/10/28 21:20:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "Live 1",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 14321,
-        "title": "CDA Navalcarnero vs Real Betis",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "CDA Navalcarnero",
-          "teamB": "Real Betis",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/24352/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/2816/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Upcoming",
-          "startTime": "2026/10/28 20:00:00 +0000",
-          "endTime": "2026/10/28 22:20:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "Live 1",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 14322,
-        "title": "Salamanca UDS vs Celta Vigo",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Salamanca UDS",
-          "teamB": "Celta Vigo",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/263916/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/2821/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Upcoming",
-          "startTime": "2026/10/28 20:00:00 +0000",
-          "endTime": "2026/10/28 22:20:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "Live 1",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 14323,
-        "title": "UE Tavernes vs Valencia",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "UE Tavernes",
-          "teamB": "Valencia",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/1284427/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/2828/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Upcoming",
-          "startTime": "2026/10/28 20:00:00 +0000",
-          "endTime": "2026/10/28 22:20:00 +0000"
         },
         "channels_data": [
           {
@@ -2647,7 +2261,7 @@
         },
         "channels_data": [
           {
-            "title": "Live 1",
+            "title": "WILLOW - AQ",
             "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
             "logo": "",
             "type": 0,
@@ -2674,7 +2288,7 @@
         },
         "channels_data": [
           {
-            "title": "Live 1",
+            "title": "WILLOW FHD",
             "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
             "logo": "",
             "type": 0,
