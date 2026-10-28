@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-28T15:51:12.264367",
-  "event_count": 75,
+  "last_updated": "2026-10-28T16:01:57.285482",
+  "event_count": 73,
   "events": {
     "events": [
       {
@@ -382,9 +382,9 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/187746/image",
           "eventName": "Cricket",
           "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/10/28 08:30:58 +0000",
-          "endTime": "2026/10/28 17:00:02 +0000"
+          "Status": "Upcoming",
+          "startTime": "2026/10/29 08:30:15 +0000",
+          "endTime": "2026/10/29 17:00:19 +0000"
         },
         "channels_data": [
           {
@@ -899,92 +899,6 @@
         ]
       },
       {
-        "id": 14305,
-        "title": "Gol Gohar Sirjan vs Arkadag FK",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Gol Gohar Sirjan",
-          "teamB": "Arkadag FK",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/275525/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/469420/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/10/28 13:45:00 +0000",
-          "endTime": "2026/10/28 16:05:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "Live 1",
-            "link": "https://live.vivo155.com/live/hd-en-1-4621318.m3u8?txSecret=37a5b03882c64baaec8a90dd0643209a&txTime=6AE2119D|Referer=https://player.on8on8.com/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "HD SERVER",
-            "link": "https://live2.jorvakstreamcache.com/live/channel12.m3u8?|Referer=https://xlz.domainkqt.cc/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "LOW SERVER",
-            "link": "http://193.47.62.44/hls/I000AAAAQQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 14306,
-        "title": "Nasaf Qarshi vs Al Kuwait SC",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Nasaf Qarshi",
-          "teamB": "Al Kuwait SC",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/34017/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/32525/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/10/28 13:45:00 +0000",
-          "endTime": "2026/10/28 16:05:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "Live 1",
-            "link": "https://live.vivo155.com/live/hd-en-1-4621303.m3u8?txSecret=ce551beaa92edfa46b85b97a47b9a8c5&txTime=6AE21179|Referer=https://player.on8on8.com/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "HD SERVER ",
-            "link": "https://live2.jorvakstreamcache.com/live/channel4.m3u8?|Referer=https://xlz.domainkqt.cc/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "LOW SERVER",
-            "link": "http://193.47.62.44/hls/I000AAAAQQQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
         "id": 14307,
         "title": "Al-Jazira vs Al-Muharraq SC",
         "image": "",
@@ -996,14 +910,22 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/45474/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/10/28 16:00:00 +0000",
           "endTime": "2026/10/28 18:20:00 +0000"
         },
         "channels_data": [
           {
-            "title": "Live 1",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "title": "HD SERVER",
+            "link": "https://live2.jorvakstreamcache.com/live/channel5.m3u8?|Referer=https://xlz.domainkqt.cc/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "LOW SERVER",
+            "link": "http://193.47.62.50/hls/JJJJQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
             "logo": "",
             "type": 0,
             "api": "",
@@ -1023,14 +945,22 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/40660/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/10/28 16:00:00 +0000",
           "endTime": "2026/10/28 18:20:00 +0000"
         },
         "channels_data": [
           {
-            "title": "Live 1",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "title": "HD SERVER ",
+            "link": "https://live2.jorvakstreamcache.com/live/channel6.m3u8?|Referer=https://xlz.domainkqt.cc/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "LOW SERVER",
+            "link": "http://193.47.62.50/hls/JJJJQQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
             "logo": "",
             "type": 0,
             "api": "",
