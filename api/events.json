@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-28T12:51:20.070833",
-  "event_count": 75,
+  "last_updated": "2026-10-28T13:01:57.383691",
+  "event_count": 74,
   "events": {
     "events": [
       {
@@ -457,57 +457,6 @@
             "logo": "",
             "type": 0,
             "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 13756,
-        "title": "India Women vs Zimbabwe Women",
-        "image": "",
-        "cat": "Cricket",
-        "eventInfo": {
-          "teamA": "India Women",
-          "teamB": "Zimbabwe Women",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/213119/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/417062/image",
-          "eventName": "Cricket",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/10/28 08:30:36 +0000",
-          "endTime": "2026/10/28 17:00:40 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "WILLOW - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ob4a17ydoa/out/v1/f131774c5d354a6590cfd133a1c25338/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "2058d5339704f2e7313fef30cb0d505d:d25e0448f0a7e71f9c426d0b0a51cfcd",
-            "tokenApi": ""
-          },
-          {
-            "title": "TNT SPORTS - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-            "logo": "",
-            "type": 7,
-            "api": "f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b",
-            "tokenApi": ""
-          },
-          {
-            "title": "WILLOW - ALT",
-            "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ob4a17ydoa/out/v1/f131774c5d354a6590cfd133a1c25338/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "2058d5339704f2e7313fef30cb0d505d:d25e0448f0a7e71f9c426d0b0a51cfcd",
-            "tokenApi": ""
-          },
-          {
-            "title": "WILLOW HD",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
             "tokenApi": ""
           }
         ]
@@ -983,6 +932,14 @@
             "tokenApi": ""
           },
           {
+            "title": "Live 2",
+            "link": "https://www.rtmpcdn.com/live/e1d29c51-bd7a-4d98-9470-ea2ffc94456f.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
             "title": "LOW SERVER",
             "link": "http://193.47.62.41/hls/JRRRA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
             "logo": "",
@@ -1020,6 +977,14 @@
           {
             "title": "HD QUALITY",
             "link": "https://live1.quickscoreboardz.com/live/channel11.m3u8?|Referer=https://xlz.domainkqt.cc/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "Live 2",
+            "link": "https://www.rtmpcdn.com/live/d063fe8c-ddda-4251-b8b4-f615358791b0.m3u8",
             "logo": "",
             "type": 0,
             "api": "",
