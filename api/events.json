@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-28T17:41:10.323612",
+  "last_updated": "2026-10-28T17:51:17.464874",
   "event_count": 73,
   "events": {
     "events": [
@@ -2031,7 +2031,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/301414/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/10/28 17:45:00 +0000",
           "endTime": "2026/10/28 20:05:00 +0000"
         },
@@ -2039,6 +2039,14 @@
           {
             "title": "Live 1",
             "link": "https://live.vivo155.com/live/hd-en-1-4646524.m3u8?txSecret=dbb5e85eff054215db0f78201a5d709d&txTime=6AE246AB|Referer=https://player.on8on8.com/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "LOW SERVER ",
+            "link": "http://193.47.62.59/hls/JBBBA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
             "logo": "",
             "type": 0,
             "api": "",
@@ -2058,7 +2066,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/305051/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/10/28 17:45:00 +0000",
           "endTime": "2026/10/28 20:05:00 +0000"
         },
@@ -2066,6 +2074,14 @@
           {
             "title": "Live 1",
             "link": "https://live.vivo155.com/live/hd-en-1-4646523.m3u8?txSecret=614e8eefe05d37290f1310fcb662394c&txTime=6AE246C3|Referer=https://player.on8on8.com/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "LOW SERVER ",
+            "link": "http://193.47.62.59/hls/JBBB.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
             "logo": "",
             "type": 0,
             "api": "",
@@ -2085,14 +2101,14 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/178246/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/10/28 17:45:00 +0000",
           "endTime": "2026/10/28 20:05:00 +0000"
         },
         "channels_data": [
           {
-            "title": "Live 1",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "title": "LOW SERVER",
+            "link": "http://193.47.62.59/hls/JBBBAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
             "logo": "",
             "type": 0,
             "api": "",
