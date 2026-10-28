@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-28T19:01:36.566606",
-  "event_count": 59,
+  "last_updated": "2026-10-28T19:11:02.993125",
+  "event_count": 55,
   "events": {
     "events": [
       {
@@ -1242,6 +1242,14 @@
             "type": 7,
             "api": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
             "tokenApi": ""
+          },
+          {
+            "title": "LOW SERVER",
+            "link": "http://193.47.62.44/hls/JMMMA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
           }
         ]
       },
@@ -1346,178 +1354,6 @@
           {
             "title": "Live 1",
             "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 14336,
-        "title": "SG Dynamo Dresden vs FC Schalke 04",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "SG Dynamo Dresden",
-          "teamB": "FC Schalke 04",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/2595/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/2530/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/10/28 17:00:00 +0000",
-          "endTime": "2026/10/28 19:20:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "Live 1",
-            "link": "https://live.vivo155.com/live/sd-1-4641670.m3u8?txSecret=c8ee258fb637d7d33ea9a4d878455792&txTime=6AE23FFB|Referer=https://player.on8on8.com/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "HD SERVER",
-            "link": "https://live2.jorvakstreamcache.com/live/channel12.m3u8?|Referer=https://xlz.domainkqt.cc/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "LOW SERVER ",
-            "link": "http://193.47.62.55/hls/K666AAAAQQQQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 14337,
-        "title": "SC Freiburg vs VfL Wolfsburg",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "SC Freiburg",
-          "teamB": "VfL Wolfsburg",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/2538/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/2524/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/10/28 17:00:00 +0000",
-          "endTime": "2026/10/28 19:20:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "Live 1",
-            "link": "https://live.vivo155.com/live/sd-1-4641679.m3u8?txSecret=6db318853e174a8d25cbc2260990d5ba&txTime=6AE2402C|Referer=https://player.on8on8.com/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "HD SERVER",
-            "link": "https://live2.jorvakstreamcache.com/live/channel4.m3u8?|Referer=https://xlz.domainkqt.cc/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "LOW SERVER ",
-            "link": "http://193.47.62.55/hls/K666AAAAQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 14338,
-        "title": "SC Paderborn 07 vs VfB Stuttgart",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "SC Paderborn 07",
-          "teamB": "VfB Stuttgart",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/2561/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/2677/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/10/28 17:00:00 +0000",
-          "endTime": "2026/10/28 19:20:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "Live 1",
-            "link": "https://live.vivo155.com/live/sd-1-4641681.m3u8?txSecret=0825a25ab7e863fbc261d8db56c04f8d&txTime=6AE2404B|Referer=https://player.on8on8.com/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "HD SERVER",
-            "link": "https://live2.jorvakstreamcache.com/live/channel16.m3u8?|Referer=https://xlz.domainkqt.cc/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "LOW SERVER",
-            "link": "http://193.47.62.55/hls/K666AAAAQQQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 14339,
-        "title": "SSV Jeddeloh II vs Hertha BSC",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "SSV Jeddeloh II",
-          "teamB": "Hertha BSC",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/75853/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/2528/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/10/28 17:00:00 +0000",
-          "endTime": "2026/10/28 19:20:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "Live 1",
-            "link": "https://live.vivo155.com/live/sd-1-4641667.m3u8?txSecret=6eeafde4d94bfd1ed5cba732ebdc68f0&txTime=6AE24060|Referer=https://player.on8on8.com/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "HD SERVER",
-            "link": "https://live2.jorvakstreamcache.com/live/channel13.m3u8?|Referer=https://xlz.domainkqt.cc/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "LOW SERVER ",
-            "link": "http://193.47.62.55/hls/K666AAAAQQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
             "logo": "",
             "type": 0,
             "api": "",
