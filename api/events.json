@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-28T19:51:06.303048",
-  "event_count": 52,
+  "last_updated": "2026-10-28T20:05:29.866057",
+  "event_count": 49,
   "events": {
     "events": [
       {
@@ -1005,6 +1005,14 @@
         },
         "channels_data": [
           {
+            "title": "FUBO SPORTS HD",
+            "link": "https://chatgpt.hereisman.net/playlist/58777/load-playlist-multi?|Referer=https://gooz.aapmains.net",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
             "title": "Live 1",
             "link": "https://live.vivo155.com/live/hd-en-1-4549128.m3u8?txSecret=64054d369aefbc3dec67bed500df15c7&txTime=6AE2630E|Referer=https://player.on8on8.com/",
             "logo": "",
@@ -1174,6 +1182,14 @@
             "tokenApi": ""
           },
           {
+            "title": "DAZN SPORTS HD",
+            "link": "https://chatgpt.hereisman.net/playlist/58780/load-playlist-multi?|Referer=https://gooz.aapmains.net",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
             "title": "Live 1",
             "link": "https://live.vivo155.com/live/sd-1-4646872.m3u8?txSecret=7c8c3c0f75f3b5f525110b58eb456092&txTime=6AE26161|Referer=https://player.on8on8.com/",
             "logo": "",
@@ -1217,6 +1233,14 @@
         },
         "channels_data": [
           {
+            "title": "PARAMOUNT+ HD",
+            "link": "https://chatgpt.hereisman.net/playlist/58776/load-playlist-multi?|Referer=https://gooz.aapmains.net",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
             "title": "Live 1",
             "link": "https://live.vivo155.com/live/sd-1-4646876.m3u8?txSecret=3763132fcbf86dc38db115bce1660f3f&txTime=6AE26219|Referer=https://player.on8on8.com/",
             "logo": "",
@@ -1254,7 +1278,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/38/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/10/28 20:00:00 +0000",
           "endTime": "2026/10/28 22:20:00 +0000"
         },
@@ -1265,6 +1289,14 @@
             "logo": "",
             "type": 7,
             "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
+            "tokenApi": ""
+          },
+          {
+            "title": "Live 1",
+            "link": "https://live.vivo155.com/live/sd-1-4646877.m3u8?txSecret=4cb2bfe8cfe446024b96e23a76e2dc0b&txTime=6AE26234|Referer=https://player.on8on8.com/",
+            "logo": "",
+            "type": 0,
+            "api": "",
             "tokenApi": ""
           },
           {
@@ -1294,6 +1326,14 @@
           "endTime": "2026/10/28 22:05:00 +0000"
         },
         "channels_data": [
+          {
+            "title": "DAZN SPORTS HD ",
+            "link": "https://chatgpt.hereisman.net/playlist/58778/load-playlist-multi?|Referer=https://gooz.aapmains.net",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
           {
             "title": "Live 1",
             "link": "https://live.vivo155.com/live/sd-1-4646878.m3u8?txSecret=feeb6f966550c2aeaf92c12ea1e69f1e&txTime=6AE261C7|Referer=https://player.on8on8.com/",
@@ -1493,103 +1533,6 @@
         ]
       },
       {
-        "id": 14344,
-        "title": "Chelsea FC vs AS Roma",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Chelsea FC",
-          "teamB": "AS Roma",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/66768/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/301414/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/10/28 17:45:00 +0000",
-          "endTime": "2026/10/28 20:05:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "Live 1",
-            "link": "https://live.vivo155.com/live/hd-en-1-4646524.m3u8?txSecret=dbb5e85eff054215db0f78201a5d709d&txTime=6AE246AB|Referer=https://player.on8on8.com/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "LOW SERVER ",
-            "link": "http://193.47.62.59/hls/JBBBA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 14345,
-        "title": "FC Bayern Munchen vs Real Madrid",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "FC Bayern M\u00fcnchen",
-          "teamB": "Real Madrid",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/5543/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/305051/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/10/28 17:45:00 +0000",
-          "endTime": "2026/10/28 20:05:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "Live 1",
-            "link": "https://live.vivo155.com/live/hd-en-1-4646523.m3u8?txSecret=614e8eefe05d37290f1310fcb662394c&txTime=6AE246C3|Referer=https://player.on8on8.com/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "LOW SERVER ",
-            "link": "http://193.47.62.59/hls/JBBB.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 14346,
-        "title": "Servette FC Chenois Feminin vs Oud-Heverlee Leuven",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Servette FC Ch\u00eanois F\u00e9minin",
-          "teamB": "Oud-Heverlee Leuven",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/305811/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/178246/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/10/28 17:45:00 +0000",
-          "endTime": "2026/10/28 20:05:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "LOW SERVER",
-            "link": "http://193.47.62.59/hls/JBBBAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
         "id": 14347,
         "title": "Arsenal vs Benfica",
         "image": "",
@@ -1601,14 +1544,14 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/297853/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/10/28 20:00:00 +0000",
           "endTime": "2026/10/28 22:20:00 +0000"
         },
         "channels_data": [
           {
-            "title": "Live 1",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "title": "LOW SERVER",
+            "link": "http://193.47.62.59/hls/77IIIAAAAQQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
             "logo": "",
             "type": 0,
             "api": "",
@@ -1628,14 +1571,14 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/325685/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/10/28 20:00:00 +0000",
           "endTime": "2026/10/28 22:20:00 +0000"
         },
         "channels_data": [
           {
-            "title": "Live 1",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "title": "LOW SERVER ",
+            "link": "http://193.47.62.59/hls/77IIIAAAAQQQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
             "logo": "",
             "type": 0,
             "api": "",
