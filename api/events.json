@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-28T05:41:17.927756",
+  "last_updated": "2026-10-28T05:51:16.659193",
   "event_count": 77,
   "events": {
     "events": [
@@ -799,6 +799,30 @@
           },
           {
             "title": "TAPMAD - AQ",
+            "link": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8|referer=https://tapmad.com/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "RABBITHOLE - AQ",
+            "link": "https://hpc5-nmc-mnc.mydex.tv/_tkn_st=1793163608~exp=1793192468~acl=/bpk-tv/202/default/*~eti=fa5c4cfd542424a6997eeb9a23402d68~sid=bd517d501743ba42~imax=2~hmac=a93e35b6ba5cd2b8f875372fdddac209b26195fd898d8aacdb59621bf0359000/bpk-tv/202/default/index.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "FANCODE HD",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/eayjamsonn/out/v1/6c25cddab58043a6ace0ac64d97983f0/cenc-sd.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "5318e462b9e0677487cb87837f0bbdb1:4fa0fb973b95738306005f2e8591bf8e",
+            "tokenApi": ""
+          },
+          {
+            "title": "TAPMAD HD",
             "link": "https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8|referer=https://tapmad.com/",
             "logo": "",
             "type": 0,
