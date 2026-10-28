@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-28T13:41:16.315466",
+  "last_updated": "2026-10-28T13:51:12.956079",
   "event_count": 74,
   "events": {
     "events": [
@@ -1012,11 +1012,27 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/469420/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/10/28 13:45:00 +0000",
           "endTime": "2026/10/28 16:05:00 +0000"
         },
         "channels_data": [
+          {
+            "title": "Live 1",
+            "link": "https://live.vivo155.com/live/hd-en-1-4621318.m3u8?txSecret=37a5b03882c64baaec8a90dd0643209a&txTime=6AE2119D|Referer=https://player.on8on8.com/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "HD SERVER",
+            "link": "https://live2.jorvakstreamcache.com/live/channel12.m3u8?|Referer=https://xlz.domainkqt.cc/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
           {
             "title": "LOW SERVER",
             "link": "http://193.47.62.44/hls/I000AAAAQQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
@@ -1039,7 +1055,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/32525/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/10/28 13:45:00 +0000",
           "endTime": "2026/10/28 16:05:00 +0000"
         },
