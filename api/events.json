@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-28T08:31:37.267000",
+  "last_updated": "2026-10-28T08:41:10.937215",
   "event_count": 77,
   "events": {
     "events": [
@@ -382,7 +382,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/187746/image",
           "eventName": "Cricket",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/10/28 08:30:58 +0000",
           "endTime": "2026/10/28 17:00:02 +0000"
         },
@@ -420,6 +420,14 @@
             "tokenApi": ""
           },
           {
+            "title": "EUROSPORTS - AQ",
+            "link": "https://wbd.skandha.tv/EuroSport_HD/EuroSport_HD.isml/.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "12ed56d780abcfebcd23aa27e4ac5015:6784567890abcfebcd23aa27e4ac2814",
+            "tokenApi": ""
+          },
+          {
             "title": "FOX CRICKET HD",
             "link": "https://baila-lentoo.pages.dev/all-sp/809389.m3u8",
             "logo": "",
@@ -433,6 +441,14 @@
             "logo": "",
             "type": 0,
             "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "FANCODE - LQ",
+            "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash-sd/enc/iwpchve3wl/out/v1/946019f85dc64ae99ff9ce64a9727a62/cenc-sd.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "286eb7dc538143790fa9913639531920:e3f5cb08d14d9e9c08438c673819540f",
             "tokenApi": ""
           },
           {
