@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-29T08:31:19.624514",
+  "last_updated": "2026-10-29T08:40:54.118952",
   "event_count": 34,
   "events": {
     "events": [
@@ -436,6 +436,14 @@
             "tokenApi": ""
           },
           {
+            "title": "LOW SERVER",
+            "link": "http://193.47.62.44/hls/XAXAXAAX.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
             "title": "FANCODE - IN",
             "link": "https://dai-fancode.pages.dev/mumbai/4249783_english_hls_97c5a4780098274_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/",
             "logo": "",
@@ -865,7 +873,15 @@
         },
         "channels_data": [
           {
-            "title": "STAR SPORTS - AQ",
+            "title": "Live 1",
+            "link": "https://ottnlive-fstream.nettvstreamz.com/live_hls/npl_match_3/index.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "STAR SPORTS HD",
             "link": "https://baila-lentoo.pages.dev/all-sp/373201.m3u8",
             "logo": "",
             "type": 0,
@@ -1104,8 +1120,8 @@
         },
         "channels_data": [
           {
-            "title": "Live 1",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "title": "HD SERVER ",
+            "link": "https://live2.jorvakstreamcache.com/live/channel16.m3u8?|Referer=https://xlz.domainkqt.cc/",
             "logo": "",
             "type": 0,
             "api": "",
