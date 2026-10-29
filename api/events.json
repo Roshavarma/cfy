@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-29T15:01:29.311105",
-  "event_count": 27,
+  "last_updated": "2026-10-29T15:10:58.629290",
+  "event_count": 28,
   "events": {
     "events": [
       {
@@ -883,9 +883,9 @@
           "teamBFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTo0kwOfn0swttbdChYr5KGVFVY-XuUO6nrYQ&s",
           "eventName": "Cricket",
           "isHot": "0",
-          "Status": "Finish",
-          "startTime": "2026/10/29 11:15:40 +0000",
-          "endTime": "2026/10/29 15:00:25 +0000"
+          "Status": "Upcoming",
+          "startTime": "2026/10/31 06:45:53 +0000",
+          "endTime": "2026/10/31 16:00:57 +0000"
         },
         "channels_data": [
           {
@@ -1381,6 +1381,33 @@
           {
             "title": "Live 1",
             "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 14387,
+        "title": "Hong Kong Sixes 2026",
+        "image": "null",
+        "cat": "Cricket",
+        "eventInfo": {
+          "teamA": "Hong Kong Sixes",
+          "teamB": "Hong Kong Sixes",
+          "teamAFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROAZg75-MhSbdgNwcKZHw5iCYHkWvg86Dv_g&s",
+          "teamBFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROAZg75-MhSbdgNwcKZHw5iCYHkWvg86Dv_g&s",
+          "eventName": "Cricket",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/10/30 00:45:51 +0000",
+          "endTime": "2026/10/30 10:00:05 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "",
+            "link": "ok",
             "logo": "",
             "type": 0,
             "api": "",
