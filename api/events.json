@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-29T15:40:53.137524",
-  "event_count": 28,
+  "last_updated": "2026-10-29T15:50:56.450386",
+  "event_count": 31,
   "events": {
     "events": [
       {
@@ -1408,6 +1408,87 @@
           {
             "title": "",
             "link": "ok",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 14388,
+        "title": "Atlanta Hawks vs Cleveland Cavaliers",
+        "image": "",
+        "cat": "Basketball",
+        "eventInfo": {
+          "teamA": "Atlanta Hawks",
+          "teamB": "Cleveland Cavaliers",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3423/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3432/image",
+          "eventName": "Basketball",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/10/30 00:00:00 +0000",
+          "endTime": "2026/10/30 02:30:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Live 1",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 14389,
+        "title": "New Orleans Pelicans vs Sacramento Kings",
+        "image": "",
+        "cat": "Basketball",
+        "eventInfo": {
+          "teamA": "New Orleans Pelicans",
+          "teamB": "Sacramento Kings",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/5539/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3413/image",
+          "eventName": "Basketball",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/10/30 00:00:00 +0000",
+          "endTime": "2026/10/30 02:30:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Live 1",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 14390,
+        "title": "Portland Trail Blazers vs Memphis Grizzlies",
+        "image": "",
+        "cat": "Basketball",
+        "eventInfo": {
+          "teamA": "Portland Trail Blazers",
+          "teamB": "Memphis Grizzlies",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3414/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3415/image",
+          "eventName": "Basketball",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/10/30 02:00:00 +0000",
+          "endTime": "2026/10/30 04:30:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Live 1",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
             "logo": "",
             "type": 0,
             "api": "",
