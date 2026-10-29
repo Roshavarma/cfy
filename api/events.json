@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-29T06:50:54.661971",
+  "last_updated": "2026-10-29T07:01:34.393895",
   "event_count": 35,
   "events": {
     "events": [
@@ -963,7 +963,31 @@
         "channels_data": [
           {
             "title": "WILLOW FHD",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "link": "https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/5spnuigv8z/out/v1/06c617e5db8f49cb9e63ca89da7b281c/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "81cceef47300d899003a2dd4f80a0ec4:0db92cc3f3a7b1c97af4aaef56d641ef",
+            "tokenApi": ""
+          },
+          {
+            "title": "WILLOW HD",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
+            "tokenApi": ""
+          },
+          {
+            "title": "TAPMAD AQ",
+            "link": "https://tencent-cdn.tapmad.com/v1/01a145abfb3a1ea540a81c2b41b751/01a145ae0ac115fc600b1e3e9683da/main.m3u8|referer=https://tapmad.com/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "FANCODE IN",
+            "link": "https://dai-fancode.pages.dev/mumbai/4250387_english_hls_b7a3c2c35c92425_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/",
             "logo": "",
             "type": 0,
             "api": "",
