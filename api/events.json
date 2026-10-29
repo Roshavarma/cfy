@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-29T18:01:31.154875",
+  "last_updated": "2026-10-29T18:10:57.612245",
   "event_count": 28,
   "events": {
     "events": [
@@ -564,9 +564,9 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/187745/image",
           "eventName": "Cricket",
           "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/10/29 14:30:54 +0000",
-          "endTime": "2026/10/29 18:30:59 +0000"
+          "Status": "Upcoming",
+          "startTime": "2026/11/01 14:30:15 +0000",
+          "endTime": "2026/11/01 18:30:21 +0000"
         },
         "channels_data": [
           {
@@ -1131,6 +1131,14 @@
             "tokenApi": ""
           },
           {
+            "title": "SporTV BR - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/orhlovwjv8/out/v1/3fbdf8c3ec6743d085d32dace1764176/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "2357a3e2fe6f07c42c00ee9eec769a27:061d7a73d6f4b13160e3d9fdbc154a0a",
+            "tokenApi": ""
+          },
+          {
             "title": "SportDigital FussBall",
             "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd",
             "logo": "",
@@ -1173,6 +1181,14 @@
           "endTime": "2026/10/29 20:20:00 +0000"
         },
         "channels_data": [
+          {
+            "title": "Live 1",
+            "link": "https://sdn-global-live-streaming-packager-cache.3qsdn.com/77693/77693_264_live.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
           {
             "title": "LOW SERVER ",
             "link": "http://193.47.62.50/hls/GTTTTAAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
