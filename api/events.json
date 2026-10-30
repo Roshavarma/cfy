@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-30T11:21:14.663186",
-  "event_count": 71,
+  "last_updated": "2026-10-30T11:31:42.755959",
+  "event_count": 70,
   "events": {
     "events": [
       {
@@ -473,9 +473,9 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/187765/image",
           "eventName": "Cricket",
           "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/10/30 07:00:21 +0000",
-          "endTime": "2026/10/30 12:00:25 +0000"
+          "Status": "Upcoming",
+          "startTime": "2026/11/01 07:00:53 +0000",
+          "endTime": "2026/11/01 12:00:59 +0000"
         },
         "channels_data": [
           {
@@ -706,9 +706,9 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/187760/image",
           "eventName": "Cricket",
           "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/10/30 03:30:00 +0000",
-          "endTime": "2026/10/30 13:00:06 +0000"
+          "Status": "Upcoming",
+          "startTime": "2026/10/31 03:30:24 +0000",
+          "endTime": "2026/10/31 13:00:34 +0000"
         },
         "channels_data": [
           {
@@ -840,57 +840,6 @@
         ]
       },
       {
-        "id": 14368,
-        "title": "Brisbane Heat Women vs Sydney Sixers Women",
-        "image": "",
-        "cat": "Cricket",
-        "eventInfo": {
-          "teamA": "Brisbane Heat Women",
-          "teamB": "Sydney Sixers Women",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/274884/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/274883/image",
-          "eventName": "Cricket",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/10/30 08:10:00 +0000",
-          "endTime": "2026/10/30 12:10:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "WILLOW - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5legsqgdxo/out/v1/68fc09a6171941268ebf5f9088d6010f/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "079a2605723e910f53d9e2bfb8cb7b2e:d5383a5eedbcd90803e17aff07df4e48",
-            "tokenApi": ""
-          },
-          {
-            "title": "WILLOW - ALT",
-            "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/5legsqgdxo/out/v1/68fc09a6171941268ebf5f9088d6010f/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "079a2605723e910f53d9e2bfb8cb7b2e:d5383a5eedbcd90803e17aff07df4e48",
-            "tokenApi": ""
-          },
-          {
-            "title": "EUROSPORTS - AQ",
-            "link": "https://wbd.skandha.tv/EuroSport_HD/EuroSport_HD.isml/.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "12ed56d780abcfebcd23aa27e4ac5015:6784567890abcfebcd23aa27e4ac2814",
-            "tokenApi": ""
-          },
-          {
-            "title": "FANCODE - IN",
-            "link": "https://dai-fancode.pages.dev/mumbai/4250389_english_hls_4f2248e81653597_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
         "id": 14387,
         "title": "Hong Kong Sixes 2026",
         "image": "null",
@@ -986,11 +935,11 @@
         },
         "channels_data": [
           {
-            "title": "Live 1",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "title": "beIN ENGLISH - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
             "logo": "",
-            "type": 0,
-            "api": "",
+            "type": 7,
+            "api": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
             "tokenApi": ""
           }
         ]
@@ -1013,11 +962,11 @@
         },
         "channels_data": [
           {
-            "title": "Live 1",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "title": "beIN ENGLISH - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
             "logo": "",
-            "type": 0,
-            "api": "",
+            "type": 7,
+            "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
             "tokenApi": ""
           }
         ]
@@ -1040,11 +989,19 @@
         },
         "channels_data": [
           {
-            "title": "Live 1",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "title": "FOX DEPORTES - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
             "logo": "",
-            "type": 0,
-            "api": "",
+            "type": 7,
+            "api": "d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811",
+            "tokenApi": ""
+          },
+          {
+            "title": "SporTV BR - AQ",
+            "link": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/6otiglnptp/out/v1/add7499679b0422cb6791f7701f95ecc/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+            "logo": "",
+            "type": 7,
+            "api": "902e5ec0e3d05e665daa32fc23f4f59e:7b2322a273843921a43e2c61dac7cae3",
             "tokenApi": ""
           }
         ]
@@ -1148,11 +1105,11 @@
         },
         "channels_data": [
           {
-            "title": "Live 1",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "title": "SporTV BR - AQ",
+            "link": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/6otiglnptp/out/v1/add7499679b0422cb6791f7701f95ecc/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
             "logo": "",
-            "type": 0,
-            "api": "",
+            "type": 7,
+            "api": "902e5ec0e3d05e665daa32fc23f4f59e:7b2322a273843921a43e2c61dac7cae3",
             "tokenApi": ""
           }
         ]
@@ -1175,11 +1132,27 @@
         },
         "channels_data": [
           {
-            "title": "Live 1",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "title": "beIN ENGLISH - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
             "logo": "",
-            "type": 0,
-            "api": "",
+            "type": 7,
+            "api": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
+            "tokenApi": ""
+          },
+          {
+            "title": "D SPORTS - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+            "logo": "",
+            "type": 7,
+            "api": "f836853d8eac19446ed9535f5fc568b1:b3bc5ef00602b29abac7e482d3d9fbf3",
+            "tokenApi": ""
+          },
+          {
+            "title": "FANCODE - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+            "logo": "",
+            "type": 7,
+            "api": "82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca",
             "tokenApi": ""
           }
         ]
@@ -1202,11 +1175,11 @@
         },
         "channels_data": [
           {
-            "title": "Live 1",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "title": "Caz\u00e9TV - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
             "logo": "",
-            "type": 0,
-            "api": "",
+            "type": 7,
+            "api": "34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4",
             "tokenApi": ""
           }
         ]
