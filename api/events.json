@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-30T03:21:21.778814",
+  "last_updated": "2026-10-30T03:31:33.865473",
   "event_count": 75,
   "events": {
     "events": [
@@ -706,7 +706,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/187760/image",
           "eventName": "Cricket",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/10/30 03:30:00 +0000",
           "endTime": "2026/10/30 13:00:06 +0000"
         },
@@ -720,27 +720,11 @@
             "tokenApi": ""
           },
           {
-            "title": "TAPMAD - AQ",
-            "link": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8|referer=https://tapmad.com/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
             "title": "FANCODE HD",
             "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/eayjamsonn/out/v1/6c25cddab58043a6ace0ac64d97983f0/cenc-sd.mpd",
             "logo": "",
             "type": 7,
             "api": "5318e462b9e0677487cb87837f0bbdb1:4fa0fb973b95738306005f2e8591bf8e",
-            "tokenApi": ""
-          },
-          {
-            "title": "TAPMAD HD",
-            "link": "https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8|referer=https://tapmad.com/",
-            "logo": "",
-            "type": 0,
-            "api": "",
             "tokenApi": ""
           },
           {
@@ -753,7 +737,7 @@
           },
           {
             "title": "FANCODE - IN",
-            "link": "https://dai-fancode.pages.dev/mumbai/4250526_english_hls_d3c070eb3076082_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/",
+            "link": "https://dai-fancode.pages.dev/mumbai/4250526_english_hls_d3c070eb3081877_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/",
             "logo": "",
             "type": 0,
             "api": "",
