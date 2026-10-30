@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-30T01:01:29.157381",
+  "last_updated": "2026-10-30T01:10:52.771673",
   "event_count": 28,
   "events": {
     "events": [
@@ -106,8 +106,8 @@
           "teamBFlag": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHudrhyphenhyphenOGNuEpCmd8k8vfTaJ7hTqEb6GemloDedieYFrvM5MJz639vioDvQnlHGBhvxsNBHSLg2ICSGot7LWGA2PDZqoc3W_A3Yu002I5JGUeQgTCG_UFhDRPSJr2E1blnBokZvTYkB6B2nJVeeUy6s28sW-XHRZzCW_J6SOGpaoXx0LB-CH-9iTf1ebc/s1600/1000009837.jpg",
           "eventName": "Motorsport",
           "isHot": "0",
-          "Status": "Upcoming",
-          "startTime": "2026/10/30 02:45:01 +0000",
+          "Status": "Live",
+          "startTime": "2026/10/30 01:00:29 +0000",
           "endTime": "2026/10/30 12:00:07 +0000"
         },
         "channels_data": [
@@ -128,6 +128,14 @@
             "tokenApi": ""
           },
           {
+            "title": "SPOTV - AQ",
+            "link": "https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed",
+            "tokenApi": ""
+          },
+          {
             "title": "MotoGP - AQ",
             "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/wjeweupwyc/out/v1/8197c8e055c94a868623653ac55c10bf/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
             "logo": "",
@@ -141,14 +149,6 @@
             "logo": "",
             "type": 0,
             "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "SPOTV - AQ",
-            "link": "https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed",
             "tokenApi": ""
           },
           {
@@ -1311,6 +1311,14 @@
             "logo": "",
             "type": 7,
             "api": "f724cf13d135bee75e357780d1610060:7ce9d4c6df5638bbcb18926bf2a6bb4f",
+            "tokenApi": ""
+          },
+          {
+            "title": "FANCODE - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+            "logo": "",
+            "type": 7,
+            "api": "1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835",
             "tokenApi": ""
           },
           {
