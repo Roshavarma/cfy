@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-31T08:02:06.178964",
+  "last_updated": "2026-10-31T08:11:32.032266",
   "event_count": 89,
   "events": {
     "events": [
@@ -683,6 +683,14 @@
             "type": 0,
             "api": "",
             "tokenApi": ""
+          },
+          {
+            "title": "CRICBUZZ HD",
+            "link": "https://baila-lentoo.pages.dev/all-sp/809382.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
           }
         ]
       },
@@ -801,16 +809,16 @@
           "eventName": "Cricket",
           "isHot": "0",
           "Status": "Live",
-          "startTime": "2026/10/31 03:31:16 +0000",
-          "endTime": "2026/10/31 09:30:55 +0000"
+          "startTime": "2026/10/31 08:10:00 +0000",
+          "endTime": "2026/10/31 09:30:04 +0000"
         },
         "channels_data": [
           {
             "title": "WILLOW - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/he7gcglt9x/out/v1/9605ed2ba03c489cbf23516f7668a08f/cenc.mpd",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/bizhukou2w/out/v1/23d9c0ff831542e288e3e0562a76781a/cenc.mpd",
             "logo": "",
             "type": 7,
-            "api": "618ed9fba02a14e4350000041b526502:d6bae617d11994298f1fe5116231f897",
+            "api": "9d10441fabf35a310d6ccf17158cf6e5:10452c062c1990788a7f83a2dc6b7e09",
             "tokenApi": ""
           },
           {
@@ -2951,7 +2959,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/274887/image",
           "eventName": "Cricket",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/10/31 08:10:00 +0000",
           "endTime": "2026/10/31 12:10:00 +0000"
         },
@@ -2970,30 +2978,6 @@
             "logo": "",
             "type": 7,
             "api": "82b8543f9ed421538363bacc50c6cc93:a1c7f34031ab2f04a33af7f2df053146",
-            "tokenApi": ""
-          },
-          {
-            "title": "EUROSPORTS - AQ",
-            "link": "https://wbd.skandha.tv/EuroSport_HD/EuroSport_HD.isml/.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "12ed56d780abcfebcd23aa27e4ac5015:6784567890abcfebcd23aa27e4ac2814",
-            "tokenApi": ""
-          },
-          {
-            "title": "FOX CRICKET HD",
-            "link": "https://baila-lentoo.pages.dev/all-sp/809389.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "CRICBUZZ HD",
-            "link": "https://baila-lentoo.pages.dev/all-sp/809382.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
             "tokenApi": ""
           },
           {
