@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-31T10:41:34.172806",
+  "last_updated": "2026-10-31T10:51:19.552752",
   "event_count": 89,
   "events": {
     "events": [
@@ -698,9 +698,9 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/187760/image",
           "eventName": "Cricket",
           "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/10/31 03:30:14 +0000",
-          "endTime": "2026/10/31 13:00:34 +0000"
+          "Status": "Upcoming",
+          "startTime": "2026/11/05 04:00:29 +0000",
+          "endTime": "2026/11/05 13:00:34 +0000"
         },
         "channels_data": [
           {
@@ -800,17 +800,17 @@
           "teamBFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROAZg75-MhSbdgNwcKZHw5iCYHkWvg86Dv_g&s",
           "eventName": "Cricket",
           "isHot": "0",
-          "Status": "Finish",
-          "startTime": "2026/10/31 08:10:00 +0000",
-          "endTime": "2026/10/31 09:30:04 +0000"
+          "Status": "Upcoming",
+          "startTime": "2026/11/01 01:40:45 +0000",
+          "endTime": "2026/11/01 10:00:51 +0000"
         },
         "channels_data": [
           {
             "title": "WILLOW - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/bizhukou2w/out/v1/23d9c0ff831542e288e3e0562a76781a/cenc.mpd",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd",
             "logo": "",
             "type": 7,
-            "api": "9d10441fabf35a310d6ccf17158cf6e5:10452c062c1990788a7f83a2dc6b7e09",
+            "api": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
             "tokenApi": ""
           },
           {
@@ -2958,6 +2958,14 @@
           {
             "title": "Live 1",
             "link": "https://live2.jorvakstreamcache.com/live/channel13.m3u8?|Referer=https://xlz.domainkqt.cc/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "LOW SERVER",
+            "link": "http://193.47.62.44/hls/wawawaa.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
             "logo": "",
             "type": 0,
             "api": "",
