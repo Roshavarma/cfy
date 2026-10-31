@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-31T16:41:33.375786",
-  "event_count": 74,
+  "last_updated": "2026-10-31T16:51:11.461227",
+  "event_count": 68,
   "events": {
     "events": [
       {
@@ -765,213 +765,6 @@
         ]
       },
       {
-        "id": 14406,
-        "title": "FC Augsburg vs SC Freiburg",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "FC Augsburg",
-          "teamB": "SC Freiburg",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/2600/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/2538/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/10/31 14:30:00 +0000",
-          "endTime": "2026/10/31 16:50:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "DAZN SPORTS HD",
-            "link": "https://chatgpt.hereisman.net/playlist/58913/load-playlist-multi?|Referer=https://gooz.aapmains.net",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "Live 1",
-            "link": "https://live.vivo155.com/live/hd-en-1-4566363.m3u8?txSecret=e091b1c3f3b5b4c3d9d21a18f4055e0e&txTime=6AE60E7C|Referer=https://player.on8on8.com/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "LOW SERVER",
-            "link": "http://193.47.62.44/hls/kkkkAAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 14407,
-        "title": "Bayer 04 Leverkusen vs VfB Stuttgart",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Bayer 04 Leverkusen",
-          "teamB": "VfB Stuttgart",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/2681/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/2677/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/10/31 14:30:00 +0000",
-          "endTime": "2026/10/31 16:50:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "DAZN SPORTS HD",
-            "link": "https://chatgpt.hereisman.net/playlist/58912/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "Live 1",
-            "link": "https://live.vivo155.com/live/hd-en-1-4566359.m3u8?txSecret=7ed57524d71c974a0b8ab3a4117bfa3f&txTime=6AE60E36|Referer=https://player.on8on8.com/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "LOW SERVER",
-            "link": "http://193.47.62.44/hls/kkkkAAAAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 14408,
-        "title": "Borussia Mgladbach vs SC Paderborn 07",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Borussia M'gladbach",
-          "teamB": "SC Paderborn 07",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/2527/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/2561/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/10/31 14:30:00 +0000",
-          "endTime": "2026/10/31 16:50:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "Live 1",
-            "link": "https://live.vivo155.com/live/hd-en-1-4566370.m3u8?txSecret=6a2261e635d03ca547abafbc517d917c&txTime=6AE60E64|Referer=https://player.on8on8.com/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "LOW SERVER",
-            "link": "http://193.47.62.44/hls/kkkkAAAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 14409,
-        "title": "FC Schalke 04 vs RB Leipzig",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "FC Schalke 04",
-          "teamB": "RB Leipzig",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/2530/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/36360/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/10/31 14:30:00 +0000",
-          "endTime": "2026/10/31 16:50:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "Caz\u00e9TV - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-            "logo": "",
-            "type": 7,
-            "api": "34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4",
-            "tokenApi": ""
-          },
-          {
-            "title": "Live 1",
-            "link": "https://live.vivo155.com/live/hd-en-1-4566375.m3u8?txSecret=1404bb278a0c6d66e4cedf795d6bd35b&txTime=6AE60E05|Referer=https://player.on8on8.com/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "LOW SERVER",
-            "link": "http://193.47.62.44/hls/kkkkAAAAAQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 14410,
-        "title": "SV Werder Bremen vs TSG Hoffenheim",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "SV Werder Bremen",
-          "teamB": "TSG Hoffenheim",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/2534/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/2569/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/10/31 14:30:00 +0000",
-          "endTime": "2026/10/31 16:50:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "DAZN SPORTS HD",
-            "link": "https://chatgpt.hereisman.net/playlist/58914/load-playlist-multi?|Referer=https://gooz.aapmains.net",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "Live 1",
-            "link": "https://live.vivo155.com/live/hd-en-1-4566372.m3u8?txSecret=7ab408aded4ef4d9ebcc6135fec5c99f&txTime=6AE60E49|Referer=https://player.on8on8.com/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "LOW SERVER",
-            "link": "http://193.47.62.44/hls/kkkkAAAAAQQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
         "id": 14411,
         "title": "FC Bayern Munchen vs Borussia Dortmund",
         "image": "",
@@ -1300,33 +1093,6 @@
         ]
       },
       {
-        "id": 14420,
-        "title": "Bologna vs Monza",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Bologna",
-          "teamB": "Monza",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/2685/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/2729/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Finish",
-          "startTime": "2026/10/31 14:00:00 +0000",
-          "endTime": "2026/10/31 16:20:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "LOW SERVER",
-            "link": "http://193.47.62.44/hls/QHHHQQQQAAAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
         "id": 14421,
         "title": "Udinese vs AS Roma",
         "image": "",
@@ -1344,7 +1110,7 @@
         },
         "channels_data": [
           {
-            "title": "FUBO SPORTS - AQ",
+            "title": "FUBO SPORTS - ALT",
             "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
             "logo": "",
             "type": 7,
