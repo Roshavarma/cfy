@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-31T03:41:33.702677",
-  "event_count": 90,
+  "last_updated": "2026-10-31T03:51:25.109969",
+  "event_count": 92,
   "events": {
     "events": [
       {
@@ -2981,6 +2981,60 @@
           "Status": "Upcoming",
           "startTime": "2026/10/31 16:00:00 +0000",
           "endTime": "2026/10/31 18:20:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Live 1",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 14485,
+        "title": "Adelaide Strikers Women vs Melbourne Stars Women",
+        "image": "",
+        "cat": "Cricket",
+        "eventInfo": {
+          "teamA": "Adelaide Strikers Women",
+          "teamB": "Melbourne Stars Women",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/274888/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/274886/image",
+          "eventName": "Cricket",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/10/31 04:40:00 +0000",
+          "endTime": "2026/10/31 08:40:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Live 1",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 14486,
+        "title": "Perth Scorchers Women vs Melbourne Renegades Women",
+        "image": "",
+        "cat": "Cricket",
+        "eventInfo": {
+          "teamA": "Perth Scorchers Women",
+          "teamB": "Melbourne Renegades Women",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/274890/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/274887/image",
+          "eventName": "Cricket",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/10/31 08:10:00 +0000",
+          "endTime": "2026/10/31 12:10:00 +0000"
         },
         "channels_data": [
           {
