@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-31T07:01:47.651144",
-  "event_count": 92,
+  "last_updated": "2026-10-31T07:11:30.446849",
+  "event_count": 90,
   "events": {
     "events": [
       {
@@ -796,7 +796,7 @@
           },
           {
             "title": "FANCODE - IN",
-            "link": "https://dai-fancode.pages.dev/mumbai/4250360_english_hls_c17496c5a897481_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/",
+            "link": "https://dai-fancode.pages.dev/mumbai/4250361_english_hls_e960221e3d18899_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/",
             "logo": "",
             "type": 0,
             "api": "",
@@ -823,10 +823,10 @@
         "channels_data": [
           {
             "title": "WILLOW - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/he7gcglt9x/out/v1/9605ed2ba03c489cbf23516f7668a08f/cenc.mpd",
             "logo": "",
             "type": 7,
-            "api": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
+            "api": "618ed9fba02a14e4350000041b526502:d6bae617d11994298f1fe5116231f897",
             "tokenApi": ""
           },
           {
@@ -2009,92 +2009,6 @@
           {
             "title": "Live 1",
             "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 14450,
-        "title": "Golden State Warriors vs Los Angeles Lakers",
-        "image": "",
-        "cat": "Basketball",
-        "eventInfo": {
-          "teamA": "Golden State Warriors",
-          "teamB": "Los Angeles Lakers",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/3428/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/3427/image",
-          "eventName": "Basketball",
-          "isHot": "0",
-          "Status": "Finish",
-          "startTime": "2026/10/31 02:00:00 +0000",
-          "endTime": "2026/10/31 04:30:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "Live 1",
-            "link": "https://chatgpt.hereisman.net/playlist/58905/load-playlist?|Referer=https://gooz.aapmains.net",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "Live 2",
-            "link": "https://chatgpt.hereisman.net/playlist/58905/load-playlist?|Referer=https://gooz.aapmains.net",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "HD SERVER",
-            "link": "https://edgestream6.pro/hls/fdgsqdfawa73.m3u8?st=vf3GY7hMO4szb2_zbBEoO_Q-rB3wfrHaELnDeuAVFag&e=1793421010|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://embedcenter.st&Origin=https://embedcenter.st",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 14451,
-        "title": "Phoenix Suns vs Denver Nuggets",
-        "image": "",
-        "cat": "Basketball",
-        "eventInfo": {
-          "teamA": "Phoenix Suns",
-          "teamB": "Denver Nuggets",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/3416/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/3417/image",
-          "eventName": "Basketball",
-          "isHot": "0",
-          "Status": "Finish",
-          "startTime": "2026/10/31 02:00:00 +0000",
-          "endTime": "2026/10/31 04:30:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "Live 1",
-            "link": "https://chatgpt.hereisman.net/playlist/58903/load-playlist?|Referer=https://gooz.aapmains.net",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "Live 2",
-            "link": "https://chatgpt.hereisman.net/playlist/58901/load-playlist?|Referer=https://gooz.aapmains.net",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "HD QUALITY",
-            "link": "https://edgestream6.pro/hls/yjtzafghvjza74.m3u8?st=Daqs-ooQhMS4TspjOvDZxg1CrNF6IBALus8YS4DWWqg&e=1793421010|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://embedcenter.st&Origin=https://embedcenter.st",
             "logo": "",
             "type": 0,
             "api": "",
