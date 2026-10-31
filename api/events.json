@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-31T11:11:24.357640",
-  "event_count": 89,
+  "last_updated": "2026-10-31T11:21:25.058418",
+  "event_count": 90,
   "events": {
     "events": [
       {
@@ -757,7 +757,7 @@
           "teamBFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTo0kwOfn0swttbdChYr5KGVFVY-XuUO6nrYQ&s",
           "eventName": "Cricket",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/10/31 11:15:42 +0000",
           "endTime": "2026/10/31 16:00:47 +0000"
         },
@@ -3028,41 +3028,52 @@
         ]
       },
       {
-        "id": 14486,
-        "title": "Perth Scorchers Women vs Melbourne Renegades Women",
+        "id": 14487,
+        "title": "Sydney Thunder Women vs Brisbane Heat Women",
         "image": "",
         "cat": "Cricket",
         "eventInfo": {
-          "teamA": "Perth Scorchers Women",
-          "teamB": "Melbourne Renegades Women",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/274890/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/274887/image",
+          "teamA": "Sydney Thunder Women",
+          "teamB": "Brisbane Heat Women",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/274889/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/274884/image",
           "eventName": "Cricket",
           "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/10/31 08:10:00 +0000",
-          "endTime": "2026/10/31 12:10:00 +0000"
+          "Status": "Upcoming",
+          "startTime": "2026/11/01 04:40:00 +0000",
+          "endTime": "2026/11/01 08:40:00 +0000"
         },
         "channels_data": [
           {
-            "title": "WILLOW - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cie3oxklbt/out/v1/7e4172da4a0f4c4d9247c78ab34fc5bc/cenc.mpd",
+            "title": "Live 1",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
             "logo": "",
-            "type": 7,
-            "api": "82b8543f9ed421538363bacc50c6cc93:a1c7f34031ab2f04a33af7f2df053146",
+            "type": 0,
+            "api": "",
             "tokenApi": ""
-          },
+          }
+        ]
+      },
+      {
+        "id": 14488,
+        "title": "Sydney Sixers Women vs Hobart Hurricanes Women",
+        "image": "",
+        "cat": "Cricket",
+        "eventInfo": {
+          "teamA": "Sydney Sixers Women",
+          "teamB": "Hobart Hurricanes Women",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/274883/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/274885/image",
+          "eventName": "Cricket",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/11/01 08:10:00 +0000",
+          "endTime": "2026/11/01 12:10:00 +0000"
+        },
+        "channels_data": [
           {
-            "title": "WILLOW - ALT",
-            "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/cie3oxklbt/out/v1/7e4172da4a0f4c4d9247c78ab34fc5bc/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "82b8543f9ed421538363bacc50c6cc93:a1c7f34031ab2f04a33af7f2df053146",
-            "tokenApi": ""
-          },
-          {
-            "title": "FANCODE - IN",
-            "link": "https://dai-fancode.pages.dev/mumbai/4250391_english_hls_9173e82c8482158_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/",
+            "title": "Live 1",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
             "logo": "",
             "type": 0,
             "api": "",
