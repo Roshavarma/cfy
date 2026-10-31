@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-31T17:31:24.453487",
-  "event_count": 54,
+  "last_updated": "2026-10-31T17:41:13.111060",
+  "event_count": 52,
   "events": {
     "events": [
       {
@@ -731,19 +731,19 @@
             "tokenApi": ""
           },
           {
-            "title": "beIN ENGLISH - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-            "logo": "",
-            "type": 7,
-            "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
-            "tokenApi": ""
-          },
-          {
             "title": "PEACOCK ES - AQ",
             "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/mqsnyemmca/out/v1/d4389795f5d54f5eb834bc443f55281a/cenc.mpd?aws_sessionId=7d4938b8-fe14-419b-8f0a-4cf646463bc2",
             "logo": "",
             "type": 7,
             "api": "37438df8aaee89e4e707af3a0ea2c3c6:43d47f359bcc4e5ce06e244e08262d12",
+            "tokenApi": ""
+          },
+          {
+            "title": "beIN ENGLISH - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+            "logo": "",
+            "type": 7,
+            "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
             "tokenApi": ""
           },
           {
@@ -1050,7 +1050,7 @@
             "tokenApi": ""
           },
           {
-            "title": "LOW SERVER",
+            "title": "LOW SERVER ",
             "link": "http://193.47.62.59/hls/GAGAGAQQQQQQQQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
             "logo": "",
             "type": 0,
@@ -1778,49 +1778,6 @@
         ]
       },
       {
-        "id": 14471,
-        "title": "Feyenoord vs Fortuna Sittard",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Feyenoord",
-          "teamB": "Fortuna Sittard",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/2959/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/2957/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/10/31 15:30:00 +0000",
-          "endTime": "2026/10/31 17:50:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "SportDigital Fussball",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-            "logo": "",
-            "type": 7,
-            "api": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
-            "tokenApi": ""
-          },
-          {
-            "title": "Live 1",
-            "link": "https://live.vivo155.com/live/sd-1-4552237.m3u8?txSecret=2dae1237a3a9f5280057cd922d6aec13&txTime=6AE61B8C|Referer=https://player.on8on8.com/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "LOW SERVER ",
-            "link": "http://193.47.62.44/hls/EUUUAAAAAAAQQQAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
         "id": 14472,
         "title": "PSV Eindhoven vs Willem II Tilburg",
         "image": "",
@@ -1921,33 +1878,6 @@
           {
             "title": "Live 1",
             "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 14476,
-        "title": "Moreirense vs CF Estrela Amadora",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Moreirense",
-          "teamB": "CF Estrela Amadora",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/3014/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/3035/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/10/31 15:30:00 +0000",
-          "endTime": "2026/10/31 17:50:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "Live 1",
-            "link": "http://193.47.62.44/hls/EUUUAAAAAAAQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
             "logo": "",
             "type": 0,
             "api": "",
