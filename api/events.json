@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-01T17:51:02.787370",
+  "last_updated": "2026-11-01T18:01:35.447711",
   "event_count": 47,
   "events": {
     "events": [
@@ -1260,7 +1260,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/3036/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/11/01 18:00:00 +0000",
           "endTime": "2026/11/01 20:20:00 +0000"
         },
@@ -1287,7 +1287,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/3011/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/11/01 18:00:00 +0000",
           "endTime": "2026/11/01 20:20:00 +0000"
         },
@@ -1438,7 +1438,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/4413/image",
           "eventName": "American football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/11/01 18:00:00 +0000",
           "endTime": "2026/11/01 21:00:00 +0000"
         },
@@ -1481,7 +1481,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/4431/image",
           "eventName": "American football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/11/01 18:00:00 +0000",
           "endTime": "2026/11/01 21:00:00 +0000"
         },
@@ -1524,11 +1524,19 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/4412/image",
           "eventName": "American football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/11/01 18:00:00 +0000",
           "endTime": "2026/11/01 21:00:00 +0000"
         },
         "channels_data": [
+          {
+            "title": "DAZN SPORTS - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/pfut7qsxg0/out/v1/2c4edb5effcf459ba1e6ede1ef3caf84/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "fe14397e308fed4ebc2ec36becaeb1a3:3b2fca6aca84a010e065451d55f9526e",
+            "tokenApi": ""
+          },
           {
             "title": "Live 1",
             "link": "https://chatgpt.hereisman.net/playlist/59058/load-playlist-multi?|Referer=https://gooz.aapmains.net",
@@ -1567,14 +1575,30 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/4423/image",
           "eventName": "American football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/11/01 18:00:00 +0000",
           "endTime": "2026/11/01 21:00:00 +0000"
         },
         "channels_data": [
           {
             "title": "Live 1",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "link": "https://chatgpt.hereisman.net/playlist/59064/load-playlist-multi?|Referer=https://gooz.aapmains.net",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "Live 2",
+            "link": "https://chatgpt.hereisman.net/playlist/59036/load-playlist-multi?|Referer=https://gooz.aapmains.net",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "LOW SERVER ",
+            "link": "http://193.47.62.55/hls/G999A.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
             "logo": "",
             "type": 0,
             "api": "",
@@ -1594,14 +1618,38 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/4421/image",
           "eventName": "American football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/11/01 18:00:00 +0000",
           "endTime": "2026/11/01 21:00:00 +0000"
         },
         "channels_data": [
           {
+            "title": "DAZN SPORTS - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/pb8n76xplx/out/v1/cc03a3061b314b0dbcb4dd127df411fc/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "557ac29fdcb4f1fa1931917bc2d3129a:35622bc04007bd0ab929262661cf5d71",
+            "tokenApi": ""
+          },
+          {
             "title": "Live 1",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "link": "https://chatgpt.hereisman.net/playlist/59061/load-playlist-multi?|Referer=https://gooz.aapmains.net",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "Live 2",
+            "link": "https://chatgpt.hereisman.net/playlist/59041/load-playlist-multi?|Referer=https://gooz.aapmains.net",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "LOW SERVER ",
+            "link": "http://193.47.62.59/hls/kikikiAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
             "logo": "",
             "type": 0,
             "api": "",
@@ -1621,14 +1669,30 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/4390/image",
           "eventName": "American football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/11/01 18:00:00 +0000",
           "endTime": "2026/11/01 21:00:00 +0000"
         },
         "channels_data": [
           {
             "title": "Live 1",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "link": "https://chatgpt.hereisman.net/playlist/59059/load-playlist-multi?|Referer=https://gooz.aapmains.net",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "Live 2",
+            "link": "https://chatgpt.hereisman.net/playlist/59034/load-playlist-multi?|Referer=https://gooz.aapmains.net",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "LOW SERVER ",
+            "link": "http://193.47.62.55/hls/G999AA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
             "logo": "",
             "type": 0,
             "api": "",
@@ -1648,11 +1712,19 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/4417/image",
           "eventName": "American football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/11/01 18:00:00 +0000",
           "endTime": "2026/11/01 21:00:00 +0000"
         },
         "channels_data": [
+          {
+            "title": "TSN SPORTS - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+            "logo": "",
+            "type": 7,
+            "api": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d",
+            "tokenApi": ""
+          },
           {
             "title": "Live 1",
             "link": "https://chatgpt.hereisman.net/playlist/59057/load-playlist-multi?|Referer=https://gooz.aapmains.net",
@@ -1691,11 +1763,19 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/4393/image",
           "eventName": "American football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/11/01 18:00:00 +0000",
           "endTime": "2026/11/01 21:00:00 +0000"
         },
         "channels_data": [
+          {
+            "title": "NFL GAMEPASS - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ezoxrkaalp/out/v1/98a84b316c2e4b57ac0ae058ab19c50e/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "28abdcc48c2e8f9db40cfd10dd2fc456:28862d01222392a805f9a0fd83afe3ea",
+            "tokenApi": ""
+          },
           {
             "title": "Live 1",
             "link": "https://chatgpt.hereisman.net/playlist/59063/load-playlist-multi?|Referer=https://gooz.aapmains.net",
