@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-01T18:11:04.060640",
-  "event_count": 47,
+  "last_updated": "2026-11-01T18:21:10.543483",
+  "event_count": 44,
   "events": {
     "events": [
       {
@@ -905,7 +905,7 @@
             "tokenApi": ""
           },
           {
-            "title": "SPORT 1 CZ - AQ",
+            "title": "SPORT 1 CZ - AQ ",
             "link": "https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd",
             "logo": "",
             "type": 7,
@@ -993,92 +993,6 @@
           {
             "title": "Live 1",
             "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 14441,
-        "title": "Olympique Lyonnais vs Angers",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Olympique Lyonnais",
-          "teamB": "Angers",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/1649/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/1684/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/11/01 16:15:00 +0000",
-          "endTime": "2026/11/01 18:35:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "beIN SPORTS - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/n7hbpksb18/out/v1/be5403be4a674a7da8b3c81b1fe79692/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "4fce30c060b7b0464ab765e24fee5ecc:65d612238736eec3794c7e75a6fd362c",
-            "tokenApi": ""
-          },
-          {
-            "title": "LOW SERVER ",
-            "link": "http://193.47.62.41/hls/DRRRRQQQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 14442,
-        "title": "Paris FC vs AS Monaco",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Paris FC",
-          "teamB": "AS Monaco",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/6070/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/1653/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/11/01 16:15:00 +0000",
-          "endTime": "2026/11/01 18:35:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "beIN SPORTS - AQ",
-            "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/katdnhkzqv/out/v1/2469724fa7754a4da6861d8ba80de958/cenc.mpd?aws_sessionId=d7a79a64-4f97-438f-b860-44a258064025",
-            "logo": "",
-            "type": 7,
-            "api": "27759a440e8ad821b800b3de00cd5851:1b8743adee559f27845f55e8b4d639fe",
-            "tokenApi": ""
-          },
-          {
-            "title": "Caz\u00e9TV - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ui54qo0g6h/out/v1/620e1448188d4bbe9a28d0dd52f45bb7/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-            "logo": "",
-            "type": 7,
-            "api": "ba6aca5a550163c38d06646bb50f04e7:516c3b471fce48a5b7a2e5ee7dd505f2",
-            "tokenApi": ""
-          },
-          {
-            "title": "HD SERVER ",
-            "link": "https://www.rtmpcdn.com/live/595fc382-27c9-44b0-a1de-c1f9bb2ad2b1.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "LOW SERVER",
-            "link": "http://193.47.62.41/hls/DRRRRQQQQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
             "logo": "",
             "type": 0,
             "api": "",
@@ -1387,41 +1301,6 @@
             "logo": "",
             "type": 7,
             "api": "a88617e904504ee291f49f0e60a51d49:17f92d59fde3b6d2bf4ffb48e8ca720a",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 14507,
-        "title": "Kasmpasa vs Besiktas JK",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Kas\u0131mpa\u015fa",
-          "teamB": "Be\u015fikta\u015f JK",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/6063/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/3050/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/11/01 16:00:00 +0000",
-          "endTime": "2026/11/01 18:20:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "beIN SPORTS - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/penehwquxc/out/v1/e01e96068c20482280b810b34aa66a6e/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "4b17f5cd91d6b9dde66cf11dac2c7805:ffc6dd5e62c688c5f8e131649df94a2d",
-            "tokenApi": ""
-          },
-          {
-            "title": "LOW SERVER",
-            "link": "http://193.47.62.41/hls/MMMMAQQQQA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-            "logo": "",
-            "type": 0,
-            "api": "",
             "tokenApi": ""
           }
         ]
@@ -1933,11 +1812,19 @@
         },
         "channels_data": [
           {
-            "title": "Live 1",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "title": "TSN SPORTS - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
             "logo": "",
-            "type": 0,
-            "api": "",
+            "type": 7,
+            "api": "abc5b2883121012850ebda05b528c5ec:e5250924f4b738905f7163a0134587a7",
+            "tokenApi": ""
+          },
+          {
+            "title": "CBS SPORTS - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+            "logo": "",
+            "type": 7,
+            "api": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d",
             "tokenApi": ""
           }
         ]
