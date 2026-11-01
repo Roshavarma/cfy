@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-01T06:41:12.427042",
+  "last_updated": "2026-11-01T06:51:14.903378",
   "event_count": 69,
   "events": {
     "events": [
@@ -413,26 +413,26 @@
         "channels_data": [
           {
             "title": "WILLOW - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ndvxtmdlol/out/v1/610adecd5fff431bb89ffc7584e21855/cenc.mpd",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/pog3pkfhga/out/v1/20164001c7d9489f898d05761ad05077/cenc.mpd",
             "logo": "",
             "type": 7,
-            "api": "7a3f90a5769802036c18de821735b594:1412cd88540af73b27e45c9982bc9c78",
+            "api": "2765adbf6880195515fed136e5a989fa:f1356a68a923c31d7184dfa1b91c161f",
             "tokenApi": ""
           },
           {
             "title": "PRIME ENG - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/czglju6fm7/out/v1/8107cd9ee3af4efebf5bd2c7e71e6c00/cenc.mpd",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dr9bwy1yvt/out/v1/3cda3dc6a2c54efaa7b0a12598c7f332/cenc.mpd",
             "logo": "",
             "type": 7,
-            "api": "e9b05390d0d8a3766d720cc0dfa9c1c3:5b371247b3ec6ae9976204359d781e85",
+            "api": "de23ce5421c57988c1ba1cd8a0d16551:fb50935ff66bcea5899f989c5bbfd270",
             "tokenApi": ""
           },
           {
             "title": "PRIME HINDI - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/p8ydakczjv/out/v1/c7d57d245b76476aa5ab68a5ef89da52/cenc.mpd",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/mohqiz9gyv/out/v1/95de092d1d574891ba87cd37df9c3f2b/cenc.mpd",
             "logo": "",
             "type": 7,
-            "api": "638eaec11a32364c29f73241769dc3b0:51ad6ac914e442976749f485354b50fe",
+            "api": "4d4e8cc811e844075fa97ed19abb1abe:9bcb83c52597af936e9b3ff8a4dd27e4",
             "tokenApi": ""
           },
           {
@@ -445,15 +445,23 @@
           },
           {
             "title": "WILLOW - ALT",
-            "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ndvxtmdlol/out/v1/610adecd5fff431bb89ffc7584e21855/cenc.mpd",
+            "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/pog3pkfhga/out/v1/20164001c7d9489f898d05761ad05077/cenc.mpd",
             "logo": "",
             "type": 7,
-            "api": "7a3f90a5769802036c18de821735b594:1412cd88540af73b27e45c9982bc9c78",
+            "api": "2765adbf6880195515fed136e5a989fa:f1356a68a923c31d7184dfa1b91c161f",
+            "tokenApi": ""
+          },
+          {
+            "title": "TAPMAD - AQ",
+            "link": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad5/master.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
             "tokenApi": ""
           },
           {
             "title": "SonyLiv - English",
-            "link": "https://liveakdai.slivcdn.com/hls/live/2119931/cricodi_3010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793383153~acl=/*~id=29335231065501951857285214797177~hmac=af45997928ad8b77ad2d1205339b966f94899c8e4e91ff0a93533373e7290e52",
+            "link": "https://liveakmt-p-md.slivcdn.com/hls/live/2119931/cricodi_0111/ENG/master.m3u8?hdnea=exp=1793557562~acl=/*~id=e33ead837184844847309b94deab02b2-1793514361774~hmac=d45844a2b7565db3dae802c87b7e920b2f95b54ef9a860aa3121ea8b3c03ac8b",
             "logo": "",
             "type": 0,
             "api": "",
@@ -461,7 +469,7 @@
           },
           {
             "title": "SonyLiv - Hindi",
-            "link": "https://liveakdai.slivcdn.com/hls/live/2119921/cricodi_3010/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793383153~acl=/*~id=29335231065501951857285214797177~hmac=af45997928ad8b77ad2d1205339b966f94899c8e4e91ff0a93533373e7290e52",
+            "link": "https://liveakmt-p-md.slivcdn.com/hls/live/2119921/cricodi_0111/HIN/master.m3u8?hdnea=exp=1793557562~acl=/*~id=e33ead837184844847309b94deab02b2-1793514361774~hmac=d45844a2b7565db3dae802c87b7e920b2f95b54ef9a860aa3121ea8b3c03ac8b",
             "logo": "",
             "type": 0,
             "api": "",
@@ -469,7 +477,7 @@
           },
           {
             "title": "SonyLiv - TEL",
-            "link": "https://liveakdai.slivcdn.com/hls/live/2119941/cricodi_3010/TEL/std_lrh-800300010.m3u8?hdnea=exp=1793383153~acl=/*~id=29335231065501951857285214797177~hmac=af45997928ad8b77ad2d1205339b966f94899c8e4e91ff0a93533373e7290e52",
+            "link": "https://liveakmt-p-md.slivcdn.com/hls/live/2119941/cricodi_0111/TEL/master.m3u8?hdnea=exp=1793557562~acl=/*~id=e33ead837184844847309b94deab02b2-1793514361774~hmac=d45844a2b7565db3dae802c87b7e920b2f95b54ef9a860aa3121ea8b3c03ac8b",
             "logo": "",
             "type": 0,
             "api": "",
@@ -477,7 +485,7 @@
           },
           {
             "title": "SonyLiv - TAM",
-            "link": "https://liveakdai.slivcdn.com/hls/live/2119951/cricodi_3010/TAM/std_lrh-800300010.m3u8?hdnea=exp=1793383153~acl=/*~id=29335231065501951857285214797177~hmac=af45997928ad8b77ad2d1205339b966f94899c8e4e91ff0a93533373e7290e52",
+            "link": "https://liveakmt-p-md.slivcdn.com/hls/live/2119951/cricodi_0111/TAM/master.m3u8?hdnea=exp=1793557562~acl=/*~id=e33ead837184844847309b94deab02b2-1793514361774~hmac=d45844a2b7565db3dae802c87b7e920b2f95b54ef9a860aa3121ea8b3c03ac8b",
             "logo": "",
             "type": 0,
             "api": "",
@@ -485,7 +493,7 @@
           },
           {
             "title": "SonyLiv - KAN",
-            "link": "https://liveakdai.slivcdn.com/hls/live/2119782/cricodi_3010/KAN/std_lrh-800300010.m3u8?hdnea=exp=1793383153~acl=/*~id=29335231065501951857285214797177~hmac=af45997928ad8b77ad2d1205339b966f94899c8e4e91ff0a93533373e7290e52",
+            "link": "https://liveakmt-p-md.slivcdn.com/hls/live/2119782/cricodi_0111/KAN/master.m3u8?hdnea=exp=1793557562~acl=/*~id=e33ead837184844847309b94deab02b2-1793514361774~hmac=d45844a2b7565db3dae802c87b7e920b2f95b54ef9a860aa3121ea8b3c03ac8b",
             "logo": "",
             "type": 0,
             "api": "",
