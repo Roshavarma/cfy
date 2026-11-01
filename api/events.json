@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-01T15:29:20.665596",
+  "last_updated": "2026-11-01T15:34:06.962344",
   "event_count": 57,
   "events": {
     "events": [
@@ -756,7 +756,16 @@
           "startTime": "2026/11/01 16:30:00 +0000",
           "endTime": "2026/11/01 18:50:00 +0000"
         },
-        "channels_data": []
+        "channels_data": [
+          {
+            "title": "Live 1",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
       },
       {
         "id": 14432,
@@ -1515,7 +1524,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/3013/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/11/01 15:30:00 +0000",
           "endTime": "2026/11/01 17:50:00 +0000"
         },
