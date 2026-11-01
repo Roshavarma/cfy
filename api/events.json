@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-01T04:31:22.583254",
+  "last_updated": "2026-11-01T04:41:07.711916",
   "event_count": 52,
   "events": {
     "events": [
@@ -307,9 +307,9 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/486626/image",
           "eventName": "Boxing",
           "isHot": "0",
-          "Status": "Live",
+          "Status": "Finish",
           "startTime": "2026/10/31 21:00:07 +0000",
-          "endTime": "2026/11/01 05:00:13 +0000"
+          "endTime": "2026/11/01 04:00:52 +0000"
         },
         "channels_data": [
           {
@@ -681,10 +681,10 @@
         "channels_data": [
           {
             "title": "WILLOW - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/7yddiomgbx/out/v1/1b021c8ef5424cdf9474d931e90a32e8/cenc.mpd",
             "logo": "",
             "type": 7,
-            "api": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
+            "api": "232530a82e67bbbfb57e91e47acad246:f79fa1efbdf64975a6e1263c5c00750b",
             "tokenApi": ""
           },
           {
@@ -1284,7 +1284,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/274884/image",
           "eventName": "Cricket",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/11/01 04:40:00 +0000",
           "endTime": "2026/11/01 08:40:00 +0000"
         },
@@ -1307,18 +1307,10 @@
           },
           {
             "title": "WILLOW - ALT",
-            "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd",
             "logo": "",
             "type": 7,
             "api": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
-            "tokenApi": ""
-          },
-          {
-            "title": "TAPMAD - AQ",
-            "link": "https://tencent-cdn.tapmad.com/v1/01a145b15ce115fc600b1e3e9683db/01a145b24db11ea557841e1612cf4c/main.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
             "tokenApi": ""
           },
           {
@@ -1327,6 +1319,14 @@
             "logo": "",
             "type": 7,
             "api": "12ed56d780abcfebcd23aa27e4ac5015:6784567890abcfebcd23aa27e4ac2814",
+            "tokenApi": ""
+          },
+          {
+            "title": "TAPMAD - AQ",
+            "link": "https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea540a81c2b41b75f/main.m3u8|Referer: https://tapmad.com/",
+            "logo": "",
+            "type": 0,
+            "api": "",
             "tokenApi": ""
           },
           {
