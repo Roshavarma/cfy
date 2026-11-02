@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-02T18:01:42.021887",
-  "event_count": 45,
+  "last_updated": "2026-11-02T18:11:07.905960",
+  "event_count": 42,
   "events": {
     "events": [
       {
@@ -1097,8 +1097,24 @@
         },
         "channels_data": [
           {
-            "title": "LOW SERVER",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "title": "Live 1",
+            "link": "https://live.vivo155.com/live/hd-en-1-4621483.m3u8?txSecret=3bb191e8baea49c82a5ef71d0457e4c3&txTime=6AE8E625|Referer=https://player.on8on8.com/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "HD SERVER ",
+            "link": "https://live.uu1pp.com/sport/202_5710485_1.m3u8?txSecret=8507750be91826be3c1e21c3bc714fab&txTime=6AE91A33",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "LOW SERVER ",
+            "link": "http://193.47.62.41/hls/ylllq.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
             "logo": "",
             "type": 0,
             "api": "",
@@ -1125,34 +1141,7 @@
         "channels_data": [
           {
             "title": "Live 1",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 14536,
-        "title": "Tractor FC vs Neftchi Fergana",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Tractor FC",
-          "teamB": "Neftchi Fergana",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/53715/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/36256/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/11/02 16:00:00 +0000",
-          "endTime": "2026/11/02 18:20:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "Live 1",
-            "link": "https://live.vivo155.com/live/hd-en-1-4621446.m3u8?txSecret=567dbc13afaaf3d0bf2c2f9219b76b9b&txTime=6AE8C58D|Referer=https://player.on8on8.com/",
+            "link": "https://live.vivo155.com/live/hd-en-1-4621438.m3u8?txSecret=18e289cfe59db1dfe4b618b7a16a6678&txTime=6AE8E650|Referer=https://player.on8on8.com/",
             "logo": "",
             "type": 0,
             "api": "",
@@ -1160,7 +1149,7 @@
           },
           {
             "title": "HD SERVER ",
-            "link": "https://live.uu1pp.com/sport/202_5703030_1.m3u8?txSecret=cc78bf795d5ac332170751793f829362&txTime=6AE8FA4C",
+            "link": "https://live.uu1pp.com/sport/202_5703049_1.m3u8?txSecret=f5a55ddcbcb42b11d5471e0724d2848e&txTime=6AE91A4D",
             "logo": "",
             "type": 0,
             "api": "",
@@ -1168,101 +1157,7 @@
           },
           {
             "title": "LOW SERVER",
-            "link": "http://193.47.62.44/hls/TTTTAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 14537,
-        "title": "Al Wasl vs Al-Quwa Al-Jawiya",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Al Wasl",
-          "teamB": "Al-Quwa Al-Jawiya",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/47674/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/213877/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/11/02 16:00:00 +0000",
-          "endTime": "2026/11/02 18:20:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "Live 1",
-            "link": "https://live.vivo155.com/live/hd-en-1-4621462.m3u8?txSecret=821552b5b9fd8d2d6ae1722eca31c9b1&txTime=6AE8C5B9|Referer=https://player.on8on8.com/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "HD SERVER ",
-            "link": "https://live.uu1pp.com/sport/202_5703029_1.m3u8?txSecret=8dbb87c680e85330626ca7a1a10d0f16&txTime=6AE8FA34",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "LOW SERVER",
-            "link": "http://193.47.62.44/hls/TTTTA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 14538,
-        "title": "Al-Sadd vs Al-Ahli",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Al-Sadd",
-          "teamB": "Al-Ahli",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/39733/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/34469/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/11/02 16:00:00 +0000",
-          "endTime": "2026/11/02 18:20:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "beIN SPORTS - AQ",
-            "link": "https://live-cdn.ryazanslah3.space/hls/bein1.m3u8?|Referer=https://www.arena-koora.online/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "Live 1",
-            "link": "https://live.vivo155.com/live/hd-en-1-4621411.m3u8?txSecret=1f3d37aaf826b086770b1416249d380b&txTime=6AE8C5D6|Referer=https://player.on8on8.com/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "HD SERVER ",
-            "link": "https://live.uu1pp.com/sport/202_5703048_1.m3u8?txSecret=a7c6fca642e47d47970fc5a10347b227&txTime=6AE8F9DA",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "LOW SERVER",
-            "link": "http://193.47.62.44/hls/TTTT.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+            "link": "http://193.47.62.41/hls/ylll.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
             "logo": "",
             "type": 0,
             "api": "",
