@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-02T15:51:01.653569",
-  "event_count": 47,
+  "last_updated": "2026-11-02T16:01:41.018794",
+  "event_count": 46,
   "events": {
     "events": [
       {
@@ -1156,14 +1156,30 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/36256/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/11/02 16:00:00 +0000",
           "endTime": "2026/11/02 18:20:00 +0000"
         },
         "channels_data": [
           {
             "title": "Live 1",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "link": "https://live.vivo155.com/live/hd-en-1-4621446.m3u8?txSecret=567dbc13afaaf3d0bf2c2f9219b76b9b&txTime=6AE8C58D|Referer=https://player.on8on8.com/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "HD SERVER ",
+            "link": "https://live.uu1pp.com/sport/202_5703030_1.m3u8?txSecret=cc78bf795d5ac332170751793f829362&txTime=6AE8FA4C",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "LOW SERVER",
+            "link": "http://193.47.62.44/hls/TTTTAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
             "logo": "",
             "type": 0,
             "api": "",
@@ -1183,14 +1199,30 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/213877/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/11/02 16:00:00 +0000",
           "endTime": "2026/11/02 18:20:00 +0000"
         },
         "channels_data": [
           {
             "title": "Live 1",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "link": "https://live.vivo155.com/live/hd-en-1-4621462.m3u8?txSecret=821552b5b9fd8d2d6ae1722eca31c9b1&txTime=6AE8C5B9|Referer=https://player.on8on8.com/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "HD SERVER ",
+            "link": "https://live.uu1pp.com/sport/202_5703029_1.m3u8?txSecret=8dbb87c680e85330626ca7a1a10d0f16&txTime=6AE8FA34",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "LOW SERVER",
+            "link": "http://193.47.62.44/hls/TTTTA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
             "logo": "",
             "type": 0,
             "api": "",
@@ -1210,41 +1242,14 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/34469/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/11/02 16:00:00 +0000",
           "endTime": "2026/11/02 18:20:00 +0000"
         },
         "channels_data": [
           {
-            "title": "Live 1",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 14539,
-        "title": "Pakhtakor Tashkent vs Al-Nassr",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Pakhtakor Tashkent",
-          "teamB": "Al-Nassr",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/34310/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/23400/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/11/02 13:45:00 +0000",
-          "endTime": "2026/11/02 16:05:00 +0000"
-        },
-        "channels_data": [
-          {
             "title": "beIN SPORTS - AQ",
-            "link": "https://live-cdn.ryazanslah3.space/hls/bein2.m3u8?|Referer=https://www.arena-koora.online/",
+            "link": "https://live-cdn.ryazanslah3.space/hls/bein1.m3u8?|Referer=https://www.arena-koora.online/",
             "logo": "",
             "type": 0,
             "api": "",
@@ -1252,31 +1257,15 @@
           },
           {
             "title": "Live 1",
-            "link": "https://live.uu1pp.com/sport/202_5704399_1.m3u8?txSecret=68657b00004c63725be5bf5c9156221c&txTime=6AE8DAC1",
+            "link": "https://live.vivo155.com/live/hd-en-1-4621411.m3u8?txSecret=1f3d37aaf826b086770b1416249d380b&txTime=6AE8C5D6|Referer=https://player.on8on8.com/",
             "logo": "",
             "type": 0,
             "api": "",
             "tokenApi": ""
           },
           {
-            "title": "TAPMAD - AQ",
-            "link": "https://multiregion-asia-cdn.tapmad.com/v1/01a1548c4faf15fc600b1e3e968408/01a1548c7fde1ea557841e1612cf76/main.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "Live 2",
-            "link": "https://live.vivo155.com/live/hd-en-1-4621440.m3u8?txSecret=ad78bb536e23461cba3cffb7faa5cc15&txTime=6AE8A562|Referer=https://player.on8on8.com/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "HD SERVER",
-            "link": "https://live2.jorvakstreamcache.com/live/channel1.m3u8?|Referer=https://xlz.domainkqt.cc/",
+            "title": "HD SERVER ",
+            "link": "https://live.uu1pp.com/sport/202_5703048_1.m3u8?txSecret=a7c6fca642e47d47970fc5a10347b227&txTime=6AE8F9DA",
             "logo": "",
             "type": 0,
             "api": "",
@@ -1284,7 +1273,7 @@
           },
           {
             "title": "LOW SERVER",
-            "link": "http://193.47.62.44/hls/YFFFAAAAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+            "link": "http://193.47.62.44/hls/TTTT.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
             "logo": "",
             "type": 0,
             "api": "",
