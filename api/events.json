@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-03T14:11:13.117775",
-  "event_count": 50,
+  "last_updated": "2026-11-03T14:21:06.478976",
+  "event_count": 48,
   "events": {
     "events": [
       {
@@ -623,9 +623,9 @@
           "teamBFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTo0kwOfn0swttbdChYr5KGVFVY-XuUO6nrYQ&s",
           "eventName": "Cricket",
           "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/11/03 11:15:30 +0000",
-          "endTime": "2026/11/03 15:15:37 +0000"
+          "Status": "Upcoming",
+          "startTime": "2026/11/05 06:45:15 +0000",
+          "endTime": "2026/11/05 15:15:20 +0000"
         },
         "channels_data": [
           {
@@ -1319,92 +1319,6 @@
           {
             "title": "Live 1",
             "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 14564,
-        "title": "Port FC vs Beijing Guoan",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Port FC",
-          "teamB": "Beijing Guoan",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/40661/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/3376/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/11/03 12:15:00 +0000",
-          "endTime": "2026/11/03 14:35:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "Live 1",
-            "link": "https://live.vivo155.com/live/hd-en-1-4621495.m3u8?txSecret=a05fe407a6ee081223268203a63b0458&txTime=6AE9E278|Referer=https://player.on8on8.com/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "HD SERVER ",
-            "link": "https://live2.jorvakstreamcache.com/live/channel2.m3u8?|Referer=https://xlz.domainkqt.cc/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "LOW SERVER",
-            "link": "http://193.47.62.41/hls/ELLLAAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 14565,
-        "title": "Cong An Ha Noi vs Kyoto Sanga FC",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "C\u00f4ng An H\u00e0 N\u1ed9i",
-          "teamB": "Kyoto Sanga FC",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/193616/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/3149/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/11/03 12:15:00 +0000",
-          "endTime": "2026/11/03 14:35:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "Live 1",
-            "link": "https://live.vivo155.com/live/hd-en-1-4621546.m3u8?txSecret=f0ef836b9c8f416d35d830b844b62e98&txTime=6AE9E295|Referer=https://player.on8on8.com/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "HD SERVER ",
-            "link": "https://live2.jorvakstreamcache.com/live/channel16.m3u8?|Referer=https://xlz.domainkqt.cc/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "LOW SERVER",
-            "link": "http://193.47.62.41/hls/ELLLAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
             "logo": "",
             "type": 0,
             "api": "",
