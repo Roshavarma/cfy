@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-03T17:31:32.742572",
+  "last_updated": "2026-11-03T17:41:10.748698",
   "event_count": 49,
   "events": {
     "events": [
@@ -680,11 +680,35 @@
         },
         "channels_data": [
           {
+            "title": "PARAMOUNT+ - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/nneitrfr1l/out/v1/c96eca69bbb04f77add2020a85495524/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "92d6baa3bffdea423754f5e0ab55631a:50b69d834ee34886fa9830363b88e800",
+            "tokenApi": ""
+          },
+          {
             "title": "TNT SPORTS - AQ",
             "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
             "logo": "",
             "type": 7,
             "api": "f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b",
+            "tokenApi": ""
+          },
+          {
+            "title": "VIX SPANISH - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/gwpfwrdluy/out/v1/83e94e1e8f76494f8173edb038f25837/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "9d5218f13397a8cbed7a4544d0d6d198:919a50686f1bd2dbd1f1b6a9357a9577",
+            "tokenApi": ""
+          },
+          {
+            "title": "DAZN DE - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/u4nnymerwj/out/v1/3a24e30418334f10b02441649eaa8cc3/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "a9dac59142fae1c70a50d526b491a86e:62752c3314581b6a305f3c655810e201",
             "tokenApi": ""
           },
           {
@@ -696,8 +720,24 @@
             "tokenApi": ""
           },
           {
+            "title": "Live 1",
+            "link": "https://live.vivo155.com/live/hd-en-1-4628435.m3u8?txSecret=94ae11617a86f1e1f52d5b968c1bbe03&txTime=6AEA2E2C|Referer=https://player.on8on8.com/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
             "title": "SonyLiv ",
             "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2120303/footlive0311/ENG/std_lrh-800300010.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=8a9a7376f4a7e2e69898723191590131-1793725803091",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "HD SERVER",
+            "link": "https://live2.jorvakstreamcache.com/live/channel1.m3u8?|Referer=https://xlz.domainkqt.cc/",
             "logo": "",
             "type": 0,
             "api": "",
@@ -1785,7 +1825,7 @@
           "isHot": "0",
           "Status": "Upcoming",
           "startTime": "2026/11/06 05:00:00 +0000",
-          "endTime": "2026/11/06 09:00:00 +0000"
+          "endTime": "2026/11/06 13:00:15 +0000"
         },
         "channels_data": [
           {
