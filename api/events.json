@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-03T20:33:09.562155",
-  "event_count": 45,
+  "last_updated": "2026-11-03T20:41:18.721038",
+  "event_count": 44,
   "events": {
     "events": [
       {
@@ -999,6 +999,14 @@
         },
         "channels_data": [
           {
+            "title": "SonyLiv PRIME - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/75yi5p0s1c/out/v1/537063cc750c49799f8a8f78975ce1c8/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "6d5337196b414dded830543ce01575c8:f5db6c7b83d3a8ee391191a5486ba567",
+            "tokenApi": ""
+          },
+          {
             "title": "PARAMOUNT+ - AQ",
             "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/f9bag1jthy/out/v1/3b8065fd2f2448ae950acb1799289059/cenc.mpd",
             "logo": "",
@@ -1007,11 +1015,11 @@
             "tokenApi": ""
           },
           {
-            "title": "SonyLiv PRIME - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/75yi5p0s1c/out/v1/537063cc750c49799f8a8f78975ce1c8/cenc.mpd",
+            "title": "DAZN SPORTS HD",
+            "link": "https://chatgpt.hereisman.net/playlist/59197/load-playlist-multi?|Referer=https://gooz.aapmains.net",
             "logo": "",
-            "type": 7,
-            "api": "6d5337196b414dded830543ce01575c8:f5db6c7b83d3a8ee391191a5486ba567",
+            "type": 0,
+            "api": "",
             "tokenApi": ""
           },
           {
@@ -1023,11 +1031,19 @@
             "tokenApi": ""
           },
           {
-            "title": "DAZN DE - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/jtyvkcoh4v/out/v1/075533792ddb4a178c7b77a2c582bcaa/cenc.mpd",
+            "title": "beIN ARABIC - AQ",
+            "link": "https://2sisi.s3.us-east-2.amazonaws.com/bein4/master.m3u8",
             "logo": "",
-            "type": 7,
-            "api": "746772ee03bdc6b4c4d26384bff0e499:3d88f15c96f473fbfae335e7f1b6b200",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "TAPMAD - AQ",
+            "link": "https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea540a81c2b41b75f/main.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
             "tokenApi": ""
           },
           {
@@ -1441,36 +1457,10 @@
           "startTime": "2026/11/09 05:00:00 +0000",
           "endTime": "2026/11/09 13:00:04 +0000"
         },
-        "channels_data": []
-      },
-      {
-        "id": 14562,
-        "title": "Al-Hilal vs Shabab Al-Ahli Dubai",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Al-Hilal",
-          "teamB": "Shabab Al-Ahli Dubai",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/21895/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/264111/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/11/03 18:15:00 +0000",
-          "endTime": "2026/11/03 20:35:00 +0000"
-        },
         "channels_data": [
           {
-            "title": "HD SERVER ",
-            "link": "https://live2.jorvakstreamcache.com/live/channel20.m3u8?|Referer=https://xlz.domainkqt.cc/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "LOW SERVER",
-            "link": "http://193.47.62.41/hls/AA111AA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+            "title": "Live 1",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
             "logo": "",
             "type": 0,
             "api": "",
@@ -1966,7 +1956,16 @@
           "startTime": "2026/11/06 05:00:00 +0000",
           "endTime": "2026/11/06 13:00:15 +0000"
         },
-        "channels_data": []
+        "channels_data": [
+          {
+            "title": "Live 1",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
       }
     ]
   }
