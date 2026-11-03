@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-03T17:41:10.748698",
+  "last_updated": "2026-11-03T17:51:07.432779",
   "event_count": 49,
   "events": {
     "events": [
@@ -674,7 +674,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/2677/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/11/03 17:45:00 +0000",
           "endTime": "2026/11/03 20:05:00 +0000"
         },
@@ -693,6 +693,14 @@
             "logo": "",
             "type": 7,
             "api": "f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b",
+            "tokenApi": ""
+          },
+          {
+            "title": "SonyLiv PRIME - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/pmxpfwjpew/out/v1/57a2345d56b3485088df37bb379b1884/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "042cea058767bc670450467c2ed410cb:045a98c84a49742be3a5a454198ec14c",
             "tokenApi": ""
           },
           {
@@ -765,11 +773,19 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/3001/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/11/03 17:45:00 +0000",
           "endTime": "2026/11/03 20:05:00 +0000"
         },
         "channels_data": [
+          {
+            "title": "PARAMOUNT+ - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/aeumjv0tof/out/v1/0d70b9334db84658bd3db38c484a071a/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "c6b9abe413b8c5552ad7f4a57dbb2af2:e37d1a8371a874deda5f9b7260e65cde",
+            "tokenApi": ""
+          },
           {
             "title": "TNT SPORTS - AQ",
             "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
@@ -779,8 +795,56 @@
             "tokenApi": ""
           },
           {
+            "title": "SonyLiv PRIME - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5z5zrkjiuu/out/v1/7f409e917e5740f18b65323ab79309e5/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "e6a29d67b1f49548bc93da53455af671:877d754b52368cebafec625d56be4967",
+            "tokenApi": ""
+          },
+          {
+            "title": "VIX SPANISH - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w4lpjel0uk/out/v1/d7683dec68ba4f86bfa5ddf4bd842020/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "f0db1a79217cb4d57ae5616c4bf7b2d8:c01f7bdddf9afec6c7c70841905aeed6",
+            "tokenApi": ""
+          },
+          {
+            "title": "DAZN DE - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/jiybvnjqls/out/v1/9cbdccb678364dafbac6a54af5461882/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "bddd33b45c3b369cf7febc4c35332e83:1bbd40180ff193eb23f3db5dbdc43c40",
+            "tokenApi": ""
+          },
+          {
+            "title": "HBO MAX BR - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/gru-nitro/live/clients/dash/enc/gwhjevq6ar/out/v1/bf0c281f2dba46cb87434d45ed13003f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+            "logo": "",
+            "type": 7,
+            "api": "83a4bc2c011e2c72b35b7b5f2d35560d:01bd0115c83d3493449181ba68998ab1",
+            "tokenApi": ""
+          },
+          {
+            "title": "Live 1",
+            "link": "https://live.vivo155.com/live/hd-en-1-4628496.m3u8?txSecret=4a74cb960700c25acb77fd007065e6ac&txTime=6AEA2E6B|Referer=https://player.on8on8.com/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
             "title": "SonyLiv ",
             "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2120304/footlive0311/ENG/std_lrh-800300010.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=8a9a7376f4a7e2e69898723191590131-1793725803091",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "HD SERVER ",
+            "link": "https://live2.jorvakstreamcache.com/live/channel4.m3u8?|Referer=https://xlz.domainkqt.cc/",
             "logo": "",
             "type": 0,
             "api": "",
