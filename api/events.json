@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-03T12:01:36.114031",
-  "event_count": 53,
+  "last_updated": "2026-11-03T12:11:04.246835",
+  "event_count": 50,
   "events": {
     "events": [
       {
@@ -1337,7 +1337,23 @@
         "channels_data": [
           {
             "title": "Live 1",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "link": "https://live.vivo155.com/live/hd-en-1-4621495.m3u8?txSecret=a05fe407a6ee081223268203a63b0458&txTime=6AE9E278|Referer=https://player.on8on8.com/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "HD SERVER ",
+            "link": "https://live2.jorvakstreamcache.com/live/channel2.m3u8?|Referer=https://xlz.domainkqt.cc/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "LOW SERVER",
+            "link": "http://193.47.62.41/hls/ELLLAAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
             "logo": "",
             "type": 0,
             "api": "",
@@ -1364,34 +1380,7 @@
         "channels_data": [
           {
             "title": "Live 1",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 14566,
-        "title": "Vissel Kobe vs Ratchaburi",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Vissel Kobe",
-          "teamB": "Ratchaburi",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/3146/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/85743/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/11/03 10:00:00 +0000",
-          "endTime": "2026/11/03 12:20:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "Live 1",
-            "link": "https://live.vivo155.com/live/hd-en-1-4621527.m3u8?txSecret=8906391723f4fd81d9c1ae1acfe79bfc&txTime=6AE9BE0A|Referer=https://player.on8on8.com/",
+            "link": "https://live.vivo155.com/live/hd-en-1-4621546.m3u8?txSecret=f0ef836b9c8f416d35d830b844b62e98&txTime=6AE9E295|Referer=https://player.on8on8.com/",
             "logo": "",
             "type": 0,
             "api": "",
@@ -1399,101 +1388,15 @@
           },
           {
             "title": "HD SERVER ",
-            "link": "https://live2.jorvakstreamcache.com/live/channel11.m3u8?|Referer=https://xlz.domainkqt.cc/",
+            "link": "https://live2.jorvakstreamcache.com/live/channel16.m3u8?|Referer=https://xlz.domainkqt.cc/",
             "logo": "",
             "type": 0,
             "api": "",
             "tokenApi": ""
           },
           {
-            "title": "LOW SERVER ",
-            "link": "http://193.47.62.41/hls/EAEAEAQQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 14567,
-        "title": "Kashiwa Reysol vs Daejeon Hana Citizen",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Kashiwa Reysol",
-          "teamB": "Daejeon Hana Citizen",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/3140/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/7645/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/11/03 10:00:00 +0000",
-          "endTime": "2026/11/03 12:20:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "Live 1",
-            "link": "https://live.vivo155.com/live/hd-en-1-4621524.m3u8?txSecret=f9209247ba29ae989472d1d6c16dabcd&txTime=6AE9BE2D|Referer=https://player.on8on8.com/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "HD SERVER ",
-            "link": "https://live2.jorvakstreamcache.com/live/channel15.m3u8?|Referer=https://xlz.domainkqt.cc/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "LOW SERVER ",
-            "link": "http://193.47.62.41/hls/EAEAEAQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 14568,
-        "title": "Jeonbuk Hyundai Motors vs Johor Darul Tazim",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Jeonbuk Hyundai Motors",
-          "teamB": "Johor Darul Ta'zim",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/6908/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/3327/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/11/03 10:00:00 +0000",
-          "endTime": "2026/11/03 12:20:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "Live 1",
-            "link": "https://live.vivo155.com/live/hd-en-1-4621517.m3u8?txSecret=7145fd575d7ba3827944ae129d3359d1&txTime=6AE9BE1B|Referer=https://player.on8on8.com/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "HD SERVER ",
-            "link": "https://live2.jorvakstreamcache.com/live/channel6.m3u8?|Referer=https://xlz.domainkqt.cc/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "LOW SERVER ",
-            "link": "http://193.47.62.41/hls/EAEAEA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+            "title": "LOW SERVER",
+            "link": "http://193.47.62.41/hls/ELLLAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
             "logo": "",
             "type": 0,
             "api": "",
