@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-03T17:21:10.855386",
-  "event_count": 47,
+  "last_updated": "2026-11-03T17:31:32.742572",
+  "event_count": 49,
   "events": {
     "events": [
       {
@@ -1295,7 +1295,7 @@
         },
         "channels_data": [
           {
-            "title": "Live 1",
+            "title": "LOW SERVER",
             "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
             "logo": "",
             "type": 0,
@@ -1340,60 +1340,6 @@
         ]
       },
       {
-        "id": 14570,
-        "title": "CD Anaitasuna FT vs Deportivo Alaves",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "CD Anaitasuna FT",
-          "teamB": "Deportivo Alav\u00e9s",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/263773/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/2885/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Upcoming",
-          "startTime": "2026/11/03 18:00:00 +0000",
-          "endTime": "2026/11/03 20:20:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "Live 1",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 14571,
-        "title": "Pamplona vs Eibar",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Pamplona",
-          "teamB": "Eibar",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/263528/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/2839/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Upcoming",
-          "startTime": "2026/11/03 18:00:00 +0000",
-          "endTime": "2026/11/03 20:20:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "Live 1",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
         "id": 14572,
         "title": "Chapecoense vs Mirassol",
         "image": "",
@@ -1412,10 +1358,10 @@
         "channels_data": [
           {
             "title": "Live 1",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/oy6rp0jwmf/out/v1/580ecf12bad24979baf8dd993dce053e/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
             "logo": "",
-            "type": 0,
-            "api": "",
+            "type": 7,
+            "api": "9dc40460c93087aea84d6315f08ecb64:f69c8d4624fddff4ca89bd0b31bdc4a7",
             "tokenApi": ""
           }
         ]
@@ -1439,10 +1385,10 @@
         "channels_data": [
           {
             "title": "Live 1",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd",
             "logo": "",
-            "type": 0,
-            "api": "",
+            "type": 7,
+            "api": "56b79c1782b30e6b6fc973b0e8fd4104:fa38aaa865a57eda7c77444697ba8ed3",
             "tokenApi": ""
           }
         ]
@@ -1732,6 +1678,114 @@
           "Status": "Upcoming",
           "startTime": "2026/11/05 14:00:00 +0000",
           "endTime": "2026/11/05 16:20:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Live 1",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 14585,
+        "title": "Sri Lanka Under-19 vs Malaysia Under-19",
+        "image": "",
+        "cat": "Cricket",
+        "eventInfo": {
+          "teamA": "Sri Lanka Under-19",
+          "teamB": "Malaysia Under-19",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/213106/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/505670/image",
+          "eventName": "Cricket",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/11/05 05:00:00 +0000",
+          "endTime": "2026/11/05 13:00:55 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Live 1",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 14586,
+        "title": "Bangladesh Under-19 vs Afghanistan Under-19",
+        "image": "",
+        "cat": "Cricket",
+        "eventInfo": {
+          "teamA": "Bangladesh Under-19",
+          "teamB": "Afghanistan Under-19",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/213099/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/213103/image",
+          "eventName": "Cricket",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/11/05 05:00:00 +0000",
+          "endTime": "2026/11/05 13:00:13 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Live 1",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 14587,
+        "title": "Pakistan Under-19 vs United Arab Emirates Under-19",
+        "image": "",
+        "cat": "Cricket",
+        "eventInfo": {
+          "teamA": "Pakistan Under-19",
+          "teamB": "United Arab Emirates Under-19",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/213104/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/300266/image",
+          "eventName": "Cricket",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/11/06 05:00:00 +0000",
+          "endTime": "2026/11/06 13:00:34 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Live 1",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 14588,
+        "title": "India Under-19 vs Nepal Under-19",
+        "image": "",
+        "cat": "Cricket",
+        "eventInfo": {
+          "teamA": "India Under-19",
+          "teamB": "Nepal Under-19",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/213112/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/213113/image",
+          "eventName": "Cricket",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/11/06 05:00:00 +0000",
+          "endTime": "2026/11/06 09:00:00 +0000"
         },
         "channels_data": [
           {
