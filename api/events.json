@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-03T18:01:50.252038",
-  "event_count": 49,
+  "last_updated": "2026-11-03T18:11:28.793450",
+  "event_count": 47,
   "events": {
     "events": [
       {
@@ -760,6 +760,14 @@
             "tokenApi": ""
           },
           {
+            "title": "Live 2",
+            "link": "https://www.rtmpcdn.com/live/289d4e5b-d051-4eab-b21f-2dbe45448b70.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
             "title": "LOW SERVER",
             "link": "http://193.47.62.59/hls/TPPPA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
             "logo": "",
@@ -869,6 +877,14 @@
           {
             "title": "HD SERVER ",
             "link": "https://live2.jorvakstreamcache.com/live/channel4.m3u8?|Referer=https://xlz.domainkqt.cc/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "Live 2",
+            "link": "https://www.rtmpcdn.com/live/d283ad68-9075-4a7c-9280-297a22a093c2.m3u8",
             "logo": "",
             "type": 0,
             "api": "",
@@ -1371,41 +1387,6 @@
         ]
       },
       {
-        "id": 14561,
-        "title": "Al-Hussein Irbid vs Al-Shorta",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Al-Hussein Irbid",
-          "teamB": "Al-Shorta",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/117204/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/61532/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/11/03 16:00:00 +0000",
-          "endTime": "2026/11/03 18:20:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "HD SERVER ",
-            "link": "https://live2.jorvakstreamcache.com/live/channel6.m3u8?|Referer=https://xlz.domainkqt.cc/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "LOW SERVER",
-            "link": "http://193.47.62.41/hls/LOOOAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
         "id": 14562,
         "title": "Al-Hilal vs Shabab Al-Ahli Dubai",
         "image": "",
@@ -1433,41 +1414,6 @@
           {
             "title": "LOW SERVER",
             "link": "http://193.47.62.41/hls/AA111AA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 14563,
-        "title": "Esteghlal FC vs Al Shamal SC",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Esteghlal FC",
-          "teamB": "Al Shamal SC",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/34316/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/170366/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/11/03 16:00:00 +0000",
-          "endTime": "2026/11/03 18:20:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "HD SERVER ",
-            "link": "https://live2.jorvakstreamcache.com/live/channel2.m3u8?|Referer=https://xlz.domainkqt.cc/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "LOW SERVER ",
-            "link": "http://193.47.62.41/hls/LOOOAAAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
             "logo": "",
             "type": 0,
             "api": "",
