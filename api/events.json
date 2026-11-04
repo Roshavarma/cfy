@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-04T15:21:29.833979",
+  "last_updated": "2026-11-04T15:31:27.728767",
   "event_count": 58,
   "events": {
     "events": [
@@ -1268,7 +1268,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/3245/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/11/04 15:30:00 +0000",
           "endTime": "2026/11/04 17:50:00 +0000"
         },
@@ -1279,6 +1279,38 @@
             "logo": "",
             "type": 7,
             "api": "f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b",
+            "tokenApi": ""
+          },
+          {
+            "title": "VIX SPANISH - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lky9xgjk0f/out/v1/b55e36403f7042409bb6f5fcfcc160c4/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "ad0238e45df5a88bc7e6de413340a1e7:8c0206f9a768bd3ac6c6073c78947577",
+            "tokenApi": ""
+          },
+          {
+            "title": "Live 1",
+            "link": "https://live.vivo155.com/live/hd-en-1-4630649.m3u8?txSecret=8bdfeb69ea7b46177f5652a32c3974f2&txTime=6AEB5EC0|Referer=https://player.on8on8.com/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "HD SERVER ",
+            "link": "https://live2.jorvakstreamcache.com/live/channel6.m3u8?|Referer=https://xlz.domainkqt.cc/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "LOW SERVER ",
+            "link": "http://193.47.62.55/hls/AYYYYQQQQAAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+            "logo": "",
+            "type": 0,
+            "api": "",
             "tokenApi": ""
           }
         ]
