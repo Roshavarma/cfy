@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-04T12:11:18.356548",
-  "event_count": 61,
+  "last_updated": "2026-11-04T12:21:19.950109",
+  "event_count": 59,
   "events": {
     "events": [
       {
@@ -1087,41 +1087,6 @@
         ]
       },
       {
-        "id": 14590,
-        "title": "FC Seoul vs The Cong - Viettel",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "FC Seoul",
-          "teamB": "Th\u1ec3 C\u00f4ng - Viettel",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/7646/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/231270/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/11/04 10:00:00 +0000",
-          "endTime": "2026/11/04 12:20:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "Live 1",
-            "link": "https://live.vivo155.com/live/hd-en-1-4621350.m3u8?txSecret=c36e19116a245a274b03d6bc38afb05a&txTime=6AEB0EB6|Referer=https://player.on8on8.com/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "HD SERVER ",
-            "link": "https://live2.domaincdn.cc/livecdn/channel-24.m3u8?auth_key=3000001793785392-0-0-da18d27271023ba64c3c21fde0ba85fb?|Referer=https://xlz.domainkqt.cc/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
         "id": 14591,
         "title": "Arkadag FK vs Gol Gohar Sirjan",
         "image": "",
@@ -1535,41 +1500,6 @@
         ]
       },
       {
-        "id": 14606,
-        "title": "Pohang Steelers vs Gamba Osaka",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Pohang Steelers",
-          "teamB": "Gamba Osaka",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/7650/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/3138/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/11/04 10:00:00 +0000",
-          "endTime": "2026/11/04 12:20:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "Live 1",
-            "link": "https://live.vivo155.com/live/hd-en-1-4621506.m3u8?txSecret=1a268250d7b49117021c378d986e778d&txTime=6AEB0B2B|Referer=https://player.on8on8.com/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "HD SERVER",
-            "link": "https://live2.jorvakstreamcache.com/live/channel6.m3u8?|Referer=https://xlz.domainkqt.cc/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
         "id": 14607,
         "title": "Buriram United vs Kashima Antlers",
         "image": "",
@@ -1581,14 +1511,22 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/3134/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/11/04 12:15:00 +0000",
           "endTime": "2026/11/04 14:35:00 +0000"
         },
         "channels_data": [
           {
-            "title": "Live 1",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "title": "HD SERVER",
+            "link": "https://live2.jorvakstreamcache.com/live/channel2.m3u8?|Referer=https://xlz.domainkqt.cc/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "LOW SERVER ",
+            "link": "http://193.47.62.44/hls/HHHHAAQA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
             "logo": "",
             "type": 0,
             "api": "",
