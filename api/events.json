@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-04T19:22:04.368631",
-  "event_count": 52,
+  "last_updated": "2026-11-04T19:32:17.267096",
+  "event_count": 87,
   "events": {
     "events": [
       {
@@ -1463,6 +1463,14 @@
         },
         "channels_data": [
           {
+            "title": "Live 1",
+            "link": "https://live.vivo155.com/live/sd-1-4563670.m3u8?txSecret=967f716a84215a332bc8b534bd15b260&txTime=6AEB9AF4|Referer=https://player.on8on8.com/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
             "title": "HD SERVER",
             "link": "https://live2.jorvakstreamcache.com/live/channel21.m3u8?|Referer=https://xlz.domainkqt.cc/",
             "logo": "",
@@ -1497,6 +1505,14 @@
           "endTime": "2026/11/04 22:05:00 +0000"
         },
         "channels_data": [
+          {
+            "title": "Live 1",
+            "link": "https://live.vivo155.com/live/sd-1-4563671.m3u8?txSecret=04a5941dd1c02e31cdfcf49b079330e2&txTime=6AEB9B63|Referer=https://player.on8on8.com/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
           {
             "title": "HD SERVER",
             "link": "https://live2.jorvakstreamcache.com/live/channel10.m3u8?|Referer=https://xlz.domainkqt.cc/",
@@ -2062,6 +2078,636 @@
             "tokenApi": ""
           }
         ]
+      },
+      {
+        "id": 14626,
+        "title": "AC Milan vs Ferencvaros TC",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "AC Milan",
+          "teamB": "Ferencv\u00e1ros TC",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/2692/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/1925/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/11/05 17:45:00 +0000",
+          "endTime": "2026/11/05 20:05:00 +0000"
+        },
+        "channels_data": []
+      },
+      {
+        "id": 14627,
+        "title": "RSC Anderlecht vs Red Bull Salzburg",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "RSC Anderlecht",
+          "teamB": "Red Bull Salzburg",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/2900/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/2046/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/11/05 17:45:00 +0000",
+          "endTime": "2026/11/05 20:05:00 +0000"
+        },
+        "channels_data": []
+      },
+      {
+        "id": 14628,
+        "title": "Crystal Palace vs TSG Hoffenheim",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Crystal Palace",
+          "teamB": "TSG Hoffenheim",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/7/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/2569/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/11/05 17:45:00 +0000",
+          "endTime": "2026/11/05 20:05:00 +0000"
+        },
+        "channels_data": []
+      },
+      {
+        "id": 14629,
+        "title": "Levski Sofia vs Jagiellonia Biaystok",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Levski Sofia",
+          "teamB": "Jagiellonia Bia\u0142ystok",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3273/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/7691/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/11/05 17:45:00 +0000",
+          "endTime": "2026/11/05 20:05:00 +0000"
+        },
+        "channels_data": []
+      },
+      {
+        "id": 14630,
+        "title": "Lillestrm SK vs FC Viktoria Plzen",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Lillestr\u00f8m SK",
+          "teamB": "FC Viktoria Plze\u0148",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/664/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/4502/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/11/05 17:45:00 +0000",
+          "endTime": "2026/11/05 20:05:00 +0000"
+        },
+        "channels_data": []
+      },
+      {
+        "id": 14631,
+        "title": "NEC Nijmegen vs Omonia Nicosia",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "NEC Nijmegen",
+          "teamB": "Omonia Nicosia",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/2962/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3395/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/11/05 17:45:00 +0000",
+          "endTime": "2026/11/05 20:05:00 +0000"
+        },
+        "channels_data": []
+      },
+      {
+        "id": 14632,
+        "title": "Real Sociedad vs Olympique Lyonnais",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Real Sociedad",
+          "teamB": "Olympique Lyonnais",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/2824/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/1649/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/11/05 17:45:00 +0000",
+          "endTime": "2026/11/05 20:05:00 +0000"
+        },
+        "channels_data": []
+      },
+      {
+        "id": 14633,
+        "title": "AC Sparta Praha vs Bournemouth",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "AC Sparta Praha",
+          "teamB": "Bournemouth",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/2218/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/60/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/11/05 17:45:00 +0000",
+          "endTime": "2026/11/05 20:05:00 +0000"
+        },
+        "channels_data": []
+      },
+      {
+        "id": 14634,
+        "title": "AZ Alkmaar vs Juventus",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "AZ Alkmaar",
+          "teamB": "Juventus",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/2950/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/2687/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/11/05 20:00:00 +0000",
+          "endTime": "2026/11/05 22:20:00 +0000"
+        },
+        "channels_data": []
+      },
+      {
+        "id": 14635,
+        "title": "Bayer 04 Leverkusen vs Olympique de Marseille",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Bayer 04 Leverkusen",
+          "teamB": "Olympique de Marseille",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/2681/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/1641/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/11/05 20:00:00 +0000",
+          "endTime": "2026/11/05 22:20:00 +0000"
+        },
+        "channels_data": []
+      },
+      {
+        "id": 14636,
+        "title": "Benfica vs Lech Poznan",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Benfica",
+          "teamB": "Lech Pozna\u0144",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3006/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3121/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/11/05 20:00:00 +0000",
+          "endTime": "2026/11/05 22:20:00 +0000"
+        },
+        "channels_data": []
+      },
+      {
+        "id": 14637,
+        "title": "Celta Vigo vs Royale Union Saint-Gilloise",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Celta Vigo",
+          "teamB": "Royale Union Saint-Gilloise",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/2821/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/4860/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/11/05 20:00:00 +0000",
+          "endTime": "2026/11/05 22:20:00 +0000"
+        },
+        "channels_data": []
+      },
+      {
+        "id": 14638,
+        "title": "Hapoel Beer Sheva vs OFI Crete",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Hapoel Be'er Sheva",
+          "teamB": "OFI Crete",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/5202/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3241/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/11/05 20:00:00 +0000",
+          "endTime": "2026/11/05 22:20:00 +0000"
+        },
+        "channels_data": []
+      },
+      {
+        "id": 14639,
+        "title": "Celtic vs Besiktas JK",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Celtic",
+          "teamB": "Be\u015fikta\u015f JK",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/2352/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3050/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/11/05 20:00:00 +0000",
+          "endTime": "2026/11/05 22:20:00 +0000"
+        },
+        "channels_data": []
+      },
+      {
+        "id": 14640,
+        "title": "SK Sturm Graz vs NK Celje",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "SK Sturm Graz",
+          "teamB": "NK Celje",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/2051/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/2413/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/11/05 20:00:00 +0000",
+          "endTime": "2026/11/05 22:20:00 +0000"
+        },
+        "channels_data": []
+      },
+      {
+        "id": 14641,
+        "title": "Sunderland vs GNK Dinamo Zagreb",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Sunderland",
+          "teamB": "GNK Dinamo Zagreb",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/41/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/2032/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/11/05 20:00:00 +0000",
+          "endTime": "2026/11/05 22:20:00 +0000"
+        },
+        "channels_data": []
+      },
+      {
+        "id": 14642,
+        "title": "Torreense vs FC Ararat-Armenia",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Torreense",
+          "teamB": "FC Ararat-Armenia",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/25787/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/262229/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/11/05 20:00:00 +0000",
+          "endTime": "2026/11/05 22:20:00 +0000"
+        },
+        "channels_data": []
+      },
+      {
+        "id": 14643,
+        "title": "AGF vs Sporting Braga",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "AGF",
+          "teamB": "Sporting Braga",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/1291/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/2999/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/11/05 17:45:00 +0000",
+          "endTime": "2026/11/05 20:05:00 +0000"
+        },
+        "channels_data": []
+      },
+      {
+        "id": 14644,
+        "title": "Atalanta vs FC Kairat Almaty",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Atalanta",
+          "teamB": "FC Kairat Almaty",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/2686/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/5172/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/11/05 17:45:00 +0000",
+          "endTime": "2026/11/05 20:05:00 +0000"
+        },
+        "channels_data": []
+      },
+      {
+        "id": 14645,
+        "title": "FC Midtjylland vs AFC Ajax",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "FC Midtjylland",
+          "teamB": "AFC Ajax",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/1289/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/2953/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/11/05 17:45:00 +0000",
+          "endTime": "2026/11/05 20:05:00 +0000"
+        },
+        "channels_data": []
+      },
+      {
+        "id": 14646,
+        "title": "FK Crvena zvezda vs Inter Club dEscaldes",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "FK Crvena zvezda",
+          "teamB": "Inter Club d'Escaldes",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/5149/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/37946/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/11/05 17:45:00 +0000",
+          "endTime": "2026/11/05 20:05:00 +0000"
+        },
+        "channels_data": []
+      },
+      {
+        "id": 14647,
+        "title": "Kuopion Palloseura vs KAA Gent",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Kuopion Palloseura",
+          "teamB": "KAA Gent",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/2244/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/2903/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/11/05 17:45:00 +0000",
+          "endTime": "2026/11/05 20:05:00 +0000"
+        },
+        "channels_data": []
+      },
+      {
+        "id": 14648,
+        "title": "Lincoln Red Imps vs HNK Hajduk Split",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Lincoln Red Imps",
+          "teamB": "HNK Hajduk Split",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/126304/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/2036/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/11/05 17:45:00 +0000",
+          "endTime": "2026/11/05 20:05:00 +0000"
+        },
+        "channels_data": []
+      },
+      {
+        "id": 14649,
+        "title": "Mjallby AIF vs FK Borac Banja Luka",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Mj\u00e4llby AIF",
+          "teamB": "FK Borac Banja Luka",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/1783/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/5235/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/11/05 17:45:00 +0000",
+          "endTime": "2026/11/05 20:05:00 +0000"
+        },
+        "channels_data": []
+      },
+      {
+        "id": 14650,
+        "title": "FC Thun vs Heart of Midlothian",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "FC Thun",
+          "teamB": "Heart of Midlothian",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/2454/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/2353/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/11/05 17:45:00 +0000",
+          "endTime": "2026/11/05 20:05:00 +0000"
+        },
+        "channels_data": []
+      },
+      {
+        "id": 14651,
+        "title": "Trabzonspor vs SC Freiburg",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Trabzonspor",
+          "teamB": "SC Freiburg",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3051/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/2538/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/11/05 17:45:00 +0000",
+          "endTime": "2026/11/05 20:05:00 +0000"
+        },
+        "channels_data": []
+      },
+      {
+        "id": 14652,
+        "title": "FC Kbenhavn vs FC Iberia 1999",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "FC K\u00f8benhavn",
+          "teamB": "FC Iberia 1999",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/1284/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/116312/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/11/05 20:00:00 +0000",
+          "endTime": "2026/11/05 22:20:00 +0000"
+        },
+        "channels_data": []
+      },
+      {
+        "id": 14653,
+        "title": "FC Twente vs Pafos FC",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "FC Twente",
+          "teamB": "Pafos FC",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/2955/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/171626/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/11/05 20:00:00 +0000",
+          "endTime": "2026/11/05 22:20:00 +0000"
+        },
+        "channels_data": []
+      },
+      {
+        "id": 14654,
+        "title": "Getafe vs Brighton Hove Albion",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Getafe",
+          "teamB": "Brighton & Hove Albion",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/2859/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/30/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/11/05 20:00:00 +0000",
+          "endTime": "2026/11/05 22:20:00 +0000"
+        },
+        "channels_data": []
+      },
+      {
+        "id": 14655,
+        "title": "FC Lugano vs FK Kauno Zalgiris",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "FC Lugano",
+          "teamB": "FK Kauno \u017dalgiris",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/2443/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/80741/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/11/05 20:00:00 +0000",
+          "endTime": "2026/11/05 22:20:00 +0000"
+        },
+        "channels_data": []
+      },
+      {
+        "id": 14656,
+        "title": "AS Monaco vs FC Nordsjlland",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "AS Monaco",
+          "teamB": "FC Nordsj\u00e6lland",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/1653/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/1292/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/11/05 20:00:00 +0000",
+          "endTime": "2026/11/05 22:20:00 +0000"
+        },
+        "channels_data": []
+      },
+      {
+        "id": 14657,
+        "title": "Panathinaikos FC vs CSKA Sofia",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Panathinaikos FC",
+          "teamB": "CSKA Sofia",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3248/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3275/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/11/05 20:00:00 +0000",
+          "endTime": "2026/11/05 22:20:00 +0000"
+        },
+        "channels_data": []
+      },
+      {
+        "id": 14658,
+        "title": "Riga FC vs FK Jablonec",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Riga FC",
+          "teamB": "FK Jablonec",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/162368/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/2205/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/11/05 20:00:00 +0000",
+          "endTime": "2026/11/05 22:20:00 +0000"
+        },
+        "channels_data": []
+      },
+      {
+        "id": 14659,
+        "title": "Sint-Truidense VV vs SK Brann",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Sint-Truidense VV",
+          "teamB": "SK Brann",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/2895/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/1159/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/11/05 20:00:00 +0000",
+          "endTime": "2026/11/05 22:20:00 +0000"
+        },
+        "channels_data": []
+      },
+      {
+        "id": 14660,
+        "title": "Universitatea Craiova vs KF Egnatia",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Universitatea Craiova",
+          "teamB": "KF Egnatia",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/116223/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/264619/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/11/05 20:00:00 +0000",
+          "endTime": "2026/11/05 22:20:00 +0000"
+        },
+        "channels_data": []
       }
     ]
   }
