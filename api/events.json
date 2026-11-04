@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-04T01:41:02.713041",
-  "event_count": 44,
+  "last_updated": "2026-11-04T01:50:57.491646",
+  "event_count": 40,
   "events": {
     "events": [
       {
@@ -405,18 +405,18 @@
         "channels_data": [
           {
             "title": "WILLOW - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/pog3pkfhga/out/v1/20164001c7d9489f898d05761ad05077/cenc.mpd",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/4dwybz2taj/out/v1/c90ad7bb77af498083f47bf86b7999b7/cenc.mpd",
             "logo": "",
             "type": 7,
-            "api": "2765adbf6880195515fed136e5a989fa:f1356a68a923c31d7184dfa1b91c161f",
+            "api": "6a028d5592b0e81f9c4fd4de4df6d5c7:9378d2ddd738b2d0b7a85ba65b643a7f",
             "tokenApi": ""
           },
           {
             "title": "PRIME ENG - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dr9bwy1yvt/out/v1/3cda3dc6a2c54efaa7b0a12598c7f332/cenc.mpd",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/xnz2tp3cz2/out/v1/57dea44e09564aa7b769ebdc51f9a42f/cenc.mpd",
             "logo": "",
             "type": 7,
-            "api": "de23ce5421c57988c1ba1cd8a0d16551:fb50935ff66bcea5899f989c5bbfd270",
+            "api": "db4b3e1da015cf0f03c2a5f4b9ee8433:964bab777741f2b59adedcbbcd463374",
             "tokenApi": ""
           },
           {
@@ -437,10 +437,10 @@
           },
           {
             "title": "WILLOW - ALT",
-            "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/pog3pkfhga/out/v1/20164001c7d9489f898d05761ad05077/cenc.mpd",
+            "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/4dwybz2taj/out/v1/c90ad7bb77af498083f47bf86b7999b7/cenc.mpd",
             "logo": "",
             "type": 7,
-            "api": "2765adbf6880195515fed136e5a989fa:f1356a68a923c31d7184dfa1b91c161f",
+            "api": "6a028d5592b0e81f9c4fd4de4df6d5c7:9378d2ddd738b2d0b7a85ba65b643a7f",
             "tokenApi": ""
           },
           {
@@ -1609,33 +1609,6 @@
         ]
       },
       {
-        "id": 14576,
-        "title": "Watford vs Lincoln City",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Watford",
-          "teamB": "Lincoln City",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/24/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/92/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Finish",
-          "startTime": "2026/11/03 19:45:00 +0000",
-          "endTime": "2026/11/03 22:05:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "LOW SERVER",
-            "link": "http://193.47.62.41/hls/7UUUAAAAQQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
         "id": 14577,
         "title": "Queens Park Rangers vs Burnley",
         "image": "",
@@ -1698,33 +1671,6 @@
         ]
       },
       {
-        "id": 14579,
-        "title": "Portsmouth vs Swansea City",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Portsmouth",
-          "teamB": "Swansea City",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/2/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/74/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Finish",
-          "startTime": "2026/11/03 19:45:00 +0000",
-          "endTime": "2026/11/03 22:05:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "LOW SERVER",
-            "link": "http://193.47.62.41/hls/7UUUAAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
         "id": 14580,
         "title": "Derby County vs Norwich City",
         "image": "",
@@ -1744,60 +1690,6 @@
           {
             "title": "LOW SERVER",
             "link": "http://193.47.62.41/hls/7UUUAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 14581,
-        "title": "Charlton Athletic vs Bolton Wanderers",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Charlton Athletic",
-          "teamB": "Bolton Wanderers",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/47/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/5/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Finish",
-          "startTime": "2026/11/03 19:45:00 +0000",
-          "endTime": "2026/11/03 22:05:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "LOW SERVER",
-            "link": "http://193.47.62.41/hls/7UUUA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 14582,
-        "title": "Blackburn Rovers vs Stoke City",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Blackburn Rovers",
-          "teamB": "Stoke City",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/46/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/29/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Finish",
-          "startTime": "2026/11/03 19:45:00 +0000",
-          "endTime": "2026/11/03 22:05:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "LOW SERVER",
-            "link": "http://193.47.62.41/hls/7UUU.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
             "logo": "",
             "type": 0,
             "api": "",
