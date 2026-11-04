@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-04T02:11:06.375456",
-  "event_count": 40,
+  "last_updated": "2026-11-04T02:21:07.711868",
+  "event_count": 46,
   "events": {
     "events": [
       {
@@ -655,515 +655,6 @@
         ]
       },
       {
-        "id": 14542,
-        "title": "Atletico Madrid vs FC Bayern Munchen",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Atl\u00e9tico Madrid",
-          "teamB": "FC Bayern M\u00fcnchen",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/2836/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/2672/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Finish",
-          "startTime": "2026/11/03 20:00:00 +0000",
-          "endTime": "2026/11/03 22:20:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "PARAMOUNT+ - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vh0otvgsty/out/v1/bd515f9d353d436c8d9f7fad1a036eae/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "81e0ae17a7166c881b38468bee4d210d:be2dd777d1aa42adc54d090fcf886b29",
-            "tokenApi": ""
-          },
-          {
-            "title": "TNT SPORTS - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-            "logo": "",
-            "type": 7,
-            "api": "f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b",
-            "tokenApi": ""
-          },
-          {
-            "title": "VIX SPANISH - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ttfe3fwpqd/out/v1/c8dfa6294cb34255a3a6ba81fbf286f7/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "e267cd32e665cacc817fa5d316d195aa:0a193efcd601e233f8a46bae9240f2b7",
-            "tokenApi": ""
-          },
-          {
-            "title": "SonyLiv ",
-            "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2120302/footlive0311/ENG/std_lrh-800300010.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=e691109abceda12fc5bd2d4c5fd381eb-1793734204418",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "LOW SERVER ",
-            "link": "http://193.47.62.55/hls/HCCC.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 14543,
-        "title": "FC Barcelona vs Aston Villa",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "FC Barcelona",
-          "teamB": "Aston Villa",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/2817/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/40/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Finish",
-          "startTime": "2026/11/03 20:00:00 +0000",
-          "endTime": "2026/11/03 22:20:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "PARAMOUNT+ - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/hfrpveg4ut/out/v1/898ffe1fc933458b940e736c42708232/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "9257aba4a8155ec0566886d9d2173cbb:c1663d6dd5e13c6105f55986e1b82bb0",
-            "tokenApi": ""
-          },
-          {
-            "title": "TNT SPORTS - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-            "logo": "",
-            "type": 7,
-            "api": "69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749",
-            "tokenApi": ""
-          },
-          {
-            "title": "DAZN DE - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vfvwmn8lpn/out/v1/fa48945789f044c89d69a67a81acd513/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "d5e2fec3b6ccef137970196c83892fcf:5db83e1690553fda8b857360ba7e4171",
-            "tokenApi": ""
-          },
-          {
-            "title": "SonyLiv ",
-            "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2120300/footlive0311/ENG/std_lrh-800300010.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=e691109abceda12fc5bd2d4c5fd381eb-1793734204418",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "LOW SERVER",
-            "link": "http://193.47.62.44/hls/HCCCa.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 14544,
-        "title": "BodGlimt vs Lille",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Bod\u00f8/Glimt",
-          "teamB": "Lille",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/656/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/1643/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Finish",
-          "startTime": "2026/11/03 20:00:00 +0000",
-          "endTime": "2026/11/03 22:20:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "PARAMOUNT+ - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vup2gkotxm/out/v1/35a4a5af02a048968c2b300ddd4677a2/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "f9c393a27d7eab26828310d5116228b4:54242b217e2cb116436f2a8f72b9ba6b",
-            "tokenApi": ""
-          },
-          {
-            "title": "VIX SPANISH - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/hknyjwcuzu/out/v1/aef31af53940433bb1b5a1d1eaa6ed5d/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "1ba1ee8262e770b7d92759485de83fa6:eb42d4be46e10ae5e1c529efc451e3f5",
-            "tokenApi": ""
-          },
-          {
-            "title": "DAZN DE - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/b722xitfbt/out/v1/64cda6be047340fc8eab0cfbd350848f/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "4ab1edbb78f4867a4e68821974ddc07f:c581c41a8e61fd0bc9ec0d4c23cfea86",
-            "tokenApi": ""
-          },
-          {
-            "title": "SonyLiv",
-            "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2018457/footlive0311/ENG/std_lrh-800300010.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=e691109abceda12fc5bd2d4c5fd381eb-1793734204418",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "LOW SERVER ",
-            "link": "http://193.47.62.55/hls/HCCCaa.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 14545,
-        "title": "Feyenoord vs Inter",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Feyenoord",
-          "teamB": "Inter",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/2959/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/2697/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Finish",
-          "startTime": "2026/11/03 20:00:00 +0000",
-          "endTime": "2026/11/03 22:20:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "PARAMOUNT+ - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/odyam8seie/out/v1/a5f86f8dc35746c9a5d1b0128bb8196c/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "fc651bf819bdc1df6aa7c249f1acfe66:06229427fb5ea8c1fcf8c8f878b2fc23",
-            "tokenApi": ""
-          },
-          {
-            "title": "SonyLiv PRIME - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/75yi5p0s1c/out/v1/537063cc750c49799f8a8f78975ce1c8/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "6d5337196b414dded830543ce01575c8:f5db6c7b83d3a8ee391191a5486ba567",
-            "tokenApi": ""
-          },
-          {
-            "title": "SonyLiv PRIME - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/zfm6q50wyx/out/v1/e80bb4a13dc24a8f985079c2cfa1e692/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "768f15cdba33cfdf9aebb4f8225535e8:e17aad86724a7d43c8484da55ab0d90b",
-            "tokenApi": ""
-          },
-          {
-            "title": "VIX SPANISH - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/yzurcf456k/out/v1/4df741b740c1401a93dd7f933bdde012/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "c3c680a53aab9eec4b43db218a3713a6:1adcde85460fd0b23f1510ca56e1e58b",
-            "tokenApi": ""
-          },
-          {
-            "title": "DAZN DE - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/td2vcx9ney/out/v1/7ce09a13e61a4e008492bb0545ba65fa/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "8b199d76b52fbb59394d3e1f21f19b49:e5bde1d899ea6c48116aa39f3e50829d",
-            "tokenApi": ""
-          },
-          {
-            "title": "CBS SPORTS - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-            "logo": "",
-            "type": 7,
-            "api": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
-            "tokenApi": ""
-          },
-          {
-            "title": "SonyLiv ",
-            "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2094588/footlive0311/ENG/std_lrh-800300010.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=e691109abceda12fc5bd2d4c5fd381eb-1793734204418",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "LOW SERVER",
-            "link": "http://193.47.62.55/hls/HCCCaaa.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 14546,
-        "title": "LASK vs SK Slovan Bratislava",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "LASK",
-          "teamB": "\u0160K Slovan Bratislava",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/2058/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/2404/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Finish",
-          "startTime": "2026/11/03 20:00:00 +0000",
-          "endTime": "2026/11/03 22:20:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "PARAMOUNT+ - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ej3seddljs/out/v1/273718f161c34b44bc7e125ce3fa6173/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "0f9a8647387c8ced25cb81e31daa8465:138042cf1b65ee0021b4bb86a8eb4272",
-            "tokenApi": ""
-          },
-          {
-            "title": "VIX SPANISH - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/mustdnrpeu/out/v1/c36180058f2a49a9ac8e96607922aa95/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "451fbdc63a11c0819e6d36c54fe95261:5125bacd14af0cbb86d23615a3d94e81",
-            "tokenApi": ""
-          },
-          {
-            "title": "DAZN DE - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ifwb7xeivb/out/v1/0ef0d09b99094ee9bcf8619782c7535b/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "05247b8d82d43428e0d5e1fa9993435a:0ac0b44e21d83314c934490e522b6379",
-            "tokenApi": ""
-          },
-          {
-            "title": "SonyLiv ",
-            "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2094587/footlive0311/ENG/std_lrh-800300010.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=e691109abceda12fc5bd2d4c5fd381eb-1793734204418",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "LOW SERVER ",
-            "link": "http://193.47.62.41/hls/eoooA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 14547,
-        "title": "Manchester United vs AS Roma",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Manchester United",
-          "teamB": "AS Roma",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/35/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/2702/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Finish",
-          "startTime": "2026/11/03 20:00:00 +0000",
-          "endTime": "2026/11/03 22:20:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "SonyLiv PRIME - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/75yi5p0s1c/out/v1/537063cc750c49799f8a8f78975ce1c8/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "6d5337196b414dded830543ce01575c8:f5db6c7b83d3a8ee391191a5486ba567",
-            "tokenApi": ""
-          },
-          {
-            "title": "PARAMOUNT+ - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/f9bag1jthy/out/v1/3b8065fd2f2448ae950acb1799289059/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "36e4c42e68010f7a3e5f543d18e48242:014543c3e28193bbe08cf7e3f729715e",
-            "tokenApi": ""
-          },
-          {
-            "title": "DAZN SPORTS HD",
-            "link": "https://chatgpt.hereisman.net/playlist/59197/load-playlist-multi?|Referer=https://gooz.aapmains.net",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "VIX SPANISH - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/rxlovii2bb/out/v1/4ee96f7b64494c1aa1dc327b3f9b07ed/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "d504a4144684bf40c4ad12a9cf7c3faa:f81e60e7f3c75a3453b3dd605d2b01dd",
-            "tokenApi": ""
-          },
-          {
-            "title": "beIN ARABIC - AQ",
-            "link": "https://2sisi.s3.us-east-2.amazonaws.com/bein4/master.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "TAPMAD - AQ",
-            "link": "https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea540a81c2b41b75f/main.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "SonyLiv - ENG",
-            "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2120308/footlive0311/ENG/std_lrh-800300010.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=e691109abceda12fc5bd2d4c5fd381eb-1793734204418",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "SonyLiv - HIN",
-            "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2120306/footlive0311/HIN/std_lrh-800300010.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=e691109abceda12fc5bd2d4c5fd381eb-1793734204418",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "SonyLiv - TAM",
-            "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2005444/footlive0311/TAM/std_lrh-800300010.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=e691109abceda12fc5bd2d4c5fd381eb-1793734204418",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "SonyLiv - TEL",
-            "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2120307/footlive0311/TEL/std_lrh-800300010.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=e691109abceda12fc5bd2d4c5fd381eb-1793734204418",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "SonyLiv - KAN",
-            "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2120305/footlive0311/KAN/std_lrh-800300010.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=e691109abceda12fc5bd2d4c5fd381eb-1793734204418",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "LOW SERVER",
-            "link": "http://193.47.62.44/hls/HCCCaaaa.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 14548,
-        "title": "Villarreal vs Paris Saint-Germain",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Villarreal",
-          "teamB": "Paris Saint-Germain",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/2819/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/1644/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Finish",
-          "startTime": "2026/11/03 20:00:00 +0000",
-          "endTime": "2026/11/03 22:20:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "PARAMOUNT+ - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/0nsrdwyz6d/out/v1/1fb3f803330c4d56b7067eb32a2d7b5b/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "c42433b27c13a1ad99d32d2c027eeb59:2dad308a6387c9d4fc9b881d01b509d1",
-            "tokenApi": ""
-          },
-          {
-            "title": "TNT SPORTS - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-            "logo": "",
-            "type": 7,
-            "api": "fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408",
-            "tokenApi": ""
-          },
-          {
-            "title": "SonyLiv PRIME - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/7ginakmkhd/out/v1/ed941032a0cf478583800821f6f73f92/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "3c9c9759302a690821dc000229d317f4:dcda7b2874e022d6a03847f78565fedf",
-            "tokenApi": ""
-          },
-          {
-            "title": "DAZN DE - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/db1e5w2dci/out/v1/3664a5f5c459440cb8becc5f4494277b/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "6dcdc041688dd8c939209051ddc16ad7:07f42a6ce5def87eaa37b2cf01263d9d",
-            "tokenApi": ""
-          },
-          {
-            "title": "TNT SPORTS HD",
-            "link": "https://chatgpt.hereisman.net/playlist/59200/load-playlist-multi?|Referer=https://gooz.aapmains.net",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "SonyLiv ",
-            "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2094589/footlive0311/ENG/std_lrh-800300010.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=e691109abceda12fc5bd2d4c5fd381eb-1793734204418",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "LOW SERVER ",
-            "link": "http://193.47.62.59/hls/HCCCaaaaa.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
         "id": 14549,
         "title": "AEK Athens vs Real Madrid",
         "image": "",
@@ -1461,33 +952,6 @@
         ]
       },
       {
-        "id": 14572,
-        "title": "Chapecoense vs Mirassol",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Chapecoense",
-          "teamB": "Mirassol",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/21845/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/21982/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Finish",
-          "startTime": "2026/11/03 22:30:00 +0000",
-          "endTime": "2026/11/04 00:50:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "Live 1",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/oy6rp0jwmf/out/v1/580ecf12bad24979baf8dd993dce053e/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-            "logo": "",
-            "type": 7,
-            "api": "9dc40460c93087aea84d6315f08ecb64:f69c8d4624fddff4ca89bd0b31bdc4a7",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
         "id": 14573,
         "title": "Internacional vs Coritiba",
         "image": "",
@@ -1510,181 +974,6 @@
             "logo": "",
             "type": 7,
             "api": "56b79c1782b30e6b6fc973b0e8fd4104:fa38aaa865a57eda7c77444697ba8ed3",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 14574,
-        "title": "West Bromwich Albion vs Southampton",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "West Bromwich Albion",
-          "teamB": "Southampton",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/8/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/45/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Finish",
-          "startTime": "2026/11/03 20:00:00 +0000",
-          "endTime": "2026/11/03 22:20:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "beIN ENGLISH - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-            "logo": "",
-            "type": 7,
-            "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
-            "tokenApi": ""
-          },
-          {
-            "title": "FANCODE - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-            "logo": "",
-            "type": 7,
-            "api": "82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca",
-            "tokenApi": ""
-          },
-          {
-            "title": "LOW SERVER",
-            "link": "http://193.47.62.41/hls/7UUUAAAAQQAAQQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 14575,
-        "title": "Birmingham City vs Millwall",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Birmingham City",
-          "teamB": "Millwall",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/9/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/25/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Finish",
-          "startTime": "2026/11/03 20:00:00 +0000",
-          "endTime": "2026/11/03 22:20:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "PARAMOUNT+ - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/b9caoephnn/out/v1/b53b2cf820b94e7fae6169ca06bb6fd6/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "735ec2c484e8404f9bb1d162186f16a4:eb90599b0afc0766a9138c287e86c3a8",
-            "tokenApi": ""
-          },
-          {
-            "title": "Live 1",
-            "link": "https://live.vivo155.com/live/sd-1-4563660.m3u8?txSecret=b26ad7395654b81feb68089c4032a1a2&txTime=6AEA5764|Referer=https://player.on8on8.com/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "LOW SERVER",
-            "link": "http://193.47.62.41/hls/7UUUAAAAQQAAQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 14577,
-        "title": "Queens Park Rangers vs Burnley",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Queens Park Rangers",
-          "teamB": "Burnley",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/1/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/6/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Finish",
-          "startTime": "2026/11/03 19:45:00 +0000",
-          "endTime": "2026/11/03 22:05:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "PARAMOUNT+ - AQ",
-            "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/onettscsr6/out/v1/ede01716668e47c9b535c30736781a1d/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "a750109c8ebfdedbee825a182e87cea4:e2af3c63f879a1b9b5e74d89ca68065d",
-            "tokenApi": ""
-          },
-          {
-            "title": "LOW SERVER",
-            "link": "http://193.47.62.41/hls/7UUUAAAAQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 14578,
-        "title": "Preston North End vs Sheffield United",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Preston North End",
-          "teamB": "Sheffield United",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/21/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/15/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Finish",
-          "startTime": "2026/11/03 19:45:00 +0000",
-          "endTime": "2026/11/03 22:05:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "LOW SERVER",
-            "link": "http://193.47.62.41/hls/7UUUAAAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 14580,
-        "title": "Derby County vs Norwich City",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Derby County",
-          "teamB": "Norwich City",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/27/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/263/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Finish",
-          "startTime": "2026/11/03 19:45:00 +0000",
-          "endTime": "2026/11/03 22:05:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "LOW SERVER",
-            "link": "http://193.47.62.41/hls/7UUUAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-            "logo": "",
-            "type": 0,
-            "api": "",
             "tokenApi": ""
           }
         ]
@@ -1839,6 +1128,519 @@
           "Status": "Upcoming",
           "startTime": "2026/11/06 05:00:00 +0000",
           "endTime": "2026/11/06 13:00:15 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Live 1",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 14589,
+        "title": "Melbourne Victory vs Persib Bandung",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Melbourne Victory",
+          "teamB": "Persib Bandung",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/5970/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/64289/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/11/04 07:45:00 +0000",
+          "endTime": "2026/11/04 10:05:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Live 1",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 14590,
+        "title": "FC Seoul vs The Cong - Viettel",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "FC Seoul",
+          "teamB": "Th\u1ec3 C\u00f4ng - Viettel",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/7646/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/231270/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/11/04 10:00:00 +0000",
+          "endTime": "2026/11/04 12:20:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Live 1",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 14591,
+        "title": "Arkadag FK vs Gol Gohar Sirjan",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Arkadag FK",
+          "teamB": "Gol Gohar Sirjan",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/469420/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/275525/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/11/04 13:45:00 +0000",
+          "endTime": "2026/11/04 16:05:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Live 1",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 14592,
+        "title": "Al-Rayyan vs Al Nahda SC",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Al-Rayyan",
+          "teamB": "Al Nahda SC",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/40660/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/40648/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/11/04 16:00:00 +0000",
+          "endTime": "2026/11/04 18:20:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Live 1",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 14593,
+        "title": "Al-Wahda FC vs Al Khaldiya",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Al-Wahda FC",
+          "teamB": "Al Khaldiya",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/264115/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/371631/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/11/04 16:00:00 +0000",
+          "endTime": "2026/11/04 18:20:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Live 1",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 14594,
+        "title": "Al Kuwait SC vs Nasaf Qarshi",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Al Kuwait SC",
+          "teamB": "Nasaf Qarshi",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/32525/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/34017/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/11/04 16:00:00 +0000",
+          "endTime": "2026/11/04 18:20:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Live 1",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 14595,
+        "title": "Al-Taawoun vs Al Faisaly SC",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Al-Taawoun",
+          "teamB": "Al Faisaly SC",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/56021/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/47482/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/11/04 18:15:00 +0000",
+          "endTime": "2026/11/04 20:35:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Live 1",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 14596,
+        "title": "Al-Muharraq SC vs Al-Jazira",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Al-Muharraq SC",
+          "teamB": "Al-Jazira",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/45474/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/8090/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/11/04 18:15:00 +0000",
+          "endTime": "2026/11/04 20:35:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Live 1",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 14597,
+        "title": "Stade Rennais vs Olympiacos FC",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Stade Rennais",
+          "teamB": "Olympiacos FC",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/1658/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3245/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/11/04 15:30:00 +0000",
+          "endTime": "2026/11/04 17:50:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Live 1",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 14598,
+        "title": "Athletico vs Vasco da Gama",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Athletico",
+          "teamB": "Vasco da Gama",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/1967/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/1974/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/11/04 22:30:00 +0000",
+          "endTime": "2026/11/05 00:50:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Live 1",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 14599,
+        "title": "Flamengo vs Gremio",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Flamengo",
+          "teamB": "Gr\u00eamio",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/5981/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/5926/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/11/04 22:30:00 +0000",
+          "endTime": "2026/11/05 00:50:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Live 1",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 14600,
+        "title": "Botafogo vs Atletico Mineiro",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Botafogo",
+          "teamB": "Atl\u00e9tico Mineiro",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/1958/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/1977/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/11/05 00:30:00 +0000",
+          "endTime": "2026/11/05 02:50:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Live 1",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 14601,
+        "title": "Sao Paulo vs Corinthians",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "S\u00e3o Paulo",
+          "teamB": "Corinthians",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/1981/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/1957/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/11/05 00:30:00 +0000",
+          "endTime": "2026/11/05 02:50:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Live 1",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 14602,
+        "title": "Cardiff City vs West Ham United",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Cardiff City",
+          "teamB": "West Ham United",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/61/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/37/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/11/04 19:45:00 +0000",
+          "endTime": "2026/11/04 22:05:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Live 1",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 14603,
+        "title": "Wrexham vs Middlesbrough",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Wrexham",
+          "teamB": "Middlesbrough",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/64/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/36/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/11/04 19:45:00 +0000",
+          "endTime": "2026/11/04 22:05:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Live 1",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 14604,
+        "title": "Bristol City vs Wolverhampton",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Bristol City",
+          "teamB": "Wolverhampton",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/58/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/11/04 20:00:00 +0000",
+          "endTime": "2026/11/04 22:20:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Live 1",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 14605,
+        "title": "Oxford United vs Reading",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Oxford United",
+          "teamB": "Reading",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/95/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/28/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/11/04 19:45:00 +0000",
+          "endTime": "2026/11/04 22:05:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Live 1",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 14606,
+        "title": "Pohang Steelers vs Gamba Osaka",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Pohang Steelers",
+          "teamB": "Gamba Osaka",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/7650/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3138/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/11/04 10:00:00 +0000",
+          "endTime": "2026/11/04 12:20:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Live 1",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 14607,
+        "title": "Buriram United vs Kashima Antlers",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Buriram United",
+          "teamB": "Kashima Antlers",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/34218/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3134/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/11/04 12:15:00 +0000",
+          "endTime": "2026/11/04 14:35:00 +0000"
         },
         "channels_data": [
           {
