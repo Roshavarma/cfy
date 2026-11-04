@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-04T20:14:58.040835",
+  "last_updated": "2026-11-04T20:22:10.444817",
   "event_count": 84,
   "events": {
     "events": [
@@ -402,7 +402,88 @@
           "startTime": "2026/11/07 02:00:51 +0000",
           "endTime": "2026/11/07 11:00:55 +0000"
         },
-        "channels_data": []
+        "channels_data": [
+          {
+            "title": "PRIME ENG - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/xnz2tp3cz2/out/v1/57dea44e09564aa7b769ebdc51f9a42f/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "db4b3e1da015cf0f03c2a5f4b9ee8433:964bab777741f2b59adedcbbcd463374",
+            "tokenApi": ""
+          },
+          {
+            "title": "WILLOW - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/s3eotogzpl/out/v1/3a421da823214ef99571a137c1035f04/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+            "logo": "",
+            "type": 7,
+            "api": "7ef90352c28904be995275bc47f74c04:af5e36ddef7584474601c19b4ae5935a",
+            "tokenApi": ""
+          },
+          {
+            "title": "PRIME HINDI - AQ",
+            "link": "https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/ppmrp8tlzz/out/v1/cf829370483b4212ac7d5e3009c514b1/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+            "logo": "",
+            "type": 7,
+            "api": "952fb91696308da86bee7cd24edf0b58:bf359214ab3ac848738bdf014ace21b3",
+            "tokenApi": ""
+          },
+          {
+            "title": "TNT SPORTS - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+            "logo": "",
+            "type": 7,
+            "api": "f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b",
+            "tokenApi": ""
+          },
+          {
+            "title": "WILLOW - ALT",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/4dwybz2taj/out/v1/c90ad7bb77af498083f47bf86b7999b7/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "6a028d5592b0e81f9c4fd4de4df6d5c7:9378d2ddd738b2d0b7a85ba65b643a7f",
+            "tokenApi": ""
+          },
+          {
+            "title": "SonyLiv - English",
+            "link": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_0311/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793796037~acl=/*~id=944eb554fe0d9d39204a057f1ae426e3-1793752837149~hmac=3f6ed50fb95858dc451bb75e5f83384c487dce331cf29ae361b3784bc545208d",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "SonyLiv - Hindi",
+            "link": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_0311/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793796037~acl=/*~id=944eb554fe0d9d39204a057f1ae426e3-1793752837149~hmac=3f6ed50fb95858dc451bb75e5f83384c487dce331cf29ae361b3784bc545208d",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "SonyLiv - TEL",
+            "link": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_0311/TEL/std_lrh-800300010.m3u8?hdnea=exp=1793796155~acl=/*~id=9330fc4a2255cbf324394d7b5b191e90-1793752955164~hmac=1fd83137467b58c5eab840c4d951510eddecacd341e747518010c8de4e5e5aed",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "SonyLiv - TAM",
+            "link": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_0311/TAM/std_lrh-800300010.m3u8?hdnea=exp=1793796155~acl=/*~id=9330fc4a2255cbf324394d7b5b191e90-1793752955164~hmac=1fd83137467b58c5eab840c4d951510eddecacd341e747518010c8de4e5e5aed",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "SonyLiv - KAN",
+            "link": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_0311/KAN/std_lrh-800300010.m3u8?hdnea=exp=1793796155~acl=/*~id=9330fc4a2255cbf324394d7b5b191e90-1793752955164~hmac=1fd83137467b58c5eab840c4d951510eddecacd341e747518010c8de4e5e5aed",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
       },
       {
         "id": 14072,
@@ -645,6 +726,22 @@
             "type": 0,
             "api": "",
             "tokenApi": ""
+          },
+          {
+            "title": "HD SERVER ",
+            "link": "https://www.rtmpcdn.com/live/9cb44401-d33c-4e18-badb-0a3ed23fab19.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "LOW SERVER ",
+            "link": "http://193.47.62.44/hls/JMMM.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
           }
         ]
       },
@@ -698,8 +795,40 @@
             "tokenApi": ""
           },
           {
+            "title": "PARAMOUNT+ HD",
+            "link": "https://chatgpt.hereisman.net/playlist/59247/load-playlist-multi?|Referer=https://gooz.aapmains.net",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "Live 1",
+            "link": "https://live.vivo155.com/live/hd-en-1-4628422.m3u8?txSecret=eb10490c56c03d3c4f264b387091a4c1&txTime=6AEBA5CD|Referer=https://player.on8on8.com/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
             "title": "SonyLiv ",
             "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2120304/footlive0411/ENG/std_lrh-800300010.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=c1bcb74500400c36bb6231a967ec0de8-1793820603430",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "HD SERVER ",
+            "link": "https://www.rtmpcdn.com/live/f718bcf1-86da-47f1-9161-4dfaa15d68ce.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "LOW SERVER ",
+            "link": "http://193.47.62.55/hls/JMMMA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
             "logo": "",
             "type": 0,
             "api": "",
@@ -733,6 +862,14 @@
             "tokenApi": ""
           },
           {
+            "title": "SonyLiv PRIME - AQ ",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ndc5q7xrdi/out/v1/0eaae29490a342ab9f98fb5a773a02e2/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "5d745d9fa3b4e61a2d000528b30d6936:4eda3c78f484d4efe408baee3afa19fa",
+            "tokenApi": ""
+          },
+          {
             "title": "VIX SPANISH - AQ",
             "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/sjwfufyzxv/out/v1/aef31af53940433bb1b5a1d1eaa6ed5d/cenc.mpd",
             "logo": "",
@@ -751,6 +888,22 @@
           {
             "title": "SonyLiv ",
             "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2094587/Footlive0411/ENG/std_lrh-800300010.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=c1bcb74500400c36bb6231a967ec0de8-1793820603430",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "HD SERVER ",
+            "link": "https://www.rtmpcdn.com/live/8ac2fd58-4da4-4fc6-b43e-9e779e53d4d9.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "LOW SERVER ",
+            "link": "http://193.47.62.50/hls/z777A.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
             "logo": "",
             "type": 0,
             "api": "",
@@ -810,6 +963,22 @@
           {
             "title": "SonyLiv ",
             "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2022317/footlive0411/ENG/std_lrh-800300010.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=c1bcb74500400c36bb6231a967ec0de8-1793820603430",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "HD SERVER ",
+            "link": "https://www.rtmpcdn.com/live/7b9a2bbe-a88f-4ae5-8237-8e23b030d3a5.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "LOW SERVER ",
+            "link": "http://193.47.62.50/hls/z777AA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
             "logo": "",
             "type": 0,
             "api": "",
@@ -958,6 +1127,14 @@
             "tokenApi": ""
           },
           {
+            "title": "SonyLiv PRIME - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ghsrznt4cw/out/v1/29ae8f113c97453f93de2d779ea4b918/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "240ece5a526065afd7164e649987a94c:70e85851e563044ae68cc148a25b3943",
+            "tokenApi": ""
+          },
+          {
             "title": "DAZN DE - AQ",
             "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/zvn93joghj/out/v1/3e6fd3525aef47a0827ad25d4b1eafc3/cenc.mpd",
             "logo": "",
@@ -966,8 +1143,56 @@
             "tokenApi": ""
           },
           {
+            "title": "HBO MAX BR - AQ",
+            "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/gwhjevq6ar/out/v1/bf0c281f2dba46cb87434d45ed13003f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+            "logo": "",
+            "type": 7,
+            "api": "83a4bc2c011e2c72b35b7b5f2d35560d:01bd0115c83d3493449181ba68998ab1",
+            "tokenApi": ""
+          },
+          {
+            "title": "PARAMOUNT+ HD",
+            "link": "https://chatgpt.hereisman.net/playlist/59248/load-playlist-multi?|Referer=https://gooz.aapmains.net",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "beIN ARABIC - AQ",
+            "link": "https://live-cdn.ryazanslah3.space/hls/bein4.m3u8?|Referer=https://www.arena-koora.online/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "Live 1",
+            "link": "https://live.vivo155.com/live/hd-en-1-4628499.m3u8?txSecret=9ab591417e0da16ac6d1e83b1db88d0d&txTime=6AEBA5F8|Referer=https://player.on8on8.com/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
             "title": "SonyLiv ",
             "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2022320/footlive0411/ENG/std_lrh-800300010.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=c1bcb74500400c36bb6231a967ec0de8-1793820603430",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "HD SERVER ",
+            "link": "https://www.rtmpcdn.com/live/990ea245-4240-40ac-8317-de658fae890b.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "LOW SERVER ",
+            "link": "http://193.47.62.41/hls/JMMMAAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
             "logo": "",
             "type": 0,
             "api": "",
@@ -1001,6 +1226,14 @@
             "tokenApi": ""
           },
           {
+            "title": "SonyLiv PRIME - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bolpzl4bhy/out/v1/4a628200c43b4392ae4c229f9681c6be/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "6f9db4767fc068998e97bb0b81a472af:69eed2a1450edfea00df23eb206688e9",
+            "tokenApi": ""
+          },
+          {
             "title": "VIX SPANISH - AQ",
             "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wnj1sg9ucp/out/v1/c36180058f2a49a9ac8e96607922aa95/cenc.mpd",
             "logo": "",
@@ -1019,6 +1252,14 @@
           {
             "title": "SonyLiv ",
             "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2022322/Footlive0411/ENG/std_lrh-800300010.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=c1bcb74500400c36bb6231a967ec0de8-1793820603430",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "HD SERVER ",
+            "link": "https://www.rtmpcdn.com/live/c8004b15-f068-41da-8d20-d21a1a5249f7.m3u8",
             "logo": "",
             "type": 0,
             "api": "",
@@ -1239,7 +1480,24 @@
           "startTime": "2026/11/04 13:45:00 +0000",
           "endTime": "2026/11/04 16:05:00 +0000"
         },
-        "channels_data": []
+        "channels_data": [
+          {
+            "title": "HD SERVER",
+            "link": "https://live2.jorvakstreamcache.com/live/channel18.m3u8?|Referer=https://xlz.domainkqt.cc/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "LOW SERVER ",
+            "link": "http://193.47.62.44/hls/HHHHAAQAQQQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
       },
       {
         "id": 14598,
@@ -1376,10 +1634,10 @@
         "channels_data": [
           {
             "title": "PARAMOUNT+ - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/n1lhb2ffmr/out/v1/fd2157164ff14b08aee352dd0f295309/cenc.mpd",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/av8nbpiryk/out/v1/a1d1370a98cf4197a90f40216f706e08/cenc.mpd",
             "logo": "",
             "type": 7,
-            "api": "1c6a422a997d250d93eba4656ca35ee0:280cb26b9073a5175e88992f85291699",
+            "api": "15e6cbc7c811b4b80d98a4a93b29e458:306718cd3dc0b3ce7a94c0aecf065ae3",
             "tokenApi": ""
           },
           {
@@ -1476,6 +1734,14 @@
           "endTime": "2026/11/04 22:20:00 +0000"
         },
         "channels_data": [
+          {
+            "title": "PARAMOUNT+ - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/eezs90eoe6/out/v1/da29fc8814d740d7bac78837af3b419a/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "7e2b431c16dc8f646c9cd210ff1b0c1e:b0166b0503dfda031bd82af8b8d7d1a5",
+            "tokenApi": ""
+          },
           {
             "title": "beIN ENGLISH - AQ",
             "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
