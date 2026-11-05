@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-05T09:21:34.637973",
+  "last_updated": "2026-11-05T09:31:44.524610",
   "event_count": 63,
   "events": {
     "events": [
@@ -701,14 +701,22 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/4828/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/11/05 09:30:00 +0000",
           "endTime": "2026/11/05 11:50:00 +0000"
         },
         "channels_data": [
           {
-            "title": "Live 1",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "title": "T SPORTS HD",
+            "link": "https://tvsen5.aynaott.com/TnMn5kZz8aLmjklkk/index.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "BTV LIVE HD",
+            "link": "https://live.btvlive.gov.bd/live/1084043f-90ba-4ee9-8651-f47747716c9f/BD/355ba051-9a60-48aa-adcf-5a6c64da8c5c/index.m3u8|referer=https://www.btvlive.gov.bd/&origin=https://www.btvlive.gov.bd",
             "logo": "",
             "type": 0,
             "api": "",
