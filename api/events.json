@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-05T09:41:29.536640",
-  "event_count": 63,
+  "last_updated": "2026-11-05T09:51:30.266072",
+  "event_count": 62,
   "events": {
     "events": [
       {
@@ -715,8 +715,8 @@
             "tokenApi": ""
           },
           {
-            "title": "BTV LIVE HD",
-            "link": "https://live.btvlive.gov.bd/live/1084043f-90ba-4ee9-8651-f47747716c9f/BD/355ba051-9a60-48aa-adcf-5a6c64da8c5c/index.m3u8|referer=https://www.btvlive.gov.bd/&origin=https://www.btvlive.gov.bd",
+            "title": "Live 1",
+            "link": "https://live2.jorvakstreamcache.com/live/channel12.m3u8?|Referer=https://xlz.domainkqt.cc/",
             "logo": "",
             "type": 0,
             "api": "",
@@ -731,15 +731,7 @@
             "tokenApi": ""
           },
           {
-            "title": "Live 1",
-            "link": "https://live2.jorvakstreamcache.com/live/channel12.m3u8?|Referer=https://xlz.domainkqt.cc/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "HD SERVER",
+            "title": "HD SERVER ",
             "link": "https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1793874752-0-0-5ff06f528414dfefb16363bff6b7e3fe",
             "logo": "",
             "type": 0,
@@ -768,57 +760,6 @@
           {
             "title": "Live 1",
             "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 14585,
-        "title": "Sri Lanka Under-19 vs Malaysia Under-19",
-        "image": "",
-        "cat": "Cricket",
-        "eventInfo": {
-          "teamA": "Sri Lanka Under-19",
-          "teamB": "Malaysia Under-19",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/213106/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/505670/image",
-          "eventName": "Cricket",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/11/05 05:00:00 +0000",
-          "endTime": "2026/11/05 13:00:55 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "WILLOW - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/u37d1f9bgv/out/v1/a1941624205347d4a54b57c43d6beab1/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "c0e32a565b4d079ce824ba8820ccb885:44d48862571d9efe14c24921e1d390c2",
-            "tokenApi": ""
-          },
-          {
-            "title": "SonyLiv PRIME - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ybvks9dssu/out/v1/bfadec4c32a1431ba4155ad869de2b2a/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "5cd681d10936d933856b49b576c4b625:7bda25b95f83caf6ee993441b484ace5",
-            "tokenApi": ""
-          },
-          {
-            "title": "WILLOW - ALT",
-            "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/u37d1f9bgv/out/v1/a1941624205347d4a54b57c43d6beab1/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "c0e32a565b4d079ce824ba8820ccb885:44d48862571d9efe14c24921e1d390c2",
-            "tokenApi": ""
-          },
-          {
-            "title": "SonyLiv",
-            "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2037139/criclive0511/ENG/std_lrh-800300010.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=6ab21ad3e778a9d0372ec3387a1f521d-1793853003444",
             "logo": "",
             "type": 0,
             "api": "",
