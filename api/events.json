@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-05T10:41:26.112600",
+  "last_updated": "2026-11-05T10:51:26.434859",
   "event_count": 62,
   "events": {
     "events": [
@@ -548,9 +548,9 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/187760/image",
           "eventName": "Cricket",
           "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/11/05 03:30:05 +0000",
-          "endTime": "2026/11/05 13:00:34 +0000"
+          "Status": "Upcoming",
+          "startTime": "2026/11/06 03:30:16 +0000",
+          "endTime": "2026/11/06 12:00:20 +0000"
         },
         "channels_data": [
           {
@@ -631,8 +631,8 @@
           "teamBFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTo0kwOfn0swttbdChYr5KGVFVY-XuUO6nrYQ&s",
           "eventName": "Cricket",
           "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/11/05 06:45:15 +0000",
+          "Status": "Upcoming",
+          "startTime": "2026/11/05 11:15:20 +0000",
           "endTime": "2026/11/05 15:15:20 +0000"
         },
         "channels_data": [
@@ -1764,8 +1764,24 @@
         },
         "channels_data": [
           {
+            "title": "Live 1",
+            "link": "https://www.rtmpcdn.com/live/00de1afd-8fa4-4e6d-9489-dd321b85b508.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
             "title": "HD SERVER",
             "link": "https://live2.jorvakstreamcache.com/live/channel11.m3u8?|Referer=https://xlz.domainkqt.cc/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "LOW SERVER ",
+            "link": "http://193.47.62.41/hls/TTTT.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
             "logo": "",
             "type": 0,
             "api": "",
@@ -1791,8 +1807,24 @@
         },
         "channels_data": [
           {
+            "title": "Live 1",
+            "link": "https://www.rtmpcdn.com/live/d67bb674-fb13-4074-8ee8-aa9cab2f5da7.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
             "title": "HD SERVER",
             "link": "https://live2.jorvakstreamcache.com/live/channel5.m3u8?|Referer=https://xlz.domainkqt.cc/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "LOW SERVER ",
+            "link": "http://193.47.62.41/hls/TTTTA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
             "logo": "",
             "type": 0,
             "api": "",
