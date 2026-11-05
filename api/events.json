@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-05T16:11:49.010282",
+  "last_updated": "2026-11-05T16:21:31.231824",
   "event_count": 53,
   "events": {
     "events": [
@@ -682,65 +682,6 @@
           {
             "title": "Live 1",
             "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 14584,
-        "title": "Bhutan vs Bangladesh",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Bhutan",
-          "teamB": "Bangladesh",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/191564/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/6080/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/11/05 14:00:00 +0000",
-          "endTime": "2026/11/05 16:20:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "MyCO TV - AQ",
-            "link": "https://ml-pull-rtmp-pk1.myco.io/SAFF2026/hls/26113.m3u8|referer=https://myco.io/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "T SPORTS HD",
-            "link": "https://playztv-apps.pages.dev/ptv-sports/index.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "HD SERVER",
-            "link": "https://live2.jorvakstreamcache.com/live/channel7.m3u8?|Referer=https://xlz.domainkqt.cc/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "BACKUP HD",
-            "link": "https://pull.niues.live/live/stream-9912131_lhd.m3u8?auth_key=1793890435-0-0-cfa8e67b7f53e252d7d0f5887fccec2a",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "LOW SERVER",
-            "link": "http://193.47.62.55/hls/RHHHAAAAAQQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
             "logo": "",
             "type": 0,
             "api": "",
@@ -1659,6 +1600,41 @@
             "logo": "",
             "type": 0,
             "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 14669,
+        "title": "Baltimore Ravens vs Jacksonville Jaguars",
+        "image": "",
+        "cat": "American football",
+        "eventInfo": {
+          "teamA": "Baltimore Ravens",
+          "teamB": "Jacksonville Jaguars",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/4413/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/4386/image",
+          "eventName": "American football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/11/06 01:15:00 +0000",
+          "endTime": "2026/11/06 04:15:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "TSN SPORTS 1 - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+            "logo": "",
+            "type": 7,
+            "api": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d",
+            "tokenApi": ""
+          },
+          {
+            "title": "TSN SPORTS 3 - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/lsibpqruq1/out/v1/748887d614a84913ba8bcdf3c82823e6/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+            "logo": "",
+            "type": 7,
+            "api": "d3250252765347a0c2603c6cb4869f8c:0c19319460da7e9ed816db46ce839b37",
             "tokenApi": ""
           }
         ]
