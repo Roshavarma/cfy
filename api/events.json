@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-05T13:41:35.612178",
+  "last_updated": "2026-11-05T13:51:34.796667",
   "event_count": 56,
   "events": {
     "events": [
@@ -497,9 +497,9 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/187745/image",
           "eventName": "Cricket",
           "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/11/05 06:00:17 +0000",
-          "endTime": "2026/11/05 14:00:33 +0000"
+          "Status": "Upcoming",
+          "startTime": "2026/11/06 06:00:25 +0000",
+          "endTime": "2026/11/06 14:00:30 +0000"
         },
         "channels_data": [
           {
@@ -707,8 +707,32 @@
         },
         "channels_data": [
           {
+            "title": "MyCO TV - AQ",
+            "link": "https://ml-pull-rtmp-pk1.myco.io/SAFF2026/hls/26113.m3u8|referer=https://myco.io/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "T SPORTS HD",
+            "link": "https://playztv-apps.pages.dev/ptv-sports/index.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "HD SERVER",
+            "link": "https://live2.jorvakstreamcache.com/live/channel7.m3u8?|Referer=https://xlz.domainkqt.cc/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
             "title": "LOW SERVER ",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "link": "http://193.47.62.55/hls/RHHHAAAAAQQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
             "logo": "",
             "type": 0,
             "api": "",
