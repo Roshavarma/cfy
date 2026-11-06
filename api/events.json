@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-06T04:31:14.073939",
-  "event_count": 31,
+  "last_updated": "2026-11-06T04:40:52.431499",
+  "event_count": 30,
   "events": {
     "events": [
       {
@@ -691,8 +691,32 @@
         },
         "channels_data": [
           {
-            "title": "LOW SERVER",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "title": "WILLOW - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/quzxcdfmpz/out/v1/9e6286a4302b4f4eb0815473ae87ba8a/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "1dcfabc6b441908d78cc7106e30e906f:8e086929f79491b9a2076d0d04eb7317",
+            "tokenApi": ""
+          },
+          {
+            "title": "SonyLiv PRIME - AQ",
+            "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ybvks9dssu/out/v1/bfadec4c32a1431ba4155ad869de2b2a/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "5cd681d10936d933856b49b576c4b625:7bda25b95f83caf6ee993441b484ace5",
+            "tokenApi": ""
+          },
+          {
+            "title": "WILLOW - ALT",
+            "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/quzxcdfmpz/out/v1/9e6286a4302b4f4eb0815473ae87ba8a/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "1dcfabc6b441908d78cc7106e30e906f:8e086929f79491b9a2076d0d04eb7317",
+            "tokenApi": ""
+          },
+          {
+            "title": "SonyLiv",
+            "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2037140/criclive0511/ENG/std_lrh-800300010.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=6ab21ad3e778a9d0372ec3387a1f521d-1793853003444",
             "logo": "",
             "type": 0,
             "api": "",
@@ -718,8 +742,32 @@
         },
         "channels_data": [
           {
-            "title": "Live 1",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "title": "WILLOW - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/q4skycp0em/out/v1/ff0967ee82ad427abee362dc40a4f60f/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "5d52529b6ff19eca2315013244513b68:ba5c7dfad287aab538463d9da6811a8c",
+            "tokenApi": ""
+          },
+          {
+            "title": "SonyLiv PRIME - AQ",
+            "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ybvks9dssu/out/v1/bfadec4c32a1431ba4155ad869de2b2a/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "5cd681d10936d933856b49b576c4b625:7bda25b95f83caf6ee993441b484ace5",
+            "tokenApi": ""
+          },
+          {
+            "title": "WILLOW - ALT",
+            "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/q4skycp0em/out/v1/ff0967ee82ad427abee362dc40a4f60f/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "5d52529b6ff19eca2315013244513b68:ba5c7dfad287aab538463d9da6811a8c",
+            "tokenApi": ""
+          },
+          {
+            "title": "SonyLiv",
+            "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2037140/criclive0511/ENG/std_lrh-800300010.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=6ab21ad3e778a9d0372ec3387a1f521d-1793853003444",
             "logo": "",
             "type": 0,
             "api": "",
@@ -809,49 +857,6 @@
           {
             "title": "Live 1",
             "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 14669,
-        "title": "Baltimore Ravens vs Jacksonville Jaguars",
-        "image": "",
-        "cat": "American football",
-        "eventInfo": {
-          "teamA": "Baltimore Ravens",
-          "teamB": "Jacksonville Jaguars",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/4413/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/4386/image",
-          "eventName": "American football",
-          "isHot": "0",
-          "Status": "Finish",
-          "startTime": "2026/11/06 01:15:00 +0000",
-          "endTime": "2026/11/06 04:15:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "TSN SPORTS 1 - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-            "logo": "",
-            "type": 7,
-            "api": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d",
-            "tokenApi": ""
-          },
-          {
-            "title": "TSN SPORTS 3 - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/lsibpqruq1/out/v1/748887d614a84913ba8bcdf3c82823e6/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-            "logo": "",
-            "type": 7,
-            "api": "d3250252765347a0c2603c6cb4869f8c:0c19319460da7e9ed816db46ce839b37",
-            "tokenApi": ""
-          },
-          {
-            "title": "Live 1",
-            "link": "https://chatgpt.hereisman.net/playlist/59335/load-playlist?&.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://gooz.aapmains.net/new-stream-embed/59335?ad=111&Origin=https://gooz.aapmains.net",
             "logo": "",
             "type": 0,
             "api": "",
