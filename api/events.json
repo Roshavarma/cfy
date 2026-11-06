@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-06T12:01:28.387564",
-  "event_count": 28,
+  "last_updated": "2026-11-06T12:10:56.561861",
+  "event_count": 31,
   "events": {
     "events": [
       {
@@ -682,65 +682,6 @@
         ]
       },
       {
-        "id": 14587,
-        "title": "Pakistan Under-19 vs United Arab Emirates Under-19",
-        "image": "",
-        "cat": "Cricket",
-        "eventInfo": {
-          "teamA": "Pakistan Under-19",
-          "teamB": "United Arab Emirates Under-19",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/213104/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/300266/image",
-          "eventName": "Cricket",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/11/06 05:00:00 +0000",
-          "endTime": "2026/11/06 13:00:34 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "WILLOW - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/quzxcdfmpz/out/v1/9e6286a4302b4f4eb0815473ae87ba8a/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "1dcfabc6b441908d78cc7106e30e906f:8e086929f79491b9a2076d0d04eb7317",
-            "tokenApi": ""
-          },
-          {
-            "title": "SonyLiv PRIME - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fhmymymkrb/out/v1/63a3f37439d848cf828763d9a3104a61/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "894a711509fd4cd9f746368eb6c5fd38:d77f5b857e3e1f1d53900ed6d586cb78",
-            "tokenApi": ""
-          },
-          {
-            "title": "WILLOW - ALT",
-            "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/quzxcdfmpz/out/v1/9e6286a4302b4f4eb0815473ae87ba8a/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "1dcfabc6b441908d78cc7106e30e906f:8e086929f79491b9a2076d0d04eb7317",
-            "tokenApi": ""
-          },
-          {
-            "title": "PTV SPORTS HD",
-            "link": "https://live.msnetworks.net/ptv-sports/master.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "TEN SPORTS HD",
-            "link": "https://live.msnetworks.net/ten-sports/master.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
         "id": 14591,
         "title": "Arkadag FK vs Gol Gohar Sirjan",
         "image": "",
@@ -1235,6 +1176,114 @@
           "Status": "Upcoming",
           "startTime": "2026/11/06 19:30:00 +0000",
           "endTime": "2026/11/06 21:50:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Live 1",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 14685,
+        "title": "Melbourne Renegades Women vs Adelaide Strikers Women",
+        "image": "",
+        "cat": "Cricket",
+        "eventInfo": {
+          "teamA": "Melbourne Renegades Women",
+          "teamB": "Adelaide Strikers Women",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/274887/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/274888/image",
+          "eventName": "Cricket",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/11/07 04:40:00 +0000",
+          "endTime": "2026/11/07 08:40:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Live 1",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 14686,
+        "title": "Brisbane Heat Women vs Hobart Hurricanes Women",
+        "image": "",
+        "cat": "Cricket",
+        "eventInfo": {
+          "teamA": "Brisbane Heat Women",
+          "teamB": "Hobart Hurricanes Women",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/274884/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/274885/image",
+          "eventName": "Cricket",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/11/07 08:10:00 +0000",
+          "endTime": "2026/11/07 12:10:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Live 1",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 14687,
+        "title": "Afghanistan Under-19 vs Malaysia Under-19",
+        "image": "",
+        "cat": "Cricket",
+        "eventInfo": {
+          "teamA": "Afghanistan Under-19",
+          "teamB": "Malaysia Under-19",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/213103/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/505670/image",
+          "eventName": "Cricket",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/11/07 05:00:00 +0000",
+          "endTime": "2026/11/07 13:00:13 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Live 1",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 14688,
+        "title": "Sri Lanka Under-19 vs Bangladesh Under-19",
+        "image": "",
+        "cat": "Cricket",
+        "eventInfo": {
+          "teamA": "Sri Lanka Under-19",
+          "teamB": "Bangladesh Under-19",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/213106/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/213099/image",
+          "eventName": "Cricket",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/11/07 05:00:00 +0000",
+          "endTime": "2026/11/07 13:00:27 +0000"
         },
         "channels_data": [
           {
