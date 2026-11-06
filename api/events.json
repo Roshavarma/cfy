@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-06T19:21:06.624260",
+  "last_updated": "2026-11-06T19:31:23.841212",
   "event_count": 40,
   "events": {
     "events": [
@@ -887,7 +887,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/2527/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/11/06 19:30:00 +0000",
           "endTime": "2026/11/06 21:50:00 +0000"
         },
@@ -941,7 +941,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/63/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/11/06 19:30:00 +0000",
           "endTime": "2026/11/06 21:50:00 +0000"
         },
@@ -1197,17 +1197,17 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/2839/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/11/06 19:30:00 +0000",
           "endTime": "2026/11/06 21:50:00 +0000"
         },
         "channels_data": [
           {
-            "title": "Live 1",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "title": "LaLiga Hypermotion ",
+            "link": "https://cache07.zapitv.com/live/eds_c2/HYPERMOTION1/dash_live_ez/HYPERMOTION1.mpd",
             "logo": "",
-            "type": 0,
-            "api": "",
+            "type": 7,
+            "api": "a88617e904504ee291f49f0e60a51d49:17f92d59fde3b6d2bf4ffb48e8ca720a",
             "tokenApi": ""
           }
         ]
