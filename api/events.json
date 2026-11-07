@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-07T19:31:46.155782",
-  "event_count": 99,
+  "last_updated": "2026-11-07T19:41:36.675664",
+  "event_count": 91,
   "events": {
     "events": [
       {
@@ -768,223 +768,6 @@
         ]
       },
       {
-        "id": 14702,
-        "title": "VfB Stuttgart vs SV Werder Bremen",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "VfB Stuttgart",
-          "teamB": "SV Werder Bremen",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/2677/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/2534/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/11/07 17:30:00 +0000",
-          "endTime": "2026/11/07 19:50:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "DAZN SPORTS - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bqghxjqpds/out/v1/9df0796aa49940fa98b492bef10378d0/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "54e8a56d27a4ed414bb48e96e08387e1:c7faec0ba61a58a7b35ddb653448fe08",
-            "tokenApi": ""
-          },
-          {
-            "title": "PEACOCK ES - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/shlerkxipf/out/v1/712bf92a40f34997af7f6572aa552eb6/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "ec917a8418223b90d7b4b387681f0a78:2ecd677d041ae55c39dcc68ba065b234",
-            "tokenApi": ""
-          },
-          {
-            "title": "SKY SPORT DE - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/n59gzaiyg6/out/v1/eea6111c001f40d09881242cf50a4dd8/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "28c270de72ed2ffab8b477c2f3d35c61:dfe35a85f9ba6326a2f9f8514bac99b8",
-            "tokenApi": ""
-          },
-          {
-            "title": "USA SPORTS HD",
-            "link": "https://chatgpt.hereisman.net/playlist/59465/load-playlist-multi?|Referer=https://gooz.aapmains.net",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "LOW SERVER ",
-            "link": "http://193.47.62.50/hls/Z3333AAQQQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 14706,
-        "title": "Nottingham Forest vs Manchester City",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Nottingham Forest",
-          "teamB": "Manchester City",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/14/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/17/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/11/07 17:30:00 +0000",
-          "endTime": "2026/11/07 19:50:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "PEACOCK ENG - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/oqqqgttdec/out/v1/d120aa86304f4f28a77896fcb03c658b/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "7958dfdd2dc78d547fa387ca43e9fccf:a147d16dccfe009c7ad64c11c5db23ee",
-            "tokenApi": ""
-          },
-          {
-            "title": "FUBO SPORTS - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/4zomejgnew/out/v1/aaaab12c95924d80a77f87f7c745782a/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "65f9ed4580a4af3c117a339c44cdfe3b:3e7d40c4b2ca331fe48bd65acae439d7",
-            "tokenApi": ""
-          },
-          {
-            "title": "NBC SPORTS - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dx5hfbpk7u/out/v1/c14185a397544650b9761d43ad2e8e91/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-            "logo": "",
-            "type": 7,
-            "api": "36a385124dcdfb2f0969935065e03afa:ccecd65514dff22eae493b975ccf9a9e",
-            "tokenApi": ""
-          },
-          {
-            "title": "FUBO SPORTS - ALT",
-            "link": "https://otte.cache.aiv-cdn.net/dub-nitro/live/clients/dash/enc/1wlv9dr4vx/out/v1/632322be5f1047acb2472f90f8857182/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-            "logo": "",
-            "type": 7,
-            "api": "42f72c025dd53039244adc13b7e31dad:a7bd941a19f6dd14f3004a623a6ad3a1",
-            "tokenApi": ""
-          },
-          {
-            "title": "SKY SPORT PL - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/qdbhkwig26/out/v1/c3a69dfec0434abea00756cd73e749ff/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "1106fb025da5b31657618344099c6c14:788284538616a73b56214e90196a6e0f",
-            "tokenApi": ""
-          },
-          {
-            "title": "SKY SPORTS EPL",
-            "link": "https://bl.rutube.ru/livestream/e5bacac3b8e730791d4cab20ae81cd8f/index.m3u8?s=Dxx13S3dlOjavbRFqRtQ6g&e=2075285630&scheme=|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "NBC SPORTS HD",
-            "link": "https://chatgpt.hereisman.net/playlist/59462/load-playlist-multi?|Referer=https://gooz.aapmains.net",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "HD SERVER ",
-            "link": "https://www.rtmpcdn.com/live/cebea922-44a5-4cd8-89bb-8faeff015724.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "LOW SERVER",
-            "link": "http://193.47.62.59/hls/GBBB.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 14709,
-        "title": "Parma vs Bologna",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Parma",
-          "teamB": "Bologna",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/2690/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/2685/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Finish",
-          "startTime": "2026/11/07 17:00:00 +0000",
-          "endTime": "2026/11/07 19:20:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "PARAMOUNT+ - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vj8fod7wtf/out/v1/820c64e1fa1040ab9457f5f8c6eef049/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "78890ec65ba32c44c950c9b2983e98e0:1c075b2f4f26c1ee85502e3caebd8830",
-            "tokenApi": ""
-          },
-          {
-            "title": "DAZN ITALIA - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/chgemku7j2/out/v1/01a941d9b4544c85843d4fd046193a07/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "3cab879732fb4ba028c83b3be8816638:81919805a79e04b19094931bcc7c6b18",
-            "tokenApi": ""
-          },
-          {
-            "title": "PEACOCK - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vj8fod7wtf/out/v1/820c64e1fa1040ab9457f5f8c6eef049/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "78890ec65ba32c44c950c9b2983e98e0:1c075b2f4f26c1ee85502e3caebd8830",
-            "tokenApi": ""
-          },
-          {
-            "title": "CBS SPORTS - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd|Origin=https://amazon.com&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0",
-            "logo": "",
-            "type": 7,
-            "api": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
-            "tokenApi": ""
-          },
-          {
-            "title": "SPORT 1 CZ - AQ",
-            "link": "https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
-            "tokenApi": ""
-          },
-          {
-            "title": "LOW SERVER ",
-            "link": "http://193.47.62.50/hls/ZHHHAAQAQA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
         "id": 14710,
         "title": "AS Roma vs Sassuolo",
         "image": "",
@@ -1002,6 +785,30 @@
         },
         "channels_data": [
           {
+            "title": "PARAMOUNT+ - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/goikeune5k/out/v1/a0c12026e2684d55b4d6f2222f433973/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "c382483f8a379efb35b6277b17c6c347:f1942ce8cee7e5818800955ccb94aaca",
+            "tokenApi": ""
+          },
+          {
+            "title": "DAZN DE - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/8vgigtbr2m/out/v1/5bcac64e2a9341a790a0299366963139/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "cd6ac6ee6298e4bb0da75673d2171bca:0c5e1f01ffb1a4134a1f2050d3e5be4f",
+            "tokenApi": ""
+          },
+          {
+            "title": "PEACOCK - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/goikeune5k/out/v1/a0c12026e2684d55b4d6f2222f433973/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "c382483f8a379efb35b6277b17c6c347:f1942ce8cee7e5818800955ccb94aaca",
+            "tokenApi": ""
+          },
+          {
             "title": "CBS SPORTS - AQ",
             "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd|Origin=https://amazon.com&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0",
             "logo": "",
@@ -1020,81 +827,6 @@
         ]
       },
       {
-        "id": 14713,
-        "title": "Osasuna vs Athletic Club",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Osasuna",
-          "teamB": "Athletic Club",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/2820/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/2825/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/11/07 17:30:00 +0000",
-          "endTime": "2026/11/07 19:50:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "DAZN SPORTS - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/xxeg8rmdzh/out/v1/65c35bcbe3284ec0a36c0b8dfa3061b6/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "e1d4aa3a79a326fe42bc566c7a50afa8:195651be924446ca0902f667b610e3ff",
-            "tokenApi": ""
-          },
-          {
-            "title": "PREMIER SPORTS - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-            "logo": "",
-            "type": 7,
-            "api": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19",
-            "tokenApi": ""
-          },
-          {
-            "title": "beIN ENGLISH - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
-            "tokenApi": ""
-          },
-          {
-            "title": "FANCODE - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-            "logo": "",
-            "type": 7,
-            "api": "82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca",
-            "tokenApi": ""
-          },
-          {
-            "title": "Caz\u00e9TV - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ui54qo0g6h/out/v1/620e1448188d4bbe9a28d0dd52f45bb7/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-            "logo": "",
-            "type": 7,
-            "api": "ba6aca5a550163c38d06646bb50f04e7:516c3b471fce48a5b7a2e5ee7dd505f2",
-            "tokenApi": ""
-          },
-          {
-            "title": "ESPN DEPORTES HD",
-            "link": "https://chatgpt.hereisman.net/playlist/59463/load-playlist-multi?|Referer=https://gooz.aapmains.net",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "LOW SERVER ",
-            "link": "http://193.47.62.50/hls/Z3333AAQQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
         "id": 14714,
         "title": "Valencia vs Real Madrid",
         "image": "",
@@ -1105,7 +837,7 @@
           "teamAFlag": "https://img.sofascore.com/api/v1/team/2828/image",
           "teamBFlag": "https://img.sofascore.com/api/v1/team/2829/image",
           "eventName": "Football",
-          "isHot": "0",
+          "isHot": "1",
           "Status": "Upcoming",
           "startTime": "2026/11/07 20:00:00 +0000",
           "endTime": "2026/11/07 22:20:00 +0000"
@@ -1364,103 +1096,6 @@
         ]
       },
       {
-        "id": 14726,
-        "title": "FC Alverca vs Casa Pia",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "FC Alverca",
-          "teamB": "Casa Pia",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/190328/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/36365/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/11/07 18:00:00 +0000",
-          "endTime": "2026/11/07 20:20:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "LOW SERVER ",
-            "link": "http://193.47.62.50/hls/HJHJHJAAAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 14729,
-        "title": "Cordoba vs AD Ceuta",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "C\u00f3rdoba",
-          "teamB": "AD Ceuta",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/2850/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/2869/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/11/07 17:30:00 +0000",
-          "endTime": "2026/11/07 19:50:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "LaLiga Hypermotion ",
-            "link": "https://cache07.zapitv.com/live/eds_c2/HYPERMOTION2/dash_live_ez/HYPERMOTION2.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "5fc8da8b94c447468ffe392157f8c75e:333b934fdde4c1ee87e7f1c5dac4cb8f",
-            "tokenApi": ""
-          },
-          {
-            "title": "LOW SERVER ",
-            "link": "http://193.47.62.50/hls/Z3333.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 14730,
-        "title": "Leganes vs Albacete Balompie",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Legan\u00e9s",
-          "teamB": "Albacete Balompi\u00e9",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/2845/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/2848/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/11/07 17:30:00 +0000",
-          "endTime": "2026/11/07 19:50:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "LaLiga Hypermotion ",
-            "link": "https://cache07.zapitv.com/live/eds_c2/HYPERMOTION1/dash_live_ez/HYPERMOTION1.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "a88617e904504ee291f49f0e60a51d49:17f92d59fde3b6d2bf4ffb48e8ca720a",
-            "tokenApi": ""
-          },
-          {
-            "title": "LOW SERVER ",
-            "link": "http://193.47.62.50/hls/Z3333A.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
         "id": 14747,
         "title": "Inter Miami CF vs Charlotte FC",
         "image": "",
@@ -1502,33 +1137,6 @@
           "Status": "Upcoming",
           "startTime": "2026/11/07 20:00:00 +0000",
           "endTime": "2026/11/07 22:20:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "TNT SPORTS - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-            "logo": "",
-            "type": 7,
-            "api": "69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 14749,
-        "title": "Altrincham FC vs Notts County",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Altrincham FC",
-          "teamB": "Notts County",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/110/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/56/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/11/07 17:30:00 +0000",
-          "endTime": "2026/11/07 19:50:00 +0000"
         },
         "channels_data": [
           {
