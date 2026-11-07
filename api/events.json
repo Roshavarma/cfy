@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-07T19:21:41.773826",
+  "last_updated": "2026-11-07T19:31:46.155782",
   "event_count": 99,
   "events": {
     "events": [
@@ -1243,14 +1243,22 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/2524/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/11/07 19:30:00 +0000",
           "endTime": "2026/11/07 21:50:00 +0000"
         },
         "channels_data": [
           {
-            "title": "Live 1",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "title": "SKY BUNDESLIGA - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/hrejffyflm/out/v1/ad9a8d717bfc45d095f23a92925d7b1f/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "5e0ee93e86d783f011561f18ff8f34e6:b570eceee332c7e50f87fca1f51e0966",
+            "tokenApi": ""
+          },
+          {
+            "title": "LOW SERVER ",
+            "link": "http://193.47.62.55/hls/BWWWA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
             "logo": "",
             "type": 0,
             "api": "",
