@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-07T19:41:36.675664",
+  "last_updated": "2026-11-07T19:51:18.330845",
   "event_count": 91,
   "events": {
     "events": [
@@ -779,7 +779,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/2793/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/11/07 19:45:00 +0000",
           "endTime": "2026/11/07 22:05:00 +0000"
         },
@@ -790,6 +790,14 @@
             "logo": "",
             "type": 7,
             "api": "c382483f8a379efb35b6277b17c6c347:f1942ce8cee7e5818800955ccb94aaca",
+            "tokenApi": ""
+          },
+          {
+            "title": "FUBO SPORTS - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vahohrwe3w/out/v1/9a01afb3983444c9b0ebd5d4df2e47e2/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "a6a9c2de87b36eeb9d16ecc1eb953faa:110c81b088f7b40cf67b4bb17de7b89a",
             "tokenApi": ""
           },
           {
@@ -823,6 +831,14 @@
             "type": 7,
             "api": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
             "tokenApi": ""
+          },
+          {
+            "title": "LOW SERVER ",
+            "link": "http://193.47.62.55/hls/BWWWAAAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
           }
         ]
       },
@@ -844,11 +860,27 @@
         },
         "channels_data": [
           {
+            "title": "DAZN SPORTS - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/zpn1sed45s/out/v1/edd9b843e4a34cc7b7ca75d46d80d660/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "ebf29c45364a6e0a96100d2cd468ef88:79973ca1a11804467602e38543ac6b1c",
+            "tokenApi": ""
+          },
+          {
             "title": "beIN ENGLISH - AQ",
             "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
             "logo": "",
             "type": 7,
             "api": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
+            "tokenApi": ""
+          },
+          {
+            "title": "FANCODE - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+            "logo": "",
+            "type": 7,
+            "api": "82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca",
             "tokenApi": ""
           },
           {
@@ -865,6 +897,22 @@
             "logo": "",
             "type": 7,
             "api": "34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4",
+            "tokenApi": ""
+          },
+          {
+            "title": "FANCODE - LQ",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/eayjamsonn/out/v1/6c25cddab58043a6ace0ac64d97983f0/cenc-sd.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "5318e462b9e0677487cb87837f0bbdb1:4fa0fb973b95738306005f2e8591bf8e",
+            "tokenApi": ""
+          },
+          {
+            "title": "LOW SERVER ",
+            "link": "http://193.47.62.50/hls/TRTRTRAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+            "logo": "",
+            "type": 0,
+            "api": "",
             "tokenApi": ""
           }
         ]
@@ -981,6 +1029,14 @@
         },
         "channels_data": [
           {
+            "title": "DAZN SPORTS - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rzmxhpj49b/out/v1/a3916ee9ca1a4e78bfb05f678afa6b0d/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "2d4b27eb4f9c1897509e00d0d4642b1b:acde30f8827c2fe94077f0609125aed4",
+            "tokenApi": ""
+          },
+          {
             "title": "SKY BUNDESLIGA - AQ",
             "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/hrejffyflm/out/v1/ad9a8d717bfc45d095f23a92925d7b1f/cenc.mpd",
             "logo": "",
@@ -1051,8 +1107,8 @@
         },
         "channels_data": [
           {
-            "title": "Live 1",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "title": "LOW SERVER ",
+            "link": "http://193.47.62.55/hls/hsssAAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
             "logo": "",
             "type": 0,
             "api": "",
@@ -1145,6 +1201,14 @@
             "logo": "",
             "type": 7,
             "api": "69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749",
+            "tokenApi": ""
+          },
+          {
+            "title": "LOW SERVER ",
+            "link": "http://193.47.62.55/hls/BWWWAAAAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+            "logo": "",
+            "type": 0,
+            "api": "",
             "tokenApi": ""
           }
         ]
