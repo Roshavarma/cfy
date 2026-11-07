@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-07T11:11:12.910429",
+  "last_updated": "2026-11-07T11:21:13.492179",
   "event_count": 66,
   "events": {
     "events": [
@@ -556,9 +556,9 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/187760/image",
           "eventName": "Cricket",
           "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/11/07 03:30:28 +0000",
-          "endTime": "2026/11/07 12:00:34 +0000"
+          "Status": "Upcoming",
+          "startTime": "2026/11/08 03:30:39 +0000",
+          "endTime": "2026/11/08 12:00:45 +0000"
         },
         "channels_data": [
           {
@@ -742,11 +742,19 @@
         },
         "channels_data": [
           {
-            "title": "",
-            "link": "ok",
+            "title": "WILLOW - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/xhywkebli4/out/v1/b680bf867c374df2abef9ab2c55b0b65/cenc.mpd",
             "logo": "",
-            "type": 0,
-            "api": "",
+            "type": 7,
+            "api": "14959da8f9875554b690371dac4e2e5f:bad6682edf4b318c0ba3501758fe8cb9",
+            "tokenApi": ""
+          },
+          {
+            "title": "WILLOW - ALT",
+            "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/xhywkebli4/out/v1/b680bf867c374df2abef9ab2c55b0b65/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "14959da8f9875554b690371dac4e2e5f:bad6682edf4b318c0ba3501758fe8cb9",
             "tokenApi": ""
           }
         ]
