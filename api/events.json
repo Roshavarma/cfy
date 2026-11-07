@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-07T20:51:32.179474",
+  "last_updated": "2026-11-07T21:01:56.823372",
   "event_count": 89,
   "events": {
     "events": [
@@ -1125,14 +1125,22 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/404108/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/11/07 21:00:00 +0000",
           "endTime": "2026/11/07 23:20:00 +0000"
         },
         "channels_data": [
           {
+            "title": "APPLE TV+ - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/yhz0lgqlnn/out/v1/0131e1d23a24411bb37bab68f0168bcd/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "0194eec42d648ee69b4ee849004121f6:d553ec96f9386209029095d415e5e901",
+            "tokenApi": ""
+          },
+          {
             "title": "Live 1",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "link": "https://chatgpt.hereisman.net/playlist/59502/load-playlist-multi?|Referer=https://gooz.aapmains.net",
             "logo": "",
             "type": 0,
             "api": "",
