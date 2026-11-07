@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-07T15:11:18.582025",
-  "event_count": 59,
+  "last_updated": "2026-11-07T15:21:14.374129",
+  "event_count": 56,
   "events": {
     "events": [
       {
@@ -1016,6 +1016,14 @@
             "tokenApi": ""
           },
           {
+            "title": "HD SERVER ",
+            "link": "https://www.rtmpcdn.com/live/87bb91e2-2d13-4cc8-8773-f57b9c665bd8.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
             "title": "LOW SERVER ",
             "link": "http://193.47.62.50/hls/mmmmA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
             "logo": "",
@@ -1308,89 +1316,6 @@
         ]
       },
       {
-        "id": 14711,
-        "title": "Malaga CF vs Real Racing Club",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "M\u00e1laga CF",
-          "teamB": "Real Racing Club",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/2830/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/2835/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/11/07 13:00:00 +0000",
-          "endTime": "2026/11/07 15:20:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "DAZN SPORTS - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/j7rrs31foe/out/v1/7eca9af515d9417fb46df6e3e31482a4/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "bcd57c63f88ea1f103c83ee0d677edfc:d3e400add2860e6300aa070e11e4bba3",
-            "tokenApi": ""
-          },
-          {
-            "title": "PREMIER SPORTS - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f",
-            "tokenApi": ""
-          },
-          {
-            "title": "beIN ENGLISH - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
-            "tokenApi": ""
-          },
-          {
-            "title": "FANCODE - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-            "logo": "",
-            "type": 7,
-            "api": "82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca",
-            "tokenApi": ""
-          },
-          {
-            "title": "D SPORTS - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-            "logo": "",
-            "type": 7,
-            "api": "f836853d8eac19446ed9535f5fc568b1:b3bc5ef00602b29abac7e482d3d9fbf3",
-            "tokenApi": ""
-          },
-          {
-            "title": "ESPN DEPORTES HD",
-            "link": "https://chatgpt.hereisman.net/playlist/59440/load-playlist-multi?|Referer=https://gooz.aapmains.net",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "Live 1",
-            "link": "https://live.vivo155.com/live/hd-en-1-4565569.m3u8?txSecret=36f32e1090ec8d89214f566555de9c44&txTime=6AEF314C|Referer=https://player.on8on8.com/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "LOW SERVER ",
-            "link": "http://193.47.62.44/hls/Z444AAAAAAQQQQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
         "id": 14712,
         "title": "Espanyol vs Deportivo de A Coruna",
         "image": "",
@@ -1402,11 +1327,19 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/2832/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/11/07 15:15:00 +0000",
           "endTime": "2026/11/07 17:35:00 +0000"
         },
         "channels_data": [
+          {
+            "title": "DAZN SPORTS - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/4z7q1lwrby/out/v1/00524dd3cabf40e286e7cee4efac26a1/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "75bd9f8b4f59099e267457961fd3108f:ec3f44beaceabcc0fc81640ceaa3407a",
+            "tokenApi": ""
+          },
           {
             "title": "beIN ENGLISH - AQ",
             "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd",
@@ -1425,10 +1358,26 @@
           },
           {
             "title": "Caz\u00e9TV - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ui54qo0g6h/out/v1/620e1448188d4bbe9a28d0dd52f45bb7/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
             "logo": "",
             "type": 7,
-            "api": "34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4",
+            "api": "ba6aca5a550163c38d06646bb50f04e7:516c3b471fce48a5b7a2e5ee7dd505f2",
+            "tokenApi": ""
+          },
+          {
+            "title": "ESPN DEPORTES HD",
+            "link": "https://chatgpt.hereisman.net/playlist/59446/load-playlist-multi?|Referer=https://gooz.aapmains.net",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "LOW SERVER ",
+            "link": "http://193.47.62.44/hls/Z444AAAAAAQQQQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+            "logo": "",
+            "type": 0,
+            "api": "",
             "tokenApi": ""
           }
         ]
@@ -1795,49 +1744,6 @@
         ]
       },
       {
-        "id": 14727,
-        "title": "Burgos Club de Futbol vs Celta Fortuna",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Burgos Club de F\u00fatbol",
-          "teamB": "Celta Fortuna",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/2854/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/24336/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/11/07 13:00:00 +0000",
-          "endTime": "2026/11/07 15:20:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "LaLiga Hypermotion ",
-            "link": "https://cache07.zapitv.com/live/eds_c2/HYPERMOTION1/dash_live_ez/HYPERMOTION1.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "a88617e904504ee291f49f0e60a51d49:17f92d59fde3b6d2bf4ffb48e8ca720a",
-            "tokenApi": ""
-          },
-          {
-            "title": "Live 1",
-            "link": "https://live.vivo155.com/live/sd-1-4567346.m3u8?txSecret=84383db20ecb141a6ce16a2f32a6d733&txTime=6AEF31FC|Referer=https://player.on8on8.com/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "LOW SERVER ",
-            "link": "http://193.47.62.44/hls/Z444AA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
         "id": 14728,
         "title": "Cadiz vs Real Oviedo",
         "image": "",
@@ -1849,7 +1755,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/2851/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/11/07 15:15:00 +0000",
           "endTime": "2026/11/07 17:35:00 +0000"
         },
@@ -1860,6 +1766,14 @@
             "logo": "",
             "type": 7,
             "api": "a88617e904504ee291f49f0e60a51d49:17f92d59fde3b6d2bf4ffb48e8ca720a",
+            "tokenApi": ""
+          },
+          {
+            "title": "LOW SERVER ",
+            "link": "http://193.47.62.44/hls/Z444AA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+            "logo": "",
+            "type": 0,
+            "api": "",
             "tokenApi": ""
           }
         ]
@@ -1914,49 +1828,6 @@
             "logo": "",
             "type": 7,
             "api": "a88617e904504ee291f49f0e60a51d49:17f92d59fde3b6d2bf4ffb48e8ca720a",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 14732,
-        "title": "Samsunspor vs Konyaspor",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Samsunspor",
-          "teamB": "Konyaspor",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/3053/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/3085/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/11/07 13:00:00 +0000",
-          "endTime": "2026/11/07 15:20:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "Live 1",
-            "link": "https://live.vivo155.com/live/sd-1-4581367.m3u8?txSecret=17f4e76573e0166c15cc3e1deaf697fc&txTime=6AEF3242|Referer=https://player.on8on8.com/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "HD SERVER ",
-            "link": "https://live2.jorvakstreamcache.com/live/channel7.m3u8?|Referer=https://xlz.domainkqt.cc/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "LOW SERVER ",
-            "link": "http://193.47.62.44/hls/Z444AAAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-            "logo": "",
-            "type": 0,
-            "api": "",
             "tokenApi": ""
           }
         ]
@@ -2127,6 +1998,14 @@
         },
         "channels_data": [
           {
+            "title": "HD SERVER ",
+            "link": "https://www.rtmpcdn.com/live/52243454-0c1e-4e4d-badc-c5a7e1b1e68e.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
             "title": "LOW SERVER ",
             "link": "http://193.47.62.50/hls/FAFAFAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
             "logo": "",
@@ -2170,6 +2049,14 @@
             "tokenApi": ""
           },
           {
+            "title": "HD SERVER ",
+            "link": "https://www.rtmpcdn.com/live/75993c3c-1d3d-4100-97ff-14e77c335842.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
             "title": "LOW SERVER ",
             "link": "http://193.47.62.55/hls/UPPPA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
             "logo": "",
@@ -2197,6 +2084,14 @@
         },
         "channels_data": [
           {
+            "title": "HD SERVER ",
+            "link": "https://www.rtmpcdn.com/live/565e8444-084d-45f7-844a-d1be51305654.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
             "title": "LOW SERVER ",
             "link": "http://193.47.62.41/hls/DADADAAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
             "logo": "",
@@ -2223,6 +2118,14 @@
           "endTime": "2026/11/07 17:20:00 +0000"
         },
         "channels_data": [
+          {
+            "title": "HD SERVER ",
+            "link": "https://www.rtmpcdn.com/live/d0c824ea-7df7-4605-b075-77557c98db11.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
           {
             "title": "LOW SERVER ",
             "link": "http://193.47.62.59/hls/RARARAAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
