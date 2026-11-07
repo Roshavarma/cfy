@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-07T16:51:03.403162",
+  "last_updated": "2026-11-07T17:01:39.523046",
   "event_count": 50,
   "events": {
     "events": [
@@ -106,7 +106,7 @@
           "teamBFlag": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHudrhyphenhyphenOGNuEpCmd8k8vfTaJ7hTqEb6GemloDedieYFrvM5MJz639vioDvQnlHGBhvxsNBHSLg2ICSGot7LWGA2PDZqoc3W_A3Yu002I5JGUeQgTCG_UFhDRPSJr2E1blnBokZvTYkB6B2nJVeeUy6s28sW-XHRZzCW_J6SOGpaoXx0LB-CH-9iTf1ebc/s1600/1000009837.jpg",
           "eventName": "Motorsport",
           "isHot": "0",
-          "Status": "Live",
+          "Status": "Finish",
           "startTime": "2026/11/07 11:00:34 +0000",
           "endTime": "2026/11/07 17:00:38 +0000"
         },
@@ -975,11 +975,35 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/2685/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/11/07 17:00:00 +0000",
           "endTime": "2026/11/07 19:20:00 +0000"
         },
         "channels_data": [
+          {
+            "title": "PARAMOUNT+ - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vj8fod7wtf/out/v1/820c64e1fa1040ab9457f5f8c6eef049/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "78890ec65ba32c44c950c9b2983e98e0:1c075b2f4f26c1ee85502e3caebd8830",
+            "tokenApi": ""
+          },
+          {
+            "title": "DAZN ITALIA - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/chgemku7j2/out/v1/01a941d9b4544c85843d4fd046193a07/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "3cab879732fb4ba028c83b3be8816638:81919805a79e04b19094931bcc7c6b18",
+            "tokenApi": ""
+          },
+          {
+            "title": "PEACOCK - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vj8fod7wtf/out/v1/820c64e1fa1040ab9457f5f8c6eef049/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "78890ec65ba32c44c950c9b2983e98e0:1c075b2f4f26c1ee85502e3caebd8830",
+            "tokenApi": ""
+          },
           {
             "title": "CBS SPORTS - AQ",
             "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd|Origin=https://amazon.com&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0",
@@ -994,6 +1018,14 @@
             "logo": "",
             "type": 7,
             "api": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
+            "tokenApi": ""
+          },
+          {
+            "title": "LOW SERVER ",
+            "link": "http://193.47.62.50/hls/ZHHHAAQAQA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+            "logo": "",
+            "type": 0,
+            "api": "",
             "tokenApi": ""
           }
         ]
