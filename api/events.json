@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-07T10:11:10.164405",
-  "event_count": 67,
+  "last_updated": "2026-11-07T10:21:09.431443",
+  "event_count": 66,
   "events": {
     "events": [
       {
@@ -406,9 +406,9 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/187765/image",
           "eventName": "Cricket",
           "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/11/07 02:00:51 +0000",
-          "endTime": "2026/11/07 11:00:55 +0000"
+          "Status": "Upcoming",
+          "startTime": "2026/11/10 02:00:17 +0000",
+          "endTime": "2026/11/10 11:00:22 +0000"
         },
         "channels_data": [
           {
@@ -838,57 +838,6 @@
           {
             "title": "FANCODE - IN",
             "link": "https://dai-fancode.pages.dev/mumbai/4250400_english_hls_c7c99ef10a62356_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 14687,
-        "title": "Afghanistan Under-19 vs Malaysia Under-19",
-        "image": "",
-        "cat": "Cricket",
-        "eventInfo": {
-          "teamA": "Afghanistan Under-19",
-          "teamB": "Malaysia Under-19",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/213103/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/505670/image",
-          "eventName": "Cricket",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/11/07 05:00:00 +0000",
-          "endTime": "2026/11/07 13:00:13 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "WILLOW - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/2mmao0cgab/out/v1/90e706956b5f4d8eb0d93c5081ba6527/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "6285784b996a420f16710da94ed83846:94f2f4d5dffb2097ce56a43289d76662",
-            "tokenApi": ""
-          },
-          {
-            "title": "SonyLiv PRIME - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rqq44fkslo/out/v1/6a680b9da5b945198a352e8eabdef769/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "4d45a2704f4fed42bc2bb4efddeed7f9:1bf5276486e13685c9f654c0654c41a4",
-            "tokenApi": ""
-          },
-          {
-            "title": "WILLOW - ALT",
-            "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/2mmao0cgab/out/v1/90e706956b5f4d8eb0d93c5081ba6527/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "6285784b996a420f16710da94ed83846:94f2f4d5dffb2097ce56a43289d76662",
-            "tokenApi": ""
-          },
-          {
-            "title": "SonyLiv",
-            "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2120306/Criclive0711/ENG/std_lrh-800300010.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=92de8a56a170b063896666ff6600417e-1794028203356",
             "logo": "",
             "type": 0,
             "api": "",
