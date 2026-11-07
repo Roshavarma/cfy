@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-07T14:31:25.853235",
-  "event_count": 63,
+  "last_updated": "2026-11-07T14:41:09.751940",
+  "event_count": 59,
   "events": {
     "events": [
       {
@@ -34,14 +34,6 @@
             "logo": "",
             "type": 7,
             "api": "0d7d09d646a2a4edd51b87563abe77a3:a1e63461298a129daa947f42cbad4aa2",
-            "tokenApi": ""
-          },
-          {
-            "title": "SKY TOP EVENT - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/dg9oi3org7/out/v1/e75b690762ba4c4ca72bf30703a4473e/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "368bd4ebe301406897324bc777650411:69d27c2c2b7de927d67aacc973259901",
             "tokenApi": ""
           },
           {
@@ -785,6 +777,14 @@
         },
         "channels_data": [
           {
+            "title": "PEACOCK ES - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bqvpo0dbhn/out/v1/b5045f6bffd04d5d99d6918bb2450c63/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "a6cb6545663a788b31097762d04d1eae:913e70d7380d473e4e31e838d1ef4c6e",
+            "tokenApi": ""
+          },
+          {
             "title": "SKY SPORT DE - AQ",
             "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/3rm596wqdw/out/v1/9ba0ea722ef141b782c21d021ba45786/cenc.mpd",
             "logo": "",
@@ -828,6 +828,14 @@
         },
         "channels_data": [
           {
+            "title": "PEACOCK ES - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/na2zo0qmkg/out/v1/08320d9893444121bbc1ce32de192736/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "68b6bf4f863f49ffad6f1c09b33544b4:6d39a5c0706f657c3c57da2ef042b67f",
+            "tokenApi": ""
+          },
+          {
             "title": "SKY TOP EVENT - AQ",
             "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/dg9oi3org7/out/v1/e75b690762ba4c4ca72bf30703a4473e/cenc.mpd",
             "logo": "",
@@ -863,6 +871,14 @@
         },
         "channels_data": [
           {
+            "title": "PEACOCK ES - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/oqymjvhuld/out/v1/538614f3e2714dc0ad99ac7905570e97/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "b96213572690354511dd6dfd1401a8b2:4d35d3c8323c67efd107e3c11c70ed54",
+            "tokenApi": ""
+          },
+          {
             "title": "SKY SPORT DE - AQ",
             "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ubiowncrej/out/v1/def874d66d3b4dfa99c354ee7d0855c0/cenc.mpd",
             "logo": "",
@@ -897,6 +913,14 @@
           "endTime": "2026/11/07 16:50:00 +0000"
         },
         "channels_data": [
+          {
+            "title": "PEACOCK ES - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/kevwxr5kzz/out/v1/88f1f2d6b1aa423da350d32f29286c97/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "8a650b8c677114ae6c166fde76b8f7b5:a6e66101e9acaa338ccc516624413359",
+            "tokenApi": ""
+          },
           {
             "title": "SKY SPORT DE - AQ",
             "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/w1ad3vckry/out/v1/33ce68a8d21949da84e49f2695e51980/cenc.mpd",
@@ -962,73 +986,6 @@
           {
             "title": "Live 1",
             "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 14704,
-        "title": "Leeds United vs Tottenham Hotspur",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Leeds United",
-          "teamB": "Tottenham Hotspur",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/34/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/33/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/11/07 12:30:00 +0000",
-          "endTime": "2026/11/07 14:50:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "TNT SPORTS - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-            "logo": "",
-            "type": 7,
-            "api": "69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749",
-            "tokenApi": ""
-          },
-          {
-            "title": "FUBO SPORTS - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/dub-nitro/live/clients/dash/enc/1wlv9dr4vx/out/v1/632322be5f1047acb2472f90f8857182/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-            "logo": "",
-            "type": 7,
-            "api": "42f72c025dd53039244adc13b7e31dad:a7bd941a19f6dd14f3004a623a6ad3a1",
-            "tokenApi": ""
-          },
-          {
-            "title": "SKY SPORT DE - AQ",
-            "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/qdbhkwig26/out/v1/c3a69dfec0434abea00756cd73e749ff/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-            "logo": "",
-            "type": 7,
-            "api": "1106fb025da5b31657618344099c6c14:788284538616a73b56214e90196a6e0f",
-            "tokenApi": ""
-          },
-          {
-            "title": "SKY SPORTS EPL",
-            "link": "https://bl.rutube.ru/livestream/e5bacac3b8e730791d4cab20ae81cd8f/index.m3u8?s=Dxx13S3dlOjavbRFqRtQ6g&e=2075285630&scheme=|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "USA NETWORK HD",
-            "link": "https://chatgpt.hereisman.net/playlist/59439/load-playlist-multi?|Referer=https://gooz.aapmains.net",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "LOW SERVER ",
-            "link": "http://193.47.62.59/hls/R999.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
             "logo": "",
             "type": 0,
             "api": "",
@@ -1140,6 +1097,14 @@
             "tokenApi": ""
           },
           {
+            "title": "PEACOCK - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/jgr1ktffa3/out/v1/49844b8b8ebe4e3da711236747246598/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "9644dcd60302e7261e76e6f4bd052782:6fd8de55b1f4ff98ce540b08bea9b403",
+            "tokenApi": ""
+          },
+          {
             "title": "DAZN DE - AQ",
             "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/xdgimhxuss/out/v1/ab2788c43b084dd98efd6b2d44f341b2/cenc.mpd",
             "logo": "",
@@ -1177,6 +1142,14 @@
           {
             "title": "PARAMOUNT+ - AQ",
             "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lk35uqe5hp/out/v1/8e3bc19493fa48969d3632289611d484/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "2586c0d06d8887a499f9998f65d3654a:942cd5a24bd02c1c2ab9e0986f74cf2f",
+            "tokenApi": ""
+          },
+          {
+            "title": "PEACOCK - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5uaduhh4kl/out/v1/978d2369e73e41a5ad2d88126242fe72/cenc.mpd",
             "logo": "",
             "type": 7,
             "api": "2586c0d06d8887a499f9998f65d3654a:942cd5a24bd02c1c2ab9e0986f74cf2f",
@@ -1971,143 +1944,6 @@
           {
             "title": "Live 1",
             "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 14736,
-        "title": "Bristol City vs Norwich City",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Bristol City",
-          "teamB": "Norwich City",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/58/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/263/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/11/07 12:30:00 +0000",
-          "endTime": "2026/11/07 14:50:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "PARAMOUNT+ - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fg4qk0uxik/out/v1/317961806c5a4618b4dd609903d95c7f/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "5db90f05de9d72e6fff79fba94f76c7c:c0b4106d03a9f1182ccffb96b4427805",
-            "tokenApi": ""
-          },
-          {
-            "title": "Live 1",
-            "link": "https://live.vivo155.com/live/sd-1-4563673.m3u8?txSecret=36ccf1fb88c98d6dc13bef7dc72443c6&txTime=6AEF2811|Referer=https://player.on8on8.com/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "LOW SERVER ",
-            "link": "http://193.47.62.44/hls/YOOO.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 14737,
-        "title": "Portsmouth vs Stoke City",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Portsmouth",
-          "teamB": "Stoke City",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/2/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/29/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/11/07 12:30:00 +0000",
-          "endTime": "2026/11/07 14:50:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "PARAMOUNT+ - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/mti4pjwnix/out/v1/993cad2eeed7415f913cdc08c5d1e1ee/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "3ab0bd140d441b03a5ecb8a62bf5117f:d55a031a7ad0deeb0460ef6874602c7f",
-            "tokenApi": ""
-          },
-          {
-            "title": "Live 1",
-            "link": "https://live.vivo155.com/live/sd-1-4563676.m3u8?txSecret=2de6c750e649f8dabc89f7985ea924ad&txTime=6AEF2855|Referer=https://player.on8on8.com/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "LOW SERVER ",
-            "link": "http://193.47.62.44/hls/YOOOA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 14738,
-        "title": "Wrexham vs Wolverhampton",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Wrexham",
-          "teamB": "Wolverhampton",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/64/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/3/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/11/07 12:30:00 +0000",
-          "endTime": "2026/11/07 14:50:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "PARAMOUNT+ - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/gwy1zsrxmm/out/v1/5298cdb40c7d4201b527a35d8139a09a/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "edbd40fc65cbd3cab4bc9181599a38d0:e527aa01a172073a5c40680dec5a48b3",
-            "tokenApi": ""
-          },
-          {
-            "title": "beIN ENGLISH - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-            "logo": "",
-            "type": 7,
-            "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
-            "tokenApi": ""
-          },
-          {
-            "title": "Live 1",
-            "link": "https://live.vivo155.com/live/sd-1-4563683.m3u8?txSecret=5a7830bd191bbccafca70f4c5206a82a&txTime=6AEF2830|Referer=https://player.on8on8.com/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "LOW SERVER ",
-            "link": "http://193.47.62.44/hls/YOOOAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
             "logo": "",
             "type": 0,
             "api": "",
