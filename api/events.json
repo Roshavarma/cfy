@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-07T18:41:31.392580",
-  "event_count": 79,
+  "last_updated": "2026-11-07T18:51:29.685231",
+  "event_count": 86,
   "events": {
     "events": [
       {
@@ -2844,6 +2844,195 @@
           "Status": "Upcoming",
           "startTime": "2026/11/08 18:00:00 +0000",
           "endTime": "2026/11/08 20:20:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Live 1",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 14799,
+        "title": "Indiana Pacers vs Denver Nuggets",
+        "image": "",
+        "cat": "Basketball",
+        "eventInfo": {
+          "teamA": "Indiana Pacers",
+          "teamB": "Denver Nuggets",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3419/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3417/image",
+          "eventName": "Basketball",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/11/07 22:00:00 +0000",
+          "endTime": "2026/11/08 00:30:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Live 1",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 14800,
+        "title": "Atlanta Hawks vs Brooklyn Nets",
+        "image": "",
+        "cat": "Basketball",
+        "eventInfo": {
+          "teamA": "Atlanta Hawks",
+          "teamB": "Brooklyn Nets",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3423/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3436/image",
+          "eventName": "Basketball",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/11/08 00:30:00 +0000",
+          "endTime": "2026/11/08 03:00:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Live 1",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 14801,
+        "title": "Cleveland Cavaliers vs New York Knicks",
+        "image": "",
+        "cat": "Basketball",
+        "eventInfo": {
+          "teamA": "Cleveland Cavaliers",
+          "teamB": "New York Knicks",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3432/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3421/image",
+          "eventName": "Basketball",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/11/08 01:00:00 +0000",
+          "endTime": "2026/11/08 03:30:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Live 1",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 14802,
+        "title": "Oklahoma City Thunder vs Washington Wizards",
+        "image": "",
+        "cat": "Basketball",
+        "eventInfo": {
+          "teamA": "Oklahoma City Thunder",
+          "teamB": "Washington Wizards",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3418/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3431/image",
+          "eventName": "Basketball",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/11/08 01:00:00 +0000",
+          "endTime": "2026/11/08 03:30:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Live 1",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 14803,
+        "title": "Golden State Warriors vs Orlando Magic",
+        "image": "",
+        "cat": "Basketball",
+        "eventInfo": {
+          "teamA": "Golden State Warriors",
+          "teamB": "Orlando Magic",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3428/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3437/image",
+          "eventName": "Basketball",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/11/08 01:30:00 +0000",
+          "endTime": "2026/11/08 04:00:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Live 1",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 14804,
+        "title": "Phoenix Suns vs Houston Rockets",
+        "image": "",
+        "cat": "Basketball",
+        "eventInfo": {
+          "teamA": "Phoenix Suns",
+          "teamB": "Houston Rockets",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3416/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3412/image",
+          "eventName": "Basketball",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/11/08 02:00:00 +0000",
+          "endTime": "2026/11/08 04:30:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Live 1",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 14805,
+        "title": "Portland Trail Blazers vs San Antonio Spurs",
+        "image": "",
+        "cat": "Basketball",
+        "eventInfo": {
+          "teamA": "Portland Trail Blazers",
+          "teamB": "San Antonio Spurs",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3414/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3429/image",
+          "eventName": "Basketball",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/11/08 03:00:00 +0000",
+          "endTime": "2026/11/08 05:30:00 +0000"
         },
         "channels_data": [
           {
