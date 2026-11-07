@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-07T12:21:25.788760",
+  "last_updated": "2026-11-07T12:31:31.513452",
   "event_count": 68,
   "events": {
     "events": [
@@ -992,7 +992,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/33/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/11/07 12:30:00 +0000",
           "endTime": "2026/11/07 14:50:00 +0000"
         },
@@ -1019,6 +1019,14 @@
             "logo": "",
             "type": 7,
             "api": "42f72c025dd53039244adc13b7e31dad:a7bd941a19f6dd14f3004a623a6ad3a1",
+            "tokenApi": ""
+          },
+          {
+            "title": "SKY SPORT DE - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/qdbhkwig26/out/v1/c3a69dfec0434abea00756cd73e749ff/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "1106fb025da5b31657618344099c6c14:788284538616a73b56214e90196a6e0f",
             "tokenApi": ""
           },
           {
@@ -2093,7 +2101,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/263/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/11/07 12:30:00 +0000",
           "endTime": "2026/11/07 14:50:00 +0000"
         },
@@ -2136,11 +2144,19 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/29/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/11/07 12:30:00 +0000",
           "endTime": "2026/11/07 14:50:00 +0000"
         },
         "channels_data": [
+          {
+            "title": "PARAMOUNT+ - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/mti4pjwnix/out/v1/993cad2eeed7415f913cdc08c5d1e1ee/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "3ab0bd140d441b03a5ecb8a62bf5117f:d55a031a7ad0deeb0460ef6874602c7f",
+            "tokenApi": ""
+          },
           {
             "title": "Live 1",
             "link": "https://live.vivo155.com/live/sd-1-4563676.m3u8?txSecret=2de6c750e649f8dabc89f7985ea924ad&txTime=6AEF2855|Referer=https://player.on8on8.com/",
@@ -2171,11 +2187,19 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/3/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/11/07 12:30:00 +0000",
           "endTime": "2026/11/07 14:50:00 +0000"
         },
         "channels_data": [
+          {
+            "title": "PARAMOUNT+ - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/gwy1zsrxmm/out/v1/5298cdb40c7d4201b527a35d8139a09a/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "edbd40fc65cbd3cab4bc9181599a38d0:e527aa01a172073a5c40680dec5a48b3",
+            "tokenApi": ""
+          },
           {
             "title": "beIN ENGLISH - AQ",
             "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
