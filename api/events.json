@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-08T13:41:22.655731",
+  "last_updated": "2026-11-08T13:51:22.756710",
   "event_count": 70,
   "events": {
     "events": [
@@ -669,25 +669,25 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/unique-tournament/18292/image/dark",
           "eventName": "Cricket",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/11/08 13:45:34 +0000",
           "endTime": "2026/11/08 17:55:38 +0000"
         },
         "channels_data": [
           {
             "title": "WILLOW - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/9ztbf2k2id/out/v1/4ea8d6be295640c590d74f8f6fb9e722/cenc.mpd",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tt7bt6wnxg/out/v1/865dd41533dc426eb8cd944c1454c6e7/cenc.mpd",
             "logo": "",
             "type": 7,
-            "api": "bf29a35e375da99d9ee225515621294e:41c2975121d22fd57ef0d436fa6d5971",
+            "api": "b107afb9c4f0fc911437a899bcccaf7c:56fb9ff0fd62018a100332cd35bdd207",
             "tokenApi": ""
           },
           {
             "title": "WILLOW - ALT",
-            "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/9ztbf2k2id/out/v1/4ea8d6be295640c590d74f8f6fb9e722/cenc.mpd",
+            "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/tt7bt6wnxg/out/v1/865dd41533dc426eb8cd944c1454c6e7/cenc.mpd",
             "logo": "",
             "type": 7,
-            "api": "bf29a35e375da99d9ee225515621294e:41c2975121d22fd57ef0d436fa6d5971",
+            "api": "b107afb9c4f0fc911437a899bcccaf7c:56fb9ff0fd62018a100332cd35bdd207",
             "tokenApi": ""
           },
           {
@@ -950,6 +950,14 @@
         },
         "channels_data": [
           {
+            "title": "PEACOCK - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vkhi8wtlmy/out/v1/fdae499977c04957a358d7be53cdc4f0/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "285eaa3bb641a11c7190877e945ebabd:d253e08b2c3a3b148374814cb01b3bf0",
+            "tokenApi": ""
+          },
+          {
             "title": "beIN ENGLISH - AQ",
             "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
             "logo": "",
@@ -985,11 +993,19 @@
         },
         "channels_data": [
           {
-            "title": "Live 1",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "title": "PARAMOUNT+ - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/9jpgyztduu/out/v1/457d9db334ca46b8a64757fa6954d963/cenc.mpd",
             "logo": "",
-            "type": 0,
-            "api": "",
+            "type": 7,
+            "api": "68a6f73f95fa60c688adfa19a0c99eda:dcb7ec022c9d3daa13f336823a4abd3d",
+            "tokenApi": ""
+          },
+          {
+            "title": "PEACOCK - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/9jpgyztduu/out/v1/457d9db334ca46b8a64757fa6954d963/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "68a6f73f95fa60c688adfa19a0c99eda:dcb7ec022c9d3daa13f336823a4abd3d",
             "tokenApi": ""
           }
         ]
@@ -2491,8 +2507,8 @@
         },
         "channels_data": [
           {
-            "title": "Live 1",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "title": "LOW SERVER ",
+            "link": "http://193.47.62.44/hls/SYYY.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
             "logo": "",
             "type": 0,
             "api": "",
