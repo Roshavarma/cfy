@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-08T13:21:15.869124",
-  "event_count": 72,
+  "last_updated": "2026-11-08T13:31:40.033399",
+  "event_count": 71,
   "events": {
     "events": [
       {
@@ -669,8 +669,8 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/unique-tournament/18292/image/dark",
           "eventName": "Cricket",
           "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/11/08 11:30:34 +0000",
+          "Status": "Upcoming",
+          "startTime": "2026/11/08 13:45:34 +0000",
           "endTime": "2026/11/08 17:55:38 +0000"
         },
         "channels_data": [
@@ -1758,20 +1758,20 @@
         ]
       },
       {
-        "id": 14781,
-        "title": "SC Heerenveen vs Feyenoord",
+        "id": 14782,
+        "title": "FC Twente vs AFC Ajax",
         "image": "",
         "cat": "Football",
         "eventInfo": {
-          "teamA": "SC Heerenveen",
-          "teamB": "Feyenoord",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/2964/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/2959/image",
+          "teamA": "FC Twente",
+          "teamB": "AFC Ajax",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/2955/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/2953/image",
           "eventName": "Football",
           "isHot": "0",
           "Status": "Live",
-          "startTime": "2026/11/08 11:15:00 +0000",
-          "endTime": "2026/11/08 13:35:00 +0000"
+          "startTime": "2026/11/08 13:30:00 +0000",
+          "endTime": "2026/11/08 15:50:00 +0000"
         },
         "channels_data": [
           {
@@ -1784,37 +1784,10 @@
           },
           {
             "title": "LOW SERVER ",
-            "link": "http://193.47.62.44/hls/BKKKAAAAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+            "link": "http://193.47.62.44/hls/Q222AAAAAQQQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
             "logo": "",
             "type": 0,
             "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 14782,
-        "title": "FC Twente vs AFC Ajax",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "FC Twente",
-          "teamB": "AFC Ajax",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/2955/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/2953/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Upcoming",
-          "startTime": "2026/11/08 13:30:00 +0000",
-          "endTime": "2026/11/08 15:50:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "SportDigital Fussball",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-            "logo": "",
-            "type": 7,
-            "api": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
             "tokenApi": ""
           }
         ]
