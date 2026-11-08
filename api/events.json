@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-08T18:21:01.643863",
-  "event_count": 45,
+  "last_updated": "2026-11-08T18:31:15.884672",
+  "event_count": 40,
   "events": {
     "events": [
       {
@@ -634,65 +634,6 @@
         ]
       },
       {
-        "id": 14755,
-        "title": "SC Freiburg vs 1. FC Union Berlin",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "SC Freiburg",
-          "teamB": "1. FC Union Berlin",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/2538/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/2547/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/11/08 16:30:00 +0000",
-          "endTime": "2026/11/08 18:50:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "DAZN ENGLISH - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/7zd8uemujv/out/v1/7cb02f7f84f3457b9124219ae3dcc112/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "c4dd0db0b72637863e1d5c3e2c5bf2cd:7643ae2a8c5319261c513e2887f7350d",
-            "tokenApi": ""
-          },
-          {
-            "title": "PEACOCK ES - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5ebzbf3udt/out/v1/6d939fc4c9124732a031ec455788b8ae/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "eaab90e333773b6ff0790199dda4036b:6ce3fe4260142f675847557382e28a41",
-            "tokenApi": ""
-          },
-          {
-            "title": "DAZN DE - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/co8ff7jxfh/out/v1/3acaab61e726485ca35f8ada51c46555/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "4ef679ef8a265c7c3f45f0f2fa337e88:14441c42a217b3b915ba80c1dd93b975",
-            "tokenApi": ""
-          },
-          {
-            "title": "SporTV BR - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-            "logo": "",
-            "type": 7,
-            "api": "51c0ef23b17297e5c01cd7f36dd0a6ce:8823f713ba6fdb9bbe0a2ad82d309a4b",
-            "tokenApi": ""
-          },
-          {
-            "title": "LOW SERVER ",
-            "link": "http://193.47.62.44/hls/O777AAAAAQQQQQQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
         "id": 14756,
         "title": "TSG Hoffenheim vs FC Schalke 04",
         "image": "",
@@ -704,7 +645,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/2530/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/11/08 18:30:00 +0000",
           "endTime": "2026/11/08 20:50:00 +0000"
         },
@@ -715,6 +656,30 @@
             "logo": "",
             "type": 7,
             "api": "e25d10551883acc40dcb71e47eebd489:892509ea654a668fd71a04f54c30efec",
+            "tokenApi": ""
+          },
+          {
+            "title": "PEACOCK ES - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z2axvo6izi/out/v1/7865fac6859d404c9dac5c5a7c589b1e/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "cb4ba2f6a3667bb086116570ed56a9fd:31f36919eb3705936718c1fa18bf4998",
+            "tokenApi": ""
+          },
+          {
+            "title": "DAZN DE - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/jgsjthpk9s/out/v1/cf2461b87edc43dfa9283591ea2c9357/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "43cc4d82eb9afa82c539228715687b0c:ee8658a2ae68af6e6e490caa29242af3",
+            "tokenApi": ""
+          },
+          {
+            "title": "HD SERVER ",
+            "link": "http://193.47.62.44/hls/CVCVCVQQQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+            "logo": "",
+            "type": 0,
+            "api": "",
             "tokenApi": ""
           }
         ]
@@ -1133,194 +1098,6 @@
             "logo": "",
             "type": 7,
             "api": "82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 14773,
-        "title": "Angers vs OGC Nice",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Angers",
-          "teamB": "OGC Nice",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/1684/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/1661/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/11/08 16:15:00 +0000",
-          "endTime": "2026/11/08 18:35:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "DAZN SPORTS - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/yigatghesv/out/v1/4d33e812c03c4e2999880ff0c49d7632/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "5bb1aaadb36e94b379f6e6e045fc64a8:731ecbfab5d73fa2880b69ee1bda944d",
-            "tokenApi": ""
-          },
-          {
-            "title": "beIN SPORTS - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/widvcbyhyu/out/v1/f2b6e6971f8842418e19cba76875c208/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "6fb0ddc7e384e78dea1868457c21fc7d:88f26e97ed7f41070644f8519fd4d2ae",
-            "tokenApi": ""
-          },
-          {
-            "title": "LOW SERVER ",
-            "link": "http://193.47.62.44/hls/O777AA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 14774,
-        "title": "Stade Brestois vs Olympique Lyonnais",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Stade Brestois",
-          "teamB": "Olympique Lyonnais",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/1715/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/1649/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/11/08 16:15:00 +0000",
-          "endTime": "2026/11/08 18:35:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "DAZN SPORTS - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/2wufinkf4s/out/v1/bf08e7ed62f64e3a99013194722a263b/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "ad1daab78c871461fe1cef91c1fae578:00754db8e34d78f514f44841bf49d4a7",
-            "tokenApi": ""
-          },
-          {
-            "title": "beIN SPORTS - AQ",
-            "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/e3ozww2yny/out/v1/3a16d07c2cc0444bb8ea10d0483d1ced/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-            "logo": "",
-            "type": 7,
-            "api": "74cbe15488783fab07ff8c702fabafcd:bb607803a49c2d6104f845e7886c971c",
-            "tokenApi": ""
-          },
-          {
-            "title": "Live 1",
-            "link": "https://live.vivo155.com/live/hd-en-1-4550925.m3u8?txSecret=d841f5337200672b02a43c57aad38d79&txTime=6AF0B4A2|Referer=https://player.on8on8.com/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "LOW SERVER ",
-            "link": "http://193.47.62.44/hls/O777AAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 14775,
-        "title": "Le Havre vs Lorient",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Le Havre",
-          "teamB": "Lorient",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/1662/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/1656/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/11/08 16:15:00 +0000",
-          "endTime": "2026/11/08 18:35:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "DAZN SPORTS - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/mirynqxkqr/out/v1/39913cbc6d0a4ecab53230efc9c68358/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "c504219cda4cf4b01b7d4361b94ce057:ec3d999f9df5060e7c2e575ea91fbfe6",
-            "tokenApi": ""
-          },
-          {
-            "title": "beIN SPORTS - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/penehwquxc/out/v1/e01e96068c20482280b810b34aa66a6e/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "4b17f5cd91d6b9dde66cf11dac2c7805:ffc6dd5e62c688c5f8e131649df94a2d",
-            "tokenApi": ""
-          },
-          {
-            "title": "LOW SERVER ",
-            "link": "http://193.47.62.44/hls/O777AAAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 14776,
-        "title": "Le Mans vs AS Monaco",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Le Mans",
-          "teamB": "AS Monaco",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/1672/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/1653/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/11/08 16:15:00 +0000",
-          "endTime": "2026/11/08 18:35:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "DAZN SPORTS - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/36bhzcuctb/out/v1/ede8b395b0c8406aab754e2a119b0080/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "6112e236eac4d6fcc05cbbc7fa0db5cd:305845d2010cec3540b6ec67377c002b",
-            "tokenApi": ""
-          },
-          {
-            "title": "beIN SPORTS - AQ",
-            "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/katdnhkzqv/out/v1/2469724fa7754a4da6861d8ba80de958/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-            "logo": "",
-            "type": 7,
-            "api": "27759a440e8ad821b800b3de00cd5851:1b8743adee559f27845f55e8b4d639fe",
-            "tokenApi": ""
-          },
-          {
-            "title": "Live 1",
-            "link": "https://live.vivo155.com/live/hd-en-1-4550927.m3u8?txSecret=5aec4cce155c82c03829de5688dccbea&txTime=6AF0B477|Referer=https://player.on8on8.com/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "LOW SERVER ",
-            "link": "http://193.47.62.44/hls/O777AAAAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-            "logo": "",
-            "type": 0,
-            "api": "",
             "tokenApi": ""
           }
         ]
