@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-08T18:11:03.843393",
+  "last_updated": "2026-11-08T18:21:01.643863",
   "event_count": 45,
   "events": {
     "events": [
@@ -710,11 +710,11 @@
         },
         "channels_data": [
           {
-            "title": "Live 1",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "title": "DAZN ENG - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vuzaaxxem1/out/v1/e94aa80abc75481084c80546b0f77980/cenc.mpd",
             "logo": "",
-            "type": 0,
-            "api": "",
+            "type": 7,
+            "api": "e25d10551883acc40dcb71e47eebd489:892509ea654a668fd71a04f54c30efec",
             "tokenApi": ""
           }
         ]
@@ -1848,6 +1848,14 @@
             "logo": "",
             "type": 7,
             "api": "c8d6f2e45853bf63c8ab5a8847e65848:24337c3810c69c3f4dddf40313dd724c",
+            "tokenApi": ""
+          },
+          {
+            "title": "SKY SPORT DE - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ecaigwgyua/out/v1/2ee814e65dda404693ce51fb41bd53a8/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "6143636ed31683e00c86c4e1db64fcbf:bf6b251177b6b056366150d2ee8e40ad",
             "tokenApi": ""
           },
           {
