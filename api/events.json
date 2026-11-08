@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-08T05:31:34.102945",
-  "event_count": 75,
+  "last_updated": "2026-11-08T05:41:23.528236",
+  "event_count": 74,
   "events": {
     "events": [
       {
@@ -115,8 +115,8 @@
           "eventName": "Motorsport",
           "isHot": "0",
           "Status": "Upcoming",
-          "startTime": "2026/11/08 14:00:47 +0000",
-          "endTime": "2026/11/08 17:55:03 +0000"
+          "startTime": "2026/11/08 16:00:40 +0000",
+          "endTime": "2026/11/08 21:00:43 +0000"
         },
         "channels_data": [
           {
@@ -658,41 +658,6 @@
         ]
       },
       {
-        "id": 14591,
-        "title": "Arkadag FK vs Gol Gohar Sirjan",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Arkadag FK",
-          "teamB": "Gol Gohar Sirjan",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/469420/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/275525/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Finish",
-          "startTime": "2026/11/04 13:45:00 +0000",
-          "endTime": "2026/11/04 16:05:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "HD SERVER",
-            "link": "https://live2.jorvakstreamcache.com/live/channel18.m3u8?|Referer=https://xlz.domainkqt.cc/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "LOW SERVER ",
-            "link": "http://193.47.62.44/hls/HHHHAAQAQQQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
         "id": 14622,
         "title": "Abu Dhabi T10 League",
         "image": "null",
@@ -812,8 +777,40 @@
         },
         "channels_data": [
           {
-            "title": "Live 1",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "title": "WILLOW - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
+            "tokenApi": ""
+          },
+          {
+            "title": "SKY CRICKET - AQ",
+            "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "WILLOW - ALT",
+            "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
+            "tokenApi": ""
+          },
+          {
+            "title": "TAPMAD - AQ",
+            "link": "https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea540a81c2b41b75f/main.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "FANCODE - IN",
+            "link": "https://dai-fancode.pages.dev/mumbai/4250387_english_hls_b7a3c2c35c92425_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/",
             "logo": "",
             "type": 0,
             "api": "",
