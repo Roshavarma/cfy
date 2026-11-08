@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-08T13:51:22.756710",
+  "last_updated": "2026-11-08T14:06:37.098295",
   "event_count": 70,
   "events": {
     "events": [
@@ -793,17 +793,25 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/50/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/11/08 14:00:00 +0000",
           "endTime": "2026/11/08 16:20:00 +0000"
         },
         "channels_data": [
           {
-            "title": "Live 1",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "title": "PEACOCK ENG - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/hctkanzbw5/out/v1/ac0f81a504c94bcb85defaf7717cd292/cenc.mpd",
             "logo": "",
-            "type": 0,
-            "api": "",
+            "type": 7,
+            "api": "adf54925862f35dc2ffbfe0695c10f42:7b8779de614969add43c33532e625d32",
+            "tokenApi": ""
+          },
+          {
+            "title": "FUBO SPORTS - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/qxwd61llso/out/v1/00d2828855a944ffbbdc15232c4157a9/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "cd26f115435d0177c6c5a9864e360b08:2d0c9efb55b5c72a0644fa12a1d52ed1",
             "tokenApi": ""
           }
         ]
@@ -820,11 +828,27 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/44/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/11/08 14:00:00 +0000",
           "endTime": "2026/11/08 16:20:00 +0000"
         },
         "channels_data": [
+          {
+            "title": "PEACOCK ENG - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tzvttna77o/out/v1/aca4a2d65fd24dcbb81e7ad1f14338d2/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "48da485752c758fc5a1be1d3f49fb6ab:12be8cc1e11f76b2e8875eb8c8fb4206",
+            "tokenApi": ""
+          },
+          {
+            "title": "FUBO SPORTS - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bpsbblktxa/out/v1/4da9b7d2b1414cb28afd976da2c3b840/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "af4fd680ddeb823a64c66659e9f52587:677c3938bd5b906c462a80e727a99d41",
+            "tokenApi": ""
+          },
           {
             "title": "SKY SPORT PL - AQ",
             "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/qdbhkwig26/out/v1/c3a69dfec0434abea00756cd73e749ff/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
@@ -847,17 +871,25 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/60/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/11/08 14:00:00 +0000",
           "endTime": "2026/11/08 16:20:00 +0000"
         },
         "channels_data": [
           {
-            "title": "Live 1",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "title": "PEACOCK ENG - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/t0zwjh8duv/out/v1/152ff1e739c94c87aaa4068dd6213fe6/cenc.mpd",
             "logo": "",
-            "type": 0,
-            "api": "",
+            "type": 7,
+            "api": "a744ae1196026646c33e5a96894c81eb:66bf0de18f4f42ebb891bdd301be34ff",
+            "tokenApi": ""
+          },
+          {
+            "title": "FUBO SPORTS - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bpsbblktxa/out/v1/4da9b7d2b1414cb28afd976da2c3b840/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "af4fd680ddeb823a64c66659e9f52587:677c3938bd5b906c462a80e727a99d41",
             "tokenApi": ""
           }
         ]
@@ -874,11 +906,19 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/38/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/11/08 14:00:00 +0000",
           "endTime": "2026/11/08 16:20:00 +0000"
         },
         "channels_data": [
+          {
+            "title": "FUBO SPORTS - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/2m8jgddrr9/out/v1/4379e830995b4993a974c6cd682b8b54/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "f53e95350f79e7cf780e4409ef996399:a5cbb7650616359dbc0de252f254c472",
+            "tokenApi": ""
+          },
           {
             "title": "SKY SPORT MIX - AQ",
             "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ttguqv2dus/out/v1/10e708fa029549e8807c7a35f4740adf/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
@@ -944,11 +984,27 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/2692/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/11/08 14:00:00 +0000",
           "endTime": "2026/11/08 16:20:00 +0000"
         },
         "channels_data": [
+          {
+            "title": "PARAMOUNT+ - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vkhi8wtlmy/out/v1/fdae499977c04957a358d7be53cdc4f0/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "285eaa3bb641a11c7190877e945ebabd:d253e08b2c3a3b148374814cb01b3bf0",
+            "tokenApi": ""
+          },
+          {
+            "title": "FUBO SPORTS - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rmcoljvkzm/out/v1/959c0e797f864fd5a2acfbf924cca5c2/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "48fb7237ec9141e9190472a5480fd77f:cfcb31f3872784c0c76c271295b0bd01",
+            "tokenApi": ""
+          },
           {
             "title": "PEACOCK - AQ",
             "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vkhi8wtlmy/out/v1/fdae499977c04957a358d7be53cdc4f0/cenc.mpd",
@@ -987,7 +1043,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/2686/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/11/08 14:00:00 +0000",
           "endTime": "2026/11/08 16:20:00 +0000"
         },
@@ -998,6 +1054,14 @@
             "logo": "",
             "type": 7,
             "api": "68a6f73f95fa60c688adfa19a0c99eda:dcb7ec022c9d3daa13f336823a4abd3d",
+            "tokenApi": ""
+          },
+          {
+            "title": "FUBO SPORTS - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/zo5nruftvt/out/v1/b59284953fcd4c93a6977856612840ae/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "388f14a59253a3472efa6a23bb38f8fc:c2c86c468ea03b213c7ce500b729db5d",
             "tokenApi": ""
           },
           {
@@ -1411,17 +1475,25 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/1643/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/11/08 14:00:00 +0000",
           "endTime": "2026/11/08 16:20:00 +0000"
         },
         "channels_data": [
           {
-            "title": "Live 1",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "title": "DAZN SPORTS - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/1hlq3jbwjj/out/v1/854ccaa16ba846e2bfe783bd58a9b2b1/cenc.mpd",
             "logo": "",
-            "type": 0,
-            "api": "",
+            "type": 7,
+            "api": "8d88d98b19a395092831e8339f251d72:28b12e8ecf00c3a641869adc452b69bd",
+            "tokenApi": ""
+          },
+          {
+            "title": "beIN SPORTS - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/katdnhkzqv/out/v1/2469724fa7754a4da6861d8ba80de958/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "27759a440e8ad821b800b3de00cd5851:1b8743adee559f27845f55e8b4d639fe",
             "tokenApi": ""
           }
         ]
@@ -2501,7 +2573,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/191564/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/11/08 14:00:00 +0000",
           "endTime": "2026/11/08 16:20:00 +0000"
         },
