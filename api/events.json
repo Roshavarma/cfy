@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-08T05:41:23.528236",
-  "event_count": 74,
+  "last_updated": "2026-11-08T05:51:16.014457",
+  "event_count": 76,
   "events": {
     "events": [
       {
@@ -693,65 +693,6 @@
           {
             "title": "A SPORTS HD",
             "link": "https://live.msnetworks.net/a-sports/master.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 14750,
-        "title": "Sydney Sixers Women vs Sydney Thunder Women",
-        "image": "",
-        "cat": "Cricket",
-        "eventInfo": {
-          "teamA": "Sydney Sixers Women",
-          "teamB": "Sydney Thunder Women",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/274883/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/274889/image",
-          "eventName": "Cricket",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/11/08 02:40:00 +0000",
-          "endTime": "2026/11/08 06:40:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "WILLOW - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fmnpybdb8n/out/v1/86b4f50e91b14fc781b444b06fabb5fa/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "bd35b1d5d52fa3407fe1e6730691c148:21222db5e5b30d5d7c84b06df43703b9",
-            "tokenApi": ""
-          },
-          {
-            "title": "SKY CRICKET - AQ",
-            "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "WILLOW - ALT",
-            "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
-            "tokenApi": ""
-          },
-          {
-            "title": "TAPMAD - AQ",
-            "link": "https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea540a81c2b41b75f/main.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "FANCODE - IN",
-            "link": "https://dai-fancode.pages.dev/mumbai/4250401_english_hls_7eb45b4c9589621_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/",
             "logo": "",
             "type": 0,
             "api": "",
@@ -2549,6 +2490,87 @@
           "Status": "Upcoming",
           "startTime": "2026/11/08 14:00:00 +0000",
           "endTime": "2026/11/08 16:20:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Live 1",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 14820,
+        "title": "Sri Lanka Under-19 vs Afghanistan Under-19",
+        "image": "",
+        "cat": "Cricket",
+        "eventInfo": {
+          "teamA": "Sri Lanka Under-19",
+          "teamB": "Afghanistan Under-19",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/213106/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/213103/image",
+          "eventName": "Cricket",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/11/09 05:00:00 +0000",
+          "endTime": "2026/11/09 09:00:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Live 1",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 14821,
+        "title": "Bangladesh Under-19 vs Malaysia Under-19",
+        "image": "",
+        "cat": "Cricket",
+        "eventInfo": {
+          "teamA": "Bangladesh Under-19",
+          "teamB": "Malaysia Under-19",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/213099/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/505670/image",
+          "eventName": "Cricket",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/11/09 05:00:00 +0000",
+          "endTime": "2026/11/09 09:00:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Live 1",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 14822,
+        "title": "Australia vs England",
+        "image": "",
+        "cat": "Cricket",
+        "eventInfo": {
+          "teamA": "Australia",
+          "teamB": "England",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/187746/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/187757/image",
+          "eventName": "Cricket",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/11/13 03:30:00 +0000",
+          "endTime": "2026/11/13 07:30:00 +0000"
         },
         "channels_data": [
           {
