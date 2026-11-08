@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-08T02:31:36.537792",
+  "last_updated": "2026-11-08T02:41:15.180156",
   "event_count": 83,
   "events": {
     "events": [
@@ -1179,7 +1179,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/274889/image",
           "eventName": "Cricket",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/11/08 02:40:00 +0000",
           "endTime": "2026/11/08 06:40:00 +0000"
         },
@@ -1209,14 +1209,6 @@
             "tokenApi": ""
           },
           {
-            "title": "EUROSPORTS - AQ",
-            "link": "https://wbd.skandha.tv/EuroSport_HD/EuroSport_HD.isml/.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "12ed56d780abcfebcd23aa27e4ac5015:6784567890abcfebcd23aa27e4ac2814",
-            "tokenApi": ""
-          },
-          {
             "title": "TAPMAD - AQ",
             "link": "https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea540a81c2b41b75f/main.m3u8",
             "logo": "",
@@ -1226,7 +1218,7 @@
           },
           {
             "title": "FANCODE - IN",
-            "link": "https://dai-fancode.pages.dev/mumbai/4250387_english_hls_b7a3c2c35c92425_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/",
+            "link": "https://dai-fancode.pages.dev/mumbai/4250401_english_hls_7eb45b4c9589621_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/",
             "logo": "",
             "type": 0,
             "api": "",
