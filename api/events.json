@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-08T16:51:15.734969",
+  "last_updated": "2026-11-08T17:01:35.783627",
   "event_count": 52,
   "events": {
     "events": [
@@ -15,11 +15,27 @@
           "teamBFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6U1hs_95YIb02AiDL1JAgkqMNrA1SkPMUatqqPsO2ZqtNZdmj79TQ71k&s=10",
           "eventName": "Motorsports",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/11/08 16:55:55 +0000",
           "endTime": "2026/11/08 21:00:05 +0000"
         },
         "channels_data": [
+          {
+            "title": "SKY Via APPLE TV",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/2hn5xws7g1/out/v1/86947b9564624bc2a940197ab0b85d0f/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "ad9c5642912f164df77db5be0da7a657:339be92287cc92abc02a707d1ea58414",
+            "tokenApi": ""
+          },
+          {
+            "title": "APPLE TV - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tmrtlajayo/out/v1/1bd51a1a8ad744f8bb0ab5f7f586ff53/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "dd25580d08f76c7dac3c6b016e8c0bde:93ca607d8356449bbb6adf34afdf5853",
+            "tokenApi": ""
+          },
           {
             "title": "FANCODE - AQ",
             "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
@@ -798,17 +814,33 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/2704/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/11/08 17:00:00 +0000",
           "endTime": "2026/11/08 19:20:00 +0000"
         },
         "channels_data": [
+          {
+            "title": "DAZN SPORTS - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/r0amxxkcjy/out/v1/b569e8728c244dec99ab697cb3f39a68/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "08d0a3790791b7458b65a8a59452f872:dea14e0103cf6d39e6dc76aff0c69575",
+            "tokenApi": ""
+          },
           {
             "title": "PARAMOUNT+ - AQ",
             "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/7vxha8ilkr/out/v1/1a5a110bbe1246eeb1af95456bc7e77e/cenc.mpd",
             "logo": "",
             "type": 7,
             "api": "38df13df2c20d1fdac35938a37d0b40e:0e6856b2387be00dc6cda8bbfb6db614",
+            "tokenApi": ""
+          },
+          {
+            "title": "FUBO SPORTS - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/cixkmggzs9/out/v1/312cb5388cd94f7c9c257e86819368e0/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "2bc3529c054daf077bc4b9ad03b2edd9:ce5a5e68383120bf9bcf91c165128fd2",
             "tokenApi": ""
           },
           {
@@ -849,6 +881,22 @@
             "logo": "",
             "type": 7,
             "api": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
+            "tokenApi": ""
+          },
+          {
+            "title": "Live 1",
+            "link": "https://live.vivo155.com/live/hd-en-1-4549074.m3u8?txSecret=26a8a6838e48264895b467198c87c3ad&txTime=6AF0BDF6|Referer=https://player.on8on8.com/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "LOW SERVER ",
+            "link": "http://193.47.62.44/hls/Q344AAAAAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+            "logo": "",
+            "type": 0,
+            "api": "",
             "tokenApi": ""
           }
         ]
