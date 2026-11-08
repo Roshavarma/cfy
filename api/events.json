@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-08T14:21:19.418475",
+  "last_updated": "2026-11-08T14:31:33.357983",
   "event_count": 70,
   "events": {
     "events": [
@@ -712,14 +712,22 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/2681/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/11/08 14:30:00 +0000",
           "endTime": "2026/11/08 16:50:00 +0000"
         },
         "channels_data": [
           {
-            "title": "Live 1",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "title": "DAZN SPORTS - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z4yk0bhh36/out/v1/2a23af58f77247849688edac3ce07022/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "a4f80bd1af6f690babee33ca904a6963:1c266b79d9282476ee6cd7bffa209571",
+            "tokenApi": ""
+          },
+          {
+            "title": "LOW SERVER ",
+            "link": "http://193.47.62.44/hls/G555.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
             "logo": "",
             "type": 0,
             "api": "",
@@ -907,7 +915,56 @@
           "startTime": "2026/11/08 14:00:00 +0000",
           "endTime": "2026/11/08 16:20:00 +0000"
         },
-        "channels_data": []
+        "channels_data": [
+          {
+            "title": "PEACOCK ENG - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/t0zwjh8duv/out/v1/152ff1e739c94c87aaa4068dd6213fe6/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "a744ae1196026646c33e5a96894c81eb:66bf0de18f4f42ebb891bdd301be34ff",
+            "tokenApi": ""
+          },
+          {
+            "title": "FUBO SPORTS - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/mibl1kagx8/out/v1/38d1a6a0ee4e4ff2aa8b760d07cabb9e/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "e09a0900100e5ac77d4adb45a602a86b:7da511a38053d3e150d38f47ac7d8298",
+            "tokenApi": ""
+          },
+          {
+            "title": "SKY SPORT PL - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/yd0huk04ob/out/v1/bc2ed690e3134c4c82a7c51b7174b5ae/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "09d34ac8d64803c1f8b1bddada99d638:752ab3efc7eb3601c8d3c6b5a89ffa39",
+            "tokenApi": ""
+          },
+          {
+            "title": "PEACOCK TV HD",
+            "link": "https://chatgpt.hereisman.net/playlist/59590/load-playlist-multi?|Referer=https://gooz.aapmains.net",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "Live 1",
+            "link": "https://live.vivo155.com/live/hd-en-1-4558713.m3u8?txSecret=87834589eea8861c9dd781bef38db079&txTime=6AF0973D|Referer=https://player.on8on8.com/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "HD SERVER",
+            "link": "https://www.rtmpcdn.com/live/b04f0f05-426c-44c3-a941-67517aa7201d.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
       },
       {
         "id": 14760,
@@ -2325,14 +2382,54 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/4416/image",
           "eventName": "American football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/11/08 14:30:00 +0000",
           "endTime": "2026/11/08 17:30:00 +0000"
         },
         "channels_data": [
           {
+            "title": "PARAMOUNT+ - AQ ",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/jq7xtmrld4/out/v1/95dfdfa733784f1fb1800a060fad4e96/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "42a3946f97dd9304eccf00b769261c8e:947067e7d5f233542225a236a10f422d",
+            "tokenApi": ""
+          },
+          {
+            "title": "SporTV BR - AQ",
+            "link": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/4yiko4it8k/out/v1/b77dd424c745443aba2f3f88d418f797/cenc-sd.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+            "logo": "",
+            "type": 7,
+            "api": "9009b7189e3e68cc09d17811f2beb55a:dd3f96a94c909da48ff40c92aabf8cf3",
+            "tokenApi": ""
+          },
+          {
             "title": "Live 1",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "link": "https://chatgpt.hereisman.net/playlist/59580/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "Live 2",
+            "link": "https://chatgpt.hereisman.net/playlist/59591/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "HD SERVER ",
+            "link": "https://chatgpt.hereisman.net/playlist/59581/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "Live 3",
+            "link": "https://chatgpt.hereisman.net/playlist/59582/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
             "logo": "",
             "type": 0,
             "api": "",
