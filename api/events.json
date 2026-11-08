@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-08T17:31:26.340159",
-  "event_count": 50,
+  "last_updated": "2026-11-08T17:42:35.356242",
+  "event_count": 47,
   "events": {
     "events": [
       {
@@ -122,9 +122,9 @@
           "teamBFlag": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHudrhyphenhyphenOGNuEpCmd8k8vfTaJ7hTqEb6GemloDedieYFrvM5MJz639vioDvQnlHGBhvxsNBHSLg2ICSGot7LWGA2PDZqoc3W_A3Yu002I5JGUeQgTCG_UFhDRPSJr2E1blnBokZvTYkB6B2nJVeeUy6s28sW-XHRZzCW_J6SOGpaoXx0LB-CH-9iTf1ebc/s1600/1000009837.jpg",
           "eventName": "Motorsport",
           "isHot": "0",
-          "Status": "Live",
+          "Status": "Finish",
           "startTime": "2026/11/08 16:00:55 +0000",
-          "endTime": "2026/11/08 21:00:43 +0000"
+          "endTime": "2026/11/08 17:40:42 +0000"
         },
         "channels_data": [
           {
@@ -976,6 +976,22 @@
             "type": 7,
             "api": "127a995c1831eb46c0f3a7189fbf6983:c13e706ffa60998e55d8a5b95b21dca0",
             "tokenApi": ""
+          },
+          {
+            "title": "HD SERVER ",
+            "link": "https://www.rtmpcdn.com/live/c505f0f3-15c2-4a52-bc96-24e0dd5f1b90.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "LOW SERVER ",
+            "link": "http://193.47.62.44/hls/J999AAAQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
           }
         ]
       },
@@ -1026,6 +1042,22 @@
             "logo": "",
             "type": 7,
             "api": "f836853d8eac19446ed9535f5fc568b1:b3bc5ef00602b29abac7e482d3d9fbf3",
+            "tokenApi": ""
+          },
+          {
+            "title": "HD SERVER ",
+            "link": "https://www.rtmpcdn.com/live/ed1c16c7-4860-44ea-b3fa-9f876b52d032.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "LOW SERVER ",
+            "link": "http://193.47.62.44/hls/J999AAAQQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+            "logo": "",
+            "type": 0,
+            "api": "",
             "tokenApi": ""
           }
         ]
@@ -1418,41 +1450,6 @@
         ]
       },
       {
-        "id": 14788,
-        "title": "Santa Clara vs Gil Vicente",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Santa Clara",
-          "teamB": "Gil Vicente",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/3011/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/3010/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/11/08 15:30:00 +0000",
-          "endTime": "2026/11/08 17:50:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "Live 1",
-            "link": "https://live.vivo155.com/live/sd-1-4578246.m3u8?txSecret=23aedc529904ab7509b547cb6374cd81&txTime=6AF0A803|Referer=https://player.on8on8.com/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "LOW SERVER ",
-            "link": "http://193.47.62.44/hls/S666AAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
         "id": 14789,
         "title": "Vitoria SC vs FC Porto",
         "image": "",
@@ -1542,33 +1539,6 @@
         ]
       },
       {
-        "id": 14793,
-        "title": "UD Las Palmas vs CD Eldense",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "UD Las Palmas",
-          "teamB": "CD Eldense",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/6577/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/47321/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/11/08 17:30:00 +0000",
-          "endTime": "2026/11/08 19:50:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "LaLiga Hypermotion ",
-            "link": "https://cache07.zapitv.com/live/eds_c2/HYPERMOTION2/dash_live_ez/HYPERMOTION2.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "5fc8da8b94c447468ffe392157f8c75e:333b934fdde4c1ee87e7f1c5dac4cb8f",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
         "id": 14794,
         "title": "Sporting Gijon vs Real Valladolid",
         "image": "",
@@ -1596,41 +1566,6 @@
           {
             "title": "LOW SERVER ",
             "link": "http://193.47.62.44/hls/S666.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 14797,
-        "title": "Alanyaspor vs Trabzonspor",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Alanyaspor",
-          "teamB": "Trabzonspor",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/6362/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/3051/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/11/08 15:30:00 +0000",
-          "endTime": "2026/11/08 17:50:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "beIN SPORTS - AQ",
-            "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/n7hbpksb18/out/v1/be5403be4a674a7da8b3c81b1fe79692/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-            "logo": "",
-            "type": 7,
-            "api": "4fce30c060b7b0464ab765e24fee5ecc:65d612238736eec3794c7e75a6fd362c",
-            "tokenApi": ""
-          },
-          {
-            "title": "LOW SERVER ",
-            "link": "http://193.47.62.44/hls/K777F.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
             "logo": "",
             "type": 0,
             "api": "",
