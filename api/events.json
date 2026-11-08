@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-08T14:31:33.357983",
-  "event_count": 70,
+  "last_updated": "2026-11-08T14:41:17.429502",
+  "event_count": 66,
   "events": {
     "events": [
       {
@@ -726,6 +726,14 @@
             "tokenApi": ""
           },
           {
+            "title": "HD SERVER ",
+            "link": "https://www.rtmpcdn.com/live/be3d7e2d-95ae-4b01-b745-dfc853dfae96.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
             "title": "LOW SERVER ",
             "link": "http://193.47.62.44/hls/G555.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
             "logo": "",
@@ -863,14 +871,6 @@
             "logo": "",
             "type": 7,
             "api": "af4fd680ddeb823a64c66659e9f52587:677c3938bd5b906c462a80e727a99d41",
-            "tokenApi": ""
-          },
-          {
-            "title": "SKY SPORT PL - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/qdbhkwig26/out/v1/c3a69dfec0434abea00756cd73e749ff/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-            "logo": "",
-            "type": 7,
-            "api": "1106fb025da5b31657618344099c6c14:788284538616a73b56214e90196a6e0f",
             "tokenApi": ""
           },
           {
@@ -1802,111 +1802,6 @@
         ]
       },
       {
-        "id": 14778,
-        "title": "VfL Bochum 1848 vs Karlsruher SC",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "VfL Bochum 1848",
-          "teamB": "Karlsruher SC",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/2542/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/2553/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/11/08 12:30:00 +0000",
-          "endTime": "2026/11/08 14:50:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "SKY BUNDESLIGA - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/pq38ujseug/out/v1/84544ed7c3b04cf08fe395708cfcedc6/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "f38ce843871b3e5aa97b8461a093a424:b51d62eeec9c136513c12ea7ec291f6f",
-            "tokenApi": ""
-          },
-          {
-            "title": "LOW SERVER ",
-            "link": "http://193.47.62.44/hls/YOOO.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 14779,
-        "title": "1. FC Heidenheim vs Hannover 96",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "1. FC Heidenheim",
-          "teamB": "Hannover 96",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/5885/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/2541/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/11/08 12:30:00 +0000",
-          "endTime": "2026/11/08 14:50:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "SKY BUNDESLIGA - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/oi4rnidcwc/out/v1/0e3c984eb7284664919152f18e7915b1/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "42650c79c7a241e79d18488fef3d75da:42c319fd698c3914b7bfbaa38d08e41e",
-            "tokenApi": ""
-          },
-          {
-            "title": "LOW SERVER ",
-            "link": "http://193.47.62.44/hls/YOOOA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 14780,
-        "title": "1. FC Magdeburg vs FC St. Pauli",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "1. FC Magdeburg",
-          "teamB": "FC St. Pauli",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/2591/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/2526/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/11/08 12:30:00 +0000",
-          "endTime": "2026/11/08 14:50:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "SKY BUNDESLIGA - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/w1ad3vckry/out/v1/33ce68a8d21949da84e49f2695e51980/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "5e0ee93e86d783f011561f18ff8f34e6:b570eceee332c7e50f87fca1f51e0966",
-            "tokenApi": ""
-          },
-          {
-            "title": "LOW SERVER ",
-            "link": "http://193.47.62.44/hls/YOOOAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
         "id": 14782,
         "title": "FC Twente vs AFC Ajax",
         "image": "",
@@ -2754,33 +2649,6 @@
           {
             "title": "Live 1",
             "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 14819,
-        "title": "Sri Lanka vs Bhutan",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Sri Lanka",
-          "teamB": "Bhutan",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/23487/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/191564/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/11/08 14:00:00 +0000",
-          "endTime": "2026/11/08 16:20:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "LOW SERVER ",
-            "link": "http://193.47.62.44/hls/SYYY.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
             "logo": "",
             "type": 0,
             "api": "",
