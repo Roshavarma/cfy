@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-08T16:38:57.283380",
-  "event_count": 53,
+  "last_updated": "2026-11-08T16:44:03.334955",
+  "event_count": 52,
   "events": {
     "events": [
       {
@@ -118,7 +118,72 @@
           "startTime": "2026/11/08 16:00:55 +0000",
           "endTime": "2026/11/08 21:00:43 +0000"
         },
-        "channels_data": []
+        "channels_data": [
+          {
+            "title": "TNT SPORTS - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+            "logo": "",
+            "type": 7,
+            "api": "f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b",
+            "tokenApi": ""
+          },
+          {
+            "title": "FANCODE - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca",
+            "tokenApi": ""
+          },
+          {
+            "title": "SKY SPORT MIX - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/oln41tn1gj/out/v1/1247ce6ac92b4ee3be02e7082954348a/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "fa23a7c0d9c82f0c7b113506e202af8c:a883237ef30932b731f71aa59a0805c0",
+            "tokenApi": ""
+          },
+          {
+            "title": "SKY TOP EVENT - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/gjsukewpxp/out/v1/ef14aacf858248839b9867eec5caf563/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+            "logo": "",
+            "type": 7,
+            "api": "368bd4ebe301406897324bc777650411:69d27c2c2b7de927d67aacc973259901",
+            "tokenApi": ""
+          },
+          {
+            "title": "MotoGP - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/wjeweupwyc/out/v1/8197c8e055c94a868623653ac55c10bf/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+            "logo": "",
+            "type": 7,
+            "api": "e03f302ec4dabcccca82cc9f76731ec9:53ea1027d2bf2893a552cf15bc0366de",
+            "tokenApi": ""
+          },
+          {
+            "title": "SPOTV - AQ",
+            "link": "https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed",
+            "tokenApi": ""
+          },
+          {
+            "title": "FANCODE - LQ",
+            "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash-sd/enc/iwpchve3wl/out/v1/946019f85dc64ae99ff9ce64a9727a62/cenc-sd.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "286eb7dc538143790fa9913639531920:e3f5cb08d14d9e9c08438c673819540f",
+            "tokenApi": ""
+          },
+          {
+            "title": "LOW SERVER",
+            "link": "http://193.47.62.44/hls/ziii.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
       },
       {
         "id": 1089,
@@ -533,52 +598,26 @@
           "startTime": "2026/11/08 16:00:40 +0000",
           "endTime": "2026/11/08 17:55:38 +0000"
         },
-        "channels_data": []
-      },
-      {
-        "id": 14754,
-        "title": "1. FC Koln vs Bayer 04 Leverkusen",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "1. FC K\u00f6ln",
-          "teamB": "Bayer 04 Leverkusen",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/2671/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/2681/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/11/08 14:30:00 +0000",
-          "endTime": "2026/11/08 16:50:00 +0000"
-        },
         "channels_data": [
           {
-            "title": "DAZN ENGLISH - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z4yk0bhh36/out/v1/2a23af58f77247849688edac3ce07022/cenc.mpd",
+            "title": "WILLOW - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/siyxr4echv/out/v1/6a15797378764495a7c28e017733f64f/cenc.mpd",
             "logo": "",
             "type": 7,
-            "api": "a4f80bd1af6f690babee33ca904a6963:1c266b79d9282476ee6cd7bffa209571",
+            "api": "195416cacf5f56985edb79d6e04589c3:cedc20717599a61a9142b393bfe146a7",
             "tokenApi": ""
           },
           {
-            "title": "DAZN DE - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wylvflvruk/out/v1/9660b42e566043ab8e6ef14b24a9f181/cenc.mpd",
+            "title": "WILLOW - ALT",
+            "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/siyxr4echv/out/v1/6a15797378764495a7c28e017733f64f/cenc.mpd",
             "logo": "",
             "type": 7,
-            "api": "7edfc1581ef7f5d7d290b99458ff7b4e:c04cf30c7da76c474d111cc599d272ad",
+            "api": "195416cacf5f56985edb79d6e04589c3:cedc20717599a61a9142b393bfe146a7",
             "tokenApi": ""
           },
           {
-            "title": "HD SERVER ",
-            "link": "https://www.rtmpcdn.com/live/be3d7e2d-95ae-4b01-b745-dfc853dfae96.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "LOW SERVER ",
-            "link": "http://193.47.62.44/hls/G555.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+            "title": "A SPORTS HD",
+            "link": "https://live.msnetworks.net/a-sports/master.m3u8",
             "logo": "",
             "type": 0,
             "api": "",
@@ -609,6 +648,14 @@
             "logo": "",
             "type": 7,
             "api": "c4dd0db0b72637863e1d5c3e2c5bf2cd:7643ae2a8c5319261c513e2887f7350d",
+            "tokenApi": ""
+          },
+          {
+            "title": "PEACOCK ES - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5ebzbf3udt/out/v1/6d939fc4c9124732a031ec455788b8ae/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "eaab90e333773b6ff0790199dda4036b:6ce3fe4260142f675847557382e28a41",
             "tokenApi": ""
           },
           {
@@ -765,11 +812,27 @@
         },
         "channels_data": [
           {
+            "title": "PARAMOUNT+ - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/7vxha8ilkr/out/v1/1a5a110bbe1246eeb1af95456bc7e77e/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "38df13df2c20d1fdac35938a37d0b40e:0e6856b2387be00dc6cda8bbfb6db614",
+            "tokenApi": ""
+          },
+          {
             "title": "TNT SPORTS - AQ",
             "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
             "logo": "",
             "type": 7,
             "api": "fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408",
+            "tokenApi": ""
+          },
+          {
+            "title": "PEACOCK - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/7vxha8ilkr/out/v1/1a5a110bbe1246eeb1af95456bc7e77e/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "38df13df2c20d1fdac35938a37d0b40e:0e6856b2387be00dc6cda8bbfb6db614",
             "tokenApi": ""
           },
           {
