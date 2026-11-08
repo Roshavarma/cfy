@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-08T02:21:35.827166",
-  "event_count": 89,
+  "last_updated": "2026-11-08T02:31:36.537792",
+  "event_count": 83,
   "events": {
     "events": [
       {
@@ -1185,8 +1185,48 @@
         },
         "channels_data": [
           {
-            "title": "Live 1",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "title": "WILLOW - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
+            "tokenApi": ""
+          },
+          {
+            "title": "SKY CRICKET - AQ",
+            "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "WILLOW - ALT",
+            "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
+            "tokenApi": ""
+          },
+          {
+            "title": "EUROSPORTS - AQ",
+            "link": "https://wbd.skandha.tv/EuroSport_HD/EuroSport_HD.isml/.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "12ed56d780abcfebcd23aa27e4ac5015:6784567890abcfebcd23aa27e4ac2814",
+            "tokenApi": ""
+          },
+          {
+            "title": "TAPMAD - AQ",
+            "link": "https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea540a81c2b41b75f/main.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "FANCODE - IN",
+            "link": "https://dai-fancode.pages.dev/mumbai/4250387_english_hls_b7a3c2c35c92425_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/",
             "logo": "",
             "type": 0,
             "api": "",
@@ -2513,168 +2553,6 @@
             "logo": "",
             "type": 7,
             "api": "a45cb8acf350bdb0c35922eb5af8de6d:f2df42245409b3a47911be8b1c3d1996",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 14800,
-        "title": "Atlanta Hawks vs Brooklyn Nets",
-        "image": "",
-        "cat": "Basketball",
-        "eventInfo": {
-          "teamA": "Atlanta Hawks",
-          "teamB": "Brooklyn Nets",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/3423/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/3436/image",
-          "eventName": "Basketball",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/11/08 00:30:00 +0000",
-          "endTime": "2026/11/08 03:00:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "Live 1",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 14801,
-        "title": "Cleveland Cavaliers vs New York Knicks",
-        "image": "",
-        "cat": "Basketball",
-        "eventInfo": {
-          "teamA": "Cleveland Cavaliers",
-          "teamB": "New York Knicks",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/3432/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/3421/image",
-          "eventName": "Basketball",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/11/08 01:00:00 +0000",
-          "endTime": "2026/11/08 03:30:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "Live 1",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 14802,
-        "title": "Oklahoma City Thunder vs Washington Wizards",
-        "image": "",
-        "cat": "Basketball",
-        "eventInfo": {
-          "teamA": "Oklahoma City Thunder",
-          "teamB": "Washington Wizards",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/3418/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/3431/image",
-          "eventName": "Basketball",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/11/08 01:00:00 +0000",
-          "endTime": "2026/11/08 03:30:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "Live 1",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 14803,
-        "title": "Golden State Warriors vs Orlando Magic",
-        "image": "",
-        "cat": "Basketball",
-        "eventInfo": {
-          "teamA": "Golden State Warriors",
-          "teamB": "Orlando Magic",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/3428/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/3437/image",
-          "eventName": "Basketball",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/11/08 01:30:00 +0000",
-          "endTime": "2026/11/08 04:00:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "Live 1",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 14804,
-        "title": "Phoenix Suns vs Houston Rockets",
-        "image": "",
-        "cat": "Basketball",
-        "eventInfo": {
-          "teamA": "Phoenix Suns",
-          "teamB": "Houston Rockets",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/3416/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/3412/image",
-          "eventName": "Basketball",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/11/08 02:00:00 +0000",
-          "endTime": "2026/11/08 04:30:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "Live 1",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 14805,
-        "title": "Portland Trail Blazers vs San Antonio Spurs",
-        "image": "",
-        "cat": "Basketball",
-        "eventInfo": {
-          "teamA": "Portland Trail Blazers",
-          "teamB": "San Antonio Spurs",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/3414/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/3429/image",
-          "eventName": "Basketball",
-          "isHot": "0",
-          "Status": "Upcoming",
-          "startTime": "2026/11/08 03:00:00 +0000",
-          "endTime": "2026/11/08 05:30:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "Live 1",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
             "tokenApi": ""
           }
         ]
