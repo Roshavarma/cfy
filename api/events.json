@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-09T07:41:38.199047",
-  "event_count": 38,
+  "last_updated": "2026-11-09T07:51:13.516130",
+  "event_count": 43,
   "events": {
     "events": [
       {
@@ -1617,6 +1617,141 @@
           "Status": "Upcoming",
           "startTime": "2026/11/10 01:15:00 +0000",
           "endTime": "2026/11/10 04:15:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Live 1",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 14847,
+        "title": "Hobart Hurricanes Women vs Adelaide Strikers Women",
+        "image": "",
+        "cat": "Cricket",
+        "eventInfo": {
+          "teamA": "Hobart Hurricanes Women",
+          "teamB": "Adelaide Strikers Women",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/274885/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/274888/image",
+          "eventName": "Cricket",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/11/10 08:10:00 +0000",
+          "endTime": "2026/11/10 12:10:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Live 1",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 14848,
+        "title": "Perth Scorchers Women vs Sydney Thunder Women",
+        "image": "",
+        "cat": "Cricket",
+        "eventInfo": {
+          "teamA": "Perth Scorchers Women",
+          "teamB": "Sydney Thunder Women",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/274890/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/274889/image",
+          "eventName": "Cricket",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/11/11 08:10:00 +0000",
+          "endTime": "2026/11/11 12:10:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Live 1",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 14849,
+        "title": "India Under-19 vs United Arab Emirates Under-19",
+        "image": "",
+        "cat": "Cricket",
+        "eventInfo": {
+          "teamA": "India Under-19",
+          "teamB": "United Arab Emirates Under-19",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/213112/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/300266/image",
+          "eventName": "Cricket",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/11/10 05:00:00 +0000",
+          "endTime": "2026/11/10 13:30:57 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Live 1",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 14850,
+        "title": "Pakistan Under-19 vs Nepal Under-19",
+        "image": "",
+        "cat": "Cricket",
+        "eventInfo": {
+          "teamA": "Pakistan Under-19",
+          "teamB": "Nepal Under-19",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/213104/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/213113/image",
+          "eventName": "Cricket",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/11/10 05:00:00 +0000",
+          "endTime": "2026/11/10 13:30:34 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Live 1",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 14851,
+        "title": "South Africa vs Bangladesh",
+        "image": "",
+        "cat": "Cricket",
+        "eventInfo": {
+          "teamA": "South Africa",
+          "teamB": "Bangladesh",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/187747/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/187744/image",
+          "eventName": "Cricket",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/11/15 08:00:00 +0000",
+          "endTime": "2026/11/15 16:00:43 +0000"
         },
         "channels_data": [
           {
