@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-09T04:41:05.158961",
-  "event_count": 17,
+  "last_updated": "2026-11-09T04:50:51.196494",
+  "event_count": 16,
   "events": {
     "events": [
       {
@@ -656,11 +656,19 @@
         },
         "channels_data": [
           {
-            "title": "Live 1",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "title": "WILLOW - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/6gtll9ffbu/out/v1/7519ba45d0cf43b09f4cfd42e76fc50c/cenc.mpd",
             "logo": "",
-            "type": 0,
-            "api": "",
+            "type": 7,
+            "api": "71de63b5c5236b41d3289458a0d3612e:91e5a59da86b054fef6a06ab6da82935",
+            "tokenApi": ""
+          },
+          {
+            "title": "WILLOW - ALT",
+            "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/6gtll9ffbu/out/v1/7519ba45d0cf43b09f4cfd42e76fc50c/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "71de63b5c5236b41d3289458a0d3612e:91e5a59da86b054fef6a06ab6da82935",
             "tokenApi": ""
           }
         ]
@@ -709,49 +717,6 @@
         ]
       },
       {
-        "id": 14818,
-        "title": "Chicago Bears vs Tampa Bay Buccaneers",
-        "image": "",
-        "cat": "American football",
-        "eventInfo": {
-          "teamA": "Chicago Bears",
-          "teamB": "Tampa Bay Buccaneers",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/4391/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/4388/image",
-          "eventName": "American football",
-          "isHot": "0",
-          "Status": "Finish",
-          "startTime": "2026/11/09 01:20:00 +0000",
-          "endTime": "2026/11/09 04:20:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "TSN SPORTS - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-            "logo": "",
-            "type": 7,
-            "api": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d",
-            "tokenApi": ""
-          },
-          {
-            "title": "TSN SPORTS 3 - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/lsibpqruq1/out/v1/748887d614a84913ba8bcdf3c82823e6/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-            "logo": "",
-            "type": 7,
-            "api": "d3250252765347a0c2603c6cb4869f8c:0c19319460da7e9ed816db46ce839b37",
-            "tokenApi": ""
-          },
-          {
-            "title": "SporTV BR - AQ",
-            "link": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/4yiko4it8k/out/v1/b77dd424c745443aba2f3f88d418f797/cenc-sd.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-            "logo": "",
-            "type": 7,
-            "api": "9009b7189e3e68cc09d17811f2beb55a:dd3f96a94c909da48ff40c92aabf8cf3",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
         "id": 14820,
         "title": "Sri Lanka Under-19 vs Afghanistan Under-19",
         "image": "",
@@ -769,8 +734,32 @@
         },
         "channels_data": [
           {
-            "title": "Live 1",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "title": "WILLOW - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/oeuezuu9ni/out/v1/691776d1daca435596877bab1ae167e3/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "94c450ba03f839dd6175a412dfefde4c:4a374f703bfce7300320f01e4791f432",
+            "tokenApi": ""
+          },
+          {
+            "title": "SonyLiv PRIME - AQ",
+            "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ybvks9dssu/out/v1/bfadec4c32a1431ba4155ad869de2b2a/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "5cd681d10936d933856b49b576c4b625:7bda25b95f83caf6ee993441b484ace5",
+            "tokenApi": ""
+          },
+          {
+            "title": "WILLOW - ALT",
+            "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/oeuezuu9ni/out/v1/691776d1daca435596877bab1ae167e3/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "94c450ba03f839dd6175a412dfefde4c:4a374f703bfce7300320f01e4791f432",
+            "tokenApi": ""
+          },
+          {
+            "title": "SonyLiv",
+            "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2120302/Criclive0911/ENG/std_lrh-800300010.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=ffb60155174015ded1320c80619f6bb3-1794198603263",
             "logo": "",
             "type": 0,
             "api": "",
@@ -796,8 +785,32 @@
         },
         "channels_data": [
           {
-            "title": "Live 1",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "title": "WILLOW - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/o4trsdzewu/out/v1/7aea1afda5854baaba3ddeb967f79fb6/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "73de12852269196bb475042be070e659:2d30fe5b6f743afc0e6b0babb86ac70d",
+            "tokenApi": ""
+          },
+          {
+            "title": "SonyLiv PRIME - AQ",
+            "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ybvks9dssu/out/v1/bfadec4c32a1431ba4155ad869de2b2a/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "5cd681d10936d933856b49b576c4b625:7bda25b95f83caf6ee993441b484ace5",
+            "tokenApi": ""
+          },
+          {
+            "title": "WILLOW - ALT",
+            "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/o4trsdzewu/out/v1/7aea1afda5854baaba3ddeb967f79fb6/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "73de12852269196bb475042be070e659:2d30fe5b6f743afc0e6b0babb86ac70d",
+            "tokenApi": ""
+          },
+          {
+            "title": "SonyLiv",
+            "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2120301/Criclive0911/ENG/std_lrh-800300010.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=ffb60155174015ded1320c80619f6bb3-1794198603263",
             "logo": "",
             "type": 0,
             "api": "",
