@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-09T06:11:25.431830",
-  "event_count": 16,
+  "last_updated": "2026-11-09T06:21:44.067447",
+  "event_count": 37,
   "events": {
     "events": [
       {
@@ -943,6 +943,645 @@
           "Status": "Upcoming",
           "startTime": "2026/11/09 19:30:00 +0000",
           "endTime": "2026/11/09 21:50:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Live 1",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 14825,
+        "title": "Bangladesh vs Sri Lanka",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Bangladesh",
+          "teamB": "Sri Lanka",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/6080/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/23487/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/11/11 14:00:00 +0000",
+          "endTime": "2026/11/11 16:20:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Live 1",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 14826,
+        "title": "India vs Maldives",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "India",
+          "teamB": "Maldives",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/4828/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/6911/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/11/11 09:30:00 +0000",
+          "endTime": "2026/11/11 11:50:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Live 1",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 14827,
+        "title": "Vietnam vs Chinese Taipei",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Vietnam",
+          "teamB": "Chinese Taipei",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/7050/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/5937/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/11/11 12:00:00 +0000",
+          "endTime": "2026/11/11 14:20:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Live 1",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 14828,
+        "title": "New Zealand vs India",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "New Zealand",
+          "teamB": "India",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/4784/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/4828/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/11/12 06:00:00 +0000",
+          "endTime": "2026/11/12 08:20:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "PRIME ENG - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/cqbd0spknz/out/v1/71f66b096687482b8139a87814657aee/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+            "logo": "",
+            "type": 7,
+            "api": "d6fa7afe010c5fd6a05338599da7158f:865584ea64ec125cd6524ab3fb7d0e80",
+            "tokenApi": ""
+          },
+          {
+            "title": "WILLOW - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/1xyi7lfzjb/out/v1/c2421551360249a1a4ea2ea8c8a7c1ad/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+            "logo": "",
+            "type": 7,
+            "api": "d1be89e5a60d67f753be9b35a803c8b9:f8e35aafae8c3f3dd92dac7be4642a8b",
+            "tokenApi": ""
+          },
+          {
+            "title": "PRIME HINDI - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/kuptqxvclu/out/v1/5f434a56da684ce58ef04a955faeb1d7/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+            "logo": "",
+            "type": 7,
+            "api": "8e3eef73bb953c9da96600b47e2190d1:f1dbf72267c0bb24aa5fa2ab61987df8",
+            "tokenApi": ""
+          },
+          {
+            "title": "TNT SPORTS - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+            "logo": "",
+            "type": 7,
+            "api": "fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408",
+            "tokenApi": ""
+          },
+          {
+            "title": "WILLOW - ALT",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/iukkxk78gp/out/v1/4f9f877fe4ff45e3b19e08b4eeee2f42/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "5718f40a4901526a597012cc242b4c4a:6d47e18a26287fa2a4e641901f07e50f",
+            "tokenApi": ""
+          },
+          {
+            "title": "SonyLiv - English",
+            "link": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/Cricodi_0611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794059013~acl=/*~id=83811792052594563525528527295500~hmac=a6aca4506c1cb9a93f7b7b9e7333350ea129bee5f06cb50552b49b219a94c839|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "SonyLiv - Hindi",
+            "link": "https://liveakmt-p-md.slivcdn.com/hls/live/2119921/Cricodi_0611/HIN/std_lrh-800300010.m3u8?hdnea=exp=1794059013~acl=/*~id=83811792052594563525528527295500~hmac=a6aca4506c1cb9a93f7b7b9e7333350ea129bee5f06cb50552b49b219a94c839|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "SonyLiv - TEL",
+            "link": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/Cricodi_0611/TEL/std_lrh-800300010.m3u8?hdnea=exp=1794059013~acl=/*~id=83811792052594563525528527295500~hmac=a6aca4506c1cb9a93f7b7b9e7333350ea129bee5f06cb50552b49b219a94c839|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "SonyLiv - TAM",
+            "link": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/Cricodi_0611/TAM/std_lrh-800300010.m3u8?hdnea=exp=1794059013~acl=/*~id=83811792052594563525528527295500~hmac=a6aca4506c1cb9a93f7b7b9e7333350ea129bee5f06cb50552b49b219a94c839|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "SonyLiv - KAN",
+            "link": "https://liveakmt-p-md.slivcdn.com/hls/live/2119782/Cricodi_0611/KAN/std_lrh-800300010.m3u8?hdnea=exp=1794059013~acl=/*~id=83811792052594563525528527295500~hmac=a6aca4506c1cb9a93f7b7b9e7333350ea129bee5f06cb50552b49b219a94c839|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:150.0) Gecko/20100101 Firefox/150.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 14829,
+        "title": "Uzbekistan vs Russia",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Uzbekistan",
+          "teamB": "Russia",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/4723/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/4694/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/11/12 15:00:00 +0000",
+          "endTime": "2026/11/12 17:20:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Live 1",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 14830,
+        "title": "Lithuania vs Suriname",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Lithuania",
+          "teamB": "Suriname",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/4776/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/21822/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/11/12 17:00:00 +0000",
+          "endTime": "2026/11/12 19:20:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Live 1",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 14831,
+        "title": "Malta vs Eswatini",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Malta",
+          "teamB": "Eswatini",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/4483/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/4733/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/11/12 17:30:00 +0000",
+          "endTime": "2026/11/12 19:50:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Live 1",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 14832,
+        "title": "Ghana vs Somalia",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Ghana",
+          "teamB": "Somalia",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/4764/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/23472/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/11/12 15:00:00 +0000",
+          "endTime": "2026/11/12 17:20:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Live 1",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 14833,
+        "title": "DR Congo vs Sierra Leone",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "DR Congo",
+          "teamB": "Sierra Leone",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/4823/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/4737/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/11/12 16:00:00 +0000",
+          "endTime": "2026/11/12 18:20:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Live 1",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 14834,
+        "title": "Madagascar vs Guinea-Bissau",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Madagascar",
+          "teamB": "Guinea-Bissau",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/8035/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/23478/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/11/12 16:00:00 +0000",
+          "endTime": "2026/11/12 18:20:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Live 1",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 14835,
+        "title": "Guinea vs Eritrea",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Guinea",
+          "teamB": "Eritrea",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/4826/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/8041/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/11/12 16:00:00 +0000",
+          "endTime": "2026/11/12 18:20:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Live 1",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 14836,
+        "title": "Turkiye vs Belgium",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "T\u00fcrkiye",
+          "teamB": "Belgium",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/4700/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/4717/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/11/12 17:00:00 +0000",
+          "endTime": "2026/11/12 19:20:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Live 1",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 14837,
+        "title": "Czechia vs Spain",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Czechia",
+          "teamB": "Spain",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/4714/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/4698/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/11/12 19:45:00 +0000",
+          "endTime": "2026/11/12 22:05:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Live 1",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 14838,
+        "title": "England vs Croatia",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "England",
+          "teamB": "Croatia",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/4713/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/4715/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/11/12 19:45:00 +0000",
+          "endTime": "2026/11/12 22:05:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Live 1",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 14839,
+        "title": "Italy vs France",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Italy",
+          "teamB": "France",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/4707/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/4481/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/11/12 19:45:00 +0000",
+          "endTime": "2026/11/12 22:05:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Live 1",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 14840,
+        "title": "Armenia vs Cyprus",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Armenia",
+          "teamB": "Cyprus",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/4740/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/4482/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/11/12 17:00:00 +0000",
+          "endTime": "2026/11/12 19:20:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Live 1",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 14841,
+        "title": "Albania vs Finland",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Albania",
+          "teamB": "Finland",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/4690/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/4712/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/11/12 19:45:00 +0000",
+          "endTime": "2026/11/12 22:05:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Live 1",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 14842,
+        "title": "San Marino vs Belarus",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "San Marino",
+          "teamB": "Belarus",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/4833/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/4743/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/11/12 19:45:00 +0000",
+          "endTime": "2026/11/12 22:05:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Live 1",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 14843,
+        "title": "Montenegro vs Latvia",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Montenegro",
+          "teamB": "Latvia",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/7139/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/4706/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/11/12 19:45:00 +0000",
+          "endTime": "2026/11/12 22:05:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Live 1",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 14844,
+        "title": "Japan vs Brazil",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Japan",
+          "teamB": "Brazil",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/4770/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/4748/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/11/14 10:15:00 +0000",
+          "endTime": "2026/11/14 12:35:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Live 1",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 14845,
+        "title": "Argentina vs Uruguay",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Argentina",
+          "teamB": "Uruguay",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/4819/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/4725/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/11/13 23:00:00 +0000",
+          "endTime": "2026/11/14 01:20:00 +0000"
         },
         "channels_data": [
           {
