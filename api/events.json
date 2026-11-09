@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-09T13:31:25.155130",
+  "last_updated": "2026-11-09T13:41:00.352819",
   "event_count": 40,
   "events": {
     "events": [
@@ -665,18 +665,34 @@
         "channels_data": [
           {
             "title": "WILLOW - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/siyxr4echv/out/v1/6a15797378764495a7c28e017733f64f/cenc.mpd",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ymnsbghnwg/out/v1/9ee55e82c17947c39d0c37c70257beab/cenc.mpd",
             "logo": "",
             "type": 7,
-            "api": "195416cacf5f56985edb79d6e04589c3:cedc20717599a61a9142b393bfe146a7",
+            "api": "2fc13592451a4ca8b509946c6f908829:eee1b57fd228c32939c764657b04ab65",
+            "tokenApi": ""
+          },
+          {
+            "title": "PREMIER SPORTS - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+            "logo": "",
+            "type": 7,
+            "api": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19",
             "tokenApi": ""
           },
           {
             "title": "WILLOW - ALT",
-            "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/siyxr4echv/out/v1/6a15797378764495a7c28e017733f64f/cenc.mpd",
+            "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ymnsbghnwg/out/v1/9ee55e82c17947c39d0c37c70257beab/cenc.mpd",
             "logo": "",
             "type": 7,
-            "api": "195416cacf5f56985edb79d6e04589c3:cedc20717599a61a9142b393bfe146a7",
+            "api": "2fc13592451a4ca8b509946c6f908829:eee1b57fd228c32939c764657b04ab65",
+            "tokenApi": ""
+          },
+          {
+            "title": "MYCO LIVE HD",
+            "link": "https://ml-pull-rtmp-pk1.myco.io/SRT/hls/index.m3u8|referer=https://myco.io/",
+            "logo": "",
+            "type": 0,
+            "api": "",
             "tokenApi": ""
           },
           {
