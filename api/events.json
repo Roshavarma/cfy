@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-09T11:41:04.840337",
-  "event_count": 43,
+  "last_updated": "2026-11-09T11:50:59.653325",
+  "event_count": 40,
   "events": {
     "events": [
       {
@@ -529,81 +529,6 @@
         ]
       },
       {
-        "id": 14074,
-        "title": "Bangladesh vs West Indies",
-        "image": "",
-        "cat": "Cricket",
-        "eventInfo": {
-          "teamA": "Bangladesh",
-          "teamB": "West Indies",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/187744/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/187760/image",
-          "eventName": "Cricket",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/11/09 03:30:02 +0000",
-          "endTime": "2026/11/09 12:00:10 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "FANCODE - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-            "logo": "",
-            "type": 7,
-            "api": "1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835",
-            "tokenApi": ""
-          },
-          {
-            "title": "TAPMAD - AQ",
-            "link": "https://multiregion-asia-cdn.tapmad.com/v1/01a14abbcff31ea540a81c2b41b760/01a14abc06421567ee931e109fa577/main.m3u8?|Referer=https://tapmad.com/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "T SPORTS HD",
-            "link": "https://playztv-apps.pages.dev/ptv-sports/index.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "FANCODE - LQ",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/eayjamsonn/out/v1/6c25cddab58043a6ace0ac64d97983f0/cenc-sd.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "5318e462b9e0677487cb87837f0bbdb1:4fa0fb973b95738306005f2e8591bf8e",
-            "tokenApi": ""
-          },
-          {
-            "title": "TAPMAD HD",
-            "link": "https://tencent-cdn.tapmad.com/v1/01a14abbcff31ea540a81c2b41b760/01a14abc06421567ee931e109fa577/main.m3u8?|Referer=https://tapmad.com/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "T SPORTS - LQ",
-            "link": "https://tvsen5.aynaott.com/TnMn5kZz8aLmjklkk/index.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "FANCODE - IN",
-            "link": "https://dai-fancode.pages.dev/mumbai/4250527_english_hls_370c69458446842_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
         "id": 14261,
         "title": "NPL Nepal Premier League",
         "image": "",
@@ -666,9 +591,9 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/187756/image",
           "eventName": "Cricket",
           "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/11/09 05:00:00 +0000",
-          "endTime": "2026/11/09 13:00:04 +0000"
+          "Status": "Upcoming",
+          "startTime": "2026/11/10 04:30:05 +0000",
+          "endTime": "2026/11/10 13:00:11 +0000"
         },
         "channels_data": [
           {
@@ -765,116 +690,6 @@
           {
             "title": "A SPORTS HD",
             "link": "https://live.msnetworks.net/a-sports/master.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 14820,
-        "title": "Sri Lanka Under-19 vs Afghanistan Under-19",
-        "image": "",
-        "cat": "Cricket",
-        "eventInfo": {
-          "teamA": "Sri Lanka Under-19",
-          "teamB": "Afghanistan Under-19",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/213106/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/213103/image",
-          "eventName": "Cricket",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/11/09 05:00:00 +0000",
-          "endTime": "2026/11/09 13:30:40 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "WILLOW - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/oeuezuu9ni/out/v1/691776d1daca435596877bab1ae167e3/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "94c450ba03f839dd6175a412dfefde4c:4a374f703bfce7300320f01e4791f432",
-            "tokenApi": ""
-          },
-          {
-            "title": "SonyLiv PRIME - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lmd0oo0ics/out/v1/a58b8300d49c4d28b80c38c6a1de142d/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "ef8ec3d7781779ed00ee749237c093c4:f6dd88b99050c805e2e84e5005169300",
-            "tokenApi": ""
-          },
-          {
-            "title": "WILLOW - ALT",
-            "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/oeuezuu9ni/out/v1/691776d1daca435596877bab1ae167e3/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "94c450ba03f839dd6175a412dfefde4c:4a374f703bfce7300320f01e4791f432",
-            "tokenApi": ""
-          },
-          {
-            "title": "TEN SPORTS HD",
-            "link": "https://live.msnetworks.net/ten-sports/master.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "SonyLiv",
-            "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2120302/Criclive0911/ENG/std_lrh-800300010.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=ffb60155174015ded1320c80619f6bb3-1794198603263",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 14821,
-        "title": "Bangladesh Under-19 vs Malaysia Under-19",
-        "image": "",
-        "cat": "Cricket",
-        "eventInfo": {
-          "teamA": "Bangladesh Under-19",
-          "teamB": "Malaysia Under-19",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/213099/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/505670/image",
-          "eventName": "Cricket",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/11/09 05:00:00 +0000",
-          "endTime": "2026/11/09 13:30:20 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "WILLOW - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/o4trsdzewu/out/v1/7aea1afda5854baaba3ddeb967f79fb6/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "73de12852269196bb475042be070e659:2d30fe5b6f743afc0e6b0babb86ac70d",
-            "tokenApi": ""
-          },
-          {
-            "title": "SonyLiv PRIME - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/mipdvyxmgk/out/v1/5b1fe1ff59024887a998945d1fcef329/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "95903984c253e3fd47b112b72166caea:1283b49097f2481707da62f95b1d02ca",
-            "tokenApi": ""
-          },
-          {
-            "title": "WILLOW - ALT",
-            "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/o4trsdzewu/out/v1/7aea1afda5854baaba3ddeb967f79fb6/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "73de12852269196bb475042be070e659:2d30fe5b6f743afc0e6b0babb86ac70d",
-            "tokenApi": ""
-          },
-          {
-            "title": "SonyLiv",
-            "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2120301/Criclive0911/ENG/std_lrh-800300010.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=ffb60155174015ded1320c80619f6bb3-1794198603263",
             "logo": "",
             "type": 0,
             "api": "",
