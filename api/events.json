@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-10T06:11:05.097918",
-  "event_count": 38,
+  "last_updated": "2026-11-10T06:21:01.690402",
+  "event_count": 37,
   "events": {
     "events": [
       {
@@ -264,9 +264,9 @@
           "teamBFlag": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiFW9zq6aPTeuXAbR_LN5vEH39CQlgUwbf9htaAx9-D4oupUZ-ocumYl3T_Kkp6Crzq1rUzGf83Ps4jnJzkLD6XlNh1CW9WjsgdhneuImqgaPDw7UekEqax_YdnYynNmyfmWTxVZ599JunK1yoA5ErRmJBe0fCos9fHoNwIYmOAwgenJizk5e0nhHHPnkM/s1600/20250317_175451.jpg",
           "eventName": "WWE",
           "isHot": "0",
-          "Status": "Finish",
-          "startTime": "2026/11/10 00:00:27 +0000",
-          "endTime": "2026/11/10 03:00:32 +0000"
+          "Status": "Upcoming",
+          "startTime": "2026/11/17 00:00:15 +0000",
+          "endTime": "2026/11/17 03:00:20 +0000"
         },
         "channels_data": [
           {
@@ -1356,73 +1356,6 @@
           {
             "title": "Live 1",
             "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 14846,
-        "title": "Minnesota Vikings vs Buffalo Bills",
-        "image": "",
-        "cat": "American football",
-        "eventInfo": {
-          "teamA": "Minnesota Vikings",
-          "teamB": "Buffalo Bills",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/4423/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/4414/image",
-          "eventName": "American football",
-          "isHot": "0",
-          "Status": "Finish",
-          "startTime": "2026/11/10 01:15:00 +0000",
-          "endTime": "2026/11/10 04:15:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "TSN SPORTS - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-            "logo": "",
-            "type": 7,
-            "api": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d",
-            "tokenApi": ""
-          },
-          {
-            "title": "SKY TOP EVENT - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/gjsukewpxp/out/v1/ef14aacf858248839b9867eec5caf563/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-            "logo": "",
-            "type": 7,
-            "api": "368bd4ebe301406897324bc777650411:69d27c2c2b7de927d67aacc973259901",
-            "tokenApi": ""
-          },
-          {
-            "title": "TSN SPORTS 3 - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/lsibpqruq1/out/v1/748887d614a84913ba8bcdf3c82823e6/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-            "logo": "",
-            "type": 7,
-            "api": "d3250252765347a0c2603c6cb4869f8c:0c19319460da7e9ed816db46ce839b37",
-            "tokenApi": ""
-          },
-          {
-            "title": "Live 1",
-            "link": "https://chatgpt.hereisman.net/playlist/59713/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "Live 2",
-            "link": "https://chatgpt.hereisman.net/playlist/59718/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "HD SERVER ",
-            "link": "https://chatgpt.hereisman.net/playlist/59716/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net",
             "logo": "",
             "type": 0,
             "api": "",
