@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-10T16:11:05.145286",
-  "event_count": 44,
+  "last_updated": "2026-11-10T16:20:59.404422",
+  "event_count": 35,
   "events": {
     "events": [
       {
@@ -777,7 +777,7 @@
         },
         "channels_data": [
           {
-            "title": "Live 1",
+            "title": "HD SERVER",
             "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
             "logo": "",
             "type": 0,
@@ -1426,87 +1426,6 @@
         ]
       },
       {
-        "id": 14852,
-        "title": "Real Madrid vs Paris FC",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Real Madrid",
-          "teamB": "Paris FC",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/305051/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/264964/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Upcoming",
-          "startTime": "2026/11/10 17:45:00 +0000",
-          "endTime": "2026/11/10 20:05:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "PARAMOUNT+ - AQ",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 14853,
-        "title": "BK Hacken FF vs Chelsea FC",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "BK H\u00e4cken FF",
-          "teamB": "Chelsea FC",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/1889/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/66768/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Upcoming",
-          "startTime": "2026/11/10 17:45:00 +0000",
-          "endTime": "2026/11/10 20:05:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "PARAMOUNT+ - AQ",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 14854,
-        "title": "Pamplona vs Eibar",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Pamplona",
-          "teamB": "Eibar",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/263528/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/2839/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Upcoming",
-          "startTime": "2026/11/10 18:00:00 +0000",
-          "endTime": "2026/11/10 20:20:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "Live 1",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
         "id": 14855,
         "title": "CD Anaitasuna FT vs Deportivo Alaves",
         "image": "",
@@ -1521,168 +1440,6 @@
           "Status": "Upcoming",
           "startTime": "2026/11/10 18:00:00 +0000",
           "endTime": "2026/11/10 20:20:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "Live 1",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 14856,
-        "title": "Leicester City vs Walsall",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Leicester City",
-          "teamB": "Walsall",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/31/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/26/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Upcoming",
-          "startTime": "2026/11/10 19:00:00 +0000",
-          "endTime": "2026/11/10 21:20:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "Live 1",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 14857,
-        "title": "Trival Valderas Alcorcon vs Leganes",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Trival Valderas Alcorc\u00f3n",
-          "teamB": "Legan\u00e9s",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/167158/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/2845/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Upcoming",
-          "startTime": "2026/11/10 19:00:00 +0000",
-          "endTime": "2026/11/10 21:20:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "Live 1",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 14858,
-        "title": "Paris Saint-Germain vs FC Bayern Munchen",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Paris Saint-Germain",
-          "teamB": "FC Bayern M\u00fcnchen",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/55505/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/5543/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Upcoming",
-          "startTime": "2026/11/10 20:00:00 +0000",
-          "endTime": "2026/11/10 22:20:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "Live 1",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 14859,
-        "title": "AS Roma vs Servette FC Chenois Feminin",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "AS Roma",
-          "teamB": "Servette FC Ch\u00eanois F\u00e9minin",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/301414/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/305811/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Upcoming",
-          "startTime": "2026/11/10 20:00:00 +0000",
-          "endTime": "2026/11/10 22:20:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "Live 1",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 14860,
-        "title": "Inter vs Manchester City",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Inter",
-          "teamB": "Manchester City",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/325685/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/142658/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Upcoming",
-          "startTime": "2026/11/10 20:00:00 +0000",
-          "endTime": "2026/11/10 22:20:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "Live 1",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 14861,
-        "title": "UE Tavernes vs Valencia",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "UE Tavernes",
-          "teamB": "Valencia",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/1284427/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/2828/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Upcoming",
-          "startTime": "2026/11/10 20:00:00 +0000",
-          "endTime": "2026/11/10 22:20:00 +0000"
         },
         "channels_data": [
           {
