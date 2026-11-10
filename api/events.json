@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-10T17:21:02.090076",
-  "event_count": 35,
+  "last_updated": "2026-11-10T17:31:25.209602",
+  "event_count": 37,
   "events": {
     "events": [
       {
@@ -1448,6 +1448,76 @@
             "logo": "",
             "type": 0,
             "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 14866,
+        "title": "Real Madrid vs Paris FC",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Real Madrid",
+          "teamB": "Paris FC",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/305051/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/264964/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/11/10 17:45:00 +0000",
+          "endTime": "2026/11/10 20:05:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "PARAMOUNT+ - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/v14ekwga2u/out/v1/f6095723f19549f6b84c5d9809a0f0b3/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+            "logo": "",
+            "type": 7,
+            "api": "f201a6e86e8a486e2c48d796c2de78e0:9dbe7adfd1776760c0e6dd67ecf92030",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 14867,
+        "title": "BK Hacken FF vs Chelsea FC",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "BK H\u00e4cken FF",
+          "teamB": "Chelsea FC",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/1889/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/66768/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/11/10 17:45:00 +0000",
+          "endTime": "2026/11/10 20:05:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "PARAMOUNT+ - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/kczwedhkgn/out/v1/48b48cc0d1e24cb4b26fd8c23961a647/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+            "logo": "",
+            "type": 7,
+            "api": "9c559d07ccfd1b2024558710893333f5:d0dbaa1c429b5a01ea1d46c22368769d",
+            "tokenApi": ""
+          },
+          {
+            "title": "FANCODE - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+            "logo": "",
+            "type": 7,
+            "api": "1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835",
+            "tokenApi": ""
+          },
+          {
+            "title": "CBS SPORTS - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+            "logo": "",
+            "type": 7,
+            "api": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
             "tokenApi": ""
           }
         ]
