@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-10T13:40:59.888516",
-  "event_count": 44,
+  "last_updated": "2026-11-10T13:51:04.437597",
+  "event_count": 48,
   "events": {
     "events": [
       {
@@ -658,7 +658,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/unique-tournament/18292/image/dark",
           "eventName": "Cricket",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/11/10 13:45:33 +0000",
           "endTime": "2026/11/10 17:55:38 +0000"
         },
@@ -1691,6 +1691,130 @@
             "logo": "",
             "type": 0,
             "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 14862,
+        "title": "Finland vs Japan",
+        "image": "null",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Finland",
+          "teamB": "Japan",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/5728/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/22241/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/11/10 14:00:53 +0000",
+          "endTime": "2026/11/10 16:15:57 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "TSN SPORTS - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+            "logo": "",
+            "type": 7,
+            "api": "abc5b2883121012850ebda05b528c5ec:e5250924f4b738905f7163a0134587a7",
+            "tokenApi": ""
+          },
+          {
+            "title": "Live 1",
+            "link": "https://chatgpt.hereisman.net/playlist/59752/load-playlist-multi?|Referer=https://gooz.aapmains.net",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 14863,
+        "title": "Czechia vs Germany",
+        "image": "null",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Czechia",
+          "teamB": "Germany",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/72454/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/5727/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/11/10 14:00:53 +0000",
+          "endTime": "2026/11/10 16:15:57 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "TSN SPORTS - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+            "logo": "",
+            "type": 7,
+            "api": "385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8",
+            "tokenApi": ""
+          },
+          {
+            "title": "Live 1",
+            "link": "https://chatgpt.hereisman.net/playlist/59751/load-playlist-multi?|Referer=https://gooz.aapmains.net",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 14864,
+        "title": "Switzerland vs Austria",
+        "image": "null",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Switzerland",
+          "teamB": "Austria",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/5725/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/95001/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/11/10 18:00:40 +0000",
+          "endTime": "2026/11/10 20:15:43 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "TSN SPORTS - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+            "logo": "",
+            "type": 7,
+            "api": "385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 14865,
+        "title": "Sweden vs Denmark",
+        "image": "null",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Sweden",
+          "teamB": "Denmark",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/5724/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/95003/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/11/10 18:00:40 +0000",
+          "endTime": "2026/11/10 20:15:43 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "TSN SPORTS - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+            "logo": "",
+            "type": 7,
+            "api": "385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8",
             "tokenApi": ""
           }
         ]
