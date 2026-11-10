@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-10T12:41:02.850771",
-  "event_count": 36,
+  "last_updated": "2026-11-10T12:50:59.353044",
+  "event_count": 34,
   "events": {
     "events": [
       {
@@ -1391,108 +1391,6 @@
           {
             "title": "Live 1",
             "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 14849,
-        "title": "India Under-19 vs United Arab Emirates Under-19",
-        "image": "",
-        "cat": "Cricket",
-        "eventInfo": {
-          "teamA": "India Under-19",
-          "teamB": "United Arab Emirates Under-19",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/213112/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/300266/image",
-          "eventName": "Cricket",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/11/10 05:00:00 +0000",
-          "endTime": "2026/11/10 13:30:57 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "WILLOW - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ukcvtgasgm/out/v1/e4cb351a93b14155916a5f6ef143e1c1/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "4c4bd1aa8c9559ae04dda485adb5a3b1:ce2f7e3a60ef59cdc20a666d64f35506",
-            "tokenApi": ""
-          },
-          {
-            "title": "SonyLiv PRIME - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/urj1hvt4lw/out/v1/e1cfb1743cb24e68a07ce860e9d73c06/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "2e79bb5f16ad590344c8b64df4965c33:eb018c62af7d3e7fe1232d15be093f65",
-            "tokenApi": ""
-          },
-          {
-            "title": "WILLOW - ALT",
-            "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ukcvtgasgm/out/v1/e4cb351a93b14155916a5f6ef143e1c1/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "4c4bd1aa8c9559ae04dda485adb5a3b1:ce2f7e3a60ef59cdc20a666d64f35506",
-            "tokenApi": ""
-          },
-          {
-            "title": "SonyLiv",
-            "link": "https://sonymtmnew-akamaized.pages.dev/out/v1/mpchgp431f/mpchde34/cricodi_1011-eng-1-ts-hls/std-lrh-800300010.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=c389b1e808061bc14b4d3ab9559ad06b-1794286200176",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 14850,
-        "title": "Pakistan Under-19 vs Nepal Under-19",
-        "image": "",
-        "cat": "Cricket",
-        "eventInfo": {
-          "teamA": "Pakistan Under-19",
-          "teamB": "Nepal Under-19",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/213104/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/213113/image",
-          "eventName": "Cricket",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/11/10 05:00:00 +0000",
-          "endTime": "2026/11/10 13:30:34 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "WILLOW - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tt3fycpkbu/out/v1/63398f58da4d4c5bb99ef23b1bb43705/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "7fecfb5bed7cce0cdc59d2994845c550:884386b71e0801635f4fa25175143ca7",
-            "tokenApi": ""
-          },
-          {
-            "title": "SonyLiv PRIME - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wdgqopibdc/out/v1/1584c8ffcbcd410fba52973e6708881e/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "669809685da200703be719d5989ef338:95dce664c282da723ae39db410bafc74",
-            "tokenApi": ""
-          },
-          {
-            "title": "WILLOW - ALT",
-            "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/tt3fycpkbu/out/v1/63398f58da4d4c5bb99ef23b1bb43705/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "7fecfb5bed7cce0cdc59d2994845c550:884386b71e0801635f4fa25175143ca7",
-            "tokenApi": ""
-          },
-          {
-            "title": "SonyLiv",
-            "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2120300/Criclive1011/ENG/std_lrh-800300010.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=c389b1e808061bc14b4d3ab9559ad06b-1794286200176",
             "logo": "",
             "type": 0,
             "api": "",
