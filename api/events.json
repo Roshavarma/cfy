@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-11T18:31:21.823056",
-  "event_count": 33,
+  "last_updated": "2026-11-11T18:41:04.940476",
+  "event_count": 32,
   "events": {
     "events": [
       {
@@ -658,9 +658,9 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/unique-tournament/18292/image/dark",
           "eventName": "Cricket",
           "isHot": "0",
-          "Status": "Finish",
-          "startTime": "2026/11/11 13:45:41 +0000",
-          "endTime": "2026/11/11 17:55:47 +0000"
+          "Status": "Upcoming",
+          "startTime": "2026/11/13 11:30:23 +0000",
+          "endTime": "2026/11/13 17:55:28 +0000"
         },
         "channels_data": [
           {
@@ -725,57 +725,6 @@
           {
             "title": "Live 1",
             "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 14825,
-        "title": "Bangladesh vs Sri Lanka",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Bangladesh",
-          "teamB": "Sri Lanka",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/6080/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/23487/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Finish",
-          "startTime": "2026/11/11 14:00:00 +0000",
-          "endTime": "2026/11/11 16:20:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "T SPORTS HD",
-            "link": "http://80.97.161.64/m/soccer/manifest.spf?exp=2109765797&t=2978f9a1d6277b1a5a4d74966ddcadca&e=.m3u8?|Referer=https://gooz.aapmains.net",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "HD SERVER",
-            "link": "https://live2.jorvakstreamcache.com/live/channel14.m3u8?|Referer=https://xlz.domainkqt.cc/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "MYCO - AQ",
-            "link": "https://ml-pull-rtmp-pk1.myco.io/SAFF2026/hls/26113.m3u8|referer=https://myco.io/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "T SPORTS SD",
-            "link": "https://tvsen5.aynaott.com/TnMn5kZz8aLmjklkk/index.m3u8",
             "logo": "",
             "type": 0,
             "api": "",
