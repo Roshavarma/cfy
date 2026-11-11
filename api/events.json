@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-11T14:11:03.497820",
+  "last_updated": "2026-11-11T14:21:05.120402",
   "event_count": 33,
   "events": {
     "events": [
@@ -750,6 +750,14 @@
         },
         "channels_data": [
           {
+            "title": "T SPORTS HD",
+            "link": "http://80.97.161.64/m/soccer/manifest.spf?exp=2109765797&t=2978f9a1d6277b1a5a4d74966ddcadca&e=.m3u8?|Referer=https://gooz.aapmains.net",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
             "title": "MYCO - AQ",
             "link": "https://ml-pull-rtmp-pk1.myco.io/SAFF2026/hls/26113.m3u8|referer=https://myco.io/",
             "logo": "",
@@ -766,7 +774,7 @@
             "tokenApi": ""
           },
           {
-            "title": "T SPORTS HD",
+            "title": "T SPORTS SD",
             "link": "https://tvsen5.aynaott.com/TnMn5kZz8aLmjklkk/index.m3u8",
             "logo": "",
             "type": 0,
