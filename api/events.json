@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-11T11:50:57.387655",
+  "last_updated": "2026-11-11T12:01:29.453679",
   "event_count": 34,
   "events": {
     "events": [
@@ -771,14 +771,22 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/5937/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/11/11 12:00:00 +0000",
           "endTime": "2026/11/11 14:20:00 +0000"
         },
         "channels_data": [
           {
-            "title": "Live 1",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "title": "HD SERVER ",
+            "link": "https://live1.quickscoreboardz.com/live/channel5/playlist.m3u8?wsSecret=6bbc35c49997ac0c4c9486b6f5c2a614&wsABSTime=1794441219?|Referer=https://xlz.domainkqt.cc/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "LOW SERVER ",
+            "link": "http://193.47.62.50/hls/pyyy.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
             "logo": "",
             "type": 0,
             "api": "",
