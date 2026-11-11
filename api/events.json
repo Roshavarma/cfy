@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-11T13:51:01.891351",
-  "event_count": 34,
+  "last_updated": "2026-11-11T14:01:29.236161",
+  "event_count": 33,
   "events": {
     "events": [
       {
@@ -688,16 +688,16 @@
             "tokenApi": ""
           },
           {
-            "title": "MYCO LIVE HD",
-            "link": "https://ml-pull-rtmp-pk1.myco.io/SRT/hls/index.m3u8|referer=https://myco.io/",
+            "title": "A SPORTS HD",
+            "link": "https://live.msnetworks.net/a-sports/master.m3u8",
             "logo": "",
             "type": 0,
             "api": "",
             "tokenApi": ""
           },
           {
-            "title": "A SPORTS HD",
-            "link": "https://live.msnetworks.net/a-sports/master.m3u8",
+            "title": "MYCO HD",
+            "link": "https://ml-pull-rtmp-pk1.myco.io/SRT/hls/index.m3u8|referer=https://myco.io/",
             "logo": "",
             "type": 0,
             "api": "",
@@ -744,7 +744,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/23487/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/11/11 14:00:00 +0000",
           "endTime": "2026/11/11 16:20:00 +0000"
         },
@@ -768,41 +768,6 @@
           {
             "title": "T SPORTS HD",
             "link": "https://tvsen5.aynaott.com/TnMn5kZz8aLmjklkk/index.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 14827,
-        "title": "Vietnam vs Chinese Taipei",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Vietnam",
-          "teamB": "Chinese Taipei",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/7050/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/5937/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/11/11 12:00:00 +0000",
-          "endTime": "2026/11/11 14:20:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "HD SERVER ",
-            "link": "https://live1.quickscoreboardz.com/live/channel5/playlist.m3u8?wsSecret=6bbc35c49997ac0c4c9486b6f5c2a614&wsABSTime=1794441219?|Referer=https://xlz.domainkqt.cc/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "LOW SERVER ",
-            "link": "http://193.47.62.50/hls/pyyy.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
             "logo": "",
             "type": 0,
             "api": "",
