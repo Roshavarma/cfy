@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-12T14:51:07.880179",
+  "last_updated": "2026-11-12T15:01:33.455147",
   "event_count": 44,
   "events": {
     "events": [
@@ -637,14 +637,14 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/4694/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/11/12 15:00:00 +0000",
           "endTime": "2026/11/12 17:20:00 +0000"
         },
         "channels_data": [
           {
-            "title": "Live 1",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "title": "LOW SERVER ",
+            "link": "http://193.47.62.41/hls/FF444A.m3u8|referer=http://www.fawanews.sc/&origin=http://www.fawanews.sc&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
             "logo": "",
             "type": 0,
             "api": "",
@@ -718,14 +718,38 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/23472/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/11/12 15:00:00 +0000",
           "endTime": "2026/11/12 17:20:00 +0000"
         },
         "channels_data": [
           {
+            "title": "beIN SPORTS - AQ",
+            "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/katdnhkzqv/out/v1/2469724fa7754a4da6861d8ba80de958/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+            "logo": "",
+            "type": 7,
+            "api": "27759a440e8ad821b800b3de00cd5851:1b8743adee559f27845f55e8b4d639fe",
+            "tokenApi": ""
+          },
+          {
+            "title": "beIN SPANISH - AQ",
+            "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/e3ozww2yny/out/v1/3a16d07c2cc0444bb8ea10d0483d1ced/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+            "logo": "",
+            "type": 7,
+            "api": "74cbe15488783fab07ff8c702fabafcd:bb607803a49c2d6104f845e7886c971c",
+            "tokenApi": ""
+          },
+          {
             "title": "Live 1",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "link": "https://live.vivo155.com/live/sd-1-4642738.m3u8?txSecret=2c99896f3129522ec25a93e6fb26417a&txTime=6AF5E8C5|Referer=https://player.on8on8.com/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "LOW SERVER ",
+            "link": "http://193.47.62.44/hls/GGGG.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
             "logo": "",
             "type": 0,
             "api": "",
