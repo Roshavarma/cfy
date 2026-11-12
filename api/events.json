@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-12T10:11:04.014525",
-  "event_count": 44,
+  "last_updated": "2026-11-12T10:20:59.349285",
+  "event_count": 43,
   "events": {
     "events": [
       {
@@ -626,105 +626,6 @@
         ]
       },
       {
-        "id": 14828,
-        "title": "New Zealand vs Indiaa",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "New Zealand",
-          "teamB": "India",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/4784/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/4828/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Finish",
-          "startTime": "2026/11/12 06:00:00 +0000",
-          "endTime": "2026/11/12 08:20:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "PRIME ENG - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/9dalamxc1r/out/v1/8d1f34e547fb44c297c944279de38e11/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "c6872a6ce0112b3ef06eafa5d6fe16a3:c2285774921020dc71a7713f07a14e05",
-            "tokenApi": ""
-          },
-          {
-            "title": "WILLOW - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/w816ft7qg1/out/v1/428ff6559f784a64b86af8aa5f58ee1f/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "8055527c45bf2dec00ccbbc9a219ef8b:7fe859adbe404501d0df3ef25f63c7a4",
-            "tokenApi": ""
-          },
-          {
-            "title": "PRIME HINDI - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vchrvkaifx/out/v1/5c21993871704a7b828c8960deeaa565/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-            "logo": "",
-            "type": 7,
-            "api": "c44c74a35acb645f971988649c69617a:82ea35c848aafc18c7a2a8404b71edc1",
-            "tokenApi": ""
-          },
-          {
-            "title": "TNT SPORTS - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-            "logo": "",
-            "type": 7,
-            "api": "69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749",
-            "tokenApi": ""
-          },
-          {
-            "title": "WILLOW - ALT",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/xhvkr4qrty/out/v1/488d3bc4cfcb4dd593a3114ff78f2298/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-            "logo": "",
-            "type": 7,
-            "api": "e2026793de4d32b74ab50d192d21e812:5b019d29e099327378d606b8c29adb4f",
-            "tokenApi": ""
-          },
-          {
-            "title": "SonyLiv - English",
-            "link": "https://liveakmt-p-md.slivcdn.com/hls/live/2119931/cricodi_0911/ENG/master.m3u8?hdnea=exp=1794313824~acl=/*~id=097367e014f3b55a0de128a4c037b7ce-1794270624386~hmac=7353188d192c892aec363fe062e0e5ca2f71d3dab355f77c1a8157a07b8b7d81",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "SonyLiv - Hindi",
-            "link": "https://liveakmt-p-md.slivcdn.com/hls/live/2119921/cricodi_0911/HIN/master.m3u8?hdnea=exp=1794313824~acl=/*~id=097367e014f3b55a0de128a4c037b7ce-1794270624386~hmac=7353188d192c892aec363fe062e0e5ca2f71d3dab355f77c1a8157a07b8b7d81",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "SonyLiv - TEL",
-            "link": "https://liveakmt-p-md.slivcdn.com/hls/live/2119941/cricodi_0911/TEL/master.m3u8?hdnea=exp=1794313824~acl=/*~id=097367e014f3b55a0de128a4c037b7ce-1794270624386~hmac=7353188d192c892aec363fe062e0e5ca2f71d3dab355f77c1a8157a07b8b7d81",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "SonyLiv - TAM",
-            "link": "https://liveakmt-p-md.slivcdn.com/hls/live/2119951/cricodi_0911/TAM/master.m3u8?hdnea=exp=1794313824~acl=/*~id=097367e014f3b55a0de128a4c037b7ce-1794270624386~hmac=7353188d192c892aec363fe062e0e5ca2f71d3dab355f77c1a8157a07b8b7d81",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "SonyLiv - KAN",
-            "link": "https://liveakmt-p-md.slivcdn.com/hls/live/2119782/cricodi_0911/KAN/master.m3u8?hdnea=exp=1794313824~acl=/*~id=097367e014f3b55a0de128a4c037b7ce-1794270624386~hmac=7353188d192c892aec363fe062e0e5ca2f71d3dab355f77c1a8157a07b8b7d81",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
         "id": 14829,
         "title": "Uzbekistan vs Russia",
         "image": "",
@@ -1222,9 +1123,9 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/213112/image",
           "eventName": "Cricket",
           "isHot": "0",
-          "Status": "Finish",
+          "Status": "Live",
           "startTime": "2026/11/12 05:00:00 +0000",
-          "endTime": "2026/11/12 09:00:00 +0000"
+          "endTime": "2026/11/12 13:00:20 +0000"
         },
         "channels_data": [
           {
@@ -1294,65 +1195,6 @@
           {
             "title": "TEN SPORTS HD",
             "link": "https://app.uckingcrazy1.workers.dev/api/play/Ten%20Cricket.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 14871,
-        "title": "Pakistan Under-19 vs Bangladesh Under-19",
-        "image": "",
-        "cat": "Cricket",
-        "eventInfo": {
-          "teamA": "Pakistan Under-19",
-          "teamB": "Bangladesh Under-19",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/213104/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/213099/image",
-          "eventName": "Cricket",
-          "isHot": "0",
-          "Status": "Finish",
-          "startTime": "2026/11/12 05:00:00 +0000",
-          "endTime": "2026/11/12 09:00:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "WILLOW - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/x5af8ecwsh/out/v1/c37f1ecce4214502960ae5c0367154ff/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "ae9dfc3e14f81520c96678b2818203b0:890f27ce6531575d09365c95c7557cd8",
-            "tokenApi": ""
-          },
-          {
-            "title": "PRIME VIDEO - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/v9vh6sx6aa/out/v1/fa0840b9189c43a5b75029161e4f1829/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "2d895ee3ffc49f5334210c8ee8cccee2:612a73373cbc8a0c795ef02e725ea42e",
-            "tokenApi": ""
-          },
-          {
-            "title": "WILLOW - ALT",
-            "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/x5af8ecwsh/out/v1/c37f1ecce4214502960ae5c0367154ff/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "ae9dfc3e14f81520c96678b2818203b0:890f27ce6531575d09365c95c7557cd8",
-            "tokenApi": ""
-          },
-          {
-            "title": "TEN SPORTS HD",
-            "link": "https://live.msnetworks.net/ten-sports/master.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "SonyLiv",
-            "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2120301/criclive1211/ENG/std_lrh-800300010.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=54e08fa8fce0815250f0a7836422dd18-1794457801618",
             "logo": "",
             "type": 0,
             "api": "",
@@ -1763,6 +1605,33 @@
             "logo": "",
             "type": 7,
             "api": "39bd302cdeed3710a89fb004d232ab67:9869f804ba18d7e508cbff781829221c",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 14888,
+        "title": "New Zealand vs India",
+        "image": "",
+        "cat": "Cricket",
+        "eventInfo": {
+          "teamA": "New Zealand",
+          "teamB": "India",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/187755/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/187765/image",
+          "eventName": "Cricket",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/11/13 02:00:00 +0000",
+          "endTime": "2026/11/13 11:00:19 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Live 1",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
             "tokenApi": ""
           }
         ]
