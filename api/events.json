@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-12T10:20:59.349285",
+  "last_updated": "2026-11-12T10:31:16.302917",
   "event_count": 43,
   "events": {
     "events": [
@@ -441,8 +441,8 @@
           "teamBFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTo0kwOfn0swttbdChYr5KGVFVY-XuUO6nrYQ&s",
           "eventName": "Cricket",
           "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/11/12 06:45:05 +0000",
+          "Status": "Upcoming",
+          "startTime": "2026/11/12 11:15:38 +0000",
           "endTime": "2026/11/12 15:15:14 +0000"
         },
         "channels_data": [
@@ -1627,8 +1627,80 @@
         },
         "channels_data": [
           {
-            "title": "Live 1",
+            "title": "PRIME ENG - AQ",
             "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "WILLOW - AQ",
+            "link": "o",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "PRIME HINDI - AQ",
+            "link": "o",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "TNT SPORTS - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+            "logo": "",
+            "type": 7,
+            "api": "69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749",
+            "tokenApi": ""
+          },
+          {
+            "title": "WILLOW - ALT",
+            "link": "o",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "SonyLiv - ENG",
+            "link": "https://sonymtmnew-akamaized.pages.dev/out/v1/mpchgp431f/mpcha075/cricodi_1211-eng-1-ts-hls/std-lrh-800300010.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=2078416d138312e6d9e75f2c2e9e7046-1794478204787",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "SonyLiv - HIN",
+            "link": "https://sonymtmnew-akamaized.pages.dev/out/v1/mpchgp431f/mpchc857/cricodi_1211-hin-1-ts-hls/std-lrh-800300010.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=2078416d138312e6d9e75f2c2e9e7046-1794478204787",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "SonyLiv - TAM",
+            "link": "https://sonymtmnew-akamaized.pages.dev/out/v1/mpchgp431f/mpchb9e7/cricodi_1211-tam-1-ts-hls/std-lrh-800300010.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=2078416d138312e6d9e75f2c2e9e7046-1794478204787",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "SonyLiv - TEL",
+            "link": "https://sonymtmnew-akamaized.pages.dev/out/v1/mpchgp431f/mpch8872/cricodi_1211-tel-1-ts-hls/std-lrh-800300010.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=2078416d138312e6d9e75f2c2e9e7046-1794478204787",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "SonyLiv - KAN",
+            "link": "https://sonymtmnew-akamaized.pages.dev/out/v1/mpchgp431f/mpche169/cricodi_1211-kan-1-ts-hls/std-lrh-800300010.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=2078416d138312e6d9e75f2c2e9e7046-1794478204787",
             "logo": "",
             "type": 0,
             "api": "",
