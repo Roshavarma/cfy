@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-13T14:11:15.817657",
-  "event_count": 55,
+  "last_updated": "2026-11-13T14:21:05.282273",
+  "event_count": 54,
   "events": {
     "events": [
       {
@@ -441,9 +441,9 @@
           "teamBFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTo0kwOfn0swttbdChYr5KGVFVY-XuUO6nrYQ&s",
           "eventName": "Cricket",
           "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/11/13 11:15:41 +0000",
-          "endTime": "2026/11/13 15:15:12 +0000"
+          "Status": "Upcoming",
+          "startTime": "2026/11/14 11:15:49 +0000",
+          "endTime": "2026/11/14 15:15:53 +0000"
         },
         "channels_data": [
           {
@@ -1298,49 +1298,6 @@
         ]
       },
       {
-        "id": 14905,
-        "title": "Singapore vs Paraguay",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Singapore",
-          "teamB": "Paraguay",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/4738/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/4789/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/11/13 12:00:00 +0000",
-          "endTime": "2026/11/13 14:20:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "HD SERVER",
-            "link": "https://live2.jorvakstreamcache.com/live/channel4.m3u8?|Referer=https://xlz.domainkqt.cc/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "SD SERVER ",
-            "link": "https://www.rtmpcdn.com/live/3301dc12-b310-4708-971d-2cef8a7fd82f.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "LOW SERVER ",
-            "link": "http://193.47.62.41/hls/BBBB.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
         "id": 14906,
         "title": "Saudi Arabia vs South Korea",
         "image": "",
@@ -1357,6 +1314,14 @@
           "endTime": "2026/11/13 16:50:00 +0000"
         },
         "channels_data": [
+          {
+            "title": "HD SERVER",
+            "link": "https://live2.jorvakstreamcache.com/live/channel1.m3u8?|Referer=https://xlz.domainkqt.cc/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
           {
             "title": "LOW SERVER ",
             "link": "http://193.47.62.41/hls/BBBBAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
