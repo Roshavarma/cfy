@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-13T03:31:20.403510",
+  "last_updated": "2026-11-13T03:41:15.983587",
   "event_count": 56,
   "events": {
     "events": [
@@ -617,10 +617,10 @@
         "channels_data": [
           {
             "title": "WILLOW - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/zvm8yfmf1x/out/v1/5996ed4075494e359d7a1b5e66cc0547/cenc.mpd",
             "logo": "",
             "type": 7,
-            "api": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
+            "api": "134ce834d4de77fd458c8b131c9e3986:f68411936eaaba7ffc6a0111c75292bb",
             "tokenApi": ""
           },
           {
@@ -640,6 +640,14 @@
             "tokenApi": ""
           },
           {
+            "title": "WILLOW - ALT",
+            "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/zvm8yfmf1x/out/v1/5996ed4075494e359d7a1b5e66cc0547/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "134ce834d4de77fd458c8b131c9e3986:f68411936eaaba7ffc6a0111c75292bb",
+            "tokenApi": ""
+          },
+          {
             "title": "EUROSPORT - AQ",
             "link": "https://wbd.skandha.tv/EuroSport_HD/EuroSport_HD.isml/.mpd",
             "logo": "",
@@ -648,8 +656,16 @@
             "tokenApi": ""
           },
           {
-            "title": "WILLOW - ALT",
-            "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd",
+            "title": "TAPMAD - AQ",
+            "link": "https://tencent-cdn.tapmad.com/v1/01a14a9fb90c15fc60e91e1786b061/01a14a9feb881ea540a81c2b41b75e/main.m3u8?|Referer=https://tapmad.com/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "WILLOW HD",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd",
             "logo": "",
             "type": 7,
             "api": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
