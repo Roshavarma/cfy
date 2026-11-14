@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-14T08:50:57.953410",
+  "last_updated": "2026-11-14T09:01:25.795273",
   "event_count": 42,
   "events": {
     "events": [
@@ -1063,14 +1063,46 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/191564/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/11/14 09:00:00 +0000",
           "endTime": "2026/11/14 11:20:00 +0000"
         },
         "channels_data": [
           {
+            "title": "BTV BD - AQ",
+            "link": "https://nkafmbewiff.gpcdn.net/tile_2/master.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
             "title": "HD SERVER",
             "link": "https://live2.jorvakstreamcache.com/live/channel7.m3u8?|Referer=https://xlz.domainkqt.cc/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "MyCO - AQ",
+            "link": "https://ml-pull-rtmp-pk1.myco.io/SAFF2026/hls/26113.m3u8|referer=https://myco.io/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "VETO TV - IN",
+            "link": "https://vetointv.akamaized.net/Dreamboat-CH01/master.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "T SPORTS HD",
+            "link": "https://tvsen5.aynaott.com/TnMn5kZz8aLmjklkk/index.m3u8",
             "logo": "",
             "type": 0,
             "api": "",
