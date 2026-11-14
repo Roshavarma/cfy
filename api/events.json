@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-14T04:40:59.801636",
+  "last_updated": "2026-11-14T04:51:01.428132",
   "event_count": 42,
   "events": {
     "events": [
@@ -955,12 +955,68 @@
           "isHot": "0",
           "Status": "Upcoming",
           "startTime": "2026/11/14 05:00:00 +0000",
-          "endTime": "2026/11/14 09:00:00 +0000"
+          "endTime": "2026/11/14 14:00:40 +0000"
         },
         "channels_data": [
           {
-            "title": "Live 1",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "title": "WILLOW - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/jqiewsbcdo/out/v1/c61fbf5480da4d94a2cd238d8be4b227/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "6d9898b922c715df238b810032f99e04:24ce2fd66d77c73540f129ae83c967d7",
+            "tokenApi": ""
+          },
+          {
+            "title": "SonyLiv PRIME - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/2fqqd9w1dv/out/v1/640bbe357b4e4656a3a25ef401b40943/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "c32f4ea1b4dd4e4736ee667ee02aa8bb:3ae921b11d3dcabb54a7433f065c2efa",
+            "tokenApi": ""
+          },
+          {
+            "title": "WILLOW - ALT",
+            "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/jqiewsbcdo/out/v1/c61fbf5480da4d94a2cd238d8be4b227/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "6d9898b922c715df238b810032f99e04:24ce2fd66d77c73540f129ae83c967d7",
+            "tokenApi": ""
+          },
+          {
+            "title": "SonyLiv - ENG",
+            "link": "https://liveakmt-p-md.slivcdn.com/hls/live/2119931/cricodi_1411/ENG/master.m3u8?hdnea=exp=1794673149~acl=/*~id=e6958b3fa9c6adb54b9b7c7165114305-1794629947688~hmac=8be2c871aef155e1da992eb579fa793449bc6ada3cfe46494bed3469bf79e598",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "SonyLiv - HIN",
+            "link": "https://liveakmt-p-md.slivcdn.com/hls/live/2119921/cricodi_1411/HIN/master.m3u8?hdnea=exp=1794673149~acl=/*~id=e6958b3fa9c6adb54b9b7c7165114305-1794629947688~hmac=8be2c871aef155e1da992eb579fa793449bc6ada3cfe46494bed3469bf79e598",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "SonyLiv - TAM",
+            "link": "https://liveakmt-p-md.slivcdn.com/hls/live/2119951/cricodi_1411/TAM/master.m3u8?hdnea=exp=1794673149~acl=/*~id=e6958b3fa9c6adb54b9b7c7165114305-1794629947688~hmac=8be2c871aef155e1da992eb579fa793449bc6ada3cfe46494bed3469bf79e598",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "SonyLiv - TEL",
+            "link": "https://liveakmt-p-md.slivcdn.com/hls/live/2119941/cricodi_1411/TEL/master.m3u8?hdnea=exp=1794673149~acl=/*~id=e6958b3fa9c6adb54b9b7c7165114305-1794629947688~hmac=8be2c871aef155e1da992eb579fa793449bc6ada3cfe46494bed3469bf79e598",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "SonyLiv - KAN",
+            "link": "https://liveakmt-p-md.slivcdn.com/hls/live/2119782/cricodi_1411/KAN/master.m3u8?hdnea=exp=1794673149~acl=/*~id=e6958b3fa9c6adb54b9b7c7165114305-1794629947688~hmac=8be2c871aef155e1da992eb579fa793449bc6ada3cfe46494bed3469bf79e598",
             "logo": "",
             "type": 0,
             "api": "",
