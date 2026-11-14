@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-14T16:31:14.191128",
-  "event_count": 34,
+  "last_updated": "2026-11-14T16:41:06.956893",
+  "event_count": 33,
   "events": {
     "events": [
       {
@@ -915,97 +915,6 @@
         ]
       },
       {
-        "id": 14928,
-        "title": "Bangladesh vs Pakistan",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Bangladesh",
-          "teamB": "Pakistan",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/6080/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/6081/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/11/14 14:30:00 +0000",
-          "endTime": "2026/11/14 16:50:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "BTV BD - AQ",
-            "link": "https://nkafmbewiff.gpcdn.net/tile_2/master.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "HD SERVER ",
-            "link": "https://live2.jorvakstreamcache.com/live/channel19.m3u8?|Referer=https://xlz.domainkqt.cc/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "TOFFEE HD",
-            "link": "https://tv10.workerbot-tv10.workers.dev/play/9dijmqEBalKyvLQIIAFj.m3u8?token=exp=1794669625~hmac=XLGnj_QNxIWJDLzFD-QAZlPzYd6_sNYdS-avGYdgy_g",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "T SPORTS HD",
-            "link": "https://tvsen5.aynaott.com/TnMn5kZz8aLmjklkk/index.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "Live 1",
-            "link": "https://live05.yefpwmc.app/live/18812304.m3u8?_t=1794666280950",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "BACKUP HD",
-            "link": "https://pull.niur.live/live/stream-9912132_lhd.m3u8?txSecret=56c20834d52717b7eab6af5fe033b236&txTime=6af8c3a6",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "LOW SERVER",
-            "link": "http://193.47.62.59/hls/TIIIAAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "MYCO - PAK",
-            "link": "https://ml-pull-rtmp-pk1.myco.io/SAFF2026/hls/26113.m3u8|referer=https://myco.io/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "VETO TV - IN",
-            "link": "https://vetointv.akamaized.net/Dreamboat-CH01/master.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
         "id": 14931,
         "title": "Pakistan Women vs Netherlands Women",
         "image": "",
@@ -1124,7 +1033,7 @@
           "teamAFlag": "https://img.sofascore.com/api/v1/team/4475/image",
           "teamBFlag": "https://img.sofascore.com/api/v1/team/4702/image",
           "eventName": "Football",
-          "isHot": "0",
+          "isHot": "1",
           "Status": "Upcoming",
           "startTime": "2026/11/14 17:00:00 +0000",
           "endTime": "2026/11/14 19:20:00 +0000"
@@ -1152,6 +1061,14 @@
             "logo": "",
             "type": 7,
             "api": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
+            "tokenApi": ""
+          },
+          {
+            "title": "LOW SERVER ",
+            "link": "http://193.47.62.50/hls/PPPPA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+            "logo": "",
+            "type": 0,
+            "api": "",
             "tokenApi": ""
           }
         ]
