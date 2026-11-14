@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-14T16:11:03.098410",
-  "event_count": 35,
+  "last_updated": "2026-11-14T16:21:00.886647",
+  "event_count": 34,
   "events": {
     "events": [
       {
@@ -1167,7 +1167,7 @@
           "teamAFlag": "https://img.sofascore.com/api/v1/team/4704/image",
           "teamBFlag": "https://img.sofascore.com/api/v1/team/4476/image",
           "eventName": "Football",
-          "isHot": "0",
+          "isHot": "1",
           "Status": "Upcoming",
           "startTime": "2026/11/14 19:45:00 +0000",
           "endTime": "2026/11/14 22:05:00 +0000"
@@ -1203,57 +1203,6 @@
             "logo": "",
             "type": 7,
             "api": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 14937,
-        "title": "Kosovo vs Israel",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Kosovo",
-          "teamB": "Israel",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/154426/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/4480/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/11/14 14:00:00 +0000",
-          "endTime": "2026/11/14 16:20:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "beIN ENGLISH - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-            "logo": "",
-            "type": 7,
-            "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
-            "tokenApi": ""
-          },
-          {
-            "title": "SonyLiv ",
-            "link": "https://sonyeventsglobal.akamaized.net/hls/live/2094588/Footlive1411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794707604~acl=/*~id=40416883930794749896787547691928~hmac=eabd9c97d1bc99a44e6450644df33d661c737d580092dc8a5dabdb3f6bae61f4",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "HD SERVER ",
-            "link": "https://www.rtmpcdn.com/live/p-0e9196792b97416bb74cc911cf1e9e85.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "LOW SERVER ",
-            "link": "http://193.47.62.59/hls/SESESEAAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-            "logo": "",
-            "type": 0,
-            "api": "",
             "tokenApi": ""
           }
         ]
