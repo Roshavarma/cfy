@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-15T14:31:22.656318",
+  "last_updated": "2026-11-15T14:40:58.800207",
   "event_count": 38,
   "events": {
     "events": [
@@ -1415,6 +1415,14 @@
           "endTime": "2026/11/15 17:30:00 +0000"
         },
         "channels_data": [
+          {
+            "title": "DAZN SPORTS - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/pwrdfli7tm/out/v1/e34552c7d03d4389b2c501b17bb08bbb/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "3172ee620206d62857eee55b566e5f81:3bf5b7d1eef583f166000a0ba616ed1b",
+            "tokenApi": ""
+          },
           {
             "title": "TSN SPORTS - AQ",
             "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/lsibpqruq1/out/v1/748887d614a84913ba8bcdf3c82823e6/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
