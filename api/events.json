@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-15T02:20:53.189145",
-  "event_count": 31,
+  "last_updated": "2026-11-15T02:31:18.146978",
+  "event_count": 44,
   "events": {
     "events": [
       {
@@ -1372,6 +1372,357 @@
           "Status": "Upcoming",
           "startTime": "2026/11/15 17:30:00 +0000",
           "endTime": "2026/11/15 19:50:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Live 1",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 14975,
+        "title": "Detroit Lions vs New England Patriots",
+        "image": "",
+        "cat": "American football",
+        "eventInfo": {
+          "teamA": "Detroit Lions",
+          "teamB": "New England Patriots",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/4419/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/4424/image",
+          "eventName": "American football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/11/15 14:30:00 +0000",
+          "endTime": "2026/11/15 17:30:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Live 1",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 14976,
+        "title": "Atlanta Falcons vs Kansas City Chiefs",
+        "image": "",
+        "cat": "American football",
+        "eventInfo": {
+          "teamA": "Atlanta Falcons",
+          "teamB": "Kansas City Chiefs",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/4393/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/4422/image",
+          "eventName": "American football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/11/15 18:00:00 +0000",
+          "endTime": "2026/11/15 21:00:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Live 1",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 14977,
+        "title": "Cleveland Browns vs Houston Texans",
+        "image": "",
+        "cat": "American football",
+        "eventInfo": {
+          "teamA": "Cleveland Browns",
+          "teamB": "Houston Texans",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/4417/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/4324/image",
+          "eventName": "American football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/11/15 18:00:00 +0000",
+          "endTime": "2026/11/15 21:00:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Live 1",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 14978,
+        "title": "Green Bay Packers vs Minnesota Vikings",
+        "image": "",
+        "cat": "American football",
+        "eventInfo": {
+          "teamA": "Green Bay Packers",
+          "teamB": "Minnesota Vikings",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/4420/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/4423/image",
+          "eventName": "American football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/11/15 18:00:00 +0000",
+          "endTime": "2026/11/15 21:00:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Live 1",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 14979,
+        "title": "Indianapolis Colts vs Miami Dolphins",
+        "image": "",
+        "cat": "American football",
+        "eventInfo": {
+          "teamA": "Indianapolis Colts",
+          "teamB": "Miami Dolphins",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/4421/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/4287/image",
+          "eventName": "American football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/11/15 18:00:00 +0000",
+          "endTime": "2026/11/15 21:00:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Live 1",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 14980,
+        "title": "New Orleans Saints vs Carolina Panthers",
+        "image": "",
+        "cat": "American football",
+        "eventInfo": {
+          "teamA": "New Orleans Saints",
+          "teamB": "Carolina Panthers",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/4425/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/4415/image",
+          "eventName": "American football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/11/15 18:00:00 +0000",
+          "endTime": "2026/11/15 21:00:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Live 1",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 14981,
+        "title": "New York Jets vs Buffalo Bills",
+        "image": "",
+        "cat": "American football",
+        "eventInfo": {
+          "teamA": "New York Jets",
+          "teamB": "Buffalo Bills",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/4427/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/4414/image",
+          "eventName": "American football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/11/15 18:00:00 +0000",
+          "endTime": "2026/11/15 21:00:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Live 1",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 14982,
+        "title": "Tennessee Titans vs Jacksonville Jaguars",
+        "image": "",
+        "cat": "American football",
+        "eventInfo": {
+          "teamA": "Tennessee Titans",
+          "teamB": "Jacksonville Jaguars",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/4431/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/4386/image",
+          "eventName": "American football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/11/15 18:00:00 +0000",
+          "endTime": "2026/11/15 21:00:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Live 1",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 14983,
+        "title": "Arizona Cardinals vs Los Angeles Rams",
+        "image": "",
+        "cat": "American football",
+        "eventInfo": {
+          "teamA": "Arizona Cardinals",
+          "teamB": "Los Angeles Rams",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/4412/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/4387/image",
+          "eventName": "American football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/11/15 21:05:00 +0000",
+          "endTime": "2026/11/16 00:05:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Live 1",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 14984,
+        "title": "Las Vegas Raiders vs Seattle Seahawks",
+        "image": "",
+        "cat": "American football",
+        "eventInfo": {
+          "teamA": "Las Vegas Raiders",
+          "teamB": "Seattle Seahawks",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/4390/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/4430/image",
+          "eventName": "American football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/11/15 21:05:00 +0000",
+          "endTime": "2026/11/16 00:05:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Live 1",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 14985,
+        "title": "Dallas Cowboys vs San Francisco 49ers",
+        "image": "",
+        "cat": "American football",
+        "eventInfo": {
+          "teamA": "Dallas Cowboys",
+          "teamB": "San Francisco 49ers",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/4392/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/4389/image",
+          "eventName": "American football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/11/15 21:25:00 +0000",
+          "endTime": "2026/11/16 00:25:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Live 1",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 14986,
+        "title": "Cincinnati Bengals vs Pittsburgh Steelers",
+        "image": "",
+        "cat": "American football",
+        "eventInfo": {
+          "teamA": "Cincinnati Bengals",
+          "teamB": "Pittsburgh Steelers",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/4416/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/4345/image",
+          "eventName": "American football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/11/16 01:20:00 +0000",
+          "endTime": "2026/11/16 04:20:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Live 1",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 14987,
+        "title": "Baltimore Ravens vs Los Angeles Chargers",
+        "image": "",
+        "cat": "American football",
+        "eventInfo": {
+          "teamA": "Baltimore Ravens",
+          "teamB": "Los Angeles Chargers",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/4413/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/4429/image",
+          "eventName": "American football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/11/17 01:15:00 +0000",
+          "endTime": "2026/11/17 04:15:00 +0000"
         },
         "channels_data": [
           {
