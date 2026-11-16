@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-16T02:01:43.775384",
-  "event_count": 48,
+  "last_updated": "2026-11-16T02:11:06.263246",
+  "event_count": 37,
   "events": {
     "events": [
       {
@@ -559,9 +559,9 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/unique-tournament/18292/image/dark",
           "eventName": "Cricket",
           "isHot": "0",
-          "Status": "Finish",
-          "startTime": "2026/11/15 16:00:29 +0000",
-          "endTime": "2026/11/15 17:55:49 +0000"
+          "Status": "Upcoming",
+          "startTime": "2026/11/16 13:45:42 +0000",
+          "endTime": "2026/11/16 17:55:46 +0000"
         },
         "channels_data": [
           {
@@ -947,883 +947,6 @@
         ]
       },
       {
-        "id": 14964,
-        "title": "Belgium vs Italy",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Belgium",
-          "teamB": "Italy",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/4717/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/4707/image",
-          "eventName": "Football",
-          "isHot": "1",
-          "Status": "Finish",
-          "startTime": "2026/11/15 19:45:00 +0000",
-          "endTime": "2026/11/15 22:05:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "DAZN SPORTS - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/dg9ygvtffy/out/v1/f2a8c782c6664f649cf5ec23e4f578af/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "9c99e376ca072739ff5a424d2644321c:90c06edbb9465cb58d230501299cf559",
-            "tokenApi": ""
-          },
-          {
-            "title": "PRIME VIDEO - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bebouklpnn/out/v1/afd41b1a05f541729c4e8a8f671a6a3b/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "3600cc1ba4192a18b3f6eeb13219c0fe:dd794a3d9f0a7802edca45b30cd09023",
-            "tokenApi": ""
-          },
-          {
-            "title": "beIN ENGLISH - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-            "logo": "",
-            "type": 7,
-            "api": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
-            "tokenApi": ""
-          },
-          {
-            "title": "VIX SPANISH - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/hwjlmyb59s/out/v1/c8dfa6294cb34255a3a6ba81fbf286f7/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "e3f9cc220f9e73b355ae62bb40ba90fb:6e5f24e4e845e5d552a28787ff470d9d",
-            "tokenApi": ""
-          },
-          {
-            "title": "SonyLiv ",
-            "link": "https://sonyeventsglobal.akamaized.net/hls/live/2120307/footlive1511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794814006~acl=/*~id=07514221053824178331303229736808~hmac=d2310991a04209950c69429ad0fdc6b86242ba3c5559ca1b3296c55cc8aca651",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "HD SERVER ",
-            "link": "https://www.rtmpcdn.com/live/d369fe60-50f0-4e9d-a225-30ec8d102829.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "LOW SERVER ",
-            "link": "http://193.47.62.50/hls/KKKK.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 14965,
-        "title": "Croatia vs Czechia",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Croatia",
-          "teamB": "Czechia",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/4715/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/4714/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Finish",
-          "startTime": "2026/11/15 19:45:00 +0000",
-          "endTime": "2026/11/15 22:05:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "DAZN SPORTS - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/2csfd49imd/out/v1/9dfa731721a4448db026417ddadd0ee8/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "f922eb47a1ba2d24816da9c8fdb0aba1:47854f2d7ed8ce4a65025603e2ea3b6b",
-            "tokenApi": ""
-          },
-          {
-            "title": "PRIME VIDEO - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/jl5ausniat/out/v1/2cef55ba14124120af25d697c91fe486/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "edd836bc0824ecbe942be493a60843b8:9788340d03514b59a986cadc1b6cb4e9",
-            "tokenApi": ""
-          },
-          {
-            "title": "VIX SPANISH - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ljtyc73ncu/out/v1/8ccf7b91d6c3409b991d48150e65c0e4/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "61708c95b87c2a8b9773567ababb8b53:c6cab010bfaafe4c327671d33cef63b1",
-            "tokenApi": ""
-          },
-          {
-            "title": "FOX SOCCER+ HD",
-            "link": "https://chatgpt.hereisman.net/playlist/60198/load-playlist-multi?|Referer=https://gooz.aapmains.net",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "SonyLiv ",
-            "link": "https://sonyeventsglobal.akamaized.net/hls/live/2120308/footlive1511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794814006~acl=/*~id=07514221053824178331303229736808~hmac=d2310991a04209950c69429ad0fdc6b86242ba3c5559ca1b3296c55cc8aca651",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "HD SERVER ",
-            "link": "https://www.rtmpcdn.com/live/17b041bb-0e08-418c-af9a-26cc42a84050.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "LOW SERVER ",
-            "link": "http://193.47.62.50/hls/KKKKA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 14966,
-        "title": "France vs Turkiye",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "France",
-          "teamB": "T\u00fcrkiye",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/4481/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/4700/image",
-          "eventName": "Football",
-          "isHot": "1",
-          "Status": "Finish",
-          "startTime": "2026/11/15 19:45:00 +0000",
-          "endTime": "2026/11/15 22:05:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "DAZN SPORTS - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/btkkuwb4qs/out/v1/327b33c3e0c34b8382ead83b198974e4/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "2920c80cf0049c1a90fe34522eb62eff:b335f7c3a6b05ba96eaf05953b9f7b92",
-            "tokenApi": ""
-          },
-          {
-            "title": "PRIME VIDEO - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/7yrxcll7ms/out/v1/dbd120f7d0e849c0a6fa3062b148db73/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "44771cb414b1394a0f89a7c951744c8e:91d836ee7fe2650e08cfbb9c72ccccc0",
-            "tokenApi": ""
-          },
-          {
-            "title": "FOX SPORTS - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-            "logo": "",
-            "type": 7,
-            "api": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae",
-            "tokenApi": ""
-          },
-          {
-            "title": "VIX SPANISH - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/eommy1gias/out/v1/d7683dec68ba4f86bfa5ddf4bd842020/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "92754c4946ab8007c919a25d08394ae2:ea58831665208f64c781595cca9ddae7",
-            "tokenApi": ""
-          },
-          {
-            "title": "FOX SPORTS HD",
-            "link": "https://chatgpt.hereisman.net/playlist/60197/load-playlist-multi?|Referer=https://gooz.aapmains.net",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "LOW SERVER ",
-            "link": "http://193.47.62.59/hls/KKKKAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 14967,
-        "title": "Spain vs England",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Spain",
-          "teamB": "England",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/4698/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/4713/image",
-          "eventName": "Football",
-          "isHot": "1",
-          "Status": "Finish",
-          "startTime": "2026/11/15 19:45:00 +0000",
-          "endTime": "2026/11/15 22:05:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "DAZN SPORTS - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/mqwyj7yhod/out/v1/edcfd775dcd740d99bc7c8469b70c0ce/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "2d4040dccd613f280fd3f0918cfc8288:c2a6197e856f672dda686d74986998e4",
-            "tokenApi": ""
-          },
-          {
-            "title": "PRIME VIDEO - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/pfnsqfomlx/out/v1/f7e44627d00044f5a6d3bdaf6a279e19/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "d568a08ab13f76b669f07683491edd61:2193f3a42079453f341e73cc8f228186",
-            "tokenApi": ""
-          },
-          {
-            "title": "beIN ENGLISH - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-            "logo": "",
-            "type": 7,
-            "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
-            "tokenApi": ""
-          },
-          {
-            "title": "VIX SPANISH - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5o9hdmdfrm/out/v1/83e94e1e8f76494f8173edb038f25837/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "7bc4236304752eaeab92f844412eebe8:2610dfd2072192991a8b66283d5840aa",
-            "tokenApi": ""
-          },
-          {
-            "title": "TVE La 1 - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/c7di7zkdor/out/v1/f7d5b356e048494a8325563e8916d50b/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-            "logo": "",
-            "type": 7,
-            "api": "745cd6ec34a58f2f7ac2af35dc3da6d2:ae008f1e47e6567fe4201a6ff8f1ae54",
-            "tokenApi": ""
-          },
-          {
-            "title": "SporTV BR - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-            "logo": "",
-            "type": 7,
-            "api": "51c0ef23b17297e5c01cd7f36dd0a6ce:8823f713ba6fdb9bbe0a2ad82d309a4b",
-            "tokenApi": ""
-          },
-          {
-            "title": "SPORT 1 CZ - AQ",
-            "link": "https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-            "logo": "",
-            "type": 7,
-            "api": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
-            "tokenApi": ""
-          },
-          {
-            "title": "ITV SPORTS HD",
-            "link": "https://chatgpt.hereisman.net/playlist/60195/load-playlist-multi?|Referer=https://gooz.aapmains.net",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "SonyLiv ",
-            "link": "https://sonyeventsglobal.akamaized.net/hls/live/2094588/footlive1511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794814006~acl=/*~id=07514221053824178331303229736808~hmac=d2310991a04209950c69429ad0fdc6b86242ba3c5559ca1b3296c55cc8aca651",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "HD SERVER ",
-            "link": "https://www.rtmpcdn.com/live/3ee6bb15-0a9e-4f51-96ec-335948942e0c.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "LOW SERVER",
-            "link": "http://193.47.62.55/hls/KKKKAAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 14975,
-        "title": "Detroit Lions vs New England Patriots",
-        "image": "",
-        "cat": "American football",
-        "eventInfo": {
-          "teamA": "Detroit Lions",
-          "teamB": "New England Patriots",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/4419/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/4424/image",
-          "eventName": "American football",
-          "isHot": "0",
-          "Status": "Finish",
-          "startTime": "2026/11/15 14:30:00 +0000",
-          "endTime": "2026/11/15 17:30:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "NFL GAMEPASS - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/pwrdfli7tm/out/v1/e34552c7d03d4389b2c501b17bb08bbb/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "3172ee620206d62857eee55b566e5f81:3bf5b7d1eef583f166000a0ba616ed1b",
-            "tokenApi": ""
-          },
-          {
-            "title": "TSN SPORTS - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/lsibpqruq1/out/v1/748887d614a84913ba8bcdf3c82823e6/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-            "logo": "",
-            "type": 7,
-            "api": "d3250252765347a0c2603c6cb4869f8c:0c19319460da7e9ed816db46ce839b37",
-            "tokenApi": ""
-          },
-          {
-            "title": "SKY TOP EVENT - AQ",
-            "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/gjsukewpxp/out/v1/ef14aacf858248839b9867eec5caf563/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-            "logo": "",
-            "type": 7,
-            "api": "368bd4ebe301406897324bc777650411:69d27c2c2b7de927d67aacc973259901",
-            "tokenApi": ""
-          },
-          {
-            "title": "Live 1",
-            "link": "https://chatgpt.hereisman.net/playlist/60145/load-playlist-multi?|Referer=https://gooz.aapmains.net",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "Live 2",
-            "link": "https://chatgpt.hereisman.net/playlist/60146/load-playlist-multi?|Referer=https://gooz.aapmains.net",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "LOW SERVER",
-            "link": "http://193.47.62.50/hls/K555AAAAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 14976,
-        "title": "Atlanta Falcons vs Kansas City Chiefs",
-        "image": "",
-        "cat": "American football",
-        "eventInfo": {
-          "teamA": "Atlanta Falcons",
-          "teamB": "Kansas City Chiefs",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/4393/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/4422/image",
-          "eventName": "American football",
-          "isHot": "0",
-          "Status": "Finish",
-          "startTime": "2026/11/15 18:00:00 +0000",
-          "endTime": "2026/11/15 21:00:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "TSN SPORTS - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-            "logo": "",
-            "type": 7,
-            "api": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0",
-            "tokenApi": ""
-          },
-          {
-            "title": "NFL GAMEPASS - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/in1wmsodu8/out/v1/6eeb0c12a8ee4bea934b8277bf946e2e/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-            "logo": "",
-            "type": 7,
-            "api": "ca77774a7237951a55e82cbc4a8f5dc7:faa2b702c48900cc4d796eeac6860497",
-            "tokenApi": ""
-          },
-          {
-            "title": "Live 1",
-            "link": "https://chatgpt.hereisman.net/playlist/60182/load-playlist?|Referer=https://gooz.aapmains.net",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "Live 2",
-            "link": "https://chatgpt.hereisman.net/playlist/60164/load-playlist?|Referer=https://gooz.aapmains.net",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "HD SERVER ",
-            "link": "https://chatgpt.hereisman.net/playlist/60163/load-playlist?|Referer=https://gooz.aapmains.net",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "LOW SERVER ",
-            "link": "http://193.47.62.44/hls/VIIII.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 14977,
-        "title": "Cleveland Browns vs Houston Texans",
-        "image": "",
-        "cat": "American football",
-        "eventInfo": {
-          "teamA": "Cleveland Browns",
-          "teamB": "Houston Texans",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/4417/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/4324/image",
-          "eventName": "American football",
-          "isHot": "0",
-          "Status": "Finish",
-          "startTime": "2026/11/15 18:00:00 +0000",
-          "endTime": "2026/11/15 21:00:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "NFL GAMEPASS - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/hwwunadxtz/out/v1/dcdaf1f4545d4d1897a4b73047b1ba77/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-            "logo": "",
-            "type": 7,
-            "api": "ce260626c624bf9d60d7c6214f5db83e:c8ac764cdcc9f025b50ef11b1f76069d",
-            "tokenApi": ""
-          },
-          {
-            "title": "Live 1",
-            "link": "https://chatgpt.hereisman.net/playlist/60165/load-playlist?|Referer=https://gooz.aapmains.net",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "Live 2",
-            "link": "https://chatgpt.hereisman.net/playlist/60173/load-playlist?|Referer=https://gooz.aapmains.net",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "HD SERVER ",
-            "link": "https://chatgpt.hereisman.net/playlist/60166/load-playlist?|Referer=https://gooz.aapmains.net",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "LOW SERVER ",
-            "link": "http://193.47.62.50/hls/U777.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 14978,
-        "title": "Green Bay Packers vs Minnesota Vikings",
-        "image": "",
-        "cat": "American football",
-        "eventInfo": {
-          "teamA": "Green Bay Packers",
-          "teamB": "Minnesota Vikings",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/4420/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/4423/image",
-          "eventName": "American football",
-          "isHot": "0",
-          "Status": "Finish",
-          "startTime": "2026/11/15 18:00:00 +0000",
-          "endTime": "2026/11/15 21:00:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "NFL GAMEPASS - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/3xzvxryq7v/out/v1/a6d11bac14e9484fa28dec8dd14953f5/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-            "logo": "",
-            "type": 7,
-            "api": "2e2b5e76b9f69b2bb6055bde308c73c4:ddf7667288ea0727e25b53c8e8cb7b59",
-            "tokenApi": ""
-          },
-          {
-            "title": "Live 1",
-            "link": "https://chatgpt.hereisman.net/playlist/60183/load-playlist?|Referer=https://gooz.aapmains.net",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "Live 2",
-            "link": "https://chatgpt.hereisman.net/playlist/60155/load-playlist?|Referer=https://gooz.aapmains.net",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "HD SERVER ",
-            "link": "https://chatgpt.hereisman.net/playlist/60156/load-playlist?|Referer=https://gooz.aapmains.net",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "LOW SERVER ",
-            "link": "http://193.47.62.50/hls/U777AAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 14979,
-        "title": "Indianapolis Colts vs Miami Dolphins",
-        "image": "",
-        "cat": "American football",
-        "eventInfo": {
-          "teamA": "Indianapolis Colts",
-          "teamB": "Miami Dolphins",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/4421/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/4287/image",
-          "eventName": "American football",
-          "isHot": "0",
-          "Status": "Finish",
-          "startTime": "2026/11/15 18:00:00 +0000",
-          "endTime": "2026/11/15 21:00:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "NFL GAMEPASS - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vytnkohxt5/out/v1/6181c6768150423bbfa85b75d5fcd89b/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-            "logo": "",
-            "type": 7,
-            "api": "47d0ab8cb43e1d45824f03492325b9d9:4e1fce1669c13fbfe4dc64be96391df8",
-            "tokenApi": ""
-          },
-          {
-            "title": "Live 1",
-            "link": "https://chatgpt.hereisman.net/playlist/60185/load-playlist?|Referer=https://gooz.aapmains.net",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "Live 2",
-            "link": "https://chatgpt.hereisman.net/playlist/60159/load-playlist?|Referer=https://gooz.aapmains.net",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "HD SERVER ",
-            "link": "https://chatgpt.hereisman.net/playlist/60183/load-playlist?|Referer=https://gooz.aapmains.net",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "LOW SERVER ",
-            "link": "http://193.47.62.59/hls/VIIIIA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 14980,
-        "title": "New Orleans Saints vs Carolina Panthers",
-        "image": "",
-        "cat": "American football",
-        "eventInfo": {
-          "teamA": "New Orleans Saints",
-          "teamB": "Carolina Panthers",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/4425/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/4415/image",
-          "eventName": "American football",
-          "isHot": "0",
-          "Status": "Finish",
-          "startTime": "2026/11/15 18:00:00 +0000",
-          "endTime": "2026/11/15 21:00:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "NFL GAMEPASS - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ifjybqejqo/out/v1/f264a6f0902043b5954446e7c6c9d6ce/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-            "logo": "",
-            "type": 7,
-            "api": "3b34372a5ddd6ff928db0d76f7bed220:6b27abc1e5e901d086da361087826142",
-            "tokenApi": ""
-          },
-          {
-            "title": "Live 1",
-            "link": "https://chatgpt.hereisman.net/playlist/60181/load-playlist?|Referer=https://gooz.aapmains.net",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "Live 2",
-            "link": "https://chatgpt.hereisman.net/playlist/60161/load-playlist?|Referer=https://gooz.aapmains.net",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "HD SERVER ",
-            "link": "https://chatgpt.hereisman.net/playlist/60162/load-playlist?|Referer=https://gooz.aapmains.net",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "LOW SERVER ",
-            "link": "http://193.47.62.55/hls/U777A.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 14981,
-        "title": "New York Jets vs Buffalo Bills",
-        "image": "",
-        "cat": "American football",
-        "eventInfo": {
-          "teamA": "New York Jets",
-          "teamB": "Buffalo Bills",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/4427/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/4414/image",
-          "eventName": "American football",
-          "isHot": "0",
-          "Status": "Finish",
-          "startTime": "2026/11/15 18:00:00 +0000",
-          "endTime": "2026/11/15 21:00:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "NFL GAMEPASS - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/y2rrynnf1c/out/v1/34ef59059d1c4b66a39ab8ba4ca3254c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-            "logo": "",
-            "type": 7,
-            "api": "7c8b356c216daa9063737d0b20f19a09:427d5b4a79697887308680ed201e8aa8",
-            "tokenApi": ""
-          },
-          {
-            "title": "Live 1",
-            "link": "https://chatgpt.hereisman.net/playlist/60172/load-playlist?|Referer=https://gooz.aapmains.net",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "Live 2",
-            "link": "https://chatgpt.hereisman.net/playlist/60168/load-playlist?|Referer=https://gooz.aapmains.net",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "LOW SERVER ",
-            "link": "http://193.47.62.44/hls/VIIIIAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 14982,
-        "title": "Tennessee Titans vs Jacksonville Jaguars",
-        "image": "",
-        "cat": "American football",
-        "eventInfo": {
-          "teamA": "Tennessee Titans",
-          "teamB": "Jacksonville Jaguars",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/4431/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/4386/image",
-          "eventName": "American football",
-          "isHot": "0",
-          "Status": "Finish",
-          "startTime": "2026/11/15 18:00:00 +0000",
-          "endTime": "2026/11/15 21:00:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "NFL GAMEPASS - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/83htm3sfrd/out/v1/b22b72312cca4b54be427642784abb9b/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-            "logo": "",
-            "type": 7,
-            "api": "8d169ab4ca245e8c03162acda78019fb:de76bcc7672a699cd45a46aaf018ccfd",
-            "tokenApi": ""
-          },
-          {
-            "title": "Live 1",
-            "link": "https://chatgpt.hereisman.net/playlist/60157/load-playlist?|Referer=https://gooz.aapmains.net",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "Live 2",
-            "link": "https://chatgpt.hereisman.net/playlist/60184/load-playlist?|Referer=https://gooz.aapmains.net",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "LOW SERVER ",
-            "link": "http://193.47.62.50/hls/U777AA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 14983,
-        "title": "Arizona Cardinals vs Los Angeles Rams",
-        "image": "",
-        "cat": "American football",
-        "eventInfo": {
-          "teamA": "Arizona Cardinals",
-          "teamB": "Los Angeles Rams",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/4412/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/4387/image",
-          "eventName": "American football",
-          "isHot": "0",
-          "Status": "Finish",
-          "startTime": "2026/11/15 21:05:00 +0000",
-          "endTime": "2026/11/16 00:05:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "Live 1",
-            "link": "https://primevideo.com.playfytvboss.online/ottb/live/dazncad/B0HL1P8ZZC.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "https://primevideo.com.playfytvboss.online/license/dazncad/?asin=B0HL1P8ZZC",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 14984,
-        "title": "Las Vegas Raiders vs Seattle Seahawks",
-        "image": "",
-        "cat": "American football",
-        "eventInfo": {
-          "teamA": "Las Vegas Raiders",
-          "teamB": "Seattle Seahawks",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/4390/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/4430/image",
-          "eventName": "American football",
-          "isHot": "0",
-          "Status": "Finish",
-          "startTime": "2026/11/15 21:05:00 +0000",
-          "endTime": "2026/11/16 00:05:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "Live 1",
-            "link": "https://primevideo.com.playfytvboss.online/ottb/live/dazncad/B0HQK2GBMT.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "https://primevideo.com.playfytvboss.online/license/dazncad/?asin=B0HQK2GBMT",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 14985,
-        "title": "Dallas Cowboys vs San Francisco 49ers",
-        "image": "",
-        "cat": "American football",
-        "eventInfo": {
-          "teamA": "Dallas Cowboys",
-          "teamB": "San Francisco 49ers",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/4392/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/4389/image",
-          "eventName": "American football",
-          "isHot": "0",
-          "Status": "Finish",
-          "startTime": "2026/11/15 21:25:00 +0000",
-          "endTime": "2026/11/16 00:25:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "Live 1",
-            "link": "https://primevideo.com.playfytvboss.online/ottb/live/dazncad/B0HQ6P3KP3.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "https://primevideo.com.playfytvboss.online/license/dazncad/?asin=B0HQ6P3KP3",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
         "id": 14986,
         "title": "Cincinnati Bengals vs Pittsburgh Steelers",
         "image": "",
@@ -1924,7 +1047,7 @@
         },
         "channels_data": [
           {
-            "title": "Live 1",
+            "title": "TSN SPORTS - AQ",
             "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
             "logo": "",
             "type": 0,
@@ -2407,6 +1530,114 @@
           "Status": "Upcoming",
           "startTime": "2026/11/17 21:00:00 +0000",
           "endTime": "2026/11/17 23:20:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Live 1",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 15006,
+        "title": "Bangladesh Women vs Netherlands Women",
+        "image": "",
+        "cat": "Cricket",
+        "eventInfo": {
+          "teamA": "Bangladesh Women",
+          "teamB": "Netherlands Women",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/187809/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/417753/image",
+          "eventName": "Cricket",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/11/16 05:00:00 +0000",
+          "endTime": "2026/11/16 09:00:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Live 1",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 15007,
+        "title": "Zimbabwe Women vs Pakistan Women",
+        "image": "",
+        "cat": "Cricket",
+        "eventInfo": {
+          "teamA": "Zimbabwe Women",
+          "teamB": "Pakistan Women",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/417062/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/187808/image",
+          "eventName": "Cricket",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/11/16 05:00:00 +0000",
+          "endTime": "2026/11/16 09:00:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Live 1",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 15008,
+        "title": "Ireland Women vs Papua New Guinea Women",
+        "image": "",
+        "cat": "Cricket",
+        "eventInfo": {
+          "teamA": "Ireland Women",
+          "teamB": "Papua New Guinea Women",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/213116/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/453165/image",
+          "eventName": "Cricket",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/11/16 09:15:00 +0000",
+          "endTime": "2026/11/16 13:15:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Live 1",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 15009,
+        "title": "United Arab Emirates Women vs Sri Lanka Women",
+        "image": "",
+        "cat": "Cricket",
+        "eventInfo": {
+          "teamA": "United Arab Emirates Women",
+          "teamB": "Sri Lanka Women",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/291494/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/187806/image",
+          "eventName": "Cricket",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/11/16 09:15:00 +0000",
+          "endTime": "2026/11/16 13:15:00 +0000"
         },
         "channels_data": [
           {
