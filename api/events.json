@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-16T15:40:56.562356",
+  "last_updated": "2026-11-16T15:50:56.228112",
   "event_count": 30,
   "events": {
     "events": [
@@ -559,8 +559,8 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/unique-tournament/18292/image/dark",
           "eventName": "Cricket",
           "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/11/16 13:45:42 +0000",
+          "Status": "Upcoming",
+          "startTime": "2026/11/16 16:00:17 +0000",
           "endTime": "2026/11/16 17:55:46 +0000"
         },
         "channels_data": [
@@ -1075,7 +1075,7 @@
           },
           {
             "title": "LOW SERVER ",
-            "link": "https://www.rtmpcdn.com/live/e1730e93-10ba-4cd5-a2ef-df10b2c8d746.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+            "link": "http://193.47.62.50/hls/BTBTBT.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
             "logo": "",
             "type": 0,
             "api": "",
@@ -1101,11 +1101,19 @@
         },
         "channels_data": [
           {
-            "title": "beIN SPANISH - AQ",
+            "title": "beIN SPORTS - AQ",
             "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/e3ozww2yny/out/v1/3a16d07c2cc0444bb8ea10d0483d1ced/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
             "logo": "",
             "type": 7,
             "api": "74cbe15488783fab07ff8c702fabafcd:bb607803a49c2d6104f845e7886c971c",
+            "tokenApi": ""
+          },
+          {
+            "title": "LOW SERVER",
+            "link": "http://193.47.62.50/hls/BTBTBTA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+            "logo": "",
+            "type": 0,
+            "api": "",
             "tokenApi": ""
           }
         ]
