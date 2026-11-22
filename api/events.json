@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-22T16:11:00.332052",
-  "event_count": 30,
+  "last_updated": "2026-11-22T16:21:09.784589",
+  "event_count": 51,
   "events": {
     "events": [
       {
@@ -15,25 +15,17 @@
           "teamBFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6U1hs_95YIb02AiDL1JAgkqMNrA1SkPMUatqqPsO2ZqtNZdmj79TQ71k&s=10",
           "eventName": "Motorsports",
           "isHot": "0",
-          "Status": "Finish",
-          "startTime": "2026/11/20 00:30:55 +0000",
-          "endTime": "2026/11/20 08:00:01 +0000"
+          "Status": "Upcoming",
+          "startTime": "2026/11/27 13:30:09 +0000",
+          "endTime": "2026/11/27 17:59:12 +0000"
         },
         "channels_data": [
           {
-            "title": "SKY Via APPLE TV",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/2hn5xws7g1/out/v1/86947b9564624bc2a940197ab0b85d0f/cenc.mpd",
+            "title": "TSN SPORTS - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
             "logo": "",
             "type": 7,
-            "api": "ad9c5642912f164df77db5be0da7a657:339be92287cc92abc02a707d1ea58414",
-            "tokenApi": ""
-          },
-          {
-            "title": "APPLE TV - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tmrtlajayo/out/v1/1bd51a1a8ad744f8bb0ab5f7f586ff53/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "dd25580d08f76c7dac3c6b016e8c0bde:93ca607d8356449bbb6adf34afdf5853",
+            "api": "385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8",
             "tokenApi": ""
           },
           {
@@ -45,14 +37,6 @@
             "tokenApi": ""
           },
           {
-            "title": "SKY SPORT F1 - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/9fm80mkzat/out/v1/c46b85c35e7b4a0086723fe79de09b6b/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "0d7d09d646a2a4edd51b87563abe77a3:a1e63461298a129daa947f42cbad4aa2",
-            "tokenApi": ""
-          },
-          {
             "title": "SporTV BR - AQ",
             "link": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/6otiglnptp/out/v1/add7499679b0422cb6791f7701f95ecc/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
             "logo": "",
@@ -61,8 +45,24 @@
             "tokenApi": ""
           },
           {
+            "title": "SKY SPORT F1 - AQ",
+            "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/9fm80mkzat/out/v1/c46b85c35e7b4a0086723fe79de09b6b/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "0d7d09d646a2a4edd51b87563abe77a3:a1e63461298a129daa947f42cbad4aa2",
+            "tokenApi": ""
+          },
+          {
+            "title": "SKY MAIN EVENT",
+            "link": "https://admin2.formaturamaxi.com.br/f1.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
             "title": "Live 1",
-            "link": "https://chatgpt.hereisman.net/playlist/59362/load-playlist-multi?|Referer=https://gooz.aapmains.net",
+            "link": "https://chatgpt.hereisman.net/playlist/60456/load-playlist-multi?|Referer=https://gooz.aapmains.net",
             "logo": "",
             "type": 0,
             "api": "",
@@ -70,7 +70,7 @@
           },
           {
             "title": "SPORTSCAST - AQ",
-            "link": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/625d55bb-c7b5-4867-8025-6c605f05263f/master.m3u8",
+            "link": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/59d22f5b-e8e0-4db7-9765-56a5b9e8f236/master.m3u8",
             "logo": "",
             "type": 0,
             "api": "",
@@ -78,7 +78,7 @@
           },
           {
             "title": "RUSSIA FEED",
-            "link": "https://bl.rutube.ru/livestream/db5196d148940744b350e26e826c4b72/index.m3u8?s=UWV-P5C4krQ3jIWw_JWM9Q&e=1793648762&scheme=https|user-agent=Mozilla",
+            "link": "https://bl.rutube.ru/livestream/27b8d0d11b4efc6beecb5b698250a1d5/index.m3u8?s=ddjUZmVD7KUWSnUTqB05ig&e=1795221878&scheme=https|user-agent=Mozilla",
             "logo": "",
             "type": 0,
             "api": "",
@@ -94,7 +94,7 @@
           },
           {
             "title": "LOW SERVER",
-            "link": "http://193.47.62.50/hls/ffffn.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+            "link": "http://193.47.62.50/hls/4GGGG.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
             "logo": "",
             "type": 0,
             "api": "",
@@ -122,9 +122,9 @@
           "teamBFlag": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHudrhyphenhyphenOGNuEpCmd8k8vfTaJ7hTqEb6GemloDedieYFrvM5MJz639vioDvQnlHGBhvxsNBHSLg2ICSGot7LWGA2PDZqoc3W_A3Yu002I5JGUeQgTCG_UFhDRPSJr2E1blnBokZvTYkB6B2nJVeeUy6s28sW-XHRZzCW_J6SOGpaoXx0LB-CH-9iTf1ebc/s1600/1000009837.jpg",
           "eventName": "Motorsport",
           "isHot": "0",
-          "Status": "Finish",
-          "startTime": "2026/11/20 10:45:42 +0000",
-          "endTime": "2026/11/20 17:55:53 +0000"
+          "Status": "Upcoming",
+          "startTime": "2026/11/27 09:45:58 +0000",
+          "endTime": "2026/11/27 17:55:02 +0000"
         },
         "channels_data": [
           {
@@ -145,18 +145,10 @@
           },
           {
             "title": "SKY SPORT MIX - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/oln41tn1gj/out/v1/1247ce6ac92b4ee3be02e7082954348a/cenc.mpd",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ttguqv2dus/out/v1/10e708fa029549e8807c7a35f4740adf/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
             "logo": "",
             "type": 7,
             "api": "fa23a7c0d9c82f0c7b113506e202af8c:a883237ef30932b731f71aa59a0805c0",
-            "tokenApi": ""
-          },
-          {
-            "title": "SKY TOP EVENT - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/gjsukewpxp/out/v1/ef14aacf858248839b9867eec5caf563/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-            "logo": "",
-            "type": 7,
-            "api": "368bd4ebe301406897324bc777650411:69d27c2c2b7de927d67aacc973259901",
             "tokenApi": ""
           },
           {
@@ -205,9 +197,9 @@
           "teamBFlag": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzZP7kZVz8XPUsapkhsNd-oO8yjHbAA2NXMRuEDPXZteAJRwIeIAUQo5U_6QA4mhPqXAeR5YPVY-Yu5hBVZcOIfWUUFvewgaC2bFmrSLu10iQgvBiLpB0vxEWz320Par_JDjKzTdCYYTcsA4dLb-TjD1fsXvMwGsb6XahN-Pq2ZsexcSsBITIxzXFRYEM/s1600/1000009833.jpg",
           "eventName": "WWE",
           "isHot": "0",
-          "Status": "Finish",
-          "startTime": "2026/11/21 00:00:03 +0000",
-          "endTime": "2026/11/21 03:00:06 +0000"
+          "Status": "Upcoming",
+          "startTime": "2026/11/28 00:00:25 +0000",
+          "endTime": "2026/11/28 03:00:28 +0000"
         },
         "channels_data": [
           {
@@ -220,7 +212,7 @@
           },
           {
             "title": "WWE LIVE - AQ",
-            "link": "https://ubuntu.fromthyheart.site/dailymotion/live/playlist/4.m3u8",
+            "link": "https://navidrome.fromthyheart.site/dailymotion/live/playlist/4.m3u8",
             "logo": "",
             "type": 0,
             "api": "",
@@ -264,9 +256,9 @@
           "teamBFlag": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiFW9zq6aPTeuXAbR_LN5vEH39CQlgUwbf9htaAx9-D4oupUZ-ocumYl3T_Kkp6Crzq1rUzGf83Ps4jnJzkLD6XlNh1CW9WjsgdhneuImqgaPDw7UekEqax_YdnYynNmyfmWTxVZ599JunK1yoA5ErRmJBe0fCos9fHoNwIYmOAwgenJizk5e0nhHHPnkM/s1600/20250317_175451.jpg",
           "eventName": "WWE",
           "isHot": "0",
-          "Status": "Finish",
-          "startTime": "2026/11/17 00:00:15 +0000",
-          "endTime": "2026/11/17 03:00:20 +0000"
+          "Status": "Upcoming",
+          "startTime": "2026/11/24 00:00:46 +0000",
+          "endTime": "2026/11/24 03:00:50 +0000"
         },
         "channels_data": [
           {
@@ -309,36 +301,36 @@
         "image": "null",
         "cat": "Boxing",
         "eventInfo": {
-          "teamA": "C. Gane",
-          "teamB": "J. Hokit",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/461602/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/493385/image",
+          "teamA": "I. Adesanya",
+          "teamB": "S. Magomedov",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/470041/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/494444/image",
           "eventName": "Boxing",
           "isHot": "0",
-          "Status": "Finish",
-          "startTime": "2026/11/14 22:00:57 +0000",
-          "endTime": "2026/11/15 05:55:05 +0000"
+          "Status": "Upcoming",
+          "startTime": "2026/12/05 16:00:44 +0000",
+          "endTime": "2026/12/06 05:00:54 +0000"
         },
         "channels_data": [
           {
             "title": "PARAMOUNT+ - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/yfyaoutkx5/out/v1/bc189987de5240c081c6ac3dc81bcdb3/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/4qdgd4mmo9/out/v1/0a47a5d7670a45809470b9f166bfe881/cenc.mpd",
             "logo": "",
             "type": 7,
-            "api": "38223269c2af7b493a5cfdccdb7fa104:6b6db412f1124be3643346b1f99061a1",
+            "api": "2500035f00c78f8af6ac34417b56ad1a:055b8962417dc85371837afe265cb0b9",
             "tokenApi": ""
           },
           {
             "title": "TNT SPORTS - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
             "logo": "",
             "type": 7,
-            "api": "f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b",
+            "api": "69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749",
             "tokenApi": ""
           },
           {
             "title": "PARAMOUNT+ HD",
-            "link": "https://chatgpt.hereisman.net/playlist/60083/load-playlist-multi?|Referer=https://gooz.aapmains.net",
+            "link": "https://chatgpt.hereisman.net/playlist/60610/load-playlist-multi?|Referer=https://gooz.aapmains.net",
             "logo": "",
             "type": 0,
             "api": "",
@@ -354,7 +346,7 @@
           },
           {
             "title": "Live 1",
-            "link": "https://chatgpt.hereisman.net/playlist/60082/load-playlist-multi?|Referer=https://gooz.aapmains.net",
+            "link": "https://chatgpt.hereisman.net/playlist/60608/load-playlist-multi?|Referer=https://gooz.aapmains.net",
             "logo": "",
             "type": 0,
             "api": "",
@@ -387,226 +379,6 @@
         ]
       },
       {
-        "id": 14072,
-        "title": "Afghanistan vs Zimbabwe",
-        "image": "",
-        "cat": "Cricket",
-        "eventInfo": {
-          "teamA": "Afghanistan",
-          "teamB": "Zimbabwe",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/187575/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/187745/image",
-          "eventName": "Cricket",
-          "isHot": "0",
-          "Status": "Finish",
-          "startTime": "2026/11/17 06:00:48 +0000",
-          "endTime": "2026/11/17 14:00:51 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "WILLOW - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/obarp6nvg5/out/v1/99d085ed0a6e40c58b53a53d7b823278/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "b6745cf86849992016a18fa701bbe4c7:1868048f6a964c749f14fb2fc26788f4",
-            "tokenApi": ""
-          },
-          {
-            "title": "WILLOW - ALT",
-            "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/obarp6nvg5/out/v1/99d085ed0a6e40c58b53a53d7b823278/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "b6745cf86849992016a18fa701bbe4c7:1868048f6a964c749f14fb2fc26788f4",
-            "tokenApi": ""
-          },
-          {
-            "title": "A SPORTS HD",
-            "link": "https://live.msnetworks.net/a-sports/master.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "FANCODE - IN ",
-            "link": "https://dai-fancode.pages.dev/mumbai/4249772_english_hls_ea87fdf83461346_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 14261,
-        "title": "NPL Nepal Premier League",
-        "image": "",
-        "cat": "Cricket",
-        "eventInfo": {
-          "teamA": "NPL",
-          "teamB": "NPL",
-          "teamAFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTo0kwOfn0swttbdChYr5KGVFVY-XuUO6nrYQ&s",
-          "teamBFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTo0kwOfn0swttbdChYr5KGVFVY-XuUO6nrYQ&s",
-          "eventName": "Cricket",
-          "isHot": "0",
-          "Status": "Finish",
-          "startTime": "2026/11/17 06:45:36 +0000",
-          "endTime": "2026/11/17 11:00:40 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "FANCODE - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-            "logo": "",
-            "type": 7,
-            "api": "82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca",
-            "tokenApi": ""
-          },
-          {
-            "title": "STAR SPORTS HD",
-            "link": "http://line.tivi-ott.net/play/live.php?mac=00:1B:79:F9:2A:14&stream=373201&extension=m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "FANCODE - IN",
-            "link": "https://in-mc-flive.fancode.com/mumbai/4250376_english_hls_06f8df790c25388_1ta-di_h264/1080p.m3u8?hdntl=Expires=1794551600~_GO=Generated~acl=/mumbai/4250376_english_hls_06f8df790c25388_1ta-di_h264/*~SessionID=20fde653298ae09b1231e2c94877ae9f_playbox_845100cd-5fdc-46~Signature=AbO9BjgfyL-FpZ7spkiG2wk2QQTC6UB2OHU7ZKlNcQy4HU3FoWFjTUucHLaPgIbX7QFpbRGK2lYv32eBx3NUFzpDLlIG",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 14559,
-        "title": "Pakistan vs Sri Lanka",
-        "image": "",
-        "cat": "Cricket",
-        "eventInfo": {
-          "teamA": "Pakistan",
-          "teamB": "Sri Lanka",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/187754/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/187756/image",
-          "eventName": "Cricket",
-          "isHot": "0",
-          "Status": "Finish",
-          "startTime": "2026/11/17 04:30:53 +0000",
-          "endTime": "2026/11/17 13:00:58 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "WILLOW - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/mg8j8enrjm/out/v1/709854ce369042edb21bbc912f26c2e3/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "5e8ebd9181946fbaa6e3dbf57be1e08c:7ac65a50bd9833f40eb8d383a5bf2beb",
-            "tokenApi": ""
-          },
-          {
-            "title": "WILLOW - ALT",
-            "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/mg8j8enrjm/out/v1/709854ce369042edb21bbc912f26c2e3/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "5e8ebd9181946fbaa6e3dbf57be1e08c:7ac65a50bd9833f40eb8d383a5bf2beb",
-            "tokenApi": ""
-          },
-          {
-            "title": "TAPMAD - AQ",
-            "link": "https://multiregion-asia-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8|referer=https://tapmad.com/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "PTV SPORTS HD",
-            "link": "https://live.msnetworks.net/ptv-sports/master.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "TAPMAD HD",
-            "link": "https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "LOW SERVER ",
-            "link": "http://193.47.62.50/hls/VFFFA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 14622,
-        "title": "Abu Dhabi T10 League",
-        "image": "null",
-        "cat": "Cricket",
-        "eventInfo": {
-          "teamA": "Abu Dhabi T10",
-          "teamB": "Abu Dhabi T10",
-          "teamAFlag": "https://img.sofascore.com/api/v1/unique-tournament/18292/image/dark",
-          "teamBFlag": "https://img.sofascore.com/api/v1/unique-tournament/18292/image/dark",
-          "eventName": "Cricket",
-          "isHot": "0",
-          "Status": "Finish",
-          "startTime": "2026/11/16 16:00:17 +0000",
-          "endTime": "2026/11/16 17:55:46 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "WILLOW - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/xctbh0jely/out/v1/5fa99c274f9d4ba896fa7d398393398b/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "eee1d2e4356d92d478fe04f24d3f34f7:b5d5b65cfc1e342bbfb30101b46fc531",
-            "tokenApi": ""
-          },
-          {
-            "title": "PREMIER SPORTS - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-            "logo": "",
-            "type": 7,
-            "api": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19",
-            "tokenApi": ""
-          },
-          {
-            "title": "WILLOW - ALT",
-            "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/xctbh0jely/out/v1/5fa99c274f9d4ba896fa7d398393398b/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "eee1d2e4356d92d478fe04f24d3f34f7:b5d5b65cfc1e342bbfb30101b46fc531",
-            "tokenApi": ""
-          },
-          {
-            "title": "A SPORTS HD",
-            "link": "https://live.msnetworks.net/a-sports/master.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "MYCO HD",
-            "link": "https://ml-pull-rtmp-pk1.myco.io/SRT/hls/index.m3u8|referer=https://myco.io/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
         "id": 14822,
         "title": "Australia vs England",
         "image": "",
@@ -618,38 +390,46 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/187757/image",
           "eventName": "Cricket",
           "isHot": "0",
-          "Status": "Finish",
-          "startTime": "2026/11/18 03:30:10 +0000",
-          "endTime": "2026/11/18 12:00:15 +0000"
+          "Status": "Upcoming",
+          "startTime": "2026/11/24 08:15:00 +0000",
+          "endTime": "2026/11/24 12:30:04 +0000"
         },
         "channels_data": [
           {
             "title": "WILLOW - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/cs4bb976aa/out/v1/18bfdac2326c4055b5be76a41172ff9c/cenc.mpd",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/1m5p4laylw/out/v1/d06dee18492d4734b4a35dfa108e3a33/cenc.mpd",
             "logo": "",
             "type": 7,
-            "api": "ec7e146b29b33caca854620c0fb05bea:e895d427078bb109a0f6b8fd690dd105",
+            "api": "ae2b2cc0d4a4ca729178fa33c76c333f:a2cef8a0f497874cedd1c23d13d7cf63",
+            "tokenApi": ""
+          },
+          {
+            "title": "TNT SPORTS - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+            "logo": "",
+            "type": 7,
+            "api": "69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749",
             "tokenApi": ""
           },
           {
             "title": "FANCODE - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
             "logo": "",
             "type": 7,
-            "api": "82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca",
+            "api": "1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835",
             "tokenApi": ""
           },
           {
             "title": "WILLOW - ALT",
-            "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/cs4bb976aa/out/v1/18bfdac2326c4055b5be76a41172ff9c/cenc.mpd",
+            "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/1m5p4laylw/out/v1/d06dee18492d4734b4a35dfa108e3a33/cenc.mpd",
             "logo": "",
             "type": 7,
-            "api": "ec7e146b29b33caca854620c0fb05bea:e895d427078bb109a0f6b8fd690dd105",
+            "api": "ae2b2cc0d4a4ca729178fa33c76c333f:a2cef8a0f497874cedd1c23d13d7cf63",
             "tokenApi": ""
           },
           {
             "title": "TAPMAD - AQ",
-            "link": "https://tencent-cdn.tapmad.com/v1/01a14a9fb90c15fc60e91e1786b061/01a14a9feb881ea540a81c2b41b75e/main.m3u8?|Referer=https://tapmad.com/",
+            "link": "https://tencent-cdn.tapmad.com/v1/01a14a4cd93615fc600b1e3e9683e8/01a14a5761541567ee931e109fa576/main.m3u8",
             "logo": "",
             "type": 0,
             "api": "",
@@ -664,16 +444,16 @@
             "tokenApi": ""
           },
           {
-            "title": "LOW SERVER",
-            "link": "http://193.47.62.41/hls/vvvve.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+            "title": "FANCODE - LQ",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/eayjamsonn/out/v1/6c25cddab58043a6ace0ac64d97983f0/cenc-sd.mpd",
             "logo": "",
-            "type": 0,
-            "api": "",
+            "type": 7,
+            "api": "5318e462b9e0677487cb87837f0bbdb1:4fa0fb973b95738306005f2e8591bf8e",
             "tokenApi": ""
           },
           {
-            "title": "FANCODE - IN",
-            "link": "https://in-mc-flive.fancode.com/mumbai/4250640_english_hls_531bf4661e7063_1ta-di_h264/1080p.m3u8?hdntl=Expires=1794628546~_GO=Generated~acl=/mumbai/4250640_english_hls_531bf4661e7063_1ta-di_h264/*~SessionID=330387595_fc-web_e17f533d-0cb8-4f~Signature=AbO9BjhOYLd1GmMfhOhHHklnPOfhTKBOpq8RY94K5cvEs32zsfobefwN_2FtsFC-VmxLp67-63kmnIeMKq08MmKZpgcO",
+            "title": "LOW SERVER",
+            "link": "http://193.47.62.41/hls/SSSSAAAAQQQQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
             "logo": "",
             "type": 0,
             "api": "",
@@ -693,17 +473,17 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/187744/image",
           "eventName": "Cricket",
           "isHot": "0",
-          "Status": "Finish",
-          "startTime": "2026/11/17 08:00:07 +0000",
-          "endTime": "2026/11/17 16:00:12 +0000"
+          "Status": "Upcoming",
+          "startTime": "2026/11/23 08:00:27 +0000",
+          "endTime": "2026/11/23 16:00:30 +0000"
         },
         "channels_data": [
           {
             "title": "WILLOW - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wuqectjbqg/out/v1/55f113daf3c1409eb2623e1f921d421c/cenc.mpd",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/hrdkx6bij1/out/v1/0bf6be8b46f94e308c1965de2d359faa/cenc.mpd",
             "logo": "",
             "type": 7,
-            "api": "6597902f04582f5e30cf281d4d86cecb:85d06b34717eae4d10f7a52abdeafe97",
+            "api": "ade0d3679d401d18ec4c96eb65344148:a7a659a01bf2ec21e1c406ae96dc5298",
             "tokenApi": ""
           },
           {
@@ -724,10 +504,18 @@
           },
           {
             "title": "WILLOW - ALT",
-            "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/wuqectjbqg/out/v1/55f113daf3c1409eb2623e1f921d421c/cenc.mpd",
+            "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/hrdkx6bij1/out/v1/0bf6be8b46f94e308c1965de2d359faa/cenc.mpd",
             "logo": "",
             "type": 7,
-            "api": "6597902f04582f5e30cf281d4d86cecb:85d06b34717eae4d10f7a52abdeafe97",
+            "api": "ade0d3679d401d18ec4c96eb65344148:a7a659a01bf2ec21e1c406ae96dc5298",
+            "tokenApi": ""
+          },
+          {
+            "title": "A SPORTS HD",
+            "link": "https://live.msnetworks.net/a-sports/master.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
             "tokenApi": ""
           },
           {
@@ -739,16 +527,8 @@
             "tokenApi": ""
           },
           {
-            "title": "T SPORTS HD ",
-            "link": "https://tvsen5.aynaott.com/TnMn5kZz8aLmjklkk/index.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
             "title": "LOW SERVER",
-            "link": "http://193.47.62.41/hls/JYYY.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+            "link": "http://193.47.62.59/hls/RREGEGEAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
             "logo": "",
             "type": 0,
             "api": "",
@@ -768,30 +548,38 @@
           "teamBFlag": "http://img.sofascore.com/api/v1/unique-tournament/11163/image/dark",
           "eventName": "Cricket",
           "isHot": "0",
-          "Status": "Finish",
-          "startTime": "2026/11/17 08:10:39 +0000",
-          "endTime": "2026/11/17 12:00:43 +0000"
+          "Status": "Upcoming",
+          "startTime": "2026/11/23 04:40:47 +0000",
+          "endTime": "2026/11/23 09:00:52 +0000"
         },
         "channels_data": [
           {
             "title": "WILLOW - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ybyaz2dp7v/out/v1/e662810efd6a41689af68291d4c318c4/cenc.mpd",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/mqm7na9fsn/out/v1/696722493a4f455289066cb152fe5f7b/cenc.mpd",
             "logo": "",
             "type": 7,
-            "api": "93e19c6b590f07c3b9ba8fed76a01b61:f893d5d988d7649ba856dfc1269710ba",
+            "api": "e929ffbf0190098c52fa2c689dd2311e:b499ea7a1c854eaddbf3021a7b3d40bc",
             "tokenApi": ""
           },
           {
             "title": "WILLOW - ALT",
-            "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ybyaz2dp7v/out/v1/e662810efd6a41689af68291d4c318c4/cenc.mpd",
+            "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/mqm7na9fsn/out/v1/696722493a4f455289066cb152fe5f7b/cenc.mpd",
             "logo": "",
             "type": 7,
-            "api": "93e19c6b590f07c3b9ba8fed76a01b61:f893d5d988d7649ba856dfc1269710ba",
+            "api": "e929ffbf0190098c52fa2c689dd2311e:b499ea7a1c854eaddbf3021a7b3d40bc",
+            "tokenApi": ""
+          },
+          {
+            "title": "SKY CRICKET - AQ",
+            "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla",
+            "logo": "",
+            "type": 0,
+            "api": "",
             "tokenApi": ""
           },
           {
             "title": "TAPMAD - AQ",
-            "link": "https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea540a81c2b41b75f/main.m3u8?|Referer=https://tapmad.com/",
+            "link": "https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea540a81c2b41b75f/main.m3u8",
             "logo": "",
             "type": 0,
             "api": "",
@@ -799,7 +587,7 @@
           },
           {
             "title": "WILLOW HD",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+            "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd",
             "logo": "",
             "type": 7,
             "api": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
@@ -807,7 +595,7 @@
           },
           {
             "title": "LOW SERVER ",
-            "link": "http://193.47.62.55/hls/VFFF.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+            "link": "http://193.47.62.41/hls/FFFFE.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
             "logo": "",
             "type": 0,
             "api": "",
@@ -827,54 +615,54 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/187765/image",
           "eventName": "Cricket",
           "isHot": "0",
-          "Status": "Finish",
-          "startTime": "2026/11/18 22:00:35 +0000",
-          "endTime": "2026/11/19 06:00:41 +0000"
+          "Status": "Upcoming",
+          "startTime": "2026/11/22 22:00:35 +0000",
+          "endTime": "2026/11/23 06:00:40 +0000"
         },
         "channels_data": [
           {
-            "title": "PRIME ENG - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/yqqst5pqux/out/v1/073a062a7b0847ce932d5eadcebc0ac4/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "d2cc5711d3688fa4b639af9c7d0f11f1:dfd6faef548d25c8e4e8bd0c81e10cae",
-            "tokenApi": ""
-          },
-          {
             "title": "WILLOW - AQ",
-            "link": "https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/kun3tuq8ds/out/v1/2888a4861ca042d1a01fc66e65c44981/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/qwtncijddv/out/v1/04a014ed48a447d9a59f48be45f26e20/cenc.mpd",
             "logo": "",
             "type": 7,
-            "api": "1f64db3174349a969b3f9686b28fa2ec:9a24a60537b3628ce17fc07404520d16",
-            "tokenApi": ""
-          },
-          {
-            "title": "PRIME HINDI - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/urcccugwau/out/v1/a9db6d34fd7c475892f37f566feb5d14/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-            "logo": "",
-            "type": 7,
-            "api": "be1f10aeaca62da127a95ce24f9ca1c8:19afcfb83c9fbac9b3b6717776474356",
+            "api": "9a79865ad099bcc92fc555a1014310a6:0f79fed08b0fa0db9c08989d40f7ba73",
             "tokenApi": ""
           },
           {
             "title": "TNT SPORTS - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
             "logo": "",
             "type": 7,
-            "api": "cc91508324ce9dcaf425a43d58f1d9d4:643e5474d9edd87c7d9091c8c97994ca",
+            "api": "69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749",
             "tokenApi": ""
           },
           {
             "title": "WILLOW - ALT",
-            "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/azerlw3rnq/out/v1/d8655060ec4447548120f9322101963b/cenc.mpd",
+            "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/qwtncijddv/out/v1/04a014ed48a447d9a59f48be45f26e20/cenc.mpd",
             "logo": "",
             "type": 7,
-            "api": "3a4e1c0452e8620aa47a64c82b81f90d:f11223850b04db47d8815871e6b77d05",
+            "api": "9a79865ad099bcc92fc555a1014310a6:0f79fed08b0fa0db9c08989d40f7ba73",
+            "tokenApi": ""
+          },
+          {
+            "title": "TAPMAD - AQ",
+            "link": "https://tencent-cdn.tapmad.com/v1/01a14a9fb90c15fc60e91e1786b061/01a14a9feb881ea540a81c2b41b75e/main.m3u8?Referer: https://tapmad.com/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "TEN SPORTS HD",
+            "link": "https://live.msnetworks.net/ten-sports/master.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
             "tokenApi": ""
           },
           {
             "title": "SonyLiv - ENG",
-            "link": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_1411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794747596~acl=/*~id=96519495444179254654194417123549~hmac=5eb0fb6944aec6acc464198628e5289a2fb267ea5711b80b77e7d134030f47bb",
+            "link": "https://liveakmt-p-md.slivcdn.com/hls/live/2119931/cricodi_2111/ENG/master.m3u8?hdnea=exp=1795341166~acl=/*~id=212ac089d9bbe1226706cf134fb2ef4b-1795297965665~hmac=133ef8611b4b4124ca7e2f8aa4e4fd557218df9cc614aabef6ee64159d08b628",
             "logo": "",
             "type": 0,
             "api": "",
@@ -882,15 +670,7 @@
           },
           {
             "title": "SonyLiv - HIN",
-            "link": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_1411/HIN/std_lrh-800300010.m3u8?hdnea=exp=1794747596~acl=/*~id=96519495444179254654194417123549~hmac=5eb0fb6944aec6acc464198628e5289a2fb267ea5711b80b77e7d134030f47bb",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "SonyLiv - TAM",
-            "link": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_1411/TAM/std_lrh-800300010.m3u8?hdnea=exp=1794747596~acl=/*~id=96519495444179254654194417123549~hmac=5eb0fb6944aec6acc464198628e5289a2fb267ea5711b80b77e7d134030f47bb",
+            "link": "https://liveakmt-p-md.slivcdn.com/hls/live/2119921/cricodi_2111/HIN/master.m3u8?hdnea=exp=1795341166~acl=/*~id=212ac089d9bbe1226706cf134fb2ef4b-1795297965665~hmac=133ef8611b4b4124ca7e2f8aa4e4fd557218df9cc614aabef6ee64159d08b628",
             "logo": "",
             "type": 0,
             "api": "",
@@ -898,7 +678,15 @@
           },
           {
             "title": "SonyLiv - TEL",
-            "link": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_1411/TEL/std_lrh-800300010.m3u8?hdnea=exp=1794747596~acl=/*~id=96519495444179254654194417123549~hmac=5eb0fb6944aec6acc464198628e5289a2fb267ea5711b80b77e7d134030f47bb",
+            "link": "https://liveakmt-p-md.slivcdn.com/hls/live/2119941/cricodi_2111/TEL/master.m3u8?hdnea=exp=1795341166~acl=/*~id=212ac089d9bbe1226706cf134fb2ef4b-1795297965665~hmac=133ef8611b4b4124ca7e2f8aa4e4fd557218df9cc614aabef6ee64159d08b628",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "SonyLiv - TAM",
+            "link": "https://liveakmt-p-md.slivcdn.com/hls/live/2119951/cricodi_2111/TAM/master.m3u8?hdnea=exp=1795341166~acl=/*~id=212ac089d9bbe1226706cf134fb2ef4b-1795297965665~hmac=133ef8611b4b4124ca7e2f8aa4e4fd557218df9cc614aabef6ee64159d08b628",
             "logo": "",
             "type": 0,
             "api": "",
@@ -906,133 +694,7 @@
           },
           {
             "title": "SonyLiv - KAN",
-            "link": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_1411/KAN/std_lrh-800300010.m3u8?hdnea=exp=1794747596~acl=/*~id=96519495444179254654194417123549~hmac=5eb0fb6944aec6acc464198628e5289a2fb267ea5711b80b77e7d134030f47bb",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "TAPMAD BD - AQ",
-            "link": "https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "SONYLIV BD - AQ",
-            "link": "https://liveakmt-p-md.slivcdn.com/hls/live/2119931/cricodi_1411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794747596~acl=/*~id=96519495444179254654194417123549~hmac=5eb0fb6944aec6acc464198628e5289a2fb267ea5711b80b77e7d134030f47bb",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "SONY GLOBAL",
-            "link": "https://sonyeventsglobal.akamaized.net/hls/live/2022321/DAI17-INDNZ/master.m3u8?hdnea=exp=1794750655~acl=/*~id=45577059795063177253236564546996~hmac=b42a889d2ecc0257653da73fdff76e700727ea5be1aa165a20877b8e09094342|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:153.0) Gecko/20100101 Firefox/153.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 14987,
-        "title": "Baltimore Ravens vs Los Angeles Chargers",
-        "image": "",
-        "cat": "American football",
-        "eventInfo": {
-          "teamA": "Baltimore Ravens",
-          "teamB": "Los Angeles Chargers",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/4413/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/4429/image",
-          "eventName": "American football",
-          "isHot": "0",
-          "Status": "Finish",
-          "startTime": "2026/11/17 01:15:00 +0000",
-          "endTime": "2026/11/17 04:15:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "TSN SPORTS - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-            "logo": "",
-            "type": 7,
-            "api": "85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0",
-            "tokenApi": ""
-          },
-          {
-            "title": "NBC SPORTS - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dx5hfbpk7u/out/v1/c14185a397544650b9761d43ad2e8e91/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-            "logo": "",
-            "type": 7,
-            "api": "36a385124dcdfb2f0969935065e03afa:ccecd65514dff22eae493b975ccf9a9e",
-            "tokenApi": ""
-          },
-          {
-            "title": "SKY TOP EVENT - AQ",
-            "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/gjsukewpxp/out/v1/ef14aacf858248839b9867eec5caf563/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-            "logo": "",
-            "type": 7,
-            "api": "368bd4ebe301406897324bc777650411:69d27c2c2b7de927d67aacc973259901",
-            "tokenApi": ""
-          },
-          {
-            "title": "SporTV BR - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-            "logo": "",
-            "type": 7,
-            "api": "51c0ef23b17297e5c01cd7f36dd0a6ce:8823f713ba6fdb9bbe0a2ad82d309a4b",
-            "tokenApi": ""
-          },
-          {
-            "title": "TSN SPORTS 4 - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-            "logo": "",
-            "type": 7,
-            "api": "abc5b2883121012850ebda05b528c5ec:e5250924f4b738905f7163a0134587a7",
-            "tokenApi": ""
-          },
-          {
-            "title": "TSN SPORTS - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-            "logo": "",
-            "type": 7,
-            "api": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 14991,
-        "title": "Somalia vs Ghana",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Somalia",
-          "teamB": "Ghana",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/23472/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/4764/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Finish",
-          "startTime": "2026/11/16 15:00:00 +0000",
-          "endTime": "2026/11/16 17:20:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "beIN SPORTS - AQ",
-            "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/katdnhkzqv/out/v1/2469724fa7754a4da6861d8ba80de958/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-            "logo": "",
-            "type": 7,
-            "api": "27759a440e8ad821b800b3de00cd5851:1b8743adee559f27845f55e8b4d639fe",
-            "tokenApi": ""
-          },
-          {
-            "title": "HD SERVER ",
-            "link": "https://www.rtmpcdn.com/live/e1730e93-10ba-4cd5-a2ef-df10b2c8d746.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+            "link": "https://liveakmt-p-md.slivcdn.com/hls/live/2119782/cricodi_2111/KAN/master.m3u8?hdnea=exp=1795341166~acl=/*~id=212ac089d9bbe1226706cf134fb2ef4b-1795297965665~hmac=133ef8611b4b4124ca7e2f8aa4e4fd557218df9cc614aabef6ee64159d08b628",
             "logo": "",
             "type": 0,
             "api": "",
@@ -1040,42 +702,15 @@
           },
           {
             "title": "LOW SERVER",
-            "link": "http://193.47.62.55/hls/EAEAEA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+            "link": "http://193.47.62.41/hls/qaqaqa.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
             "logo": "",
             "type": 0,
             "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 14992,
-        "title": "Central African Republic vs Benin",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Central African Republic",
-          "teamB": "Benin",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/23470/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/4744/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Finish",
-          "startTime": "2026/11/16 16:00:00 +0000",
-          "endTime": "2026/11/16 18:20:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "beIN SPORTS - AQ",
-            "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/n7hbpksb18/out/v1/be5403be4a674a7da8b3c81b1fe79692/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-            "logo": "",
-            "type": 7,
-            "api": "4fce30c060b7b0464ab765e24fee5ecc:65d612238736eec3794c7e75a6fd362c",
             "tokenApi": ""
           },
           {
-            "title": "LOW SERVER ",
-            "link": "http://193.47.62.50/hls/BTBTBT.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+            "title": "CRICBUZZ - IN",
+            "link": "https://dai.google.com/linear/hls/event/cNE9Z_P5TsuAQ5jxVJ1ADg/master.m3u8",
             "logo": "",
             "type": 0,
             "api": "",
@@ -1084,33 +719,57 @@
         ]
       },
       {
-        "id": 14993,
-        "title": "Eritrea vs Guinea",
-        "image": "",
-        "cat": "Football",
+        "id": 15078,
+        "title": "Asia Cup 1",
+        "image": "null",
+        "cat": "Cricket",
         "eventInfo": {
-          "teamA": "Eritrea",
-          "teamB": "Guinea",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/8041/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/4826/image",
-          "eventName": "Football",
+          "teamA": "Afghanistan A",
+          "teamB": "Hong Kong",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/187575/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/4765/image",
+          "eventName": "Cricket",
           "isHot": "0",
-          "Status": "Finish",
-          "startTime": "2026/11/16 16:00:00 +0000",
-          "endTime": "2026/11/16 18:20:00 +0000"
+          "Status": "Upcoming",
+          "startTime": "2026/11/23 06:00:40 +0000",
+          "endTime": "2026/11/23 14:00:43 +0000"
         },
         "channels_data": [
           {
-            "title": "beIN SPORTS - AQ",
-            "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/e3ozww2yny/out/v1/3a16d07c2cc0444bb8ea10d0483d1ced/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+            "title": "WILLOW - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bocdx5eawo/out/v1/1634d923adc04e609180b5d4dd3730c3/cenc.mpd",
             "logo": "",
             "type": 7,
-            "api": "74cbe15488783fab07ff8c702fabafcd:bb607803a49c2d6104f845e7886c971c",
+            "api": "7341f16081ecb92ed172ef9df6f443ce:566b8cf0a31255d55785b24ade0a999c",
             "tokenApi": ""
           },
           {
-            "title": "LOW SERVER",
-            "link": "http://193.47.62.50/hls/BTBTBTA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+            "title": "STARZPLAY - AQ",
+            "link": "https://d1ifzl5cnhi7bu.cloudfront.net/out/v1/45ba30e075ad455a8767d3f33e67ea3d/index.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "0ae4f162eec3e6f2b580a5bf0f4a64d4:03483335db81cba5bbcf51b6d31196d9",
+            "tokenApi": ""
+          },
+          {
+            "title": "WILLOW - ALT",
+            "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/bocdx5eawo/out/v1/1634d923adc04e609180b5d4dd3730c3/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "7341f16081ecb92ed172ef9df6f443ce:566b8cf0a31255d55785b24ade0a999c",
+            "tokenApi": ""
+          },
+          {
+            "title": "SonyLiv",
+            "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2018457/criclive2211/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=e0f6f1c9a12c7224d2227252838791b8-1795325400096",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "HD SERVER",
+            "link": "https://dai.google.com/linear/hls/event/D07-rC4TTgWxsH6LZlTxgg/master.m3u8",
             "logo": "",
             "type": 0,
             "api": "",
@@ -1119,25 +778,296 @@
         ]
       },
       {
-        "id": 14994,
-        "title": "Faroe Islands vs Moldova",
-        "image": "",
-        "cat": "Football",
+        "id": 15079,
+        "title": "Asia Cup 2",
+        "image": "null",
+        "cat": "Cricket",
         "eventInfo": {
-          "teamA": "Faroe Islands",
-          "teamB": "Moldova",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/4760/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/4782/image",
-          "eventName": "Football",
+          "teamA": "India A",
+          "teamB": "Pakistan A",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/4828/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/187754/image",
+          "eventName": "Cricket",
           "isHot": "0",
-          "Status": "Finish",
-          "startTime": "2026/11/16 15:00:00 +0000",
-          "endTime": "2026/11/16 17:20:00 +0000"
+          "Status": "Live",
+          "startTime": "2026/11/22 10:00:33 +0000",
+          "endTime": "2026/11/22 17:55:38 +0000"
         },
         "channels_data": [
           {
-            "title": "FOX SOCCER+ HD",
-            "link": "https://chatgpt.hereisman.net/playlist/60250/load-playlist-multi?|Referer=https://gooz.aapmains.net",
+            "title": "WILLOW - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wnogcwzjio/out/v1/0b50a750ac204322913af280029aa602/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "437b26c171c8c2b7d3da296992ec0498:76e472aecda315ee5649fabf54b6a905",
+            "tokenApi": ""
+          },
+          {
+            "title": "WILLOW - ALT",
+            "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/wnogcwzjio/out/v1/0b50a750ac204322913af280029aa602/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "437b26c171c8c2b7d3da296992ec0498:76e472aecda315ee5649fabf54b6a905",
+            "tokenApi": ""
+          },
+          {
+            "title": "SonyLiv - ENG",
+            "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2120303/criclive2111/ENG/std_lrh-800300010.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=eee6b7bb5ca72a2a3d712f7df871b237-1795253563148",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "SonyLiv - HIN",
+            "link": "https://liveakmt-p-md.slivcdn.com/hls/live/2119921/cricodi_2211/HIN/master.m3u8?hdnea=exp=1795382256~acl=/*~id=b64a7fcda66351e2890f8afa309abf50-1795339055714~hmac=e045a769a78ca74b95b5e443333b750c97e0e5cac8a84be833122eb74ebd2edd",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "SonyLiv - TAM",
+            "link": "https://liveakmt-p-md.slivcdn.com/hls/live/2119951/cricodi_2211/TAM/master.m3u8?hdnea=exp=1795382256~acl=/*~id=b64a7fcda66351e2890f8afa309abf50-1795339055714~hmac=e045a769a78ca74b95b5e443333b750c97e0e5cac8a84be833122eb74ebd2edd",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "SonyLiv - TEL",
+            "link": "https://liveakmt-p-md.slivcdn.com/hls/live/2119941/cricodi_2211/TEL/master.m3u8?hdnea=exp=1795382256~acl=/*~id=b64a7fcda66351e2890f8afa309abf50-1795339055714~hmac=e045a769a78ca74b95b5e443333b750c97e0e5cac8a84be833122eb74ebd2edd",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "SonyLiv - KAN",
+            "link": "https://liveakmt-p-md.slivcdn.com/hls/live/2119782/cricodi_2211/KAN/master.m3u8?hdnea=exp=1795382256~acl=/*~id=b64a7fcda66351e2890f8afa309abf50-1795339055714~hmac=e045a769a78ca74b95b5e443333b750c97e0e5cac8a84be833122eb74ebd2edd",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "TEN SPORTS HD",
+            "link": "https://live.msnetworks.net/ten-sports/master.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "TAMASHA - PAK",
+            "link": "https://cdn06khi-n.tamashaweb.com:8087/appcast/ACC-men-AC26-b-abr/playlist.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 15136,
+        "title": "ILT International League T20",
+        "image": "null",
+        "cat": "Cricket",
+        "eventInfo": {
+          "teamA": "ILT T20",
+          "teamB": "ILT T20",
+          "teamAFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTl6f3IJM3zVoiU45GX2IhNPDjAyupyyFamzZwFnB5D6w&s=10",
+          "teamBFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTl6f3IJM3zVoiU45GX2IhNPDjAyupyyFamzZwFnB5D6w&s=10",
+          "eventName": "Cricket",
+          "isHot": "0",
+          "Status": "Live",
+          "startTime": "2026/11/22 14:30:00 +0000",
+          "endTime": "2026/11/22 18:30:31 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "WILLOW - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/g0tdsq9yi2/out/v1/732ff57fc3cf49b791421213b7c9b211/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "bc80c0b7f64185f59b3eb9129ea16f4d:625c429192608e209508a10c86780a7c",
+            "tokenApi": ""
+          },
+          {
+            "title": "WILLOW - ALT",
+            "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/g0tdsq9yi2/out/v1/732ff57fc3cf49b791421213b7c9b211/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "bc80c0b7f64185f59b3eb9129ea16f4d:625c429192608e209508a10c86780a7c",
+            "tokenApi": ""
+          },
+          {
+            "title": "TNT SPORTS - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+            "logo": "",
+            "type": 7,
+            "api": "fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408",
+            "tokenApi": ""
+          },
+          {
+            "title": "UNITE8 HIN HD",
+            "link": "http://103.205.132.29:8081/Unite8-sports-1/index.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "ZEE ZEST - IN",
+            "link": "https://d1iwj24qiokrul.cloudfront.net/live/media/Zee_Zest_SD/dash/Zee_Zest_SD.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "ffa2f9e64ca542f9a13f6ebc11292468:ac0b546c754884618e5b2c2c986e4735",
+            "tokenApi": ""
+          },
+          {
+            "title": "UNITE8 SPORTS - IN",
+            "link": "https://d1iwj24qiokrul.cloudfront.net/live/media/Unite8_Sports_1_HD/dash/Unite8_Sports_1_HD.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "d5859726f4804398b37aa6eb9d571a4f:11c43967054ad1765d919f854889912f",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 15140,
+        "title": "Italia T10 League",
+        "image": "null",
+        "cat": "Cricket",
+        "eventInfo": {
+          "teamA": "Italia T10",
+          "teamB": "Italia T10",
+          "teamAFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBTK9sfDCFhv5T2jEH3nkh9cPngwVXMaQFV9uNCn66zg&s=10",
+          "teamBFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBTK9sfDCFhv5T2jEH3nkh9cPngwVXMaQFV9uNCn66zg&s=10",
+          "eventName": "Cricket",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/11/23 11:00:47 +0000",
+          "endTime": "2026/11/23 15:00:50 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "UNBEATEN - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/igtio3ifkx/out/v1/3e305fd8d7eb4c489e80a71513206a7d/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "5d6c647cd1b56550bd34349b68ec8c82:09f952780ba5b30bc222439aaa3ac09b",
+            "tokenApi": ""
+          },
+          {
+            "title": " SandBrix HD",
+            "link": "https://amssandbrix.sandbrix.live/sandbrix/streams/mk139q1Mi9bHznBA775016895861.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 15182,
+        "title": "FC Augsburg vs 1. FSV Mainz 05",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "FC Augsburg",
+          "teamB": "1. FSV Mainz 05",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/2600/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/2556/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Live",
+          "startTime": "2026/11/22 14:30:00 +0000",
+          "endTime": "2026/11/22 16:50:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "PEACOCK ES - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/so7lluhsj7/out/v1/f912950b3bac41afbc1f7a73e7505a77/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "bb2ec4f8284af42054a53b6866602904:1b690d7a8f93757f32273dfd14ff44c7",
+            "tokenApi": ""
+          },
+          {
+            "title": "DAZN DE - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/v6kda6u1j5/out/v1/68192f286df44105a49ac8effb9ee9c3/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "c218e76a0722e3d206b8130fdd433406:3bbeed52573d04bc4e58499d0c463a38",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 15183,
+        "title": "SV Werder Bremen vs Hamburger SV",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "SV Werder Bremen",
+          "teamB": "Hamburger SV",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/2534/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/2676/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/11/22 16:30:00 +0000",
+          "endTime": "2026/11/22 18:50:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Live 1",
+            "link": "https://chatgpt.hereisman.net/playlist/60747/load-playlist-multi?|Referer=https://gooz.aapmains.net",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 15185,
+        "title": "Liverpool FC vs Manchester United",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Liverpool FC",
+          "teamB": "Manchester United",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/44/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/35/image",
+          "eventName": "Football",
+          "isHot": "1",
+          "Status": "Upcoming",
+          "startTime": "2026/11/22 16:30:00 +0000",
+          "endTime": "2026/11/22 18:50:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "FUBO SPORTS - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/dub-nitro/live/clients/dash/enc/1wlv9dr4vx/out/v1/632322be5f1047acb2472f90f8857182/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+            "logo": "",
+            "type": 7,
+            "api": "42f72c025dd53039244adc13b7e31dad:a7bd941a19f6dd14f3004a623a6ad3a1",
+            "tokenApi": ""
+          },
+          {
+            "title": "SKY SPORT PL - AQ",
+            "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/qdbhkwig26/out/v1/c3a69dfec0434abea00756cd73e749ff/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+            "logo": "",
+            "type": 7,
+            "api": "1106fb025da5b31657618344099c6c14:788284538616a73b56214e90196a6e0f",
+            "tokenApi": ""
+          },
+          {
+            "title": "SKY SPORTS EPL",
+            "link": "https://bl.rutube.ru/livestream/e5bacac3b8e730791d4cab20ae81cd8f/index.m3u8?s=Dxx13S3dlOjavbRFqRtQ6g&e=2075285630&scheme=|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0",
             "logo": "",
             "type": 0,
             "api": "",
@@ -1145,23 +1075,15 @@
           },
           {
             "title": "Live 1",
-            "link": "https://live.vivo155.com/live/hd-en-1-4518115.m3u8?txSecret=42a5a72389b471de9603b027e5943dd2&txTime=6AFB2C18|Referer=https://player.on8on8.com/",
+            "link": "https://chatgpt.hereisman.net/playlist/60749/load-playlist-multi?|Referer=https://gooz.aapmains.net",
             "logo": "",
             "type": 0,
             "api": "",
             "tokenApi": ""
           },
           {
-            "title": "SonyLiv ",
-            "link": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT37d2prod-PlaybackConfig/2120299/footlive1611/ENG/master.m3u8?hdnea=exp=1794882051~acl=/*~id=89600579731469522688731707985924~hmac=7535615b0b8bb37777aeb212c3e64fea36931cb5090cdc84e51e606be877f5e7",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "HD SERVER ",
-            "link": "https://www.rtmpcdn.com/live/9b18ae86-ec93-4bec-a114-f1640a6add80.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+            "title": "HD SERVER",
+            "link": "https://www.rtmpcdn.com/live/c9af7ae1-65c7-4a0a-ae40-ab2f4d1655d7.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
             "logo": "",
             "type": 0,
             "api": "",
@@ -1169,7 +1091,7 @@
           },
           {
             "title": "LOW SERVER",
-            "link": "http://193.47.62.41/hls/EAEAEAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+            "link": "http://193.47.62.41/hls/E777.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
             "logo": "",
             "type": 0,
             "api": "",
@@ -1178,65 +1100,25 @@
         ]
       },
       {
-        "id": 14995,
-        "title": "Kazakhstan vs Slovakia",
+        "id": 15186,
+        "title": "Athletico vs Remo",
         "image": "",
         "cat": "Football",
         "eventInfo": {
-          "teamA": "Kazakhstan",
-          "teamB": "Slovakia",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/4772/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/4697/image",
+          "teamA": "Athletico",
+          "teamB": "Remo",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/1967/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/2012/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Finish",
-          "startTime": "2026/11/16 15:00:00 +0000",
-          "endTime": "2026/11/16 17:20:00 +0000"
+          "Status": "Upcoming",
+          "startTime": "2026/11/22 19:00:00 +0000",
+          "endTime": "2026/11/22 21:20:00 +0000"
         },
         "channels_data": [
-          {
-            "title": "FOX SPORTS - AQ",
-            "link": "https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae",
-            "tokenApi": ""
-          },
           {
             "title": "Live 1",
-            "link": "https://live.vivo155.com/live/hd-en-1-4518116.m3u8?txSecret=4d81ec34260bff6b8ec4dff3ce28abce&txTime=6AFB2C1A|Referer=https://player.on8on8.com/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "FOX SPORTS HD",
-            "link": "https://chatgpt.hereisman.net/playlist/60251/load-playlist-multi?|Referer=https://gooz.aapmains.net",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "SonyLiv ",
-            "link": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTe0ffprod-PlaybackConfig/2120301/Footlive1611/ENG/master.m3u8?hdnea=exp=1794882051~acl=/*~id=89600579731469522688731707985924~hmac=7535615b0b8bb37777aeb212c3e64fea36931cb5090cdc84e51e606be877f5e7",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "HD SERVER ",
-            "link": "https://www.rtmpcdn.com/live/a5f22229-2144-4036-b355-d6b8242daa33.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "LOW SERVER",
-            "link": "http://193.47.62.41/hls/EAEAEAAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
             "logo": "",
             "type": 0,
             "api": "",
@@ -1245,55 +1127,74 @@
         ]
       },
       {
-        "id": 14996,
-        "title": "Estonia vs Bulgaria",
+        "id": 15187,
+        "title": "Fluminense vs Mirassol",
         "image": "",
         "cat": "Football",
         "eventInfo": {
-          "teamA": "Estonia",
-          "teamB": "Bulgaria",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/4759/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/4716/image",
+          "teamA": "Fluminense",
+          "teamB": "Mirassol",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/1961/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/21982/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Finish",
-          "startTime": "2026/11/16 17:00:00 +0000",
-          "endTime": "2026/11/16 19:20:00 +0000"
+          "Status": "Upcoming",
+          "startTime": "2026/11/22 21:30:00 +0000",
+          "endTime": "2026/11/22 23:50:00 +0000"
         },
         "channels_data": [
           {
-            "title": "FOX SPORTS - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+            "title": "Live 1",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
             "logo": "",
-            "type": 7,
-            "api": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae",
-            "tokenApi": ""
-          },
-          {
-            "title": "beIN ENGLISH - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-            "logo": "",
-            "type": 7,
-            "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
+            "type": 0,
+            "api": "",
             "tokenApi": ""
           }
         ]
       },
       {
-        "id": 14997,
-        "title": "Iceland vs Luxembourg",
+        "id": 15188,
+        "title": "Red Bull Bragantino vs Vasco da Gama",
         "image": "",
         "cat": "Football",
         "eventInfo": {
-          "teamA": "Iceland",
-          "teamB": "Luxembourg",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/4708/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/4478/image",
+          "teamA": "Red Bull Bragantino",
+          "teamB": "Vasco da Gama",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/1999/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/1974/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Finish",
-          "startTime": "2026/11/16 17:00:00 +0000",
-          "endTime": "2026/11/16 19:20:00 +0000"
+          "Status": "Upcoming",
+          "startTime": "2026/11/22 22:30:00 +0000",
+          "endTime": "2026/11/23 00:50:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Live 1",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 15192,
+        "title": "AC Milan vs Frosinone",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "AC Milan",
+          "teamB": "Frosinone",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/2692/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/2801/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/11/22 17:00:00 +0000",
+          "endTime": "2026/11/22 19:20:00 +0000"
         },
         "channels_data": [
           {
@@ -1305,59 +1206,8 @@
             "tokenApi": ""
           },
           {
-            "title": "FUBO SPORTS - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/xtkswns2yn/out/v1/9c348c1bc962495a9420f01ac0964a86/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-            "logo": "",
-            "type": 7,
-            "api": "fa5e8db5359fc7d1f15207d5de2a3ac4:78a6c0a41972dfdba2145ae0ad4bd681",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 14998,
-        "title": "Germany vs Netherlands",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Germany",
-          "teamB": "Netherlands",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/4711/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/4705/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Finish",
-          "startTime": "2026/11/16 19:45:00 +0000",
-          "endTime": "2026/11/16 22:05:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "FOX SPORTS - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-            "logo": "",
-            "type": 7,
-            "api": "5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16",
-            "tokenApi": ""
-          },
-          {
-            "title": "beIN ENGLISH - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-            "logo": "",
-            "type": 7,
-            "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
-            "tokenApi": ""
-          },
-          {
-            "title": "TVE La 1 - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/c7di7zkdor/out/v1/f7d5b356e048494a8325563e8916d50b/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-            "logo": "",
-            "type": 7,
-            "api": "745cd6ec34a58f2f7ac2af35dc3da6d2:ae008f1e47e6567fe4201a6ff8f1ae54",
-            "tokenApi": ""
-          },
-          {
             "title": "SPORT 1 CZ - AQ",
-            "link": "https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+            "link": "https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd",
             "logo": "",
             "type": 7,
             "api": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
@@ -1366,55 +1216,299 @@
         ]
       },
       {
-        "id": 14999,
-        "title": "Greece vs Serbia",
+        "id": 15193,
+        "title": "Atalanta vs Inter",
         "image": "",
         "cat": "Football",
         "eventInfo": {
-          "teamA": "Greece",
-          "teamB": "Serbia",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/4710/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/6355/image",
+          "teamA": "Atalanta",
+          "teamB": "Inter",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/2686/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/2697/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Finish",
-          "startTime": "2026/11/16 19:45:00 +0000",
-          "endTime": "2026/11/16 22:05:00 +0000"
+          "Status": "Upcoming",
+          "startTime": "2026/11/22 19:45:00 +0000",
+          "endTime": "2026/11/22 22:05:00 +0000"
         },
         "channels_data": [
           {
-            "title": "FOX SPORTS - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+            "title": "TNT SPORTS - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
             "logo": "",
             "type": 7,
-            "api": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae",
+            "api": "69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749",
             "tokenApi": ""
           },
           {
             "title": "beIN ENGLISH - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd",
             "logo": "",
             "type": 7,
             "api": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
             "tokenApi": ""
+          },
+          {
+            "title": "CBS SPORTS - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd|Origin=https://amazon.com&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0",
+            "logo": "",
+            "type": 7,
+            "api": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861",
+            "tokenApi": ""
+          },
+          {
+            "title": "SPORT 1 CZ - AQ",
+            "link": "https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
+            "tokenApi": ""
           }
         ]
       },
       {
-        "id": 15000,
-        "title": "Lithuania vs Liechtenstein",
+        "id": 15195,
+        "title": "Real Racing Club vs Real Sociedad",
         "image": "",
         "cat": "Football",
         "eventInfo": {
-          "teamA": "Lithuania",
-          "teamB": "Liechtenstein",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/4776/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/4830/image",
+          "teamA": "Real Racing Club",
+          "teamB": "Real Sociedad",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/2835/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/2824/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Finish",
-          "startTime": "2026/11/16 17:00:00 +0000",
-          "endTime": "2026/11/16 19:20:00 +0000"
+          "Status": "Live",
+          "startTime": "2026/11/22 15:15:00 +0000",
+          "endTime": "2026/11/22 17:35:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "DAZN SPORTS - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/73zpl8bksq/out/v1/be6ecab30c1746499fce1a422a6205fe/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "6365ce13b350b2d18c0c8ca197788571:15c4d7c272fd71c8f3ec017ee2bf0301",
+            "tokenApi": ""
+          },
+          {
+            "title": "PREMIER SPORTS - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+            "logo": "",
+            "type": 7,
+            "api": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f",
+            "tokenApi": ""
+          },
+          {
+            "title": "beIN ENGLISH - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+            "logo": "",
+            "type": 7,
+            "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
+            "tokenApi": ""
+          },
+          {
+            "title": "FANCODE - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+            "logo": "",
+            "type": 7,
+            "api": "1994b1df7dfd2e8a8d7b9bf3fb900285:22a1444b3da18e139191665b3d652835",
+            "tokenApi": ""
+          },
+          {
+            "title": "Caz\u00e9TV - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+            "logo": "",
+            "type": 7,
+            "api": "34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4",
+            "tokenApi": ""
+          },
+          {
+            "title": "ESPN DEPORTES HD",
+            "link": "https://chatgpt.hereisman.net/playlist/60731/load-playlist-multi?|Referer=https://gooz.aapmains.net",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "FANCODE - LQ",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/eayjamsonn/out/v1/6c25cddab58043a6ace0ac64d97983f0/cenc-sd.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "5318e462b9e0677487cb87837f0bbdb1:4fa0fb973b95738306005f2e8591bf8e",
+            "tokenApi": ""
+          },
+          {
+            "title": "LOW SERVER",
+            "link": "http://193.47.62.44/hls/H555AAAAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 15196,
+        "title": "Osasuna vs Malaga CF",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Osasuna",
+          "teamB": "M\u00e1laga CF",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/2820/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/2830/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/11/22 17:30:00 +0000",
+          "endTime": "2026/11/22 19:50:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "PREMIER SPORTS - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+            "logo": "",
+            "type": 7,
+            "api": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f",
+            "tokenApi": ""
+          },
+          {
+            "title": "beIN ENGLISH - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+            "logo": "",
+            "type": 7,
+            "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
+            "tokenApi": ""
+          },
+          {
+            "title": "FANCODE - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+            "logo": "",
+            "type": 7,
+            "api": "82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca",
+            "tokenApi": ""
+          },
+          {
+            "title": "Caz\u00e9TV - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+            "logo": "",
+            "type": 7,
+            "api": "34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 15197,
+        "title": "Getafe vs Atletico Madrid",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Getafe",
+          "teamB": "Atl\u00e9tico Madrid",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/2859/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/2836/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/11/22 20:00:00 +0000",
+          "endTime": "2026/11/22 22:20:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "PREMIER SPORTS - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+            "logo": "",
+            "type": 7,
+            "api": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f",
+            "tokenApi": ""
+          },
+          {
+            "title": "beIN ENGLISH - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+            "logo": "",
+            "type": 7,
+            "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
+            "tokenApi": ""
+          },
+          {
+            "title": "FANCODE - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+            "logo": "",
+            "type": 7,
+            "api": "82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca",
+            "tokenApi": ""
+          },
+          {
+            "title": "Caz\u00e9TV - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+            "logo": "",
+            "type": 7,
+            "api": "34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 15199,
+        "title": "Lorient vs Stade Rennais",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Lorient",
+          "teamB": "Stade Rennais",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/1656/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/1658/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Live",
+          "startTime": "2026/11/22 16:15:00 +0000",
+          "endTime": "2026/11/22 18:35:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "DAZN SPORTS - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/miwbmarb3l/out/v1/007d286b3b0f4079af90e3dd97299866/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "e6f9f8bbfebd72b59c574c0a41eb3428:8474301f577a6d96bef1d0948e15f93c",
+            "tokenApi": ""
+          },
+          {
+            "title": "beIN SPORTS - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/penehwquxc/out/v1/e01e96068c20482280b810b34aa66a6e/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "4b17f5cd91d6b9dde66cf11dac2c7805:ffc6dd5e62c688c5f8e131649df94a2d",
+            "tokenApi": ""
+          },
+          {
+            "title": "LOW SERVER",
+            "link": "http://193.47.62.44/hls/KIIIAAAAQQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 15200,
+        "title": "Olympique de Marseille vs Le Mans",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Olympique de Marseille",
+          "teamB": "Le Mans",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/1641/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/1672/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/11/22 19:45:00 +0000",
+          "endTime": "2026/11/22 22:05:00 +0000"
         },
         "channels_data": [
           {
@@ -1428,20 +1522,144 @@
         ]
       },
       {
-        "id": 15001,
-        "title": "Gibraltar vs Malta",
+        "id": 15205,
+        "title": "AFC Ajax vs ADO Den Haag",
         "image": "",
         "cat": "Football",
         "eventInfo": {
-          "teamA": "Gibraltar",
-          "teamB": "Malta",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/129264/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/4483/image",
+          "teamA": "AFC Ajax",
+          "teamB": "ADO Den Haag",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/2953/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/2966/image",
           "eventName": "Football",
           "isHot": "0",
           "Status": "Finish",
-          "startTime": "2026/11/16 19:45:00 +0000",
-          "endTime": "2026/11/16 22:05:00 +0000"
+          "startTime": "2026/11/22 13:30:00 +0000",
+          "endTime": "2026/11/22 15:50:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "SportDigital Fussball",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+            "logo": "",
+            "type": 7,
+            "api": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
+            "tokenApi": ""
+          },
+          {
+            "title": "LOW SERVER",
+            "link": "http://193.47.62.44/hls/ZUUUAAQQQQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 15206,
+        "title": "Sparta Rotterdam vs AZ Alkmaar",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Sparta Rotterdam",
+          "teamB": "AZ Alkmaar",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/2960/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/2950/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Finish",
+          "startTime": "2026/11/22 13:30:00 +0000",
+          "endTime": "2026/11/22 15:50:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "LOW SERVER",
+            "link": "http://193.47.62.44/hls/ZUUUAAQQQQQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 15207,
+        "title": "Go Ahead Eagles vs Fortuna Sittard",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Go Ahead Eagles",
+          "teamB": "Fortuna Sittard",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/2979/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/2957/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Live",
+          "startTime": "2026/11/22 15:45:00 +0000",
+          "endTime": "2026/11/22 18:05:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Live 1",
+            "link": "http://193.47.62.44/hls/DUUUVVVAAAAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 15209,
+        "title": "Sporting Gijon vs UD Las Palmas",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Sporting Gij\u00f3n",
+          "teamB": "UD Las Palmas",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/2852/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/6577/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Live",
+          "startTime": "2026/11/22 15:15:00 +0000",
+          "endTime": "2026/11/22 17:35:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "LaLiga Hypermotion ",
+            "link": "https://cache07.zapitv.com/live/eds_c2/HYPERMOTION1/dash_live_ez/HYPERMOTION1.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "a88617e904504ee291f49f0e60a51d49:17f92d59fde3b6d2bf4ffb48e8ca720a",
+            "tokenApi": ""
+          },
+          {
+            "title": "LOW SERVER",
+            "link": "http://193.47.62.44/hls/H555AAAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 15210,
+        "title": "Celta Fortuna vs Real Valladolid",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Celta Fortuna",
+          "teamB": "Real Valladolid",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/24336/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/2831/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/11/22 17:30:00 +0000",
+          "endTime": "2026/11/22 19:50:00 +0000"
         },
         "channels_data": [
           {
@@ -1455,51 +1673,24 @@
         ]
       },
       {
-        "id": 15002,
-        "title": "Andorra vs Azerbaijan",
+        "id": 15211,
+        "title": "Girona FC vs Eibar",
         "image": "",
         "cat": "Football",
         "eventInfo": {
-          "teamA": "Andorra",
-          "teamB": "Azerbaijan",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/4818/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/4742/image",
+          "teamA": "Girona FC",
+          "teamB": "Eibar",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/24264/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/2839/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Finish",
-          "startTime": "2026/11/16 18:00:00 +0000",
-          "endTime": "2026/11/16 20:20:00 +0000"
+          "Status": "Upcoming",
+          "startTime": "2026/11/22 17:30:00 +0000",
+          "endTime": "2026/11/22 19:50:00 +0000"
         },
         "channels_data": [
           {
-            "title": "Live 1",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 15003,
-        "title": "Albacete Balompie vs Celta Fortuna",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Albacete Balompi\u00e9",
-          "teamB": "Celta Fortuna",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/2848/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/24336/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Finish",
-          "startTime": "2026/11/16 19:30:00 +0000",
-          "endTime": "2026/11/16 21:50:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "LaLiga Hypermotion",
+            "title": "LaLiga Hypermotion ",
             "link": "https://cache07.zapitv.com/live/eds_c2/HYPERMOTION1/dash_live_ez/HYPERMOTION1.mpd",
             "logo": "",
             "type": 7,
@@ -1509,90 +1700,546 @@
         ]
       },
       {
-        "id": 15004,
-        "title": "Singapore vs Brazil",
+        "id": 15212,
+        "title": "Burgos Club de Futbol vs Albacete Balompie",
         "image": "",
         "cat": "Football",
         "eventInfo": {
-          "teamA": "Singapore",
-          "teamB": "Brazil",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/4738/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/4748/image",
+          "teamA": "Burgos Club de F\u00fatbol",
+          "teamB": "Albacete Balompi\u00e9",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/2854/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/2848/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Finish",
-          "startTime": "2026/11/17 10:00:00 +0000",
-          "endTime": "2026/11/17 12:20:00 +0000"
+          "Status": "Upcoming",
+          "startTime": "2026/11/22 20:00:00 +0000",
+          "endTime": "2026/11/22 22:20:00 +0000"
         },
         "channels_data": [
           {
-            "title": "Live 1",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 15005,
-        "title": "Argentina vs Costa Rica",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Argentina",
-          "teamB": "Costa Rica",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/4819/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/4756/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Finish",
-          "startTime": "2026/11/17 21:00:00 +0000",
-          "endTime": "2026/11/17 23:20:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "Live 1",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 15010,
-        "title": "Canada vs Guatemala",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Canada",
-          "teamB": "Guatemala",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/4752/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/5163/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Finish",
-          "startTime": "2026/11/17 01:00:00 +0000",
-          "endTime": "2026/11/17 03:20:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "TSN SPORTS - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+            "title": "LaLiga Hypermotion ",
+            "link": "https://cache07.zapitv.com/live/eds_c2/HYPERMOTION1/dash_live_ez/HYPERMOTION1.mpd",
             "logo": "",
             "type": 7,
-            "api": "385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8",
+            "api": "a88617e904504ee291f49f0e60a51d49:17f92d59fde3b6d2bf4ffb48e8ca720a",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 15216,
+        "title": "Trabzonspor vs Eyupspor",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Trabzonspor",
+          "teamB": "Ey\u00fcpspor",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3051/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/7040/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Live",
+          "startTime": "2026/11/22 16:00:00 +0000",
+          "endTime": "2026/11/22 18:20:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "beIN SPORTS - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/n7hbpksb18/out/v1/be5403be4a674a7da8b3c81b1fe79692/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+            "logo": "",
+            "type": 7,
+            "api": "4fce30c060b7b0464ab765e24fee5ecc:65d612238736eec3794c7e75a6fd362c",
             "tokenApi": ""
           },
           {
+            "title": "LOW SERVER",
+            "link": "http://193.47.62.44/hls/diiiA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 15219,
+        "title": "France U17 vs Saudi Arabia U17",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "France U17",
+          "teamB": "Saudi Arabia U17",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/22474/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/468403/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Finish",
+          "startTime": "2026/11/22 13:30:00 +0000",
+          "endTime": "2026/11/22 15:50:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Live 1",
+            "link": "https://live1.quickscoreboardz.com/live/channel68/playlist.m3u8?wsSecret=46745d413265bb137656aa9327a9a564&wsABSTime=1795396249?|Referer=https://xlz.domainkqt.cc/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "LOW SERVER",
+            "link": "http://193.47.62.44/hls/ZUUU.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 15221,
+        "title": "South Korea U17 vs New Caledonia U17",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "South Korea U17",
+          "teamB": "New Caledonia U17",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/22652/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/265146/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Live",
+          "startTime": "2026/11/22 14:30:00 +0000",
+          "endTime": "2026/11/22 16:50:00 +0000"
+        },
+        "channels_data": [
+          {
             "title": "FOX SPORTS - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
             "logo": "",
             "type": 7,
-            "api": "5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16",
+            "api": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae",
+            "tokenApi": ""
+          },
+          {
+            "title": "LOW SERVER ",
+            "link": "http://193.47.62.44/hls/E444A.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 15222,
+        "title": "Qatar U17 vs Egypt U17",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Qatar U17",
+          "teamB": "Egypt U17",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/468401/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/216077/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Live",
+          "startTime": "2026/11/22 15:00:00 +0000",
+          "endTime": "2026/11/22 17:20:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "LOW SERVER",
+            "link": "http://193.47.62.44/hls/QIIIQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 15223,
+        "title": "Uruguay U17 vs Haiti U17",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Uruguay U17",
+          "teamB": "Haiti U17",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/37322/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/190706/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Live",
+          "startTime": "2026/11/22 15:30:00 +0000",
+          "endTime": "2026/11/22 17:50:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Live 1",
+            "link": "http://193.47.62.44/hls/DUUUV.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 15224,
+        "title": "Argentina U17 vs Mozambique U17",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Argentina U17",
+          "teamB": "Mozambique U17",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/22576/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/1126751/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Live",
+          "startTime": "2026/11/22 15:30:00 +0000",
+          "endTime": "2026/11/22 17:50:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "TUDN MEXICO - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/o2vy4aahsh/out/v1/e293c932745a44dcaf897573dfc53532/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+            "logo": "",
+            "type": 7,
+            "api": "763ce1ebcaf23502c8cf357c6ef423e1:0c5e6c0820a1ea28753721db00272411",
+            "tokenApi": ""
+          },
+          {
+            "title": "LOW SERVER",
+            "link": "http://193.47.62.44/hls/DUUU.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 15225,
+        "title": "Buffalo Bills vs Vice City Manatees",
+        "image": "",
+        "cat": "American football",
+        "eventInfo": {
+          "teamA": "Buffalo Bills",
+          "teamB": "Vice City Manatees",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/4414/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/4287/image",
+          "eventName": "American football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/11/22 18:00:00 +0000",
+          "endTime": "2026/11/22 21:00:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Live 1",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 15226,
+        "title": "Carolina Panthers vs Baltimore Ravens",
+        "image": "",
+        "cat": "American football",
+        "eventInfo": {
+          "teamA": "Carolina Panthers",
+          "teamB": "Baltimore Ravens",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/4415/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/4413/image",
+          "eventName": "American football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/11/22 18:00:00 +0000",
+          "endTime": "2026/11/22 21:00:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Live 1",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 15227,
+        "title": "Chicago Bears vs New Orleans Saints",
+        "image": "",
+        "cat": "American football",
+        "eventInfo": {
+          "teamA": "Chicago Bears",
+          "teamB": "New Orleans Saints",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/4391/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/4425/image",
+          "eventName": "American football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/11/22 18:00:00 +0000",
+          "endTime": "2026/11/22 21:00:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Live 1",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 15228,
+        "title": "Dallas Cowboys vs Tennessee Titans",
+        "image": "",
+        "cat": "American football",
+        "eventInfo": {
+          "teamA": "Dallas Cowboys",
+          "teamB": "Tennessee Titans",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/4392/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/4431/image",
+          "eventName": "American football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/11/22 18:00:00 +0000",
+          "endTime": "2026/11/22 21:00:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Live 1",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 15229,
+        "title": "Detroit Lions vs Tampa Bay Buccaneers",
+        "image": "",
+        "cat": "American football",
+        "eventInfo": {
+          "teamA": "Detroit Lions",
+          "teamB": "Tampa Bay Buccaneers",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/4419/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/4388/image",
+          "eventName": "American football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/11/22 18:00:00 +0000",
+          "endTime": "2026/11/22 21:00:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Live 1",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 15230,
+        "title": "Kansas City Chiefs vs Arizona Cardinals",
+        "image": "",
+        "cat": "American football",
+        "eventInfo": {
+          "teamA": "Kansas City Chiefs",
+          "teamB": "Arizona Cardinals",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/4422/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/4412/image",
+          "eventName": "American football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/11/22 18:00:00 +0000",
+          "endTime": "2026/11/22 21:00:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Live 1",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 15231,
+        "title": "Philadelphia Eagles vs Pittsburgh Steelers",
+        "image": "",
+        "cat": "American football",
+        "eventInfo": {
+          "teamA": "Philadelphia Eagles",
+          "teamB": "Pittsburgh Steelers",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/4428/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/4345/image",
+          "eventName": "American football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/11/22 18:00:00 +0000",
+          "endTime": "2026/11/22 21:00:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Live 1",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 15232,
+        "title": "Los Angeles Chargers vs New York Jets",
+        "image": "",
+        "cat": "American football",
+        "eventInfo": {
+          "teamA": "Los Angeles Chargers",
+          "teamB": "New York Jets",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/4429/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/4427/image",
+          "eventName": "American football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/11/22 21:05:00 +0000",
+          "endTime": "2026/11/23 00:05:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Live 1",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 15233,
+        "title": "Denver Broncos vs Las Vegas Raiders",
+        "image": "",
+        "cat": "American football",
+        "eventInfo": {
+          "teamA": "Denver Broncos",
+          "teamB": "Las Vegas Raiders",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/4418/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/4390/image",
+          "eventName": "American football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/11/22 21:25:00 +0000",
+          "endTime": "2026/11/23 00:25:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Live 1",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 15234,
+        "title": "New York Giants vs Jacksonville Jaguars",
+        "image": "",
+        "cat": "American football",
+        "eventInfo": {
+          "teamA": "New York Giants",
+          "teamB": "Jacksonville Jaguars",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/4426/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/4386/image",
+          "eventName": "American football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/11/22 21:25:00 +0000",
+          "endTime": "2026/11/23 00:25:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Live 1",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 15235,
+        "title": "San Francisco 49ers vs Minnesota Vikings",
+        "image": "",
+        "cat": "American football",
+        "eventInfo": {
+          "teamA": "San Francisco 49ers",
+          "teamB": "Minnesota Vikings",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/4389/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/4423/image",
+          "eventName": "American football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/11/23 01:20:00 +0000",
+          "endTime": "2026/11/23 04:20:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Live 1",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 15236,
+        "title": "Washington Commanders vs Cincinnati Bengals",
+        "image": "",
+        "cat": "American football",
+        "eventInfo": {
+          "teamA": "Washington Commanders",
+          "teamB": "Cincinnati Bengals",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/4432/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/4416/image",
+          "eventName": "American football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/11/24 01:15:00 +0000",
+          "endTime": "2026/11/24 04:15:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Live 1",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
             "tokenApi": ""
           }
         ]
