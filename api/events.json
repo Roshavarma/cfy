@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-22T16:31:19.121104",
-  "event_count": 51,
+  "last_updated": "2026-11-22T16:41:01.598277",
+  "event_count": 49,
   "events": {
     "events": [
       {
@@ -971,41 +971,6 @@
         ]
       },
       {
-        "id": 15182,
-        "title": "FC Augsburg vs 1. FSV Mainz 05",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "FC Augsburg",
-          "teamB": "1. FSV Mainz 05",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/2600/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/2556/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/11/22 14:30:00 +0000",
-          "endTime": "2026/11/22 16:50:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "PEACOCK ES - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/so7lluhsj7/out/v1/f912950b3bac41afbc1f7a73e7505a77/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "bb2ec4f8284af42054a53b6866602904:1b690d7a8f93757f32273dfd14ff44c7",
-            "tokenApi": ""
-          },
-          {
-            "title": "DAZN DE - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/v6kda6u1j5/out/v1/68192f286df44105a49ac8effb9ee9c3/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "c218e76a0722e3d206b8130fdd433406:3bbeed52573d04bc4e58499d0c463a38",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
         "id": 15183,
         "title": "SV Werder Bremen vs Hamburger SV",
         "image": "",
@@ -1023,8 +988,32 @@
         },
         "channels_data": [
           {
+            "title": "DAZN SPORTS - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/puuhoopgwu/out/v1/6a0fb0a7b29f4ef7851e90c140342bae/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "b8c395aaeb59affca7383e7e5b9af2af:28c98b32e70043d5906f403332756117",
+            "tokenApi": ""
+          },
+          {
             "title": "Live 1",
             "link": "https://chatgpt.hereisman.net/playlist/60747/load-playlist-multi?|Referer=https://gooz.aapmains.net",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "HD SERVER",
+            "link": "https://www.rtmpcdn.com/live/2e7292fd-9c50-4fa9-b810-fb3875f439c2.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "LOW SERVER",
+            "link": "http://193.47.62.44/hls/K444QQQQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
             "logo": "",
             "type": 0,
             "api": "",
@@ -1219,6 +1208,14 @@
             "logo": "",
             "type": 7,
             "api": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
+            "tokenApi": ""
+          },
+          {
+            "title": "PARAMOUNT+ - AQ",
+            "link": "pa",
+            "logo": "",
+            "type": 0,
+            "api": "",
             "tokenApi": ""
           }
         ]
@@ -1797,41 +1794,6 @@
           {
             "title": "LOW SERVER",
             "link": "http://193.47.62.44/hls/ZUUU.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 15221,
-        "title": "South Korea U17 vs New Caledonia U17",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "South Korea U17",
-          "teamB": "New Caledonia U17",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/22652/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/265146/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/11/22 14:30:00 +0000",
-          "endTime": "2026/11/22 16:50:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "FOX SPORTS - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae",
-            "tokenApi": ""
-          },
-          {
-            "title": "LOW SERVER ",
-            "link": "http://193.47.62.44/hls/E444A.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
             "logo": "",
             "type": 0,
             "api": "",
