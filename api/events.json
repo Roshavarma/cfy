@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-24T17:41:05.510693",
+  "last_updated": "2026-11-24T17:51:10.161368",
   "event_count": 43,
   "events": {
     "events": [
@@ -880,9 +880,9 @@
           "teamBFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTl6f3IJM3zVoiU45GX2IhNPDjAyupyyFamzZwFnB5D6w&s=10",
           "eventName": "Cricket",
           "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/11/24 14:30:56 +0000",
-          "endTime": "2026/11/24 18:30:00 +0000"
+          "Status": "Upcoming",
+          "startTime": "2026/11/25 14:30:42 +0000",
+          "endTime": "2026/11/25 18:30:45 +0000"
         },
         "channels_data": [
           {
@@ -1025,7 +1025,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/2058/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/11/24 17:45:00 +0000",
           "endTime": "2026/11/24 20:05:00 +0000"
         },
@@ -1071,7 +1071,7 @@
             "tokenApi": ""
           },
           {
-            "title": "Live 1",
+            "title": "PARAMOUNT+ HD",
             "link": "https://chatgpt.hereisman.net/playlist/60905/load-playlist-multi?|Referer=https://gooz.aapmains.net",
             "logo": "",
             "type": 0,
@@ -1080,7 +1080,15 @@
           },
           {
             "title": "SonyLiv ",
-            "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2120306/Footlive2411/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=cae5f2e16636772159a6b723dbb784ee-1795540464130",
+            "link": "https://sonyeventsglobal.akamaized.net/hls/live/2120306/Footlive2411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795584729~acl=/*~id=40743875065880989759623457201837~hmac=a0290cf940a7a05ee33e895c1e150955d200789cd7a2a861bfdbfdd7c621dd56",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "HD SERVER",
+            "link": "https://www.rtmpcdn.com/live/0637faa1963b915e2a6dbcb7c33acc4354446401c61f2ee686d48d1211ec8387.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
             "logo": "",
             "type": 0,
             "api": "",
@@ -1108,7 +1116,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/40/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/11/24 17:45:00 +0000",
           "endTime": "2026/11/24 20:05:00 +0000"
         },
@@ -1154,7 +1162,7 @@
             "tokenApi": ""
           },
           {
-            "title": "Live 1",
+            "title": "PARAMOUNT+ HD",
             "link": "https://chatgpt.hereisman.net/playlist/60903/load-playlist-multi?|Referer=https://gooz.aapmains.net",
             "logo": "",
             "type": 0,
@@ -1164,6 +1172,14 @@
           {
             "title": "SonyLiv",
             "link": "https://sonyeventsglobal.akamaized.net/hls/live/2120307/Footlive2411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795583516~acl=/*~id=79441961725437302032849681826420~hmac=4ba880a02738c49b04c0a8c56acd9f6d857868b96e6f911c0e4903585eb8fed0",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "HD SERVER",
+            "link": "https://www.rtmpcdn.com/live/4a9995714e1c7ef93cd4a02232017997b9f71e6acb6f743c8632dbc70fc62f82.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
             "logo": "",
             "type": 0,
             "api": "",
