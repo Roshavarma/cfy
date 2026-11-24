@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-24T18:11:11.282291",
+  "last_updated": "2026-11-24T18:21:08.421234",
   "event_count": 41,
   "events": {
     "events": [
@@ -1179,7 +1179,7 @@
           "teamAFlag": "https://img.sofascore.com/api/v1/team/42/image",
           "teamBFlag": "https://img.sofascore.com/api/v1/team/2673/image",
           "eventName": "Football",
-          "isHot": "0",
+          "isHot": "1",
           "Status": "Upcoming",
           "startTime": "2026/11/24 20:00:00 +0000",
           "endTime": "2026/11/24 22:20:00 +0000"
@@ -1260,7 +1260,7 @@
           "teamAFlag": "https://img.sofascore.com/api/v1/team/17/image",
           "teamBFlag": "https://img.sofascore.com/api/v1/team/2714/image",
           "eventName": "Football",
-          "isHot": "0",
+          "isHot": "1",
           "Status": "Upcoming",
           "startTime": "2026/11/24 20:00:00 +0000",
           "endTime": "2026/11/24 22:20:00 +0000"
@@ -1287,7 +1287,7 @@
           "teamAFlag": "https://img.sofascore.com/api/v1/team/2829/image",
           "teamBFlag": "https://img.sofascore.com/api/v1/team/2952/image",
           "eventName": "Football",
-          "isHot": "0",
+          "isHot": "1",
           "Status": "Upcoming",
           "startTime": "2026/11/24 20:00:00 +0000",
           "endTime": "2026/11/24 22:20:00 +0000"
@@ -1612,7 +1612,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/39733/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/11/24 18:15:00 +0000",
           "endTime": "2026/11/24 20:35:00 +0000"
         },
@@ -1636,6 +1636,14 @@
           {
             "title": "HD SERVER",
             "link": "https://live1.quickscoreboardz.com/live/channel12/playlist.m3u8?wsSecret=7e327b46e2e106f13e4a248d72c88119&wsABSTime=1795586819?|Referer=https://xlz.domainkqt.cc/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "Live 2",
+            "link": "https://www.rtmpcdn.com/live/1e42b8ef5bd4a55a259f0262e0a09a69550a1527579db599e51d398283128c9e.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
             "logo": "",
             "type": 0,
             "api": "",
