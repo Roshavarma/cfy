@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-24T18:01:40.675272",
-  "event_count": 43,
+  "last_updated": "2026-11-24T18:11:11.282291",
+  "event_count": 41,
   "events": {
     "events": [
       {
@@ -987,33 +987,6 @@
         ]
       },
       {
-        "id": 15260,
-        "title": "Al Seeb SC vs Al-Shorta",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Al Seeb SC",
-          "teamB": "Al-Shorta",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/71044/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/61532/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/11/24 16:00:00 +0000",
-          "endTime": "2026/11/24 18:20:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "LOW SERVER",
-            "link": "http://193.47.62.41/hls/F666A.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
         "id": 15261,
         "title": "BodGlimt vs LASK",
         "image": "",
@@ -1628,41 +1601,6 @@
         ]
       },
       {
-        "id": 15286,
-        "title": "Shabab Al-Ahli Dubai vs Al-Qadsiah",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Shabab Al-Ahli Dubai",
-          "teamB": "Al-Qadsiah",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/264111/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/56027/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/11/24 16:00:00 +0000",
-          "endTime": "2026/11/24 18:20:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "HD SERVER ",
-            "link": "https://www.rtmpcdn.com/live/9d8bde3962a43206c7607927ad479c75e4656e0e66d005c82f21a8ca8a1d72c7.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "LOW SERVER",
-            "link": "http://193.47.62.41/hls/F666.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
         "id": 15287,
         "title": "Al-Nassr vs Al-Sadd",
         "image": "",
@@ -1680,8 +1618,32 @@
         },
         "channels_data": [
           {
+            "title": "TAPMAD - AQ",
+            "link": "https://multiregion-asia-cdn.tapmad.com/v1/01a1548c4faf15fc600b1e3e968408/01a1548c7fde1ea557841e1612cf76/main.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
             "title": "Live 1",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "link": "https://live.vivo155.com/live/hd-en-1-4621429.m3u8?txSecret=3b5a68bda640a3d02427d1db00a33036&txTime=6B05E601|Referer=https://player.on8on8.com/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "HD SERVER",
+            "link": "https://live1.quickscoreboardz.com/live/channel12/playlist.m3u8?wsSecret=7e327b46e2e106f13e4a248d72c88119&wsABSTime=1795586819?|Referer=https://xlz.domainkqt.cc/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "LOW SERVER ",
+            "link": "http://193.47.62.41/hls/7GGGAAAAAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
             "logo": "",
             "type": 0,
             "api": "",
