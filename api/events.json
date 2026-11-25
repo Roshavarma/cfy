@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-25T12:01:32.336242",
-  "event_count": 45,
+  "last_updated": "2026-11-25T12:11:03.911430",
+  "event_count": 43,
   "events": {
     "events": [
       {
@@ -1272,7 +1272,7 @@
         "channels_data": [
           {
             "title": "Live 1",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "link": "http://193.47.62.50/hls/ZTTTAAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
             "logo": "",
             "type": 0,
             "api": "",
@@ -1435,60 +1435,6 @@
           {
             "title": "Live 1",
             "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 15313,
-        "title": "Gamba Osaka vs Port FC",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Gamba Osaka",
-          "teamB": "Port FC",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/3138/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/40661/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/11/25 10:00:00 +0000",
-          "endTime": "2026/11/25 12:20:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "LOW SERVER",
-            "link": "http://193.47.62.50/hls/ZTTT.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 15314,
-        "title": "Kashima Antlers vs Jeonbuk Hyundai Motors",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Kashima Antlers",
-          "teamB": "Jeonbuk Hyundai Motors",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/3134/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/6908/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/11/25 10:00:00 +0000",
-          "endTime": "2026/11/25 12:20:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "LOW SERVER",
-            "link": "http://193.47.62.50/hls/ZTTTA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
             "logo": "",
             "type": 0,
             "api": "",
