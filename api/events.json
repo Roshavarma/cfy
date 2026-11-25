@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-25T14:31:28.785264",
-  "event_count": 42,
+  "last_updated": "2026-11-25T14:41:01.851196",
+  "event_count": 40,
   "events": {
     "events": [
       {
@@ -971,9 +971,9 @@
           "teamBFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBTK9sfDCFhv5T2jEH3nkh9cPngwVXMaQFV9uNCn66zg&s=10",
           "eventName": "Cricket",
           "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/11/25 13:15:19 +0000",
-          "endTime": "2026/11/25 15:15:04 +0000"
+          "Status": "Upcoming",
+          "startTime": "2026/11/26 11:00:28 +0000",
+          "endTime": "2026/11/26 15:15:31 +0000"
         },
         "channels_data": [
           {
@@ -1128,7 +1128,7 @@
         },
         "channels_data": [
           {
-            "title": "Live 1",
+            "title": "LOW SERVER",
             "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
             "logo": "",
             "type": 0,
@@ -1408,84 +1408,6 @@
           {
             "title": "Live 1",
             "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 15315,
-        "title": "Uganda U17 vs New Caledonia U17",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Uganda U17",
-          "teamB": "New Caledonia U17",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/1077159/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/265146/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/11/25 12:30:00 +0000",
-          "endTime": "2026/11/25 14:50:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "Live 1",
-            "link": "https://live3979.zundrixmediapipeline.com/live/channel7.m3u8?|Referer=https://xlz.domainkqt.cc/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "LOW SERVER ",
-            "link": "http://193.47.62.55/hls/IIIIA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 15316,
-        "title": "Ecuador U17 vs South Korea U17",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Ecuador U17",
-          "teamB": "South Korea U17",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/48835/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/22652/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/11/25 12:30:00 +0000",
-          "endTime": "2026/11/25 14:50:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "D SPORTS - AQ",
-            "link": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/rgilyeubta/out/v1/09a67027b18f4fd78aaa3794a2aacfe8/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "03f12d6a3dbfd3a6fa7dd7f6417e0c11:ea07b87acdf2e45be824cde4a1cf3504",
-            "tokenApi": ""
-          },
-          {
-            "title": "HD SERVER",
-            "link": "https://live3979.zundrixmediapipeline.com/live/channel11.m3u8?|Referer=https://xlz.domainkqt.cc/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "LOW SERVER",
-            "link": "http://193.47.62.55/hls/IIII.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
             "logo": "",
             "type": 0,
             "api": "",
