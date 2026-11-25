@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-25T14:21:05.325717",
-  "event_count": 43,
+  "last_updated": "2026-11-25T14:31:28.785264",
+  "event_count": 42,
   "events": {
     "events": [
       {
@@ -888,17 +888,17 @@
           "teamBFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTl6f3IJM3zVoiU45GX2IhNPDjAyupyyFamzZwFnB5D6w&s=10",
           "eventName": "Cricket",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/11/25 14:30:42 +0000",
           "endTime": "2026/11/25 18:30:45 +0000"
         },
         "channels_data": [
           {
             "title": "WILLOW - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/gfshrnrosi/out/v1/38ade1f0001545678654acfccb674b40/cenc.mpd",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lvpxnd9lm7/out/v1/ec8487d426a14be59423e84d2fb4c8ee/cenc.mpd",
             "logo": "",
             "type": 7,
-            "api": "7dcfc23b4712a8031fa154bfb07917e7:fd7078d53cb394fed87690a2d408385e",
+            "api": "d7070587c4a7d8db325db4540da4777c:c474bc272c73fdce1298511ac95bfdce",
             "tokenApi": ""
           },
           {
@@ -919,10 +919,10 @@
           },
           {
             "title": "WILLOW - ALT",
-            "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/gfshrnrosi/out/v1/38ade1f0001545678654acfccb674b40/cenc.mpd",
+            "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/lvpxnd9lm7/out/v1/ec8487d426a14be59423e84d2fb4c8ee/cenc.mpd",
             "logo": "",
             "type": 7,
-            "api": "7dcfc23b4712a8031fa154bfb07917e7:fd7078d53cb394fed87690a2d408385e",
+            "api": "d7070587c4a7d8db325db4540da4777c:c474bc272c73fdce1298511ac95bfdce",
             "tokenApi": ""
           },
           {
@@ -1249,33 +1249,6 @@
             "logo": "",
             "type": 7,
             "api": "69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 15306,
-        "title": "Persib Bandung vs FC Seoul",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Persib Bandung",
-          "teamB": "FC Seoul",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/64289/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/7646/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/11/25 12:15:00 +0000",
-          "endTime": "2026/11/25 14:35:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "Live 1",
-            "link": "http://193.47.62.50/hls/ZTTTAAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-            "logo": "",
-            "type": 0,
-            "api": "",
             "tokenApi": ""
           }
         ]
@@ -1618,7 +1591,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/468401/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/11/25 14:30:00 +0000",
           "endTime": "2026/11/25 16:50:00 +0000"
         },
@@ -1645,7 +1618,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/216077/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/11/25 14:30:00 +0000",
           "endTime": "2026/11/25 16:50:00 +0000"
         },
