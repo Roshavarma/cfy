@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-25T17:11:00.599136",
-  "event_count": 37,
+  "last_updated": "2026-11-25T17:20:59.774571",
+  "event_count": 35,
   "events": {
     "events": [
       {
@@ -1381,60 +1381,6 @@
           {
             "title": "Live 1",
             "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 15319,
-        "title": "Greece U17 vs Qatar U17",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Greece U17",
-          "teamB": "Qatar U17",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/22607/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/468401/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Finish",
-          "startTime": "2026/11/25 14:30:00 +0000",
-          "endTime": "2026/11/25 16:50:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "LOW SERVER ",
-            "link": "http://193.47.62.55/hls/WAWAWAAAAQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 15320,
-        "title": "Panama U17 vs Egypt U17",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Panama U17",
-          "teamB": "Egypt U17",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/48866/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/216077/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Finish",
-          "startTime": "2026/11/25 14:30:00 +0000",
-          "endTime": "2026/11/25 16:50:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "LOW SERVER ",
-            "link": "http://193.47.62.55/hls/WAWAWAAAAQQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
             "logo": "",
             "type": 0,
             "api": "",
