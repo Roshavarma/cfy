@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-25T17:31:22.574695",
+  "last_updated": "2026-11-25T17:41:01.201802",
   "event_count": 35,
   "events": {
     "events": [
@@ -1012,11 +1012,43 @@
         },
         "channels_data": [
           {
+            "title": "PARAMOUNT+ - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/zh63cyh9r0/out/v1/e89877e6282243e4aae63c0d6aafa8f4/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "f2c4e32c00492683db06bd35bf40f13c:46d854f0d6b8fcdfbfbc45e3951e5eed",
+            "tokenApi": ""
+          },
+          {
+            "title": "DAZN SPORTS - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vm6obaulus/out/v1/6653f58dc54d4b2ca30baade63aacc60/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "67e139dd505a71f2472b89a21061a068:a82a007cb3473ce7be8ad1557ba2910d",
+            "tokenApi": ""
+          },
+          {
             "title": "TNT SPORTS - AQ",
             "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd",
             "logo": "",
             "type": 7,
             "api": "fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408",
+            "tokenApi": ""
+          },
+          {
+            "title": "VIX SPANISH - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/zgivvqqv5x/out/v1/b853456a96d8434cb6cea6ade4feddd3/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "9b331f76d1893b219f9dec596c2df5ff:c7938b9dba784355f138982cf956e8dd",
+            "tokenApi": ""
+          },
+          {
+            "title": "DAZN DE - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/oqlkwalcm7/out/v1/26502b89dc59430c91779ef5223c2a50/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "3f9ed4e17c6d6b98e10772c04193201b:3149fb721afa9ae7f76e84e0bdee6a92",
             "tokenApi": ""
           },
           {
@@ -1028,8 +1060,8 @@
             "tokenApi": ""
           },
           {
-            "title": "LOW SERVER",
-            "link": "http://193.47.62.44/hls/KKKKA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+            "title": "PARAMOUNT+ HD",
+            "link": "https://chatgpt.hereisman.net/playlist/60998/load-playlist-multi?|Referer=https://gooz.aapmains.net",
             "logo": "",
             "type": 0,
             "api": "",
@@ -1037,7 +1069,7 @@
           },
           {
             "title": "SonyLiv - ENG",
-            "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2037139/footlive2511/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=39417a9c21ba0ca210840959b4d0fe8b-1795626864032",
+            "link": "https://sonyeventsglobal.akamaized.net/hls/live/2037139/footlive2511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795670807~acl=/*~id=06601972009501816237487700298060~hmac=93900a4bfbd92bbea9c65d8974d8e38ca7f6ef505c12e794731f7a2f58f7c53a",
             "logo": "",
             "type": 0,
             "api": "",
@@ -1045,7 +1077,7 @@
           },
           {
             "title": "SonyLiv - HIN",
-            "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2022322/footlive2511/HIN/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=39417a9c21ba0ca210840959b4d0fe8b-1795626864032",
+            "link": "https://sonyeventsglobal.akamaized.net/hls/live/2022322/footlive2511/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795670807~acl=/*~id=06601972009501816237487700298060~hmac=93900a4bfbd92bbea9c65d8974d8e38ca7f6ef505c12e794731f7a2f58f7c53a",
             "logo": "",
             "type": 0,
             "api": "",
@@ -1074,6 +1106,22 @@
             "type": 0,
             "api": "",
             "tokenApi": ""
+          },
+          {
+            "title": "HD SERVER",
+            "link": "https://www.rtmpcdn.com/live/7ecadbda-bab9-44f6-b37e-58f5c51f77e7.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "LOW SERVER",
+            "link": "http://193.47.62.44/hls/KKKKA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
           }
         ]
       },
@@ -1095,6 +1143,38 @@
         },
         "channels_data": [
           {
+            "title": "PARAMOUNT+ - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/woww8ppzgt/out/v1/bc97323e04cd4463b306bdc9d66ce603/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "cd6ad5529543f1e46206da1bdc0a9698:66c070216a1cd71c1d88fc4509f4ed71",
+            "tokenApi": ""
+          },
+          {
+            "title": "DAZN SPORTS - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/mjos3kgej5/out/v1/538db54d1c4146c7b39f3db9bb76c35f/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "606894735015d23d9d69bfd0037178e7:4748d804aec9906a991bff5225908f1c",
+            "tokenApi": ""
+          },
+          {
+            "title": "VIX SPANISH - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/a6z36g01sa/out/v1/7c7d16e0b54848b0ba34ec2d68d0b638/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "3c6c39d6c7b945651cd8a36029cea49d:60da32bfde8dac18d4d1344b3f68a2eb",
+            "tokenApi": ""
+          },
+          {
+            "title": "DAZN DE - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/to3jxmtgqe/out/v1/29c3e2d4f9dd436d80d9a2017f7501dc/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "56cbd675ccdb2b4019cd370cb5972f27:fe9e827112a2f537b0f318b641cd9c1b",
+            "tokenApi": ""
+          },
+          {
             "title": "PARAMOUNT+ HD",
             "link": "https://chatgpt.hereisman.net/playlist/60995/load-playlist-multi?|Referer=https://gooz.aapmains.net",
             "logo": "",
@@ -1105,6 +1185,14 @@
           {
             "title": "SonyLiv ",
             "link": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/footlive2511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795670807~acl=/*~id=06601972009501816237487700298060~hmac=93900a4bfbd92bbea9c65d8974d8e38ca7f6ef505c12e794731f7a2f58f7c53a",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "HD SERVER ",
+            "link": "https://www.rtmpcdn.com/live/091a94a9-9f77-4a11-b74d-e64cf2e385ac.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
             "logo": "",
             "type": 0,
             "api": "",
