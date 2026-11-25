@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-25T15:51:05.320261",
-  "event_count": 38,
+  "last_updated": "2026-11-25T16:01:44.183037",
+  "event_count": 37,
   "events": {
     "events": [
       {
@@ -1005,7 +1005,7 @@
           "teamAFlag": "https://img.sofascore.com/api/v1/team/267828/image",
           "teamBFlag": "https://img.sofascore.com/api/v1/team/2817/image",
           "eventName": "Football",
-          "isHot": "0",
+          "isHot": "1",
           "Status": "Upcoming",
           "startTime": "2026/11/25 17:45:00 +0000",
           "endTime": "2026/11/25 20:05:00 +0000"
@@ -1254,33 +1254,6 @@
         ]
       },
       {
-        "id": 15307,
-        "title": "Nasaf Qarshi vs Al Khaldiya",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Nasaf Qarshi",
-          "teamB": "Al Khaldiya",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/34017/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/371631/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/11/25 13:45:00 +0000",
-          "endTime": "2026/11/25 16:05:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "LOW SERVER",
-            "link": "http://193.47.62.55/hls/IIIIAAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
         "id": 15308,
         "title": "Al Faisaly SC vs Al-Rayyan",
         "image": "",
@@ -1292,7 +1265,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/40660/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/11/25 16:00:00 +0000",
           "endTime": "2026/11/25 18:20:00 +0000"
         },
@@ -1319,7 +1292,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/275525/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/11/25 16:00:00 +0000",
           "endTime": "2026/11/25 18:20:00 +0000"
         },
@@ -1346,7 +1319,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/264115/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/11/25 16:00:00 +0000",
           "endTime": "2026/11/25 18:20:00 +0000"
         },
@@ -1373,7 +1346,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/469420/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/11/25 16:00:00 +0000",
           "endTime": "2026/11/25 18:20:00 +0000"
         },
