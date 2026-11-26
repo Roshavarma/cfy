@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-26T16:31:42.985878",
-  "event_count": 63,
+  "last_updated": "2026-11-26T16:41:10.081427",
+  "event_count": 60,
   "events": {
     "events": [
       {
@@ -1538,19 +1538,27 @@
         },
         "channels_data": [
           {
-            "title": "TNT SPORTS - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-            "logo": "",
-            "type": 7,
-            "api": "fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408",
-            "tokenApi": ""
-          },
-          {
             "title": "SPORT 2 CZ - AQ",
             "link": "https://dash2.antik.sk/stream/nvidia_sport2/playlist_cenc.mpd",
             "logo": "",
             "type": 7,
             "api": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
+            "tokenApi": ""
+          },
+          {
+            "title": "SonyLiv ",
+            "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2120299/Footlive2611/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=177b0d7830800592dab17091b930ea5d-1795709662737",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "HD SERVER ",
+            "link": "https://www.rtmpcdn.com/live/73e628ab-44f6-40dd-be0b-91f5b7be2299.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+            "logo": "",
+            "type": 0,
+            "api": "",
             "tokenApi": ""
           }
         ]
@@ -1600,7 +1608,7 @@
         },
         "channels_data": [
           {
-            "title": "Live 1",
+            "title": "LOW SERVER ",
             "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
             "logo": "",
             "type": 0,
@@ -2015,68 +2023,6 @@
         ]
       },
       {
-        "id": 15367,
-        "title": "Jamaica U17 vs Cote dIvoire U17",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Jamaica U17",
-          "teamB": "C\u00f4te d'Ivoire U17",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/22617/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/48857/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Finish",
-          "startTime": "2026/11/26 14:00:00 +0000",
-          "endTime": "2026/11/26 16:20:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "Live 1",
-            "link": "https://live3979.zundrixmediapipeline.com/live/channel18.m3u8?|Referer=https://xlz.domainkqt.cc/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 15368,
-        "title": "Uzbekistan U17 vs Italy U17",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Uzbekistan U17",
-          "teamB": "Italy U17",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/22662/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/22616/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Finish",
-          "startTime": "2026/11/26 14:00:00 +0000",
-          "endTime": "2026/11/26 16:20:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "D SPORTS - AQ",
-            "link": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ud6bnhthpj/out/v1/2639a2f4480f4269953de466d5f46463/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "83f81c4cc1443991543de4e22eea7586:ddfd7ca653d6f35543d8edb3c688e20f",
-            "tokenApi": ""
-          },
-          {
-            "title": "HD SERVER",
-            "link": "https://live3979.zundrixmediapipeline.com/live/channel12.m3u8?|Referer=https://xlz.domainkqt.cc/",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
         "id": 15369,
         "title": "China U17 vs Fiji U17",
         "image": "",
@@ -2095,7 +2041,15 @@
         "channels_data": [
           {
             "title": "Live 1",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "link": "https://live3979.zundrixmediapipeline.com/live/channel17.m3u8?|Referer=https://xlz.domainkqt.cc/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "LOW SERVER ",
+            "link": "http://193.47.62.55/hls/QYYY.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
             "logo": "",
             "type": 0,
             "api": "",
@@ -2157,7 +2111,15 @@
         "channels_data": [
           {
             "title": "Live 1",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "link": "https://live3979.zundrixmediapipeline.com/live/channel20.m3u8?|Referer=https://xlz.domainkqt.cc/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "LOW SERVER ",
+            "link": "http://193.47.62.50/hls/GTGTGTA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
             "logo": "",
             "type": 0,
             "api": "",
@@ -2184,34 +2146,15 @@
         "channels_data": [
           {
             "title": "Live 1",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "link": "https://live3979.zundrixmediapipeline.com/live/channel7.m3u8?|Referer=https://xlz.domainkqt.cc/",
             "logo": "",
             "type": 0,
             "api": "",
             "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 15373,
-        "title": "Al-Fateh vs Al-Riyadh",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Al-Fateh",
-          "teamB": "Al-Riyadh",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/56023/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/168088/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/11/26 14:25:00 +0000",
-          "endTime": "2026/11/26 16:45:00 +0000"
-        },
-        "channels_data": [
+          },
           {
-            "title": "LOW SERVER",
-            "link": "http://193.47.62.41/hls/QTTTAAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+            "title": "LOW SERVER ",
+            "link": "http://193.47.62.50/hls/GTGTGTAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
             "logo": "",
             "type": 0,
             "api": "",
@@ -2237,8 +2180,16 @@
         },
         "channels_data": [
           {
-            "title": "Live 1",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "title": "HD SERVER",
+            "link": "https://live3979.zundrixmediapipeline.com/live/channel8.m3u8?|Referer=https://xlz.domainkqt.cc/",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "LOW SERVER ",
+            "link": "http://193.47.62.55/hls/QYYYQQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
             "logo": "",
             "type": 0,
             "api": "",
