@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-26T12:51:16.134633",
+  "last_updated": "2026-11-26T13:01:53.638074",
   "event_count": 68,
   "events": {
     "events": [
@@ -2026,7 +2026,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/22583/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/11/26 13:00:00 +0000",
           "endTime": "2026/11/26 15:20:00 +0000"
         },
@@ -2037,6 +2037,14 @@
             "logo": "",
             "type": 7,
             "api": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae",
+            "tokenApi": ""
+          },
+          {
+            "title": "HD SERVER",
+            "link": "https://live3979.zundrixmediapipeline.com/live/channel16.m3u8?|Referer=https://xlz.domainkqt.cc/",
+            "logo": "",
+            "type": 0,
+            "api": "",
             "tokenApi": ""
           }
         ]
@@ -2053,14 +2061,14 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/203876/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/11/26 13:00:00 +0000",
           "endTime": "2026/11/26 15:20:00 +0000"
         },
         "channels_data": [
           {
             "title": "Live 1",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "link": "https://live3979.zundrixmediapipeline.com/live/channel1.m3u8?|Referer=https://xlz.domainkqt.cc/",
             "logo": "",
             "type": 0,
             "api": "",
