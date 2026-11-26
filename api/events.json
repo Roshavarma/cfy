@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-26T18:31:27.006685",
-  "event_count": 53,
+  "last_updated": "2026-11-26T18:41:29.462258",
+  "event_count": 79,
   "events": {
     "events": [
       {
@@ -2434,6 +2434,708 @@
         "channels_data": [
           {
             "title": "Live 1",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 15387,
+        "title": "Al-Kholood vs Al-Khaleej",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Al-Kholood",
+          "teamB": "Al-Khaleej",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/269199/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/167228/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/11/27 12:15:00 +0000",
+          "endTime": "2026/11/27 14:35:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 15388,
+        "title": "Al-Qadsiah vs Al-Fayha",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Al-Qadsiah",
+          "teamB": "Al-Fayha",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/56027/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/168094/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/11/27 14:20:00 +0000",
+          "endTime": "2026/11/27 16:40:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 15389,
+        "title": "Al-Ittihad vs Neom SC",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Al-Ittihad",
+          "teamB": "Neom SC",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/34315/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/530631/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/11/27 17:30:00 +0000",
+          "endTime": "2026/11/27 19:50:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 15390,
+        "title": "VfL Bochum 1848 vs Darmstadt 98",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "VfL Bochum 1848",
+          "teamB": "Darmstadt 98",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/2542/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/2576/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/11/27 17:30:00 +0000",
+          "endTime": "2026/11/27 19:50:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 15391,
+        "title": "1. FC Heidenheim vs 1. FC Nurnberg",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "1. FC Heidenheim",
+          "teamB": "1. FC N\u00fcrnberg",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/5885/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/2523/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/11/27 17:30:00 +0000",
+          "endTime": "2026/11/27 19:50:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 15392,
+        "title": "Alanyaspor vs Konyaspor",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Alanyaspor",
+          "teamB": "Konyaspor",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/6362/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3085/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/11/27 17:00:00 +0000",
+          "endTime": "2026/11/27 19:20:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 15393,
+        "title": "Caykur Rizespor vs Kasmpasa",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "\u00c7aykur Rizespor",
+          "teamB": "Kas\u0131mpa\u015fa",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3064/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/6063/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/11/27 17:00:00 +0000",
+          "endTime": "2026/11/27 19:20:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 15394,
+        "title": "Colombia U17 vs Serbia U17",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Colombia U17",
+          "teamB": "Serbia U17",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/22592/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/22478/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/11/27 13:00:00 +0000",
+          "endTime": "2026/11/27 15:20:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 15395,
+        "title": "Honduras U17 vs Japan U17",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Honduras U17",
+          "teamB": "Japan U17",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/7764/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/22618/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/11/27 13:00:00 +0000",
+          "endTime": "2026/11/27 15:20:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 15396,
+        "title": "Costa Rica U17 vs Brazil U17",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Costa Rica U17",
+          "teamB": "Brazil U17",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/22593/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/22586/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/11/27 14:00:00 +0000",
+          "endTime": "2026/11/27 16:20:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 15397,
+        "title": "Ireland U17 vs Tanzania U17",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Ireland U17",
+          "teamB": "Tanzania U17",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/22476/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/1231931/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/11/27 14:00:00 +0000",
+          "endTime": "2026/11/27 16:20:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 15398,
+        "title": "Algeria U17 vs Dominican Republic U17",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Algeria U17",
+          "teamB": "Dominican Republic U17",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/37321/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/316489/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/11/27 15:00:00 +0000",
+          "endTime": "2026/11/27 17:20:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 15399,
+        "title": "Montenegro U17 vs Chile U17",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Montenegro U17",
+          "teamB": "Chile U17",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/22631/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/48830/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/11/27 15:00:00 +0000",
+          "endTime": "2026/11/27 17:20:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 15400,
+        "title": "Romania U17 vs Cameroon U17",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Romania U17",
+          "teamB": "Cameroon U17",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/22645/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/313112/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/11/27 16:00:00 +0000",
+          "endTime": "2026/11/27 18:20:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 15401,
+        "title": "Venezuela U17 vs Mexico U17",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Venezuela U17",
+          "teamB": "Mexico U17",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/48841/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/22629/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/11/27 16:00:00 +0000",
+          "endTime": "2026/11/27 18:20:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 15402,
+        "title": "SV Werder Bremen vs Borussia Mgladbach",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "SV Werder Bremen",
+          "teamB": "Borussia M'gladbach",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/2534/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/2527/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/11/27 19:30:00 +0000",
+          "endTime": "2026/11/27 21:50:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 15403,
+        "title": "Nottingham Forest vs Chelsea",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Nottingham Forest",
+          "teamB": "Chelsea",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/14/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/38/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/11/27 20:00:00 +0000",
+          "endTime": "2026/11/27 22:20:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 15404,
+        "title": "Fluminense vs Cruzeiro",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Fluminense",
+          "teamB": "Cruzeiro",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/1961/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/1954/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/11/27 23:00:00 +0000",
+          "endTime": "2026/11/28 01:20:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 15405,
+        "title": "Venezia vs Bologna",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Venezia",
+          "teamB": "Bologna",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/2688/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/2685/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/11/27 19:45:00 +0000",
+          "endTime": "2026/11/27 22:05:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 15406,
+        "title": "Levante UD vs Real Racing Club",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Levante UD",
+          "teamB": "Real Racing Club",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/2849/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/2835/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/11/27 20:00:00 +0000",
+          "endTime": "2026/11/27 22:20:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 15407,
+        "title": "Stade Brestois vs Paris FC",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Stade Brestois",
+          "teamB": "Paris FC",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/1715/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/6070/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/11/27 19:45:00 +0000",
+          "endTime": "2026/11/27 22:05:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 15408,
+        "title": "Southampton vs Middlesbrough",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Southampton",
+          "teamB": "Middlesbrough",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/45/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/36/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/11/27 20:00:00 +0000",
+          "endTime": "2026/11/27 22:20:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 15409,
+        "title": "Columbus Crew vs Inter Miami CF",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Columbus Crew",
+          "teamB": "Inter Miami CF",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/2504/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/337602/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/11/28 01:00:00 +0000",
+          "endTime": "2026/11/28 03:20:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 15410,
+        "title": "FC Groningen vs Willem II Tilburg",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "FC Groningen",
+          "teamB": "Willem II Tilburg",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/2951/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/2961/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/11/27 19:00:00 +0000",
+          "endTime": "2026/11/27 21:20:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 15411,
+        "title": "CS Maritimo vs CD Nacional",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "CS Mar\u00edtimo",
+          "teamB": "CD Nacional",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/3007/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/3013/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/11/27 20:15:00 +0000",
+          "endTime": "2026/11/27 22:35:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 15412,
+        "title": "Leganes vs CE Sabadell",
+        "image": "",
+        "cat": "Football",
+        "eventInfo": {
+          "teamA": "Legan\u00e9s",
+          "teamB": "CE Sabadell",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/2845/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/24335/image",
+          "eventName": "Football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/11/27 19:30:00 +0000",
+          "endTime": "2026/11/27 21:50:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "",
             "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
             "logo": "",
             "type": 0,
