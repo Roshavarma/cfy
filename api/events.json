@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-26T09:51:15.741798",
+  "last_updated": "2026-11-26T10:01:46.006524",
   "event_count": 71,
   "events": {
     "events": [
@@ -738,7 +738,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/187756/image",
           "eventName": "Cricket",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/11/26 10:00:13 +0000",
           "endTime": "2026/11/26 17:58:17 +0000"
         },
@@ -769,7 +769,7 @@
           },
           {
             "title": "SonyLiv - ENG",
-            "link": "https://liveakmt-p-md.slivcdn.com/hls/live/2119931/cricodi_2611/ENG/master.m3u8?hdnea=exp=1795690811~acl=/*~id=84387939375088737665508237207451~hmac=3c0e301b94b9b43281fe25fc8f64d5c0b7bb2575beeb7d2510cff85ca51cba76",
+            "link": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_2611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795729019~acl=/*~id=22066650344609611786204354702413~hmac=e83e93f5f799c6b870db1bf984d0211965bbd425e2f09d1dd4611ce7d7069431",
             "logo": "",
             "type": 0,
             "api": "",
@@ -777,7 +777,7 @@
           },
           {
             "title": "SonyLiv - HIN",
-            "link": "https://liveakmt-p-md.slivcdn.com/hls/live/2119921/cricodi_2611/HIN/master.m3u8?hdnea=exp=1795690811~acl=/*~id=84387939375088737665508237207451~hmac=3c0e301b94b9b43281fe25fc8f64d5c0b7bb2575beeb7d2510cff85ca51cba76",
+            "link": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_2611/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795729019~acl=/*~id=22066650344609611786204354702413~hmac=e83e93f5f799c6b870db1bf984d0211965bbd425e2f09d1dd4611ce7d7069431",
             "logo": "",
             "type": 0,
             "api": "",
@@ -785,7 +785,7 @@
           },
           {
             "title": "SonyLiv - TAM",
-            "link": "https://liveakmt-p-md.slivcdn.com/hls/live/2119931/cricodi_2611/ENG/master.m3u8?hdnea=exp=1795690811~acl=/*~id=84387939375088737665508237207451~hmac=3c0e301b94b9b43281fe25fc8f64d5c0b7bb2575beeb7d2510cff85ca51cba76",
+            "link": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_2611/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795729019~acl=/*~id=22066650344609611786204354702413~hmac=e83e93f5f799c6b870db1bf984d0211965bbd425e2f09d1dd4611ce7d7069431",
             "logo": "",
             "type": 0,
             "api": "",
@@ -793,7 +793,7 @@
           },
           {
             "title": "SonyLiv - TEL",
-            "link": "https://liveakmt-p-md.slivcdn.com/hls/live/2119931/cricodi_2611/ENG/master.m3u8?hdnea=exp=1795690811~acl=/*~id=84387939375088737665508237207451~hmac=3c0e301b94b9b43281fe25fc8f64d5c0b7bb2575beeb7d2510cff85ca51cba76",
+            "link": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_2611/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795729019~acl=/*~id=22066650344609611786204354702413~hmac=e83e93f5f799c6b870db1bf984d0211965bbd425e2f09d1dd4611ce7d7069431",
             "logo": "",
             "type": 0,
             "api": "",
@@ -801,7 +801,7 @@
           },
           {
             "title": "SonyLiv - KAN",
-            "link": "https://liveakmt-p-md.slivcdn.com/hls/live/2119931/cricodi_2611/ENG/master.m3u8?hdnea=exp=1795690811~acl=/*~id=84387939375088737665508237207451~hmac=3c0e301b94b9b43281fe25fc8f64d5c0b7bb2575beeb7d2510cff85ca51cba76",
+            "link": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_2611/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795729019~acl=/*~id=22066650344609611786204354702413~hmac=e83e93f5f799c6b870db1bf984d0211965bbd425e2f09d1dd4611ce7d7069431",
             "logo": "",
             "type": 0,
             "api": "",
@@ -810,6 +810,46 @@
           {
             "title": "PTV SPORTS HD",
             "link": "https://live.msnetworks.net/ptv-sports/master.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "SONY TEN 1 - IN",
+            "link": "https://dishmt.slivcdn.com/hls/live/2011747/TEN1HD/hdntl=exp=1795772059~acl=%2f*~id=68315914508524846040988993985504~data=hdntl~hmac=75067c4192109522676222a662fe0d36d31f9212431a8b13e592a82b26e66440/master_3500.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "SONY TEN 2 - IN",
+            "link": "https://dishmt.slivcdn.com/hls/live/2020434/TEN2HD/hdntl=exp=1795772059~acl=%2f*~id=68315914508524846040988993985504~data=hdntl~hmac=75067c4192109522676222a662fe0d36d31f9212431a8b13e592a82b26e66440/master_3500.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "SONY TEN 3 - IN",
+            "link": "https://dishmt.slivcdn.com/hls/live/2020591-b/TEN3HD/hdntl=exp=1795772059~acl=%2f*~id=68315914508524846040988993985504~data=hdntl~hmac=75067c4192109522676222a662fe0d36d31f9212431a8b13e592a82b26e66440/master_3500.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "SONY TEN 4 - IN",
+            "link": "https://dishmt.slivcdn.com/hls/live/2020589/ten4hd/hdntl=exp=1795772059~acl=%2f*~id=68315914508524846040988993985504~data=hdntl~hmac=75067c4192109522676222a662fe0d36d31f9212431a8b13e592a82b26e66440/master_3500.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "SONY TEN 5 - IN",
+            "link": "https://dishmt.slivcdn.com/hls/live/2020593-b/SONYSIXHD/hdntl=exp=1795772059~acl=%2f*~id=68315914508524846040988993985504~data=hdntl~hmac=75067c4192109522676222a662fe0d36d31f9212431a8b13e592a82b26e66440/master_3500.m3u8",
             "logo": "",
             "type": 0,
             "api": "",
@@ -2267,11 +2307,19 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/42199/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/11/26 10:00:00 +0000",
           "endTime": "2026/11/26 12:20:00 +0000"
         },
         "channels_data": [
+          {
+            "title": "TAPMAD - AQ",
+            "link": "https://multiregion-asia-cdn.tapmad.com/v1/01a1548c4faf15fc600b1e3e968408/01a1548c7fde1ea557841e1612cf76/main.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
           {
             "title": "LOW SERVER ",
             "link": "http://193.47.62.41/hls/WAWAWA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
@@ -2294,11 +2342,19 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/35605/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/11/26 10:00:00 +0000",
           "endTime": "2026/11/26 12:20:00 +0000"
         },
         "channels_data": [
+          {
+            "title": "TAPMAD - AQ",
+            "link": "https://multiregion-asia-cdn.tapmad.com/v1/01a154a641d51567ee931e109fa59f/01a154a676281ea557841e1612cf77/main.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
           {
             "title": "LOW SERVER ",
             "link": "http://193.47.62.41/hls/WAWAWAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
@@ -2321,11 +2377,19 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/3373/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/11/26 10:00:00 +0000",
           "endTime": "2026/11/26 12:20:00 +0000"
         },
         "channels_data": [
+          {
+            "title": "TAPMAD - AQ",
+            "link": "https://multiregion-asia-cdn.tapmad.com/v1/01a154de56151ea540a81c2b41b77a/01a154de85c41567ee931e109fa5a5/main.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
           {
             "title": "LOW SERVER ",
             "link": "http://193.47.62.41/hls/WAWAWAAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
