@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-26T17:31:34.611680",
-  "event_count": 57,
+  "last_updated": "2026-11-26T17:41:21.039185",
+  "event_count": 56,
   "events": {
     "events": [
       {
@@ -1042,6 +1042,14 @@
             "type": 7,
             "api": "a551b3d6acde3b8129a73c8959cba2c8:b34fa2c92050fc7fcdee926bb22f3e86",
             "tokenApi": ""
+          },
+          {
+            "title": "DAZN SPORTS - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0ffjvt1wlh/out/v1/69ed4fc09d9445a0b59979961006b728/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "c21e9b8527df8aa55bc140393e1fad00:d7b34a0884b623956697da4d50bdd27d",
+            "tokenApi": ""
           }
         ]
       },
@@ -1062,6 +1070,14 @@
           "endTime": "2026/11/26 20:05:00 +0000"
         },
         "channels_data": [
+          {
+            "title": "DAZN SPORTS - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lsungy1bkk/out/v1/8ecc213717ee4e69bc5db0a3faddf750/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "792800ec8390ba20ea105242b6143e04:6bb0935a5200ea6fd5fd9b4b0d34e208",
+            "tokenApi": ""
+          },
           {
             "title": "PARAMOUNT+ - AQ",
             "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/r7hpdszryi/out/v1/c3ba8911e82e403fb11c697d7ab7dd82/cenc.mpd",
@@ -1106,11 +1122,27 @@
         },
         "channels_data": [
           {
+            "title": "DAZN SPORTS - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/mstewy9lwt/out/v1/642a7f5445624074b16b1cf29cfd4ae5/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "75af11b4bf657490b351ee42f9d93918:623951781a8c78cbfd8e16d594122927",
+            "tokenApi": ""
+          },
+          {
             "title": "PARAMOUNT+ - AQ",
             "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/n0fwkjiiel/out/v1/d865d50ba8a744d0b399ebaf97ca4ec3/cenc.mpd",
             "logo": "",
             "type": 7,
             "api": "758c3eba3711c6a0600fc24f4aa039f7:f3c12947110b4b3c33e8e272a88a901b",
+            "tokenApi": ""
+          },
+          {
+            "title": "Live 1",
+            "link": "https://chatgpt.hereisman.net/playlist/61079/load-playlist-multi?|Referer=https://gooz.aapmains.net",
+            "logo": "",
+            "type": 0,
+            "api": "",
             "tokenApi": ""
           }
         ]
@@ -1139,6 +1171,14 @@
             "type": 7,
             "api": "28520e80027415f8ecd362d277c610cc:7f1fd3cc8ea5e77b69fc1bc36bdfb862",
             "tokenApi": ""
+          },
+          {
+            "title": "DAZN SPORTS - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vf01n9e6ic/out/v1/c8437f4ea7204ea5b49cb70f9833292f/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "c2d330cf5b6ba71b8262cabbe31cdbf4:a1ddee66807bed11723f69e83a55b2d1",
+            "tokenApi": ""
           }
         ]
       },
@@ -1159,6 +1199,14 @@
           "endTime": "2026/11/26 20:05:00 +0000"
         },
         "channels_data": [
+          {
+            "title": "DAZN SPORTS - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/nizdxseied/out/v1/bf9914ce52a849f2adb5a5aeba1f4aff/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "5a9e946b91ea11f835c2d37390aa35b7:06c5d3f120dc0267f388e1fee8356b36",
+            "tokenApi": ""
+          },
           {
             "title": "PARAMOUNT+ - AQ",
             "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/7trjjhz4cw/out/v1/5ed589ba1a254e7ca2afbbd3c2918276/cenc.mpd",
@@ -1184,7 +1232,7 @@
             "tokenApi": ""
           },
           {
-            "title": "CBS SPORTS HD",
+            "title": "Live 1",
             "link": "https://chatgpt.hereisman.net/playlist/61080/load-playlist-multi?|Referer=https://gooz.aapmains.net",
             "logo": "",
             "type": 0,
@@ -1561,49 +1609,6 @@
         ]
       },
       {
-        "id": 15347,
-        "title": "FC Kairat Almaty vs Mjallby AIF",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "FC Kairat Almaty",
-          "teamB": "Mj\u00e4llby AIF",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/5172/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/1783/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/11/26 15:30:00 +0000",
-          "endTime": "2026/11/26 17:50:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "SPORT 2 CZ - AQ",
-            "link": "https://dash2.antik.sk/stream/nvidia_sport2/playlist_cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
-            "tokenApi": ""
-          },
-          {
-            "title": "SonyLiv ",
-            "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2120299/Footlive2611/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:158.0) Gecko/20100101 Firefox/158.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=177b0d7830800592dab17091b930ea5d-1795709662737",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "HD SERVER ",
-            "link": "https://www.rtmpcdn.com/live/73e628ab-44f6-40dd-be0b-91f5b7be2299.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
         "id": 15348,
         "title": "AFC Ajax vs FC Thun",
         "image": "",
@@ -1626,6 +1631,14 @@
             "logo": "",
             "type": 7,
             "api": "623d596898e5f4169e62539e5c4f447e:1a01316502ded7f382a5551fdf691f5e",
+            "tokenApi": ""
+          },
+          {
+            "title": "DAZN SPORTS - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/cu3g5mmgfb/out/v1/744395bebce54fe88b0a7e962d95ba04/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "fcd9693294de795b8bfe4ce2d4470cdd:74cf66c23b5edc446ea0b02335156d7a",
             "tokenApi": ""
           }
         ]
@@ -1674,6 +1687,14 @@
           "endTime": "2026/11/26 20:05:00 +0000"
         },
         "channels_data": [
+          {
+            "title": "DAZN SPORTS - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/qycrirlalb/out/v1/db7ad08f01264e2f950df87e016a98ce/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "2b7d9db97af06830013ca2f6cdceff65:4d5bb464c3f2306b52f620ce89b854b4",
+            "tokenApi": ""
+          },
           {
             "title": "PARAMOUNT+ - AQ",
             "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/df2fcpxsh6/out/v1/89d38bf488cb449483ffdeb27fc7cb9c/cenc.mpd",
@@ -1771,6 +1792,14 @@
           "endTime": "2026/11/26 20:05:00 +0000"
         },
         "channels_data": [
+          {
+            "title": "DAZN SPORTS - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/raqupag2xn/out/v1/c82abc750fd94081a80ec6f336beb942/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "72719a409bea60fb496719e66663f9eb:d93a1b6b75eca45ed0bf53ee394d1610",
+            "tokenApi": ""
+          },
           {
             "title": "PARAMOUNT+ - AQ",
             "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/sufpagg0uu/out/v1/5cfa9f5aed4f471f9e9b8589a8b93196/cenc.mpd",
@@ -1882,6 +1911,14 @@
             "logo": "",
             "type": 7,
             "api": "2a68df24ec78920e6aece0d131aeaf75:b91bf889803ea4ed78ae40286e9c34e8",
+            "tokenApi": ""
+          },
+          {
+            "title": "DAZN SPORTS - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/sml41rrgvv/out/v1/c1b7524c122d453985a73c7bb9b8f420/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "d122f0e2658e24fa3deb4012780c9efb:c9bbe113dff17a5f5da35ab2d3aa28c2",
             "tokenApi": ""
           }
         ]
@@ -2273,6 +2310,14 @@
             "logo": "",
             "type": 7,
             "api": "385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8",
+            "tokenApi": ""
+          },
+          {
+            "title": "Live 1",
+            "link": "https://chatgpt.hereisman.net/playlist/61074/load-playlist?|Referer=https://gooz.aapmains.net",
+            "logo": "",
+            "type": 0,
+            "api": "",
             "tokenApi": ""
           }
         ]
