@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-26T07:11:14.230912",
-  "event_count": 67,
+  "last_updated": "2026-11-26T07:21:10.834507",
+  "event_count": 71,
   "events": {
     "events": [
       {
@@ -2432,6 +2432,114 @@
           "Status": "Upcoming",
           "startTime": "2026/11/26 23:00:00 +0000",
           "endTime": "2026/11/27 01:20:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Live 1",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 15383,
+        "title": "Detroit Lions vs Chicago Bears",
+        "image": "",
+        "cat": "American football",
+        "eventInfo": {
+          "teamA": "Detroit Lions",
+          "teamB": "Chicago Bears",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/4419/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/4391/image",
+          "eventName": "American football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/11/26 18:00:00 +0000",
+          "endTime": "2026/11/26 21:00:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Live 1",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 15384,
+        "title": "Dallas Cowboys vs Philadelphia Eagles",
+        "image": "",
+        "cat": "American football",
+        "eventInfo": {
+          "teamA": "Dallas Cowboys",
+          "teamB": "Philadelphia Eagles",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/4392/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/4428/image",
+          "eventName": "American football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/11/26 21:30:00 +0000",
+          "endTime": "2026/11/27 00:30:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Live 1",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 15385,
+        "title": "Buffalo Bills vs Kansas City Chiefs",
+        "image": "",
+        "cat": "American football",
+        "eventInfo": {
+          "teamA": "Buffalo Bills",
+          "teamB": "Kansas City Chiefs",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/4414/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/4422/image",
+          "eventName": "American football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/11/27 01:20:00 +0000",
+          "endTime": "2026/11/27 04:20:00 +0000"
+        },
+        "channels_data": [
+          {
+            "title": "Live 1",
+            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          }
+        ]
+      },
+      {
+        "id": 15386,
+        "title": "Pittsburgh Steelers vs Denver Broncos",
+        "image": "",
+        "cat": "American football",
+        "eventInfo": {
+          "teamA": "Pittsburgh Steelers",
+          "teamB": "Denver Broncos",
+          "teamAFlag": "https://img.sofascore.com/api/v1/team/4345/image",
+          "teamBFlag": "https://img.sofascore.com/api/v1/team/4418/image",
+          "eventName": "American football",
+          "isHot": "0",
+          "Status": "Upcoming",
+          "startTime": "2026/11/27 20:00:00 +0000",
+          "endTime": "2026/11/27 23:00:00 +0000"
         },
         "channels_data": [
           {
