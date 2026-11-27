@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-27T19:21:09.685494",
+  "last_updated": "2026-11-27T19:31:14.863958",
   "event_count": 29,
   "events": {
     "events": [
@@ -1077,7 +1077,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/2527/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/11/27 19:30:00 +0000",
           "endTime": "2026/11/27 21:50:00 +0000"
         },
@@ -1088,6 +1088,22 @@
             "logo": "",
             "type": 7,
             "api": "368bd4ebe301406897324bc777650411:69d27c2c2b7de927d67aacc973259901",
+            "tokenApi": ""
+          },
+          {
+            "title": "HD SERVER",
+            "link": "https://www.rtmpcdn.com/live/88fbc948-5f87-44b7-b376-f2f52765a58e.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "LOW SERVER",
+            "link": "http://193.47.62.44/hls/POPOPO.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+            "logo": "",
+            "type": 0,
+            "api": "",
             "tokenApi": ""
           }
         ]
@@ -1331,8 +1347,8 @@
         },
         "channels_data": [
           {
-            "title": "",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "title": "LOW SERVER",
+            "link": "http://193.47.62.44/hls/G222AA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
             "logo": "",
             "type": 0,
             "api": "",
@@ -1379,7 +1395,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/24335/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/11/27 19:30:00 +0000",
           "endTime": "2026/11/27 21:50:00 +0000"
         },
