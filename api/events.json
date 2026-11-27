@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-27T13:31:18.593027",
+  "last_updated": "2026-11-27T13:41:07.246744",
   "event_count": 38,
   "events": {
     "events": [
@@ -45,11 +45,11 @@
             "tokenApi": ""
           },
           {
-            "title": "SKY MAIN EVENT",
-            "link": "https://admin2.formaturamaxi.com.br/f1.m3u8",
+            "title": "SKY TOP EVENT - AQ",
+            "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/dg9oi3org7/out/v1/e75b690762ba4c4ca72bf30703a4473e/cenc.mpd",
             "logo": "",
-            "type": 0,
-            "api": "",
+            "type": 7,
+            "api": "368bd4ebe301406897324bc777650411:69d27c2c2b7de927d67aacc973259901",
             "tokenApi": ""
           },
           {
@@ -63,6 +63,14 @@
           {
             "title": "SPORTSCAST - AQ",
             "link": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/76499995-c8a6-4163-b39c-99f6566e78f1/master.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "SKY MAIN EVENT",
+            "link": "https://admin2.formaturamaxi.com.br/f1.m3u8",
             "logo": "",
             "type": 0,
             "api": "",
@@ -1186,6 +1194,14 @@
             "type": 7,
             "api": "385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8",
             "tokenApi": ""
+          },
+          {
+            "title": "LOW SERVER ",
+            "link": "http://193.47.62.44/hls/TDDDA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
           }
         ]
       },
@@ -1207,8 +1223,8 @@
         },
         "channels_data": [
           {
-            "title": "",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "title": "LOW SERVER",
+            "link": "http://193.47.62.44/hls/TDDDAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
             "logo": "",
             "type": 0,
             "api": "",
