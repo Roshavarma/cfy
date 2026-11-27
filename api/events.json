@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-27T06:21:03.989242",
-  "event_count": 40,
+  "last_updated": "2026-11-27T06:31:25.427013",
+  "event_count": 39,
   "events": {
     "events": [
       {
@@ -623,9 +623,9 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/187765/image",
           "eventName": "Cricket",
           "isHot": "0",
-          "Status": "Finish",
-          "startTime": "2026/11/26 22:00:05 +0000",
-          "endTime": "2026/11/27 06:00:09 +0000"
+          "Status": "Upcoming",
+          "startTime": "2026/11/27 22:00:57 +0000",
+          "endTime": "2026/11/28 06:00:04 +0000"
         },
         "channels_data": [
           {
@@ -888,65 +888,6 @@
           {
             "title": " SandBrix HD",
             "link": "https://amssandbrix.sandbrix.live/sandbrix/streams/mk139q1Mi9bHznBA775016895861.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 15385,
-        "title": "Buffalo Bills vs Kansas City Chiefs",
-        "image": "",
-        "cat": "American football",
-        "eventInfo": {
-          "teamA": "Buffalo Bills",
-          "teamB": "Kansas City Chiefs",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/4414/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/4422/image",
-          "eventName": "American football",
-          "isHot": "0",
-          "Status": "Finish",
-          "startTime": "2026/11/27 01:20:00 +0000",
-          "endTime": "2026/11/27 04:20:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "TSN SPORTS 1 - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-            "logo": "",
-            "type": 7,
-            "api": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d",
-            "tokenApi": ""
-          },
-          {
-            "title": "TSN SPORTS 3 - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lsibpqruq1/out/v1/748887d614a84913ba8bcdf3c82823e6/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-            "logo": "",
-            "type": 7,
-            "api": "d3250252765347a0c2603c6cb4869f8c:0c19319460da7e9ed816db46ce839b37",
-            "tokenApi": ""
-          },
-          {
-            "title": "TSN SPORTS 4 - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-            "logo": "",
-            "type": 7,
-            "api": "abc5b2883121012850ebda05b528c5ec:e5250924f4b738905f7163a0134587a7",
-            "tokenApi": ""
-          },
-          {
-            "title": "TSN SPORTS 5 - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-            "logo": "",
-            "type": 7,
-            "api": "385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8",
-            "tokenApi": ""
-          },
-          {
-            "title": "Live 1",
-            "link": "https://chatgpt.hereisman.net/playlist/61114/load-playlist?&.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=https://gooz.aapmains.net/new-stream-embed/61114?ad=111&Origin=https://gooz.aapmains.net",
             "logo": "",
             "type": 0,
             "api": "",
