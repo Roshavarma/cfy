@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-27T13:21:09.163498",
-  "event_count": 39,
+  "last_updated": "2026-11-27T13:31:18.593027",
+  "event_count": 38,
   "events": {
     "events": [
       {
@@ -15,19 +15,11 @@
           "teamBFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6U1hs_95YIb02AiDL1JAgkqMNrA1SkPMUatqqPsO2ZqtNZdmj79TQ71k&s=10",
           "eventName": "Motorsports",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/11/27 13:30:09 +0000",
           "endTime": "2026/11/27 17:59:12 +0000"
         },
         "channels_data": [
-          {
-            "title": "TSN SPORTS - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-            "logo": "",
-            "type": 7,
-            "api": "385ceb9714b75e0cef61254f80b31002:18dce92a2891fee68d21ede5173230f8",
-            "tokenApi": ""
-          },
           {
             "title": "FANCODE - AQ",
             "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
@@ -62,7 +54,7 @@
           },
           {
             "title": "Live 1",
-            "link": "https://chatgpt.hereisman.net/playlist/60456/load-playlist-multi?|Referer=https://gooz.aapmains.net",
+            "link": "https://chatgpt.hereisman.net/playlist/61118/load-playlist-multi?|Referer=https://gooz.aapmains.net",
             "logo": "",
             "type": 0,
             "api": "",
@@ -70,7 +62,7 @@
           },
           {
             "title": "SPORTSCAST - AQ",
-            "link": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/59d22f5b-e8e0-4db7-9765-56a5b9e8f236/master.m3u8",
+            "link": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/76499995-c8a6-4163-b39c-99f6566e78f1/master.m3u8",
             "logo": "",
             "type": 0,
             "api": "",
@@ -94,7 +86,7 @@
           },
           {
             "title": "LOW SERVER",
-            "link": "http://193.47.62.50/hls/4GGGG.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+            "link": "http://193.47.62.59/hls/TFFFAAAQQQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
             "logo": "",
             "type": 0,
             "api": "",
@@ -556,9 +548,9 @@
           "teamBFlag": "http://img.sofascore.com/api/v1/unique-tournament/11163/image/dark",
           "eventName": "Cricket",
           "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/11/27 10:10:27 +0000",
-          "endTime": "2026/11/27 14:15:31 +0000"
+          "Status": "Upcoming",
+          "startTime": "2026/11/28 04:40:06 +0000",
+          "endTime": "2026/11/28 12:30:10 +0000"
         },
         "channels_data": [
           {
@@ -848,41 +840,6 @@
             "logo": "",
             "type": 7,
             "api": "d5859726f4804398b37aa6eb9d571a4f:11c43967054ad1765d919f854889912f",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 15140,
-        "title": "Italia T10 League",
-        "image": "null",
-        "cat": "Cricket",
-        "eventInfo": {
-          "teamA": "Italia T10",
-          "teamB": "Italia T10",
-          "teamAFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBTK9sfDCFhv5T2jEH3nkh9cPngwVXMaQFV9uNCn66zg&s=10",
-          "teamBFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBTK9sfDCFhv5T2jEH3nkh9cPngwVXMaQFV9uNCn66zg&s=10",
-          "eventName": "Cricket",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/11/27 13:15:07 +0000",
-          "endTime": "2026/11/27 15:15:20 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "UNBEATEN - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/igtio3ifkx/out/v1/3e305fd8d7eb4c489e80a71513206a7d/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "5d6c647cd1b56550bd34349b68ec8c82:09f952780ba5b30bc222439aaa3ac09b",
-            "tokenApi": ""
-          },
-          {
-            "title": " SandBrix HD",
-            "link": "https://amssandbrix.sandbrix.live/sandbrix/streams/mk139q1Mi9bHznBA775016895861.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
             "tokenApi": ""
           }
         ]
