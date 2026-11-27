@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-27T17:20:59.301889",
+  "last_updated": "2026-11-27T17:31:16.863112",
   "event_count": 29,
   "events": {
     "events": [
@@ -883,7 +883,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/530631/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/11/27 17:30:00 +0000",
           "endTime": "2026/11/27 19:50:00 +0000"
         },
@@ -894,6 +894,14 @@
             "logo": "",
             "type": 7,
             "api": "d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811",
+            "tokenApi": ""
+          },
+          {
+            "title": "LOW SERVER",
+            "link": "http://193.47.62.50/hls/JMMMAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+            "logo": "",
+            "type": 0,
+            "api": "",
             "tokenApi": ""
           }
         ]
@@ -910,17 +918,25 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/2576/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/11/27 17:30:00 +0000",
           "endTime": "2026/11/27 19:50:00 +0000"
         },
         "channels_data": [
           {
-            "title": "SKY TOP EVENT - AQ",
-            "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/gjsukewpxp/out/v1/ef14aacf858248839b9867eec5caf563/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+            "title": "SKY BUNDESLIGA - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ubiowncrej/out/v1/def874d66d3b4dfa99c354ee7d0855c0/cenc.mpd",
             "logo": "",
             "type": 7,
-            "api": "368bd4ebe301406897324bc777650411:69d27c2c2b7de927d67aacc973259901",
+            "api": "f38ce843871b3e5aa97b8461a093a424:b51d62eeec9c136513c12ea7ec291f6f",
+            "tokenApi": ""
+          },
+          {
+            "title": "LOW SERVER",
+            "link": "http://193.47.62.50/hls/JMMMAAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+            "logo": "",
+            "type": 0,
+            "api": "",
             "tokenApi": ""
           }
         ]
@@ -937,17 +953,25 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/2523/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/11/27 17:30:00 +0000",
           "endTime": "2026/11/27 19:50:00 +0000"
         },
         "channels_data": [
           {
-            "title": "SKY TOP EVENT - AQ",
-            "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/gjsukewpxp/out/v1/ef14aacf858248839b9867eec5caf563/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+            "title": "SKY BUNDESLIGA - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/oi4rnidcwc/out/v1/0e3c984eb7284664919152f18e7915b1/cenc.mpd",
             "logo": "",
             "type": 7,
-            "api": "368bd4ebe301406897324bc777650411:69d27c2c2b7de927d67aacc973259901",
+            "api": "42650c79c7a241e79d18488fef3d75da:42c319fd698c3914b7bfbaa38d08e41e",
+            "tokenApi": ""
+          },
+          {
+            "title": "LOW SERVER ",
+            "link": "http://193.47.62.50/hls/JMMMAAAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
+            "logo": "",
+            "type": 0,
+            "api": "",
             "tokenApi": ""
           }
         ]
