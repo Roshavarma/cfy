@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-27T02:41:02.445979",
+  "last_updated": "2026-11-27T02:51:03.198178",
   "event_count": 40,
   "events": {
     "events": [
@@ -735,6 +735,14 @@
           "endTime": "2026/11/27 17:58:53 +0000"
         },
         "channels_data": [
+          {
+            "title": "STARZPLAY - AQ",
+            "link": "https://d1ifzl5cnhi7bu.cloudfront.net/out/v1/45ba30e075ad455a8767d3f33e67ea3d/index.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "0ae4f162eec3e6f2b580a5bf0f4a64d4:03483335db81cba5bbcf51b6d31196d9",
+            "tokenApi": ""
+          },
           {
             "title": "WILLOW - AQ",
             "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/1zdpsgfa6p/out/v1/0be3672943164ddc9df8372d522c3842/cenc.mpd",
