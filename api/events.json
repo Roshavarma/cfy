@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-28T15:11:11.063167",
+  "last_updated": "2026-11-28T15:21:14.424637",
   "event_count": 54,
   "events": {
     "events": [
@@ -1388,7 +1388,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/2825/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/11/28 15:15:00 +0000",
           "endTime": "2026/11/28 17:35:00 +0000"
         },
@@ -2143,7 +2143,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/2822/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/11/28 15:15:00 +0000",
           "endTime": "2026/11/28 17:35:00 +0000"
         },
@@ -2170,14 +2170,22 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/24264/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/11/28 15:15:00 +0000",
           "endTime": "2026/11/28 17:35:00 +0000"
         },
         "channels_data": [
           {
-            "title": "",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "title": "LaLiga Hypermotion ",
+            "link": "https://cache07.zapitv.com/live/eds_c2/HYPERMOTION2/dash_live_ez/HYPERMOTION2.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "5fc8da8b94c447468ffe392157f8c75e:333b934fdde4c1ee87e7f1c5dac4cb8f",
+            "tokenApi": ""
+          },
+          {
+            "title": "LOW SERVER ",
+            "link": "http://193.47.62.41/hls/KKKKA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
             "logo": "",
             "type": 0,
             "api": "",
