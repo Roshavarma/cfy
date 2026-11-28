@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-28T14:21:20.482184",
+  "last_updated": "2026-11-28T14:31:25.537714",
   "event_count": 60,
   "events": {
     "events": [
@@ -15,7 +15,7 @@
           "teamBFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6U1hs_95YIb02AiDL1JAgkqMNrA1SkPMUatqqPsO2ZqtNZdmj79TQ71k&s=10",
           "eventName": "Motorsports",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/11/28 14:30:39 +0000",
           "endTime": "2026/11/28 17:56:44 +0000"
         },
@@ -774,32 +774,32 @@
           "eventName": "Cricket",
           "isHot": "0",
           "Status": "Live",
-          "startTime": "2026/11/28 10:00:16 +0000",
+          "startTime": "2026/11/28 14:30:05 +0000",
           "endTime": "2026/11/28 18:30:21 +0000"
         },
         "channels_data": [
           {
             "title": "WILLOW - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/72h1hddob2/out/v1/2f42cd5273e24fe2951db3b1d0dc6679/cenc.mpd",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/saegpmsaey/out/v1/4efa6a026d044bc7b8731477db044d85/cenc.mpd",
             "logo": "",
             "type": 7,
-            "api": "93eeb44d1f28ed952f0122a4c9e213af:ad2fd224bbd23bb898ec346ebf1bd59f",
+            "api": "7da4cf4e5d70d08dc105a46fe42944f1:70b38fae5d9baf9b4cedfd568bb442a6",
             "tokenApi": ""
           },
           {
             "title": "TNT SPORTS - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
+            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
             "logo": "",
             "type": 7,
-            "api": "69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749",
+            "api": "fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408",
             "tokenApi": ""
           },
           {
             "title": "WILLOW - ALT",
-            "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/72h1hddob2/out/v1/2f42cd5273e24fe2951db3b1d0dc6679/cenc.mpd",
+            "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/saegpmsaey/out/v1/4efa6a026d044bc7b8731477db044d85/cenc.mpd",
             "logo": "",
             "type": 7,
-            "api": "93eeb44d1f28ed952f0122a4c9e213af:ad2fd224bbd23bb898ec346ebf1bd59f",
+            "api": "7da4cf4e5d70d08dc105a46fe42944f1:70b38fae5d9baf9b4cedfd568bb442a6",
             "tokenApi": ""
           },
           {
@@ -840,7 +840,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/2598/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/11/28 14:30:00 +0000",
           "endTime": "2026/11/28 16:50:00 +0000"
         },
@@ -867,7 +867,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/2672/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/11/28 14:30:00 +0000",
           "endTime": "2026/11/28 16:50:00 +0000"
         },
@@ -878,6 +878,22 @@
             "logo": "",
             "type": 7,
             "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
+            "tokenApi": ""
+          },
+          {
+            "title": "PEACOCK ES - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/uq231p5pdn/out/v1/33634b79a3de4f48b29b237b16398caa/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "9e030b437396a9f74fe6e458c3dc7be6:3c49b7436632e8ac88418458aee4b1a2",
+            "tokenApi": ""
+          },
+          {
+            "title": "HD SERVER",
+            "link": "https://www.rtmpcdn.com/live/4084d6d1-87b7-4e40-8764-78cb568ef656.m3u8",
+            "logo": "",
+            "type": 0,
+            "api": "",
             "tokenApi": ""
           },
           {
@@ -902,7 +918,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/2547/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/11/28 14:30:00 +0000",
           "endTime": "2026/11/28 16:50:00 +0000"
         },
@@ -937,7 +953,7 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/2530/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/11/28 14:30:00 +0000",
           "endTime": "2026/11/28 16:50:00 +0000"
         },
