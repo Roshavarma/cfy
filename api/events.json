@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-28T13:51:17.090800",
+  "last_updated": "2026-11-28T14:01:43.941942",
   "event_count": 64,
   "events": {
     "events": [
@@ -1083,14 +1083,54 @@
           "teamBFlag": "https://img.sofascore.com/api/v1/team/2690/image",
           "eventName": "Football",
           "isHot": "0",
-          "Status": "Upcoming",
+          "Status": "Live",
           "startTime": "2026/11/28 14:00:00 +0000",
           "endTime": "2026/11/28 16:20:00 +0000"
         },
         "channels_data": [
           {
-            "title": "",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+            "title": "PARAMOUNT+ - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/deut0uoays/out/v1/dc0b396f73ed4c8db8bfc70c985798d5/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "c74afb61c9ed0eb91595e1afbe43d7f1:aa1acd988dee6106039eac115c49f79d",
+            "tokenApi": ""
+          },
+          {
+            "title": "FUBO SPORTS - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/yukpgzjukf/out/v1/e9584c6de0d145a9ac1b36ddf7795081/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "e09a0900100e5ac77d4adb45a602a86b:7da511a38053d3e150d38f47ac7d8298",
+            "tokenApi": ""
+          },
+          {
+            "title": "DAZN ITALIA - AQ",
+            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fxdzg12g3i/out/v1/4165e1e7162c4c81b3a64b1f45094210/cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "d03a51b92c10882ddc7fc23f1c1c182e:1729453ea2188cc9fea59a572dc440ba",
+            "tokenApi": ""
+          },
+          {
+            "title": "SPORT 2 CZ - AQ",
+            "link": "https://dash2.antik.sk/stream/nvidia_sport2/playlist_cenc.mpd",
+            "logo": "",
+            "type": 7,
+            "api": "11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d",
+            "tokenApi": ""
+          },
+          {
+            "title": "PARAMOUNT+ HD",
+            "link": "https://chatgpt.hereisman.net/playlist/61251/load-playlist-multi?|Referer=https://gooz.aapmains.net",
+            "logo": "",
+            "type": 0,
+            "api": "",
+            "tokenApi": ""
+          },
+          {
+            "title": "LOW SERVER",
+            "link": "http://193.47.62.41/hls/TTTTAAAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
             "logo": "",
             "type": 0,
             "api": "",
