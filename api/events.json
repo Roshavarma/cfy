@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-28T16:31:34.228001",
-  "event_count": 53,
+  "last_updated": "2026-11-28T16:41:10.787241",
+  "event_count": 48,
   "events": {
     "events": [
       {
@@ -15,9 +15,9 @@
           "teamBFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6U1hs_95YIb02AiDL1JAgkqMNrA1SkPMUatqqPsO2ZqtNZdmj79TQ71k&s=10",
           "eventName": "Motorsports",
           "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/11/28 14:30:39 +0000",
-          "endTime": "2026/11/28 17:56:44 +0000"
+          "Status": "Upcoming",
+          "startTime": "2026/11/28 18:00:53 +0000",
+          "endTime": "2026/11/28 22:00:57 +0000"
         },
         "channels_data": [
           {
@@ -813,218 +813,6 @@
         ]
       },
       {
-        "id": 15413,
-        "title": "1. FC Koln vs SV 07 Elversberg",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "1. FC K\u00f6ln",
-          "teamB": "SV 07 Elversberg",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/2671/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/2598/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/11/28 14:30:00 +0000",
-          "endTime": "2026/11/28 16:50:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "PEACOCK ES - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rknfkonbnx/out/v1/366e578cf16f468397abd0c10be40d67/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "5fd082fda7d6a9f67e706d697ff8f217:2ac6e5ec76cc0213f1a5b560bb6384bf",
-            "tokenApi": ""
-          },
-          {
-            "title": "HD SERVER ",
-            "link": "https://www.rtmpcdn.com/live/ea8f0543-549b-4878-adb1-bac47d831a9b.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "LOW SERVER ",
-            "link": "http://193.47.62.41/hls/KFFFQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 15414,
-        "title": "Hamburger SV vs FC Bayern Munchen",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Hamburger SV",
-          "teamB": "FC Bayern M\u00fcnchen",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/2676/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/2672/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/11/28 14:30:00 +0000",
-          "endTime": "2026/11/28 16:50:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "beIN ENGLISH - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-            "logo": "",
-            "type": 7,
-            "api": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
-            "tokenApi": ""
-          },
-          {
-            "title": "PEACOCK ES - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/uq231p5pdn/out/v1/33634b79a3de4f48b29b237b16398caa/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "9e030b437396a9f74fe6e458c3dc7be6:3c49b7436632e8ac88418458aee4b1a2",
-            "tokenApi": ""
-          },
-          {
-            "title": "SKY TOP EVENT - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/dg9oi3org7/out/v1/e75b690762ba4c4ca72bf30703a4473e/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "368bd4ebe301406897324bc777650411:69d27c2c2b7de927d67aacc973259901",
-            "tokenApi": ""
-          },
-          {
-            "title": "HD SERVER",
-            "link": "https://www.rtmpcdn.com/live/4084d6d1-87b7-4e40-8764-78cb568ef656.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "LOW SERVER",
-            "link": "http://193.47.62.41/hls/KFFFQQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 15415,
-        "title": "1. FSV Mainz 05 vs 1. FC Union Berlin",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "1. FSV Mainz 05",
-          "teamB": "1. FC Union Berlin",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/2556/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/2547/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/11/28 14:30:00 +0000",
-          "endTime": "2026/11/28 16:50:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "PEACOCK ES - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/8xmgbdd3a0/out/v1/ad13949204914ae084834ba24cf49f72/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "d5c8b8385c9ccede88f0a9bd519df0af:bf1aa762959b8882625ae06646c6514c",
-            "tokenApi": ""
-          },
-          {
-            "title": "SKY SPORT DE - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ubiowncrej/out/v1/def874d66d3b4dfa99c354ee7d0855c0/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "f38ce843871b3e5aa97b8461a093a424:b51d62eeec9c136513c12ea7ec291f6f",
-            "tokenApi": ""
-          },
-          {
-            "title": "Live 1",
-            "link": "https://chatgpt.hereisman.net/playlist/61252/load-playlist-multi?|Referer=https://gooz.aapmains.net",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "HD SERVER ",
-            "link": "https://www.rtmpcdn.com/live/b5d03af5-de19-42e8-b50f-5d22cc8726e8.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "LOW SERVER ",
-            "link": "http://193.47.62.41/hls/KFFFQQQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 15416,
-        "title": "SC Paderborn 07 vs FC Schalke 04",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "SC Paderborn 07",
-          "teamB": "FC Schalke 04",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/2561/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/2530/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/11/28 14:30:00 +0000",
-          "endTime": "2026/11/28 16:50:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "PEACOCK ES - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rtcrpj7yj1/out/v1/bb07c5a510f643239a0a73878377d9d6/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "e888efc6b190f36237ea0cfb37b29d4f:a61e14099def87a5185b27235ae83800",
-            "tokenApi": ""
-          },
-          {
-            "title": "SKY SPORT DE - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/oi4rnidcwc/out/v1/0e3c984eb7284664919152f18e7915b1/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "42650c79c7a241e79d18488fef3d75da:42c319fd698c3914b7bfbaa38d08e41e",
-            "tokenApi": ""
-          },
-          {
-            "title": "HD SERVER ",
-            "link": "https://www.rtmpcdn.com/live/82bae1ed-3746-40a3-985d-33b75a41fccf.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          },
-          {
-            "title": "LOW SERVER ",
-            "link": "http://193.47.62.41/hls/KFFFQQQQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
         "id": 15417,
         "title": "VfB Stuttgart vs Eintracht Frankfurt",
         "image": "",
@@ -1556,62 +1344,11 @@
         },
         "channels_data": [
           {
-            "title": "",
-            "link": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
-            "logo": "",
-            "type": 0,
-            "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 15435,
-        "title": "Al-Ettifaq vs Al-Hilal",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Al-Ettifaq",
-          "teamB": "Al-Hilal",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/34318/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/21895/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Live",
-          "startTime": "2026/11/28 14:20:00 +0000",
-          "endTime": "2026/11/28 16:40:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "DAZN SPORTS - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/628hmftajb/out/v1/65abab47197541a3846f7ba17c944311/cenc.mpd",
+            "title": "beIN SPORTS - AQ",
+            "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/e3ozww2yny/out/v1/3a16d07c2cc0444bb8ea10d0483d1ced/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
             "logo": "",
             "type": 7,
-            "api": "6b5745e48737dc8d0ea1ab59104b6e43:cce65c2b05370dd49036b5ce3b28d25e",
-            "tokenApi": ""
-          },
-          {
-            "title": "FOX SPORTS - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-            "logo": "",
-            "type": 7,
-            "api": "09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae",
-            "tokenApi": ""
-          },
-          {
-            "title": "SportDigital Fussball",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd?|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-            "logo": "",
-            "type": 7,
-            "api": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
-            "tokenApi": ""
-          },
-          {
-            "title": "LOW SERVER",
-            "link": "http://193.47.62.41/hls/KFFF.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc",
-            "logo": "",
-            "type": 0,
-            "api": "",
+            "api": "74cbe15488783fab07ff8c702fabafcd:bb607803a49c2d6104f845e7886c971c",
             "tokenApi": ""
           }
         ]
