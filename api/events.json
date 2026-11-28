@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-28T02:10:47.527403",
-  "event_count": 15,
+  "last_updated": "2026-11-28T02:20:48.022295",
+  "event_count": 12,
   "events": {
     "events": [
       {
@@ -829,76 +829,6 @@
         ]
       },
       {
-        "id": 15386,
-        "title": "Pittsburgh Steelers vs Denver Broncos",
-        "image": "",
-        "cat": "American football",
-        "eventInfo": {
-          "teamA": "Pittsburgh Steelers",
-          "teamB": "Denver Broncos",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/4345/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/4418/image",
-          "eventName": "American football",
-          "isHot": "0",
-          "Status": "Finish",
-          "startTime": "2026/11/27 20:00:00 +0000",
-          "endTime": "2026/11/27 23:00:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "TSN SPORTS 1 - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-            "logo": "",
-            "type": 7,
-            "api": "14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d",
-            "tokenApi": ""
-          },
-          {
-            "title": "TSN SPORTS 3 - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lsibpqruq1/out/v1/748887d614a84913ba8bcdf3c82823e6/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",
-            "logo": "",
-            "type": 7,
-            "api": "d3250252765347a0c2603c6cb4869f8c:0c19319460da7e9ed816db46ce839b37",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 15404,
-        "title": "Fluminense vs Cruzeiro",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Fluminense",
-          "teamB": "Cruzeiro",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/1961/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/1954/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Finish",
-          "startTime": "2026/11/27 23:00:00 +0000",
-          "endTime": "2026/11/28 01:20:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "PREMIERE BR - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "56b79c1782b30e6b6fc973b0e8fd4104:fa38aaa865a57eda7c77444697ba8ed3",
-            "tokenApi": ""
-          },
-          {
-            "title": "SportDigital Fussball",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
         "id": 15409,
         "title": "Columbus Crew vs Inter Miami CF",
         "image": "",
@@ -937,33 +867,6 @@
             "logo": "",
             "type": 0,
             "api": "",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 15411,
-        "title": "CS Maritimo vs CD Nacional",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "CS Mar\u00edtimo",
-          "teamB": "CD Nacional",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/3007/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/3013/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Finish",
-          "startTime": "2026/11/27 20:15:00 +0000",
-          "endTime": "2026/11/27 22:35:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "SportDigital FussBall",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
             "tokenApi": ""
           }
         ]
