@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-28T03:21:12.302467",
-  "event_count": 64,
+  "last_updated": "2026-11-28T03:31:41.908895",
+  "event_count": 63,
   "events": {
     "events": [
       {
@@ -197,9 +197,9 @@
           "teamBFlag": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzZP7kZVz8XPUsapkhsNd-oO8yjHbAA2NXMRuEDPXZteAJRwIeIAUQo5U_6QA4mhPqXAeR5YPVY-Yu5hBVZcOIfWUUFvewgaC2bFmrSLu10iQgvBiLpB0vxEWz320Par_JDjKzTdCYYTcsA4dLb-TjD1fsXvMwGsb6XahN-Pq2ZsexcSsBITIxzXFRYEM/s1600/1000009833.jpg",
           "eventName": "WWE",
           "isHot": "0",
-          "Status": "Finish",
-          "startTime": "2026/11/28 00:00:25 +0000",
-          "endTime": "2026/11/28 03:00:28 +0000"
+          "Status": "Upcoming",
+          "startTime": "2026/12/05 00:00:52 +0000",
+          "endTime": "2026/12/05 03:00:57 +0000"
         },
         "channels_data": [
           {
@@ -824,49 +824,6 @@
             "logo": "",
             "type": 7,
             "api": "d5859726f4804398b37aa6eb9d571a4f:11c43967054ad1765d919f854889912f",
-            "tokenApi": ""
-          }
-        ]
-      },
-      {
-        "id": 15409,
-        "title": "Columbus Crew vs Inter Miami CF",
-        "image": "",
-        "cat": "Football",
-        "eventInfo": {
-          "teamA": "Columbus Crew",
-          "teamB": "Inter Miami CF",
-          "teamAFlag": "https://img.sofascore.com/api/v1/team/2504/image",
-          "teamBFlag": "https://img.sofascore.com/api/v1/team/337602/image",
-          "eventName": "Football",
-          "isHot": "0",
-          "Status": "Finish",
-          "startTime": "2026/11/28 01:00:00 +0000",
-          "endTime": "2026/11/28 03:20:00 +0000"
-        },
-        "channels_data": [
-          {
-            "title": "FOX SPORTS - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16",
-            "tokenApi": ""
-          },
-          {
-            "title": "FOX DEPORTES - AQ",
-            "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd",
-            "logo": "",
-            "type": 7,
-            "api": "d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811",
-            "tokenApi": ""
-          },
-          {
-            "title": "Live 1",
-            "link": "https://chatgpt.hereisman.net/playlist/61216/load-playlist-multi?|Referer=https://gooz.aapmains.net",
-            "logo": "",
-            "type": 0,
-            "api": "",
             "tokenApi": ""
           }
         ]
